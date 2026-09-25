@@ -1,0 +1,666 @@
+{
+  "generated_at": "2026-09-25T18:00:00Z",
+  "source": "sample",
+  "sample": true,
+  "tracked_accounts": [
+    {
+      "handle": "karpathy",
+      "name": "Andrej Karpathy",
+      "tags": [
+        "research",
+        "education"
+      ]
+    },
+    {
+      "handle": "rasbt",
+      "name": "Sebastian Raschka",
+      "tags": [
+        "research",
+        "education"
+      ]
+    },
+    {
+      "handle": "AndrewYNg",
+      "name": "Andrew Ng",
+      "tags": [
+        "education",
+        "industry"
+      ]
+    },
+    {
+      "handle": "drfeifei",
+      "name": "Fei-Fei Li",
+      "tags": [
+        "research"
+      ]
+    },
+    {
+      "handle": "demishassabis",
+      "name": "Demis Hassabis",
+      "tags": [
+        "lab-leader"
+      ]
+    },
+    {
+      "handle": "GaryMarcus",
+      "name": "Gary Marcus",
+      "tags": [
+        "critic"
+      ]
+    },
+    {
+      "handle": "maximelabonne",
+      "name": "Maxime Labonne",
+      "tags": [
+        "research",
+        "open-source"
+      ]
+    },
+    {
+      "handle": "chipro",
+      "name": "Chip Huyen",
+      "tags": [
+        "engineering",
+        "education"
+      ]
+    },
+    {
+      "handle": "ilyasut",
+      "name": "Ilya Sutskever",
+      "tags": [
+        "lab-leader",
+        "research"
+      ]
+    },
+    {
+      "handle": "fchollet",
+      "name": "François Chollet",
+      "tags": [
+        "research"
+      ]
+    },
+    {
+      "handle": "JeffDean",
+      "name": "Jeff Dean",
+      "tags": [
+        "research",
+        "lab-leader"
+      ]
+    },
+    {
+      "handle": "geoffreyhinton",
+      "name": "Geoffrey Hinton",
+      "tags": [
+        "research"
+      ]
+    },
+    {
+      "handle": "levelsio",
+      "name": "Pieter Levels",
+      "tags": [
+        "builder"
+      ]
+    },
+    {
+      "handle": "hwchase17",
+      "name": "Harrison Chase",
+      "tags": [
+        "builder",
+        "open-source"
+      ]
+    },
+    {
+      "handle": "ylecun",
+      "name": "Yann LeCun",
+      "tags": [
+        "research",
+        "lab-leader"
+      ]
+    },
+    {
+      "handle": "sama",
+      "name": "Sam Altman",
+      "tags": [
+        "lab-leader"
+      ]
+    },
+    {
+      "handle": "gdb",
+      "name": "Greg Brockman",
+      "tags": [
+        "lab-leader"
+      ]
+    },
+    {
+      "handle": "DarioAmodei",
+      "name": "Dario Amodei",
+      "tags": [
+        "lab-leader"
+      ]
+    },
+    {
+      "handle": "mustafasuleyman",
+      "name": "Mustafa Suleyman",
+      "tags": [
+        "lab-leader"
+      ]
+    },
+    {
+      "handle": "sundarpichai",
+      "name": "Sundar Pichai",
+      "tags": [
+        "industry"
+      ]
+    },
+    {
+      "handle": "satyanadella",
+      "name": "Satya Nadella",
+      "tags": [
+        "industry"
+      ]
+    },
+    {
+      "handle": "elonmusk",
+      "name": "Elon Musk",
+      "tags": [
+        "industry"
+      ]
+    },
+    {
+      "handle": "AravSrinivas",
+      "name": "Aravind Srinivas",
+      "tags": [
+        "builder",
+        "industry"
+      ]
+    },
+    {
+      "handle": "alexandr_wang",
+      "name": "Alexandr Wang",
+      "tags": [
+        "industry"
+      ]
+    },
+    {
+      "handle": "ClementDelangue",
+      "name": "Clem Delangue",
+      "tags": [
+        "open-source",
+        "industry"
+      ]
+    },
+    {
+      "handle": "soumithchintala",
+      "name": "Soumith Chintala",
+      "tags": [
+        "open-source",
+        "research"
+      ]
+    },
+    {
+      "handle": "jeremyphoward",
+      "name": "Jeremy Howard",
+      "tags": [
+        "education",
+        "research"
+      ]
+    },
+    {
+      "handle": "DrJimFan",
+      "name": "Jim Fan",
+      "tags": [
+        "research"
+      ]
+    },
+    {
+      "handle": "emollick",
+      "name": "Ethan Mollick",
+      "tags": [
+        "education"
+      ]
+    },
+    {
+      "handle": "lilianweng",
+      "name": "Lilian Weng",
+      "tags": [
+        "research"
+      ]
+    },
+    {
+      "handle": "hardmaru",
+      "name": "David Ha",
+      "tags": [
+        "research"
+      ]
+    },
+    {
+      "handle": "OfficialLoganK",
+      "name": "Logan Kilpatrick",
+      "tags": [
+        "industry",
+        "builder"
+      ]
+    },
+    {
+      "handle": "simonw",
+      "name": "Simon Willison",
+      "tags": [
+        "builder",
+        "open-source"
+      ]
+    },
+    {
+      "handle": "swyx",
+      "name": "swyx",
+      "tags": [
+        "builder",
+        "education"
+      ]
+    },
+    {
+      "handle": "svpino",
+      "name": "Santiago",
+      "tags": [
+        "education"
+      ]
+    },
+    {
+      "handle": "_akhaliq",
+      "name": "AK",
+      "tags": [
+        "research",
+        "curator"
+      ]
+    },
+    {
+      "handle": "natfriedman",
+      "name": "Nat Friedman",
+      "tags": [
+        "industry"
+      ]
+    },
+    {
+      "handle": "paulg",
+      "name": "Paul Graham",
+      "tags": [
+        "industry"
+      ]
+    },
+    {
+      "handle": "naval",
+      "name": "Naval",
+      "tags": [
+        "industry"
+      ]
+    },
+    {
+      "handle": "lexfridman",
+      "name": "Lex Fridman",
+      "tags": [
+        "media"
+      ]
+    },
+    {
+      "handle": "rowancheung",
+      "name": "Rowan Cheung",
+      "tags": [
+        "media",
+        "curator"
+      ]
+    },
+    {
+      "handle": "bindureddy",
+      "name": "Bindu Reddy",
+      "tags": [
+        "industry"
+      ]
+    },
+    {
+      "handle": "ESYudkowsky",
+      "name": "Eliezer Yudkowsky",
+      "tags": [
+        "critic"
+      ]
+    },
+    {
+      "handle": "tszzl",
+      "name": "roon",
+      "tags": [
+        "industry"
+      ]
+    },
+    {
+      "handle": "karinanguyen_",
+      "name": "Karina Nguyen",
+      "tags": [
+        "research"
+      ]
+    },
+    {
+      "handle": "polynoamial",
+      "name": "Noam Brown",
+      "tags": [
+        "research"
+      ]
+    },
+    {
+      "handle": "jxnlco",
+      "name": "Jason Liu",
+      "tags": [
+        "builder",
+        "education"
+      ]
+    },
+    {
+      "handle": "mckaywrigley",
+      "name": "Mckay Wrigley",
+      "tags": [
+        "builder"
+      ]
+    },
+    {
+      "handle": "AnthropicAI",
+      "name": "Anthropic",
+      "tags": [
+        "lab"
+      ]
+    },
+    {
+      "handle": "OpenAI",
+      "name": "OpenAI",
+      "tags": [
+        "lab"
+      ]
+    },
+    {
+      "handle": "GoogleDeepMind",
+      "name": "Google DeepMind",
+      "tags": [
+        "lab"
+      ]
+    },
+    {
+      "handle": "huggingface",
+      "name": "Hugging Face",
+      "tags": [
+        "lab",
+        "open-source"
+      ]
+    }
+  ],
+  "posts": [
+    {
+      "id": "sample-1",
+      "url": "https://x.com/demo_researcher",
+      "author_handle": "demo_researcher",
+      "author_name": "Demo Researcher",
+      "post_text": "7 lessons from a year of training small language models:\n\n1. Your data mix is the model\n2. Dedupe aggressively, then dedupe again\n3. Small evals you trust > big evals you don't\n4. Learning-rate warmup hides a lot of sins\n5. Synthetic data needs a verifier\n6. Tokenizer choices are forever\n7. Ship the boring baseline first",
+      "posted_at": "2026-09-25T12:00:00Z",
+      "engagement": {
+        "likes": 18400,
+        "reposts": 2900,
+        "replies": 610,
+        "views": 2400000,
+        "bookmarks": 15200
+      },
+      "is_listicle": true,
+      "list_items": [
+        "Your data mix is the model",
+        "Dedupe aggressively, then dedupe again",
+        "Small evals you trust > big evals you don't",
+        "Learning-rate warmup hides a lot of sins",
+        "Synthetic data needs a verifier",
+        "Tokenizer choices are forever",
+        "Ship the boring baseline first"
+      ],
+      "media_urls": [],
+      "sensational_headline": "7 brutal lessons from a year of training small LLMs that save months of pain",
+      "tags": [
+        "research"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-25T12:00:00Z",
+      "last_scraped_at": "2026-09-25T18:00:00Z",
+      "sample": true,
+      "engagement_tier": "viral",
+      "score": 87.18
+    },
+    {
+      "id": "sample-3",
+      "url": "https://x.com/demo_educator",
+      "author_handle": "demo_educator",
+      "author_name": "Demo Educator",
+      "post_text": "The free AI curriculum I'd follow if I were starting today:\n\n- Linear algebra refresher (2 weeks)\n- Build a tiny autograd engine\n- Train a character-level transformer\n- Read 10 landmark papers\n- Fine-tune an open model on your own data\n- Deploy one thing people use",
+      "posted_at": "2026-09-25T04:00:00Z",
+      "engagement": {
+        "likes": 22800,
+        "reposts": 4700,
+        "replies": 390,
+        "views": 3100000,
+        "bookmarks": 31000
+      },
+      "is_listicle": true,
+      "list_items": [
+        "Linear algebra refresher (2 weeks)",
+        "Build a tiny autograd engine",
+        "Train a character-level transformer",
+        "Read 10 landmark papers",
+        "Fine-tune an open model on your own data",
+        "Deploy one thing people use"
+      ],
+      "media_urls": [],
+      "sensational_headline": "The exact free AI roadmap this educator would follow if starting from zero today",
+      "tags": [
+        "education"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-25T04:00:00Z",
+      "last_scraped_at": "2026-09-25T18:00:00Z",
+      "sample": true,
+      "engagement_tier": "viral",
+      "score": 86.23
+    },
+    {
+      "id": "sample-5",
+      "url": "https://x.com/demo_lab",
+      "author_handle": "demo_lab",
+      "author_name": "Demo Lab",
+      "post_text": "Today we're releasing an open-weights model that runs on a laptop and matches last year's frontier on coding evals. Weights, code and the full training report are out now.",
+      "posted_at": "2026-09-24T22:00:00Z",
+      "engagement": {
+        "likes": 31000,
+        "reposts": 8200,
+        "replies": 2100,
+        "views": 6800000,
+        "bookmarks": 9800
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "An open-weights model that runs on a laptop now matches last year's frontier at coding",
+      "tags": [
+        "lab"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-24T22:00:00Z",
+      "last_scraped_at": "2026-09-25T18:00:00Z",
+      "sample": true,
+      "engagement_tier": "viral",
+      "score": 81.58
+    },
+    {
+      "id": "sample-2",
+      "url": "https://x.com/demo_builder",
+      "author_handle": "demo_builder",
+      "author_name": "Demo Builder",
+      "post_text": "Built and launched a profitable AI side project this weekend with nothing but a single HTML file, one API call and a Stripe link. Stop overengineering.",
+      "posted_at": "2026-09-25T15:00:00Z",
+      "engagement": {
+        "likes": 9100,
+        "reposts": 1100,
+        "replies": 880,
+        "views": 1300000,
+        "bookmarks": 3900
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "This builder shipped a profitable AI app in one weekend with a single HTML file",
+      "tags": [
+        "builder"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-25T15:00:00Z",
+      "last_scraped_at": "2026-09-25T18:00:00Z",
+      "sample": true,
+      "engagement_tier": "viral",
+      "score": 79.44
+    },
+    {
+      "id": "sample-6",
+      "url": "https://x.com/demo_engineer",
+      "author_handle": "demo_engineer",
+      "author_name": "Demo Engineer",
+      "post_text": "5 signs your RAG system is quietly broken:\n\n1. Retrieval recall never measured\n2. Chunk size picked once, never revisited\n3. No reranker\n4. Evals only on happy-path questions\n5. Users rephrase the same question 3 times",
+      "posted_at": "2026-09-24T12:00:00Z",
+      "engagement": {
+        "likes": 6700,
+        "reposts": 1500,
+        "replies": 220,
+        "views": 880000,
+        "bookmarks": 11200
+      },
+      "is_listicle": true,
+      "list_items": [
+        "Retrieval recall never measured",
+        "Chunk size picked once, never revisited",
+        "No reranker",
+        "Evals only on happy-path questions",
+        "Users rephrase the same question 3 times"
+      ],
+      "media_urls": [],
+      "sensational_headline": "5 warning signs your RAG system is quietly broken (most teams miss #1)",
+      "tags": [
+        "engineering"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-24T12:00:00Z",
+      "last_scraped_at": "2026-09-25T18:00:00Z",
+      "sample": true,
+      "engagement_tier": "hot",
+      "score": 71.61
+    },
+    {
+      "id": "sample-4",
+      "url": "https://x.com/demo_critic",
+      "author_handle": "demo_critic",
+      "author_name": "Demo Critic",
+      "post_text": "Another week, another benchmark saturated. Another week, the same models fail at simple multi-step reasoning out of distribution. Benchmarks are not understanding.",
+      "posted_at": "2026-09-25T09:00:00Z",
+      "engagement": {
+        "likes": 4300,
+        "reposts": 760,
+        "replies": 1900,
+        "views": 720000,
+        "bookmarks": 410
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Leading AI skeptic says saturated benchmarks are hiding a basic reasoning failure",
+      "tags": [
+        "critic"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-25T09:00:00Z",
+      "last_scraped_at": "2026-09-25T18:00:00Z",
+      "sample": true,
+      "engagement_tier": "hot",
+      "score": 67.99
+    },
+    {
+      "id": "sample-7",
+      "url": "https://x.com/demo_researcher",
+      "author_handle": "demo_researcher",
+      "author_name": "Demo Researcher",
+      "post_text": "Hot take: most 'agents' today are just while-loops with a good prompt. That's fine. The loop is the product.",
+      "posted_at": "2026-09-24T02:00:00Z",
+      "engagement": {
+        "likes": 11800,
+        "reposts": 1400,
+        "replies": 1300,
+        "views": 1700000,
+        "bookmarks": 2100
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Top researcher: most AI agents today are just while-loops with a good prompt",
+      "tags": [
+        "research"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-24T02:00:00Z",
+      "last_scraped_at": "2026-09-25T18:00:00Z",
+      "sample": true,
+      "engagement_tier": "viral",
+      "score": 65.73
+    },
+    {
+      "id": "sample-9",
+      "url": "https://x.com/demo_educator",
+      "author_handle": "demo_educator",
+      "author_name": "Demo Educator",
+      "post_text": "Reminder: you don't need a PhD to do useful AI work. You need curiosity, a GPU budget of ~$20 and the patience to read error messages.",
+      "posted_at": "2026-09-22T20:00:00Z",
+      "engagement": {
+        "likes": 14900,
+        "reposts": 2200,
+        "replies": 700,
+        "views": 2000000,
+        "bookmarks": 5300
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "You don't need a PhD to do useful AI work, says popular educator, just $20 and patience",
+      "tags": [
+        "education"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-22T20:00:00Z",
+      "last_scraped_at": "2026-09-25T18:00:00Z",
+      "sample": true,
+      "engagement_tier": "viral",
+      "score": 64.62
+    },
+    {
+      "id": "sample-8",
+      "url": "https://x.com/demo_founder",
+      "author_handle": "demo_founder",
+      "author_name": "Demo Founder",
+      "post_text": "We cut our inference bill by 80% in a month. Thread on exactly how (caching, distillation, batching, and one config flag everyone forgets).",
+      "posted_at": "2026-09-23T14:00:00Z",
+      "engagement": {
+        "likes": 5200,
+        "reposts": 980,
+        "replies": 310,
+        "views": 640000,
+        "bookmarks": 6400
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "How this startup slashed its AI inference bill by 80% in a single month",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-23T14:00:00Z",
+      "last_scraped_at": "2026-09-25T18:00:00Z",
+      "sample": true,
+      "engagement_tier": "hot",
+      "score": 61.02
+    }
+  ]
+}

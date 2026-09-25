@@ -1,0 +1,37 @@
+{
+  "https://x.com/demo_ml": {
+    "markdown": "# Demo ML (@demo_ml)\n\n(fixture markdown)",
+    "posts": [
+      {
+        "post_url": "https://x.com/demo_ml/status/1900000000000000001",
+        "author_handle": "demo_ml",
+        "author_name": "Demo ML",
+        "post_text": "5 things I wish I knew before fine-tuning my first LLM:\n\n1. Data quality beats data quantity\n2. Start with LoRA, not full fine-tuning\n3. Evaluate on held-out tasks, not vibes\n4. Log everything\n5. Your tokenizer matters more than you think",
+        "posted_at": "2099-01-01T00:00:00Z",
+        "engagement": {"likes": "12.4K", "reposts": "1,830", "replies": 402, "views": "1.9M", "bookmarks": "8.1K"},
+        "is_listicle": true,
+        "list_items": ["1. Data quality beats data quantity", "2. Start with LoRA, not full fine-tuning", "3. Evaluate on held-out tasks, not vibes", "4. Log everything", "5. Your tokenizer matters more than you think"],
+        "media_urls": [],
+        "sensational_headline": "🔥 DEMO ML'S 5 FINE-TUNING LESSONS NOBODY TELLS YOU #AI"
+      },
+      {
+        "post_url": "https://x.com/someone_else/status/1900000000000000002",
+        "author_handle": "someone_else",
+        "author_name": "Someone Else",
+        "post_text": "This is a repost and should be dropped.",
+        "engagement": {"likes": 1, "reposts": 0, "replies": 0, "views": 10, "bookmarks": 0},
+        "is_listicle": false, "list_items": [], "media_urls": [], "sensational_headline": ""
+      },
+      {
+        "post_url": "",
+        "author_handle": "demo_ml",
+        "author_name": "Demo ML",
+        "post_text": "Scaling laws are not dead. They just moved to inference time.",
+        "posted_at": "",
+        "engagement": {"likes": 3100, "reposts": 420, "replies": 260, "views": 380000, "bookmarks": 900},
+        "is_listicle": false, "list_items": [], "media_urls": ["https://pbs.twimg.com/media/demo.jpg"],
+        "sensational_headline": "x"
+      }
+    ]
+  }
+}

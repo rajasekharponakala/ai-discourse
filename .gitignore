@@ -1,0 +1,17 @@
+# deps / build
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.local
+
+# misc
+.DS_Store
+data/*.tmp
