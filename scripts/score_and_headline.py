@@ -229,6 +229,13 @@ def fallback_headline(post: dict[str, Any]) -> str:
 def ensure_headline(post: dict[str, Any]) -> str:
     names = (post.get("author_name") or "").split() + [post.get("author_handle") or ""]
     cleaned = clean_headline(post.get("sensational_headline"), keep_case=[n for n in names if n])
+    # Models sometimes write the handle ("Rasbt explains...") instead of the name.
+    handle, name = post.get("author_handle") or "", (post.get("author_name") or "").strip()
+    if handle and name and handle.lower() != name.lower():
+        # Bare handles only when long enough not to collide with ordinary words ("ai", "gdb").
+        at = "@?" if len(handle) >= 5 else "@"
+        cleaned = re.sub(rf"(?<![\w@]){at}{re.escape(handle)}(?=\W|$)", name, cleaned, flags=re.I)
+        cleaned = _truncate(cleaned)
     # Reject empty or trivially short headlines.
     if len(cleaned) < 12:
         return fallback_headline(post)
