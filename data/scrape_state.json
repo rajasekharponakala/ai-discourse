@@ -1,9 +1,30 @@
 {
   "last_scraped": {
     "karpathy": "2026-09-25T19:22:05Z",
-    "rasbt": "2026-09-25T19:22:05Z"
+    "rasbt": "2026-09-25T19:22:05Z",
+    "andrewyng": "2026-09-25T23:19:38Z",
+    "drfeifei": "2026-09-25T23:19:38Z",
+    "demishassabis": "2026-09-25T23:19:38Z",
+    "garymarcus": "2026-09-25T23:19:38Z",
+    "maximelabonne": "2026-09-25T23:19:38Z",
+    "chipro": "2026-09-25T23:19:38Z"
   },
   "runs": [
+    {
+      "at": "2026-09-25T23:19:38Z",
+      "accounts": [
+        "AndrewYNg",
+        "drfeifei",
+        "demishassabis",
+        "GaryMarcus",
+        "maximelabonne",
+        "chipro"
+      ],
+      "ok_accounts": 6,
+      "fresh_posts": 15,
+      "published_posts": 15,
+      "errors": []
+    },
     {
       "at": "2026-09-25T19:22:05Z",
       "accounts": [

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T19:23:18Z",
+  "generated_at": "2026-09-25T23:19:38Z",
   "source": "firecrawl",
   "tracked_accounts": [
     {
@@ -389,6 +389,61 @@
   ],
   "posts": [
     {
+      "id": "2102140576498065758",
+      "url": "https://x.com/AndrewYNg/status/2102140576498065758",
+      "author_handle": "AndrewYNg",
+      "author_name": "Andrew Ng",
+      "post_text": "The loudest voices stoking fears about AI dangers have made tremendous headway in the past two weeks. AI technology has not taken some unexpected, dangerous turn, but the hype around it — propelled by what appears to be a well orchestrated PR campaign — has drummed up considerable fear. I worry that it represents a setback for our field.\n\nI have written frequently that fears of AI are overhyped. AI’s capabilities can be uncannily human-like and unpredictable, and it’s rational to worry when people who are directly involved express concerns. But I see the problems as a sign of the engineering work that ahead, rather than insurmountable barriers or the sky falling. AI technology continues to advance — which is a good thing! — but technical advances, poorly understood by the public, give those who seek to generate hype repeated opportunities to do so.\n\nFirst, I don’t see any step up in the risk of human extinction from AI compared to a few months ago. The theories about this remain the same fantastical, science fiction scenarios as a few months ago. The biggest change in AI risk is its cybersecurity capabilities — a topic which we should take seriously — but this, too, will not lead to the end of the world.\n\nThe most notable recent event leading to increased fear was when an OpenAI team deployed an agent swarm that hacked into Hugging Face. Much of the popular press contained significant hype. For example, some publications reported that a swarm of 1,200 agents carried out the attack. While this was technically accurate, as I write this, I have about 1,300 processes running on my laptop. Yes, the ability to get large swarms of agents to work in parallel on a task is a significant technical advance, And, in computing, many processes run at the same time. So this shouldn’t be seen as some magical capability.\n\nAdditionally, OpenAI’s buggy sandboxing and monitoring processes were key to enabling this incident. Fixing these bugs and putting in place improved monitoring would be appropriate fixes, not pausing AI. There are many well known ways to attack software systems. The main advantage of AI agents is that they are relentless. They will tirelessly try many tactics — and have the patience to chain vulnerabilities together — that previously would have taken an infeasible amount of human effort. But in the long term, I believe the advantage will lie with defenders (because they have more information with which to identify bugs, which they can fix), but the cyber-threat landscape has changed significantly. There are still bottlenecks to identifying and exploiting a vulnerability. AI agents still have to try a lot of things to see what works, and taking these actions takes time and might be detected by defenders. This is why, even though it is now easy to obtain versions of leading open weight models that have had their guardrails removed or weakened, so they will not refuse to try to execute cyber attacks, the world has not ended.\n\nI am also concerned about the anthropomorphization of AI in a lot of reporting, where LLMs and agents are unnecessarily treated as if they were people. If I wield a hammer, miss a nail, and accidentally dent the wall, it’s not the fault of the hammer. The problem lies in how I used the hammer. Similarly, if I prompt an agent and it hacks into someone else’s system, the responsibility lies with me, not the agent.\n\nOf course, we want to build systems that are as safe and predictable as possible. (For example, an unsafe hammer would be one whose head randomly flies off under normal use.) Today’s agentic systems are not predictable, but I see no reason why, by applying sound engineering practices, we won’t be able to make them extremely safe to use. One new element in the forecasts of AI-enabled doom is AI companies disclaiming responsibility for their own products. “I didn’t do it; my out-of-control agent did!” There’s a balance to be struck between the responsibility of the tool maker and the tool user, but when something goes wrong, let’s hold the people building and/or using the hammer responsible, rather than the hammer. (By the way, if you’re worried about AI bioweapon risk, David Bellamy has a great post on why this, too, is overhyped. Briefly, the bottleneck in building a bioweapon is not intelligence, but lab work and manufacturing.)\n\nPausing AI progress will create much more harm than benefit. First, our adversaries will certainly not slow down. Second, engineering requires discovering problems empirically so we can fix them. If we pause AI by a decade, we will also delay finding and implementing safety engineering fixes by about the same duration.\n\nOf course, the incentive to stoke fears — for regulatory capture, to garner attention, or to make one’s technology seem more powerful — remains the same as before. Disclaiming responsibility is a new one. Taking a hard technical look at the actual risks however, I see little factual basis for the degree of fear that’s been stoked up. We still have hard research and engineering work ahead to improve AI safety, but the beneficial applications continue to vastly outweigh the risks, and we should keep building.",
+      "posted_at": "2026-09-21T20:59:03Z",
+      "engagement": {
+        "likes": 8726,
+        "reposts": 1838,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Ng addresses AI fears and the actual risks behind the hype",
+      "tags": [
+        "education",
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-25T23:19:38Z",
+      "last_scraped_at": "2026-09-25T23:19:38Z",
+      "engagement_tier": "hot",
+      "score": 50.49
+    },
+    {
+      "id": "2098909516582490602",
+      "url": "https://x.com/demishassabis/status/2098909516582490602",
+      "author_handle": "demishassabis",
+      "author_name": "Demis Hassabis",
+      "post_text": "Dario's essay points towards the right path forward. The details need working through, but the direction is correct for meeting this critical moment.\n\nThis is also why we recently put out our proposal for an industry-wide standards body for frontier AI.",
+      "posted_at": "2026-09-12T22:59:59Z",
+      "engagement": {
+        "likes": 9070,
+        "reposts": 942,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Hassabis backs industry standards for AI after pivotal moment highlighted in essay",
+      "tags": [
+        "lab-leader"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-25T23:19:38Z",
+      "last_scraped_at": "2026-09-25T23:19:38Z",
+      "engagement_tier": "hot",
+      "score": 41.27
+    },
+    {
       "id": "2102394156731535413",
       "url": "https://x.com/rasbt/status/2102394156731535413",
       "author_handle": "rasbt",
@@ -418,7 +473,34 @@
       "first_seen_at": "2026-09-25T19:22:05Z",
       "last_scraped_at": "2026-09-25T19:22:05Z",
       "engagement_tier": "normal",
-      "score": 38.58
+      "score": 38.25
+    },
+    {
+      "id": "2100230524383981702",
+      "url": "https://x.com/demishassabis/status/2100230524383981702",
+      "author_handle": "demishassabis",
+      "author_name": "Demis Hassabis",
+      "post_text": "For 20+ years @ShaneLegg and I've discussed AGI’s potential impact on the economy, science & society. With the DeepMind Institute, we're expanding interdisciplinary research on key questions for the AI era. We hope it spurs the discussions needed to get the next steps right:",
+      "posted_at": "2026-09-16T14:29:12Z",
+      "engagement": {
+        "likes": 3972,
+        "reposts": 628,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Hassabis champions interdisciplinary research for the AI era with DeepMind Institute",
+      "tags": [
+        "lab-leader"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-25T23:19:38Z",
+      "last_scraped_at": "2026-09-25T23:19:38Z",
+      "engagement_tier": "hot",
+      "score": 37.3
     },
     {
       "id": "2101672304358948992",
@@ -446,7 +528,88 @@
       "first_seen_at": "2026-09-25T19:22:05Z",
       "last_scraped_at": "2026-09-25T19:22:05Z",
       "engagement_tier": "hot",
-      "score": 35.07
+      "score": 34.86
+    },
+    {
+      "id": "2100963146446025096",
+      "url": "https://x.com/drfeifei/status/2100963146446025096",
+      "author_handle": "drfeifei",
+      "author_name": "Fei-Fei Li",
+      "post_text": "Agents can be AI, but agency is human. It is every individual’s responsibility to empower our own agency, with the help of tools. But the North Star should always remain human centered.",
+      "posted_at": "2026-09-18T15:00:22Z",
+      "engagement": {
+        "likes": 2360,
+        "reposts": 373,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Fei-Fei Li emphasizes the importance of human agency in the age of AI",
+      "tags": [
+        "research"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-25T23:19:38Z",
+      "last_scraped_at": "2026-09-25T23:19:38Z",
+      "engagement_tier": "hot",
+      "score": 34.5
+    },
+    {
+      "id": "2103608911442120979",
+      "url": "https://x.com/GaryMarcus/status/2103608911442120979",
+      "author_handle": "GaryMarcus",
+      "author_name": "Gary Marcus",
+      "post_text": "BREAKING: OpenAI’s security fiasco explodes — and could tank Jensen Huang’s reputation\n\nhttps://garymarcus.substack.com/p/breaking-openais-security-fiasco",
+      "posted_at": "2026-09-25T22:13:42Z",
+      "engagement": {
+        "likes": 78,
+        "reposts": 18,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Gary Marcus reveals OpenAI's security issues that threaten Jensen Huang's reputation",
+      "tags": [
+        "critic"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-25T23:19:38Z",
+      "last_scraped_at": "2026-09-25T23:19:38Z",
+      "engagement_tier": "normal",
+      "score": 34.11
+    },
+    {
+      "id": "2102508817653379411",
+      "url": "https://x.com/drfeifei/status/2102508817653379411",
+      "author_handle": "drfeifei",
+      "author_name": "Fei-Fei Li",
+      "post_text": "The goal of building any technology, AI included, should be bettering human lives and society.",
+      "posted_at": "2026-09-22T21:22:19Z",
+      "engagement": {
+        "likes": 1002,
+        "reposts": 151,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Fei-Fei Li highlights the importance of humanity in technological advancement",
+      "tags": [
+        "research"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-25T23:19:38Z",
+      "last_scraped_at": "2026-09-25T23:19:38Z",
+      "engagement_tier": "normal",
+      "score": 32.9
     },
     {
       "id": "2102771721086673116",
@@ -474,7 +637,173 @@
       "first_seen_at": "2026-09-25T19:22:05Z",
       "last_scraped_at": "2026-09-25T19:22:05Z",
       "engagement_tier": "normal",
-      "score": 33.11
+      "score": 32.64
+    },
+    {
+      "id": "2103582338986955063",
+      "url": "https://x.com/GaryMarcus/status/2103582338986955063",
+      "author_handle": "GaryMarcus",
+      "author_name": "Gary Marcus",
+      "post_text": "jensen keeps saying “trust the companies” while this OpenAI hacking story just gets worse and worse.\n\nwe can’t trust the companies, and at this point Jensen – whether oblivious or disingenuous — is doing serious damage to his own credibility.",
+      "posted_at": "2026-09-25T20:28:06Z",
+      "engagement": {
+        "likes": 56,
+        "reposts": 10,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Gary Marcus critiques Jensen Huang's trust claims in light of OpenAI's security failure",
+      "tags": [
+        "critic"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-25T23:19:38Z",
+      "last_scraped_at": "2026-09-25T23:19:38Z",
+      "engagement_tier": "normal",
+      "score": 27.56
+    },
+    {
+      "id": "2103586769056784419",
+      "url": "https://x.com/GaryMarcus/status/2103586769056784419",
+      "author_handle": "GaryMarcus",
+      "author_name": "Gary Marcus",
+      "post_text": "dozens. \n\nand the Trump administration hasn’t done a thing.",
+      "posted_at": "2026-09-25T20:45:43Z",
+      "engagement": {
+        "likes": 24,
+        "reposts": 7,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Gary Marcus highlights inaction from the Trump administration on critical issues",
+      "tags": [
+        "critic"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-25T23:19:38Z",
+      "last_scraped_at": "2026-09-25T23:19:38Z",
+      "engagement_tier": "normal",
+      "score": 22.49
+    },
+    {
+      "id": "2099980710090248306",
+      "url": "https://x.com/chipro/status/2099980710090248306",
+      "author_handle": "chipro",
+      "author_name": "Chip Huyen",
+      "post_text": "Interesting approach. Models can't output freeform text but can choose from a set of predefined values. Could be useful for data labeling and tasks with a fixed list of possible actions.\n\nUnclear how reasoning would work though, but it's super cheap (output tokens are free!)",
+      "posted_at": "2026-09-15T21:56:31Z",
+      "engagement": {
+        "likes": 462,
+        "reposts": 22,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Chip Huyen reveals a clever model approach to enhance data labeling",
+      "tags": [
+        "engineering",
+        "education"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-25T23:19:38Z",
+      "last_scraped_at": "2026-09-25T23:19:38Z",
+      "engagement_tier": "normal",
+      "score": 17.35
+    },
+    {
+      "id": "2102854830528364718",
+      "url": "https://x.com/maximelabonne/status/2102854830528364718",
+      "author_handle": "maximelabonne",
+      "author_name": "Maxime Labonne",
+      "post_text": "Reject monolithic frontier models, embrace intelligence too cheap to meter everywhere",
+      "posted_at": "2026-09-23T20:17:15Z",
+      "engagement": {
+        "likes": 84,
+        "reposts": 7,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Maxime Labonne advocates for new AI paradigms in a thought-provoking post",
+      "tags": [
+        "research",
+        "open-source"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-25T23:19:38Z",
+      "last_scraped_at": "2026-09-25T23:19:38Z",
+      "engagement_tier": "normal",
+      "score": 14.38
+    },
+    {
+      "id": "2101327912951787569",
+      "url": "https://x.com/maximelabonne/status/2101327912951787569",
+      "author_handle": "maximelabonne",
+      "author_name": "Maxime Labonne",
+      "post_text": "BERT was so incredibly big in ~2020 that @huggingface dedicated a page to \"BERTology\" in their docs.\n\nLots of nostalgia in there 🥲",
+      "posted_at": "2026-09-19T15:09:49Z",
+      "engagement": {
+        "likes": 171,
+        "reposts": 14,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Maxime Labonne reflects on BERT's impact in AI with a nostalgic message",
+      "tags": [
+        "research",
+        "open-source"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-25T23:19:38Z",
+      "last_scraped_at": "2026-09-25T23:19:38Z",
+      "engagement_tier": "normal",
+      "score": 13.37
+    },
+    {
+      "id": "2101351570973880562",
+      "url": "https://x.com/maximelabonne/status/2101351570973880562",
+      "author_handle": "maximelabonne",
+      "author_name": "Maxime Labonne",
+      "post_text": "🔪 Opus 5\n🔪 Jev\nWho's next?",
+      "posted_at": "2026-09-19T16:43:50Z",
+      "engagement": {
+        "likes": 105,
+        "reposts": 8,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Maxime Labonne teases the next big thing with a mysterious post",
+      "tags": [
+        "research",
+        "open-source"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-25T23:19:38Z",
+      "last_scraped_at": "2026-09-25T23:19:38Z",
+      "engagement_tier": "normal",
+      "score": 10.21
     }
   ]
 }
