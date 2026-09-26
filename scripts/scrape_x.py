@@ -33,6 +33,7 @@ import os
 import re
 import sys
 import time
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
@@ -54,6 +55,7 @@ DEFAULT_SETTINGS = {
     "max_post_age_days": 14,
     "cache_max_age_minutes": 60,
     "scrape_timeout_ms": 120_000,
+    "max_concurrency": 4,
 }
 
 # ---------------------------------------------------------------------------
@@ -190,11 +192,18 @@ def load_accounts(path: Path) -> tuple[dict[str, Any], list[dict[str, Any]]]:
     return settings, accounts
 
 
+def parse_per_run(value: Any, total: int) -> int:
+    """accounts_per_run may be a number, or "all" / 0 / null for every account."""
+    if value in (None, "", 0, "0") or str(value).strip().lower() == "all":
+        return total
+    return max(1, int(value))
+
+
 def pick_accounts(accounts: list[dict[str, Any]], state: dict[str, Any], n: int) -> list[dict[str, Any]]:
     """Least-recently-scraped first; accounts with explicit post_urls always included."""
     last = state.get("last_scraped", {})
     ordered = sorted(accounts, key=lambda a: last.get(a["handle"].lower(), ""))
-    chosen = ordered[: max(0, n)]
+    chosen = ordered[:n]
     for acct in accounts:
         if acct.get("post_urls") and acct not in chosen:
             chosen.append(acct)
@@ -339,6 +348,7 @@ class Scraper:
 
 def scrape_account(scraper: Scraper, acct: dict[str, Any], settings: dict[str, Any], now: datetime) -> tuple[list[dict[str, Any]], list[str]]:
     handle = acct["handle"]
+    log.info("@%s", handle)
     max_posts = int(acct.get("max_posts") or settings["max_posts_per_account"])
     posts: list[dict[str, Any]] = []
     errors: list[str] = []
@@ -353,7 +363,7 @@ def scrape_account(scraper: Scraper, acct: dict[str, Any], settings: dict[str, A
             kept = [p for p in (normalize_post(r, acct, url if single else "", now) for r in raw_posts) if p]
             if not single:
                 kept = kept[:max_posts]
-            log.info("  %-45s -> %d raw, %d kept (%d chars md)", url, len(raw_posts), len(kept), len(markdown))
+            log.info("  [%s] %-40s -> %d raw, %d kept (%d chars md)", handle, url, len(raw_posts), len(kept), len(markdown))
             posts.extend(kept)
         except Exception as exc:
             log.error("  %s: %s", url, exc)
@@ -369,7 +379,7 @@ def scrape_account(scraper: Scraper, acct: dict[str, Any], settings: dict[str, A
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--only", help="comma-separated handles to scrape (ignores rotation)")
-    parser.add_argument("--accounts-per-run", type=int, help="override settings.accounts_per_run")
+    parser.add_argument("--accounts-per-run", help='override settings.accounts_per_run (number or "all")')
     parser.add_argument("--max-posts", type=int, help="override settings.max_posts_per_account")
     parser.add_argument("--fixture", type=Path, help="JSON map of url -> {posts, markdown}; no API calls")
     parser.add_argument("--dry-run", action="store_true", help="show selected accounts and exit")
@@ -381,7 +391,7 @@ def main(argv: list[str] | None = None) -> int:
     logging.getLogger("httpx").setLevel(logging.WARNING)
 
     settings, accounts = load_accounts(ACCOUNTS_PATH)
-    if args.accounts_per_run is not None:
+    if args.accounts_per_run:
         settings["accounts_per_run"] = args.accounts_per_run
     if args.max_posts is not None:
         settings["max_posts_per_account"] = args.max_posts
@@ -395,7 +405,7 @@ def main(argv: list[str] | None = None) -> int:
         known = {a["handle"].lower() for a in accounts}
         selected += [{"handle": h, "post_urls": []} for h in wanted - known]
     else:
-        selected = pick_accounts(accounts, state, int(settings["accounts_per_run"]))
+        selected = pick_accounts(accounts, state, parse_per_run(settings["accounts_per_run"], len(accounts)))
 
     log.info("tracking %d accounts; scraping %d this run: %s", len(accounts), len(selected), ", ".join(a["handle"] for a in selected))
     if args.dry_run:
@@ -413,9 +423,14 @@ def main(argv: list[str] | None = None) -> int:
     errors: list[str] = []
     ok_accounts = 0
 
-    for acct in selected:
-        log.info("@%s", acct["handle"])
-        posts, errs = scrape_account(scraper, acct, settings, now)
+    # Scrape accounts in parallel (keep max_concurrency within your Firecrawl
+    # plan's concurrent-request limit). Results are consumed in input order.
+    workers = max(1, int(settings.get("max_concurrency") or 1))
+    with ThreadPoolExecutor(max_workers=workers) as pool:
+        results = pool.map(lambda a: scrape_account(scraper, a, settings, now), selected)
+        results = list(results)
+
+    for acct, (posts, errs) in zip(selected, results):
         fresh.extend(posts)
         errors.extend(errs)
         if not errs or posts:

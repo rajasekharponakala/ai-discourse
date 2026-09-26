@@ -59,15 +59,16 @@ A plain string (`"karpathy"`) also works. You don't need to change any code. The
 | Key | Default | Meaning |
 | --- | --- | --- |
 | `max_posts_per_account` | 3 | Posts kept per profile scrape |
-| `accounts_per_run` | 6 | Accounts scraped per run. The least recently scraped go first, so the whole list is covered over time. |
-| `keep_top_posts` | 60 | Size of the published leaderboard |
+| `accounts_per_run` | `"all"` | Accounts scraped per run: `"all"`, or a number to rotate through the list (least recently scraped go first). |
+| `keep_top_posts` | 150 | Size of the published leaderboard |
 | `max_post_age_days` | 14 | Posts older than this drop off |
 | `cache_max_age_minutes` | 60 | Firecrawl `maxAge`: reuses a cached scrape if one is this fresh, which saves credits |
 | `scrape_timeout_ms` | 120000 | Timeout for each scrape |
+| `max_concurrency` | 4 | Accounts scraped in parallel. Keep this within your Firecrawl plan's concurrent-request limit. |
 
 ## How the scraper works
 
-1. **Rotation**: it picks the `accounts_per_run` least recently scraped accounts. Accounts with explicit `post_urls` are always included.
+1. **Selection**: by default every account is scraped on every run, 4 at a time. If `accounts_per_run` is a number, it instead picks that many of the least recently scraped accounts. Accounts with explicit `post_urls` are always included.
 2. **Targets**: it scrapes explicit post URLs first, since they are the cheapest and most reliable, then the profile page `https://x.com/<handle>`.
 3. **Firecrawl call**: each URL is requested with both `markdown` and a `json` format that has a strict JSON schema and a rule-based prompt (`build_prompt` in `scrape_x.py`). For each post the extraction returns `author_handle`, `author_name`, `post_text` (verbatim), `posted_at`, `engagement{likes,reposts,replies,views,bookmarks}`, `is_listicle`, `list_items`, `media_urls` and `sensational_headline`.
 4. **Validation**: `1.2K`/`3.4M` counts are normalised, reposts and other authors' posts are dropped, status URLs are made canonical, and future-dated timestamps are rejected. List bullets are cleaned and non-media URLs are filtered out.
@@ -107,9 +108,9 @@ npm run build      # static export in ./out
 ## Firecrawl credit considerations
 
 - **X pages cost more than normal pages.** Firecrawl routes x.com / twitter.com URLs through its Grok-backed tooling, and JSON extraction adds its own cost on top of a plain scrape. Expect each X URL to cost several times a normal scrape. Check the current rates on your Firecrawl dashboard. This is expected.
-- **Budget math**: `runs_per_day (12) × accounts_per_run (6) × URLs per account (1 profile + post_urls)` gives about **72 X scrapes per day** with the defaults. With 95 accounts, each one is refreshed roughly every 32 hours; raise `accounts_per_run` for faster coverage (credits scale linearly).
+- **Budget math**: `runs_per_day (12) × accounts scraped per run × URLs per account (1 profile + post_urls)`. With the default `"all"` and 95 accounts, that is about **1,140 X scrapes per day**. Setting `accounts_per_run` to `6` drops it to about 72 per day, with each account refreshed about every 32 hours.
 - **Ways to spend less**:
-  - Lower `accounts_per_run` or run less often by editing the cron in `track-x.yml`.
+  - Set `accounts_per_run` to a number, or run less often by editing the cron in `track-x.yml`.
   - Keep `max_posts_per_account` small. This mainly reduces extraction output, not page count.
   - Raise `cache_max_age_minutes` so repeat requests are served from Firecrawl's cache.
   - For accounts you only care about for specific posts, use `post_urls` + `skip_profile: true`.

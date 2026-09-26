@@ -1,11 +1,12 @@
 {
   "settings": {
     "max_posts_per_account": 3,
-    "accounts_per_run": 6,
-    "keep_top_posts": 60,
+    "accounts_per_run": "all",
+    "keep_top_posts": 150,
     "max_post_age_days": 14,
     "cache_max_age_minutes": 60,
-    "scrape_timeout_ms": 120000
+    "scrape_timeout_ms": 120000,
+    "max_concurrency": 4
   },
   "accounts": [
     { "handle": "karpathy", "name": "Andrej Karpathy", "tags": ["research", "education"] },
