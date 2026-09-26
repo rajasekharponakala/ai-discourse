@@ -107,7 +107,7 @@ npm run build      # static export in ./out
 ## Firecrawl credit considerations
 
 - **X pages cost more than normal pages.** Firecrawl routes x.com / twitter.com URLs through its Grok-backed tooling, and JSON extraction adds its own cost on top of a plain scrape. Expect each X URL to cost several times a normal scrape. Check the current rates on your Firecrawl dashboard. This is expected.
-- **Budget math**: `runs_per_day (12) × accounts_per_run (6) × URLs per account (1 profile + post_urls)` gives about **72 X scrapes per day** with the defaults. With 52 accounts, each one is refreshed roughly every 8–9 hours.
+- **Budget math**: `runs_per_day (12) × accounts_per_run (6) × URLs per account (1 profile + post_urls)` gives about **72 X scrapes per day** with the defaults. With 95 accounts, each one is refreshed roughly every 32 hours; raise `accounts_per_run` for faster coverage (credits scale linearly).
 - **Ways to spend less**:
   - Lower `accounts_per_run` or run less often by editing the cron in `track-x.yml`.
   - Keep `max_posts_per_account` small. This mainly reduces extraction output, not page count.
