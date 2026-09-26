@@ -6,7 +6,8 @@
     "max_post_age_days": 14,
     "cache_max_age_minutes": 60,
     "scrape_timeout_ms": 120000,
-    "max_concurrency": 4
+    "max_concurrency": 4,
+    "max_requests_per_minute": 10
   },
   "accounts": [
     { "handle": "karpathy", "name": "Andrej Karpathy", "tags": ["research", "education"] },

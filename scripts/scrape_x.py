@@ -32,6 +32,7 @@ import logging
 import os
 import re
 import sys
+import threading
 import time
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
@@ -56,6 +57,7 @@ DEFAULT_SETTINGS = {
     "cache_max_age_minutes": 60,
     "scrape_timeout_ms": 120_000,
     "max_concurrency": 4,
+    "max_requests_per_minute": 10,
 }
 
 # ---------------------------------------------------------------------------
@@ -299,26 +301,61 @@ def merge_posts(existing: list[dict[str, Any]], fresh: list[dict[str, Any]]) -> 
 # ---------------------------------------------------------------------------
 
 
+class OutOfCredits(RuntimeError):
+    """Firecrawl returned 402: nothing else in this run can succeed."""
+
+
 class Scraper:
-    """Thin wrapper around the Firecrawl SDK with retries + fixture support."""
+    """Thin wrapper around the Firecrawl SDK with pacing, retries + fixture support.
+
+    Thread-safe: requests from all worker threads share one pacer so the run
+    stays under ``max_requests_per_minute`` (Firecrawl rate-limits per plan).
+    """
+
+    MAX_ERROR_RETRIES = 3
+    MAX_RATE_LIMIT_RETRIES = 6
 
     def __init__(self, api_key: str | None, settings: dict[str, Any], fixture: dict[str, Any] | None = None):
         self.settings = settings
         self.fixture = fixture
         self.client = None
+        self.out_of_credits = False
+        rpm = float(settings.get("max_requests_per_minute") or 0)
+        self._min_interval = 60.0 / rpm if rpm > 0 else 0.0
+        self._pace_lock = threading.Lock()
+        self._next_slot = 0.0
         if fixture is None:
             from firecrawl import Firecrawl  # imported lazily so --fixture works without the SDK
 
             self.client = Firecrawl(api_key=api_key)
+
+    def _wait_for_slot(self) -> None:
+        """Space request starts evenly across all threads."""
+        if not self._min_interval:
+            return
+        with self._pace_lock:
+            now = time.monotonic()
+            slot = max(now, self._next_slot)
+            self._next_slot = slot + self._min_interval
+        if slot > now:
+            time.sleep(slot - now)
+
+    def _push_back(self, seconds: float) -> None:
+        """After a 429, delay every thread's next request, not just this one."""
+        with self._pace_lock:
+            self._next_slot = max(self._next_slot, time.monotonic() + seconds)
 
     def scrape(self, url: str, prompt: str) -> tuple[list[dict[str, Any]], str]:
         """Return (raw posts, markdown). Raises on hard failure after retries."""
         if self.fixture is not None:
             entry = self.fixture.get(url) or self.fixture.get(url.rstrip("/").lower()) or {"posts": []}
             return list(entry.get("posts", [])), entry.get("markdown", "")
+        if self.out_of_credits:
+            raise OutOfCredits("skipped: Firecrawl credits exhausted earlier in this run")
 
-        last_exc: Exception | None = None
-        for attempt in range(1, 4):
+        errors = rate_limited = 0
+        while True:
+            self._wait_for_slot()
             try:
                 doc = self.client.scrape(
                     url,
@@ -334,20 +371,35 @@ class Scraper:
                 data = _as_dict(getattr(doc, "json", None))
                 posts = data.get("posts") or []
                 return [_as_dict(p) for p in posts if p], getattr(doc, "markdown", "") or ""
-            except Exception as exc:  # SDK raises various error types; retry all of them
-                last_exc = exc
+            except Exception as exc:  # SDK raises various error types
                 msg = str(exc)
-                # Don't burn retries on auth / payment / bad-request problems.
-                if any(code in msg for code in ("401", "402", "403", "400")):
-                    break
-                wait = 2**attempt
-                log.warning("  attempt %d for %s failed: %s (retrying in %ss)", attempt, url, msg[:200], wait)
+                if "402" in msg or "Payment Required" in msg or "Insufficient credits" in msg:
+                    self.out_of_credits = True
+                    raise OutOfCredits(f"Firecrawl credits exhausted: {msg[:200]}") from exc
+                # Don't burn retries on auth / bad-request problems.
+                if any(code in msg for code in ("401", "403", "400")):
+                    raise RuntimeError(f"scrape failed for {url}: {msg}") from exc
+                if "429" in msg or "Rate limit" in msg or "Rate Limit" in msg:
+                    rate_limited += 1
+                    if rate_limited > self.MAX_RATE_LIMIT_RETRIES:
+                        raise RuntimeError(f"scrape failed for {url}: still rate limited: {msg}") from exc
+                    m = re.search(r"retry after (\d+)\s*s", msg)
+                    wait = min(int(m.group(1)) + 2, 65) if m else 30
+                    log.info("  rate limited on %s; waiting %ss", url, wait)
+                    self._push_back(wait)
+                    continue
+                errors += 1
+                if errors >= self.MAX_ERROR_RETRIES:
+                    raise RuntimeError(f"scrape failed for {url}: {msg}") from exc
+                wait = 2**errors
+                log.warning("  attempt %d for %s failed: %s (retrying in %ss)", errors, url, msg[:200], wait)
                 time.sleep(wait)
-        raise RuntimeError(f"scrape failed for {url}: {last_exc}")
 
 
 def scrape_account(scraper: Scraper, acct: dict[str, Any], settings: dict[str, Any], now: datetime) -> tuple[list[dict[str, Any]], list[str]]:
     handle = acct["handle"]
+    if scraper.out_of_credits:
+        return [], [f"{profile_url(handle)}: skipped: Firecrawl credits exhausted"]
     log.info("@%s", handle)
     max_posts = int(acct.get("max_posts") or settings["max_posts_per_account"])
     posts: list[dict[str, Any]] = []
@@ -365,6 +417,9 @@ def scrape_account(scraper: Scraper, acct: dict[str, Any], settings: dict[str, A
                 kept = kept[:max_posts]
             log.info("  [%s] %-40s -> %d raw, %d kept (%d chars md)", handle, url, len(raw_posts), len(kept), len(markdown))
             posts.extend(kept)
+        except OutOfCredits as exc:
+            errors.append(f"{url}: {exc}")
+            break
         except Exception as exc:
             log.error("  %s: %s", url, exc)
             errors.append(f"{url}: {str(exc)[:300]}")
@@ -469,15 +524,25 @@ def main(argv: list[str] | None = None) -> int:
         "ok_accounts": ok_accounts,
         "fresh_posts": len(fresh),
         "published_posts": len(ranked),
-        "errors": errors[:20],
+        "out_of_credits": scraper.out_of_credits,
+        "error_count": len(errors),
+        "errors": [e for e in errors if "skipped:" not in e][:20],
     }
     state["runs"] = ([run_summary] + state.get("runs", []))[:20]
     write_json(STATE_PATH, state)
 
     log.info("done: %d/%d accounts ok, %d fresh posts, %d published, %d errors", ok_accounts, len(selected), len(fresh), len(ranked), len(errors))
+    if scraper.out_of_credits:
+        skipped = sum("skipped:" in e for e in errors)
+        # Not a failure of the run: data that was scraped is still published.
+        print(
+            f"::error title=Firecrawl credits exhausted::{skipped} accounts skipped. Top up credits or set "
+            "accounts_per_run to a number in accounts.json to rotate through accounts."
+        )
     for e in errors:
-        # GitHub Actions annotation: visible in the run summary without failing it.
-        print(f"::warning title=Firecrawl scrape failed::{e}")
+        if "skipped:" not in e:
+            # GitHub Actions annotation: visible in the run summary without failing it.
+            print(f"::warning title=Firecrawl scrape failed::{e}")
     return 0
 
 

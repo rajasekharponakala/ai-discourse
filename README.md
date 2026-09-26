@@ -65,6 +65,7 @@ A plain string (`"karpathy"`) also works. You don't need to change any code. The
 | `cache_max_age_minutes` | 60 | Firecrawl `maxAge`: reuses a cached scrape if one is this fresh, which saves credits |
 | `scrape_timeout_ms` | 120000 | Timeout for each scrape |
 | `max_concurrency` | 4 | Accounts scraped in parallel. Keep this within your Firecrawl plan's concurrent-request limit. |
+| `max_requests_per_minute` | 10 | Spaces requests across all threads to stay under Firecrawl's per-minute rate limit. Raise it if your plan allows more. |
 
 ## How the scraper works
 
@@ -115,7 +116,9 @@ npm run build      # static export in ./out
   - Raise `cache_max_age_minutes` so repeat requests are served from Firecrawl's cache.
   - For accounts you only care about for specific posts, use `post_urls` + `skip_profile: true`.
   - Set `"enabled": false` on accounts you want to pause.
-- A missing key fails the workflow immediately with a clear error. An exhausted or invalid key (402/401) fails fast without retrying, is logged as a warning, and the previous data is kept.
+- A missing key fails the workflow immediately with a clear error. Rate-limit responses (429) are retried after the wait time Firecrawl asks for.
+  When credits run out (402), the scraper stops calling Firecrawl for the rest of the run, publishes what it already has and shows a *Firecrawl credits exhausted* annotation.
+  Accounts that were skipped are scraped first on the next run.
 
 ## Frontend
 
