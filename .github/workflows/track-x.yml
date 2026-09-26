@@ -66,6 +66,13 @@ jobs:
           print("### X tracker run")
           print(f"- Accounts scraped: {', '.join(r.get('accounts', []))}")
           print(f"- OK accounts: {r.get('ok_accounts')} · fresh posts: {r.get('fresh_posts')} · published: {len(p.get('posts', []))}")
+          b = r.get("budget") or {}
+          if b.get("mode") == "budget":
+              print(f"- Credits: {b.get('remaining_credits'):.0f} left until {b.get('billing_period_end')} · "
+                    f"run budget {b.get('run_budget'):.1f} · spent {r.get('credits_spent')} · "
+                    f"~{s.get('avg_credits_per_scrape')} per X scrape · bank {s.get('credit_bank')}")
+          else:
+              print(f"- Credit budget mode: {b.get('mode')}")
           if r.get("errors"):
               print("\n**Errors**")
               for e in r["errors"]:

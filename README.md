@@ -66,10 +66,15 @@ A plain string (`"karpathy"`) also works. You don't need to change any code. The
 | `scrape_timeout_ms` | 120000 | Timeout for each scrape |
 | `max_concurrency` | 4 | Accounts scraped in parallel. Keep this within your Firecrawl plan's concurrent-request limit. |
 | `max_requests_per_minute` | 10 | Spaces requests across all threads to stay under Firecrawl's per-minute rate limit. Raise it if your plan allows more. |
+| `credit_budget` | `true` | Spread the remaining Firecrawl credits evenly over the billing period so a run never uses more than its share (see below). |
+| `credit_reserve_pct` | 10 | Percentage of plan credits never touched by scheduled runs, kept for manual runs. |
+| `run_interval_hours` | 2 | Must match the cron in `track-x.yml`; used to count how many runs are left in the billing period. |
+| `initial_credits_per_scrape` | 10 | Starting guess for what one X scrape costs. It is replaced by the measured cost after the first run. |
+| `fallback_accounts_per_run` | 6 | Used if the credit-usage API can't be read. |
 
 ## How the scraper works
 
-1. **Selection**: by default every account is scraped on every run, 4 at a time. If `accounts_per_run` is a number, it instead picks that many of the least recently scraped accounts. Accounts with explicit `post_urls` are always included.
+1. **Selection**: accounts are taken least recently scraped first, 4 at a time, for as many as this run's credit budget allows (see *Automatic credit budget*). `accounts_per_run` sets an upper limit.
 2. **Targets**: it scrapes explicit post URLs first, since they are the cheapest and most reliable, then the profile page `https://x.com/<handle>`.
 3. **Firecrawl call**: each URL is requested with both `markdown` and a `json` format that has a strict JSON schema and a rule-based prompt (`build_prompt` in `scrape_x.py`). For each post the extraction returns `author_handle`, `author_name`, `post_text` (verbatim), `posted_at`, `engagement{likes,reposts,replies,views,bookmarks}`, `is_listicle`, `list_items`, `media_urls` and `sensational_headline`.
 4. **Validation**: `1.2K`/`3.4M` counts are normalised, reposts and other authors' posts are dropped, status URLs are made canonical, and future-dated timestamps are rejected. List bullets are cleaned and non-media URLs are filtered out.
@@ -107,6 +112,17 @@ npm run build      # static export in ./out
 ```
 
 ## Firecrawl credit considerations
+
+### Automatic credit budget (never runs out)
+
+With `credit_budget: true` (the default), every run first asks Firecrawl for the remaining credits and the end of the billing period, then:
+
+1. `allowance = (remaining − reserve) / runs left in the billing period`
+2. The allowance is added to a **credit bank** stored in `data/scrape_state.json`.
+3. Accounts are picked least recently scraped first, and only as many as the bank can pay for at the measured cost per X scrape. The measured cost comes from Firecrawl's per-request `credits_used`, or from the balance change if that isn't reported.
+4. If real costs come in higher than expected, the run stops once it has spent its budget. What it spent is deducted from the bank.
+
+Small plans end up scraping a few accounts every few runs, large plans scrape many per run, and a top-up is spread over the rest of the period instead of being spent at once. Across all 95 accounts, least-recently-scraped ordering means everyone gets their turn. In a simulated 30-day period this ended with exactly the 10% reserve left, for plans from 500 to 100,000 credits. `accounts_per_run` still works as an upper limit, and a manual run with `only` handles skips the budget.
 
 - **X pages cost more than normal pages.** Firecrawl routes x.com / twitter.com URLs through its Grok-backed tooling, and JSON extraction adds its own cost on top of a plain scrape. Expect each X URL to cost several times a normal scrape. Check the current rates on your Firecrawl dashboard. This is expected.
 - **Budget math**: `runs_per_day (12) × accounts scraped per run × URLs per account (1 profile + post_urls)`. With the default `"all"` and 95 accounts, that is about **1,140 X scrapes per day**. Setting `accounts_per_run` to `6` drops it to about 72 per day, with each account refreshed about every 32 hours.

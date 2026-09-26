@@ -7,7 +7,12 @@
     "cache_max_age_minutes": 60,
     "scrape_timeout_ms": 120000,
     "max_concurrency": 4,
-    "max_requests_per_minute": 10
+    "max_requests_per_minute": 10,
+    "credit_budget": true,
+    "credit_reserve_pct": 10,
+    "run_interval_hours": 2,
+    "initial_credits_per_scrape": 10,
+    "fallback_accounts_per_run": 6
   },
   "accounts": [
     { "handle": "karpathy", "name": "Andrej Karpathy", "tags": ["research", "education"] },

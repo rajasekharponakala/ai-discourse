@@ -33,6 +33,7 @@ import os
 import re
 import sys
 import threading
+import math
 import time
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
@@ -58,6 +59,12 @@ DEFAULT_SETTINGS = {
     "scrape_timeout_ms": 120_000,
     "max_concurrency": 4,
     "max_requests_per_minute": 10,
+    # Credit budget: spread remaining Firecrawl credits evenly over the billing period.
+    "credit_budget": True,
+    "credit_reserve_pct": 10,
+    "run_interval_hours": 2,
+    "initial_credits_per_scrape": 10,
+    "fallback_accounts_per_run": 6,
 }
 
 # ---------------------------------------------------------------------------
@@ -201,14 +208,38 @@ def parse_per_run(value: Any, total: int) -> int:
     return max(1, int(value))
 
 
-def pick_accounts(accounts: list[dict[str, Any]], state: dict[str, Any], n: int) -> list[dict[str, Any]]:
-    """Least-recently-scraped first; accounts with explicit post_urls always included."""
+def scrape_targets(acct: dict[str, Any]) -> list[tuple[str, bool]]:
+    """(url, is_single_post) pairs to scrape for an account."""
+    targets = [(u, True) for u in acct.get("post_urls", []) if canonical_status(u)]
+    if not acct.get("skip_profile"):
+        targets.append((profile_url(acct["handle"]), False))
+    return targets
+
+
+def pick_accounts(
+    accounts: list[dict[str, Any]],
+    state: dict[str, Any],
+    n: int,
+    credit_budget: float | None = None,
+    credits_per_scrape: float = 1.0,
+) -> list[dict[str, Any]]:
+    """Least-recently-scraped first, up to ``n`` accounts and (if given) ``credit_budget``.
+
+    Never-scraped accounts sort first (""), so new additions are picked up
+    immediately, and accounts skipped by an exhausted budget go first next run.
+    """
     last = state.get("last_scraped", {})
     ordered = sorted(accounts, key=lambda a: last.get(a["handle"].lower(), ""))
-    chosen = ordered[:n]
-    for acct in accounts:
-        if acct.get("post_urls") and acct not in chosen:
-            chosen.append(acct)
+    chosen: list[dict[str, Any]] = []
+    spent = 0.0
+    for acct in ordered:
+        if len(chosen) >= n:
+            break
+        cost = len(scrape_targets(acct)) * credits_per_scrape
+        if credit_budget is not None and spent + cost > credit_budget:
+            break
+        chosen.append(acct)
+        spent += cost
     return chosen
 
 
@@ -320,6 +351,11 @@ class Scraper:
         self.fixture = fixture
         self.client = None
         self.out_of_credits = False
+        self.credits_spent = 0.0      # reported by Firecrawl per scrape (metadata.credits_used)
+        self.successful_scrapes = 0
+        self.metered_scrapes = 0      # scrapes that reported credits_used
+        self._credit_lock = threading.Lock()
+        self.run_budget: float | None = None  # set by main() in budget mode
         rpm = float(settings.get("max_requests_per_minute") or 0)
         self._min_interval = 60.0 / rpm if rpm > 0 else 0.0
         self._pace_lock = threading.Lock()
@@ -328,6 +364,27 @@ class Scraper:
             from firecrawl import Firecrawl  # imported lazily so --fixture works without the SDK
 
             self.client = Firecrawl(api_key=api_key)
+
+    def _record_cost(self, doc: Any) -> None:
+        used = getattr(getattr(doc, "metadata", None), "credits_used", None)
+        with self._credit_lock:
+            self.successful_scrapes += 1
+            if isinstance(used, (int, float)) and used >= 0:
+                self.credits_spent += float(used)
+                self.metered_scrapes += 1
+
+    def credit_usage(self) -> dict[str, Any] | None:
+        """Remaining credits + billing period from Firecrawl, or None if unavailable."""
+        if self.client is None:
+            return None
+        try:
+            usage = _as_dict(self.client.get_credit_usage())
+        except Exception as exc:
+            log.warning("could not read Firecrawl credit usage: %s", str(exc)[:200])
+            return None
+        if usage.get("remaining_credits") is None:
+            return None
+        return usage
 
     def _wait_for_slot(self) -> None:
         """Space request starts evenly across all threads."""
@@ -368,6 +425,7 @@ class Scraper:
                     # Re-use Firecrawl's cache for recently scraped URLs -> saves credits.
                     max_age=int(self.settings["cache_max_age_minutes"]) * 60_000,
                 )
+                self._record_cost(doc)
                 data = _as_dict(getattr(doc, "json", None))
                 posts = data.get("posts") or []
                 return [_as_dict(p) for p in posts if p], getattr(doc, "markdown", "") or ""
@@ -400,16 +458,15 @@ def scrape_account(scraper: Scraper, acct: dict[str, Any], settings: dict[str, A
     handle = acct["handle"]
     if scraper.out_of_credits:
         return [], [f"{profile_url(handle)}: skipped: Firecrawl credits exhausted"]
+    if scraper.run_budget is not None and scraper.credits_spent >= scraper.run_budget:
+        # Real costs came in above the estimate: stop at this run's budget.
+        return [], [f"{profile_url(handle)}: skipped: run credit budget reached"]
     log.info("@%s", handle)
     max_posts = int(acct.get("max_posts") or settings["max_posts_per_account"])
     posts: list[dict[str, Any]] = []
     errors: list[str] = []
 
-    targets = [(u, True) for u in acct.get("post_urls", []) if canonical_status(u)]
-    if not acct.get("skip_profile"):
-        targets.append((profile_url(handle), False))
-
-    for url, single in targets:
+    for url, single in scrape_targets(acct):
         try:
             raw_posts, markdown = scraper.scrape(url, build_prompt(handle, max_posts, single))
             kept = [p for p in (normalize_post(r, acct, url if single else "", now) for r in raw_posts) if p]
@@ -429,6 +486,78 @@ def scrape_account(scraper: Scraper, acct: dict[str, Any], settings: dict[str, A
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
+
+
+# ---------------------------------------------------------------------------
+# Credit budget
+# ---------------------------------------------------------------------------
+#
+# Each run gets an equal share of the credits left in the billing period:
+#
+#     spendable   = remaining_credits - reserve
+#     runs_left   = hours until billing_period_end / run_interval_hours
+#     allowance   = spendable / runs_left
+#
+# The allowance is added to a "bank" in data/scrape_state.json and the run
+# spends at most what is in the bank. Small plans therefore scrape a few
+# accounts every few runs instead of nothing at all, and a big top-up is
+# spread out instead of burned in one run. The average cost of an X scrape
+# is measured from Firecrawl's per-request credits_used and kept as a moving
+# average, so the planner adapts to real prices.
+
+
+def plan_budget(scraper: "Scraper | None", settings: dict[str, Any], state: dict[str, Any], now: datetime) -> dict[str, Any]:
+    per_scrape = float(state.get("avg_credits_per_scrape") or settings["initial_credits_per_scrape"])
+    usage = scraper.credit_usage() if scraper else None
+    if usage is None:
+        return {"mode": "fallback", "credits_per_scrape": per_scrape}
+
+    remaining = float(usage.get("remaining_credits") or 0)
+    plan_credits = float(usage.get("plan_credits") or 0)
+    end = parse_time(str(usage.get("billing_period_end") or ""))
+    hours_left = (end - now).total_seconds() / 3600 if end and end > now else 30 * 24
+    interval = max(0.25, float(settings["run_interval_hours"]))
+    runs_left = max(1, math.ceil(hours_left / interval))
+
+    reserve = (plan_credits or remaining) * float(settings["credit_reserve_pct"]) / 100
+    spendable = max(0.0, remaining - reserve)
+    allowance = spendable / runs_left
+    # Bank never exceeds what is actually spendable (e.g. after credits ran out).
+    bank = min(float(state.get("credit_bank") or 0) + allowance, spendable)
+    return {
+        "mode": "budget",
+        "remaining_credits": remaining,
+        "plan_credits": plan_credits,
+        "billing_period_end": iso(end) if end else None,
+        "runs_left": runs_left,
+        "reserve": reserve,
+        "allowance": allowance,
+        "bank": bank,
+        "run_budget": bank,
+        "credits_per_scrape": per_scrape,
+    }
+
+
+def settle_budget(scraper: "Scraper", budget: dict[str, Any], state: dict[str, Any]) -> None:
+    """Deduct what this run spent from the bank and update the cost estimate."""
+    per_scrape = budget["credits_per_scrape"]
+    if not scraper.metered_scrapes and scraper.successful_scrapes:
+        # No per-request cost reported: measure it from the account balance instead.
+        after = scraper.credit_usage()
+        if after is not None:
+            diff = budget["remaining_credits"] - float(after.get("remaining_credits") or 0)
+            if diff > 0:
+                scraper.credits_spent = diff
+                scraper.metered_scrapes = scraper.successful_scrapes
+    if scraper.metered_scrapes:
+        measured = scraper.credits_spent / scraper.metered_scrapes
+        per_scrape = round(0.7 * per_scrape + 0.3 * measured, 3) if state.get("avg_credits_per_scrape") else measured
+        spent = scraper.credits_spent + (scraper.successful_scrapes - scraper.metered_scrapes) * per_scrape
+    else:
+        spent = scraper.successful_scrapes * per_scrape
+    state["avg_credits_per_scrape"] = per_scrape
+    state["credit_bank"] = round(max(0.0, budget["bank"] - spent), 3)
+    log.info("credits: spent ~%.1f this run, avg %.2f/scrape, bank now %.1f", spent, per_scrape, state["credit_bank"])
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -453,27 +582,41 @@ def main(argv: list[str] | None = None) -> int:
 
     state = load_json(STATE_PATH, {"last_scraped": {}, "runs": []})
     state.setdefault("last_scraped", {})
+    now = datetime.now(timezone.utc)
 
+    fixture = load_json(args.fixture, {}) if args.fixture else None
+    api_key = os.environ.get("FIRECRAWL_API") or os.environ.get("FIRECRAWL_API_KEY")
+    if fixture is None and not api_key and not args.dry_run:
+        log.error("FIRECRAWL_API env var is not set (GitHub secret 'FIRECRAWL_API').")
+        return 2
+    scraper = Scraper(api_key, settings, fixture) if (fixture is not None or api_key) else None
+
+    budget: dict[str, Any] = {"mode": "unlimited"}
     if args.only:
         wanted = {h.strip().lstrip("@").lower() for h in args.only.split(",") if h.strip()}
         selected = [a for a in accounts if a["handle"].lower() in wanted]
         known = {a["handle"].lower() for a in accounts}
         selected += [{"handle": h, "post_urls": []} for h in wanted - known]
     else:
-        selected = pick_accounts(accounts, state, parse_per_run(settings["accounts_per_run"], len(accounts)))
+        cap = parse_per_run(settings["accounts_per_run"], len(accounts))
+        budget = plan_budget(scraper, settings, state, now) if settings.get("credit_budget") else budget
+        if budget["mode"] == "fallback":
+            cap = min(cap, int(settings["fallback_accounts_per_run"]))
+        selected = pick_accounts(
+            accounts,
+            state,
+            cap,
+            credit_budget=budget.get("run_budget"),
+            credits_per_scrape=budget.get("credits_per_scrape", 1.0),
+        )
 
+    log.info("budget: %s", json.dumps(budget))
     log.info("tracking %d accounts; scraping %d this run: %s", len(accounts), len(selected), ", ".join(a["handle"] for a in selected))
     if args.dry_run:
         return 0
+    assert scraper is not None
+    scraper.run_budget = budget.get("run_budget")
 
-    fixture = load_json(args.fixture, {}) if args.fixture else None
-    api_key = os.environ.get("FIRECRAWL_API") or os.environ.get("FIRECRAWL_API_KEY")
-    if fixture is None and not api_key:
-        log.error("FIRECRAWL_API env var is not set (GitHub secret 'FIRECRAWL_API').")
-        return 2
-
-    scraper = Scraper(api_key, settings, fixture)
-    now = datetime.now(timezone.utc)
     fresh: list[dict[str, Any]] = []
     errors: list[str] = []
     ok_accounts = 0
@@ -482,8 +625,7 @@ def main(argv: list[str] | None = None) -> int:
     # plan's concurrent-request limit). Results are consumed in input order.
     workers = max(1, int(settings.get("max_concurrency") or 1))
     with ThreadPoolExecutor(max_workers=workers) as pool:
-        results = pool.map(lambda a: scrape_account(scraper, a, settings, now), selected)
-        results = list(results)
+        results = list(pool.map(lambda a: scrape_account(scraper, a, settings, now), selected))
 
     for acct, (posts, errs) in zip(selected, results):
         fresh.extend(posts)
@@ -491,6 +633,15 @@ def main(argv: list[str] | None = None) -> int:
         if not errs or posts:
             ok_accounts += 1
             state["last_scraped"][acct["handle"].lower()] = iso(now)
+
+    if budget["mode"] == "budget":
+        settle_budget(scraper, budget, state)
+    if not selected and budget.get("mode") == "budget":
+        print(
+            f"::notice title=Credit budget::Skipping this run to stay within Firecrawl credits "
+            f"(bank {budget['bank']:.1f} < {budget['credits_per_scrape']:.1f} credits per scrape). "
+            "Credits accrue each run; scraping resumes automatically."
+        )
 
     previous = load_json(POSTS_PATH, {"posts": []})
     merged = merge_posts(previous.get("posts", []), fresh)
@@ -525,6 +676,8 @@ def main(argv: list[str] | None = None) -> int:
         "fresh_posts": len(fresh),
         "published_posts": len(ranked),
         "out_of_credits": scraper.out_of_credits,
+        "credits_spent": round(scraper.credits_spent, 2),
+        "budget": {k: (round(v, 2) if isinstance(v, float) else v) for k, v in budget.items()},
         "error_count": len(errors),
         "errors": [e for e in errors if "skipped:" not in e][:20],
     }
