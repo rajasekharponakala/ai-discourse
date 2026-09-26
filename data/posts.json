@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T23:19:38Z",
+  "generated_at": "2026-09-26T03:58:14Z",
   "source": "firecrawl",
   "tracked_accounts": [
     {
@@ -385,9 +385,781 @@
         "lab",
         "open-source"
       ]
+    },
+    {
+      "handle": "markchen90",
+      "name": "Mark Chen",
+      "tags": [
+        "lab-leader",
+        "openai"
+      ]
+    },
+    {
+      "handle": "kevinweil",
+      "name": "Kevin Weil",
+      "tags": [
+        "lab-leader",
+        "openai"
+      ]
+    },
+    {
+      "handle": "fidjissimo",
+      "name": "Fidji Simo",
+      "tags": [
+        "lab-leader",
+        "openai"
+      ]
+    },
+    {
+      "handle": "woj_zaremba",
+      "name": "Wojciech Zaremba",
+      "tags": [
+        "lab-leader",
+        "openai"
+      ]
+    },
+    {
+      "handle": "bradlightcap",
+      "name": "Brad Lightcap",
+      "tags": [
+        "lab-leader",
+        "openai"
+      ]
+    },
+    {
+      "handle": "jackclarkSF",
+      "name": "Jack Clark",
+      "tags": [
+        "lab-leader",
+        "anthropic"
+      ]
+    },
+    {
+      "handle": "mikeyk",
+      "name": "Mike Krieger",
+      "tags": [
+        "lab-leader",
+        "anthropic"
+      ]
+    },
+    {
+      "handle": "janleike",
+      "name": "Jan Leike",
+      "tags": [
+        "research",
+        "anthropic"
+      ]
+    },
+    {
+      "handle": "ch402",
+      "name": "Chris Olah",
+      "tags": [
+        "research",
+        "anthropic"
+      ]
+    },
+    {
+      "handle": "koraykv",
+      "name": "Koray Kavukcuoglu",
+      "tags": [
+        "lab-leader",
+        "google"
+      ]
+    },
+    {
+      "handle": "OriolVinyalsML",
+      "name": "Oriol Vinyals",
+      "tags": [
+        "research",
+        "google"
+      ]
+    },
+    {
+      "handle": "NoamShazeer",
+      "name": "Noam Shazeer",
+      "tags": [
+        "research",
+        "google"
+      ]
+    },
+    {
+      "handle": "joshwoodward",
+      "name": "Josh Woodward",
+      "tags": [
+        "lab-leader",
+        "google"
+      ]
+    },
+    {
+      "handle": "miramurati",
+      "name": "Mira Murati",
+      "tags": [
+        "lab-leader",
+        "founder"
+      ]
+    },
+    {
+      "handle": "johnschulman2",
+      "name": "John Schulman",
+      "tags": [
+        "research",
+        "founder"
+      ]
+    },
+    {
+      "handle": "kevin_scott",
+      "name": "Kevin Scott",
+      "tags": [
+        "industry",
+        "microsoft"
+      ]
+    },
+    {
+      "handle": "ajassy",
+      "name": "Andy Jassy",
+      "tags": [
+        "industry",
+        "amazon"
+      ]
+    },
+    {
+      "handle": "tim_cook",
+      "name": "Tim Cook",
+      "tags": [
+        "industry",
+        "apple"
+      ]
+    },
+    {
+      "handle": "LisaSu",
+      "name": "Lisa Su",
+      "tags": [
+        "industry",
+        "amd"
+      ]
+    },
+    {
+      "handle": "Benioff",
+      "name": "Marc Benioff",
+      "tags": [
+        "industry",
+        "salesforce"
+      ]
+    },
+    {
+      "handle": "arthurmensch",
+      "name": "Arthur Mensch",
+      "tags": [
+        "founder",
+        "mistral"
+      ]
+    },
+    {
+      "handle": "aidangomez",
+      "name": "Aidan Gomez",
+      "tags": [
+        "founder",
+        "cohere"
+      ]
+    },
+    {
+      "handle": "julien_c",
+      "name": "Julien Chaumond",
+      "tags": [
+        "founder",
+        "open-source"
+      ]
+    },
+    {
+      "handle": "DavidSHolz",
+      "name": "David Holz",
+      "tags": [
+        "founder",
+        "midjourney"
+      ]
+    },
+    {
+      "handle": "c_valenzuelab",
+      "name": "Cristóbal Valenzuela",
+      "tags": [
+        "founder",
+        "runway"
+      ]
+    },
+    {
+      "handle": "amasad",
+      "name": "Amjad Masad",
+      "tags": [
+        "founder",
+        "replit"
+      ]
+    },
+    {
+      "handle": "rauchg",
+      "name": "Guillermo Rauch",
+      "tags": [
+        "founder",
+        "vercel"
+      ]
+    },
+    {
+      "handle": "alighodsi",
+      "name": "Ali Ghodsi",
+      "tags": [
+        "founder",
+        "databricks"
+      ]
+    },
+    {
+      "handle": "levie",
+      "name": "Aaron Levie",
+      "tags": [
+        "founder",
+        "box"
+      ]
+    },
+    {
+      "handle": "RichardSocher",
+      "name": "Richard Socher",
+      "tags": [
+        "founder",
+        "research"
+      ]
+    },
+    {
+      "handle": "kaifulee",
+      "name": "Kai-Fu Lee",
+      "tags": [
+        "founder",
+        "industry"
+      ]
+    },
+    {
+      "handle": "EMostaque",
+      "name": "Emad Mostaque",
+      "tags": [
+        "founder"
+      ]
+    },
+    {
+      "handle": "pmarca",
+      "name": "Marc Andreessen",
+      "tags": [
+        "investor"
+      ]
+    },
+    {
+      "handle": "reidhoffman",
+      "name": "Reid Hoffman",
+      "tags": [
+        "investor"
+      ]
+    },
+    {
+      "handle": "garrytan",
+      "name": "Garry Tan",
+      "tags": [
+        "investor"
+      ]
+    },
+    {
+      "handle": "AIatMeta",
+      "name": "AI at Meta",
+      "tags": [
+        "lab"
+      ]
+    },
+    {
+      "handle": "xai",
+      "name": "xAI",
+      "tags": [
+        "lab"
+      ]
+    },
+    {
+      "handle": "MistralAI",
+      "name": "Mistral AI",
+      "tags": [
+        "lab"
+      ]
+    },
+    {
+      "handle": "nvidia",
+      "name": "NVIDIA",
+      "tags": [
+        "lab"
+      ]
+    },
+    {
+      "handle": "perplexity_ai",
+      "name": "Perplexity",
+      "tags": [
+        "lab"
+      ]
+    },
+    {
+      "handle": "deepseek_ai",
+      "name": "DeepSeek",
+      "tags": [
+        "lab"
+      ]
+    },
+    {
+      "handle": "Alibaba_Qwen",
+      "name": "Qwen",
+      "tags": [
+        "lab"
+      ]
+    },
+    {
+      "handle": "cohere",
+      "name": "Cohere",
+      "tags": [
+        "lab"
+      ]
     }
   ],
   "posts": [
+    {
+      "id": "2103382290994962788",
+      "url": "https://x.com/elonmusk/status/2103382290994962788",
+      "author_handle": "elonmusk",
+      "author_name": "Elon Musk",
+      "post_text": "It was moving",
+      "posted_at": "2026-09-25T07:13:11Z",
+      "engagement": {
+        "likes": 111034,
+        "reposts": 16155,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Elon Musk captures emotions with a simple yet profound statement",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "viral",
+      "score": 81.89
+    },
+    {
+      "id": "2103537377239015827",
+      "url": "https://x.com/elonmusk/status/2103537377239015827",
+      "author_handle": "elonmusk",
+      "author_name": "Elon Musk",
+      "post_text": "May Starship have the Mandate of Heaven",
+      "posted_at": "2026-09-25T17:29:27Z",
+      "engagement": {
+        "likes": 48626,
+        "reposts": 4257,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Elon Musk's bold wish for Starship's future stirs excitement",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "viral",
+      "score": 77.92
+    },
+    {
+      "id": "2103383018882896249",
+      "url": "https://x.com/elonmusk/status/2103383018882896249",
+      "author_handle": "elonmusk",
+      "author_name": "Elon Musk",
+      "post_text": "Stainless Steel Starship",
+      "posted_at": "2026-09-25T07:16:05Z",
+      "engagement": {
+        "likes": 45957,
+        "reposts": 3871,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Elon Musk shares intriguing insights on the Stainless Steel Starship",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "viral",
+      "score": 73.21
+    },
+    {
+      "id": "2102824959827742916",
+      "url": "https://x.com/AnthropicAI/status/2102824959827742916",
+      "author_handle": "AnthropicAI",
+      "author_name": "Anthropic",
+      "post_text": "Claude has discovered a previously unknown enzyme system hidden in the DNA of bacteriophages. Beside the enzyme’s gene sits a long array of repeating DNA—a structure that looks somewhat similar to CRISPR.\n\nWe don’t yet understand what this system does, but only a handful of known systems share its features, and all of them are able to cut, copy, and paste DNA. Historically, the discovery of such programmable systems has helped revolutionize medicine. CRISPR, for instance, is now the foundation of genetic medicines. But it will take much more work to learn what this system does, and whether it can be put to similar use.\n\nRead more:",
+      "posted_at": "2026-09-23T18:18:33Z",
+      "engagement": {
+        "likes": 40791,
+        "reposts": 5266,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Anthropic reveals Claude's groundbreaking enzyme discovery that could revolutionize medicine",
+      "tags": [
+        "lab"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "viral",
+      "score": 66.23
+    },
+    {
+      "id": "2102831170299834652",
+      "url": "https://x.com/DarioAmodei/status/2102831170299834652",
+      "author_handle": "DarioAmodei",
+      "author_name": "Dario Amodei",
+      "post_text": "Today we announced the Claude-led discovery of a molecular machine that we suspect could represent a new gene editing mechanism. Its precise function, biotechnological utility (if any), or level of significance is not yet clear, but at minimum it is work I would have been proud to do as a PhD student. The work was done mostly, though not entirely, by Claude: our life sciences team suggested a broad area of research, Claude read through the literature and a bunch of genome data and discovered something interesting, then Claude proposed experiments to verify the discovery and our team carried them out.\n\nIt’s easy to dismiss this as a one-off or curiosity, but we’ve repeatedly seen a pattern where AI performance in new intellectual domains goes from weak to superhuman in a matter of a few years. In 2023 models struggled to do math at the level of an average high-school student. In 2024 they started to do well on math competitions for the best high-schoolers in the country, in 2025 they started to solve minor open problems, in early 2026 more significant open problems, and in late 2026 they are beginning to solve the top few open problems in all of mathematics. We believe AI for biology is on a similar exponential trend.\n\nThe main difference between biology and mathematics, of course, is that math can be done purely theoretically, while biology requires experimentation. Some have used this to draw the conclusion that AI’s utility in biology will be limited. We think this is wrong. As we’ve demonstrated today, humans can collaborate with AI to perform the experiments, validate key results in a few weeks and, if necessary, work with the AI to iterate on what they find. Eventually it may even be possible for Claude itself to safely perform the experiments by autonomously controlling lab equipment, with appropriate safeguards in place, but we aren’t doing that today (our lab is also a BSL1/BSL2 facility that doesn't handle materials dangerous to humans).\n\nMore broadly, biomedical advancement has many stages — from fundamental biology discoveries, to translational research, to drug discovery, clinical trials, and finally the actual delivery of medicines and health care to patients. We are also interested in these later stages, but even simply accelerating the first stage of fundamental biological discoveries has the potential to speed up and broaden the entire pipeline. Improving our understanding of biology and sharpening biologists’ tools can drive forward all of the later stages, for example by identifying new drug targets, finding new therapeutic modalities, allowing for more precise measurement, and speeding up the experimental loop which itself further accelerates our understanding of biology. This will not in itself speed up clinical trial times, but if it succeeds it could greatly increase the number of promising candidates that go into the pipeline — an increase in throughput even though latency remains.\n\nIn Machines of Loving Grace, I wrote about AI’s potential to “cure most diseases in 5-10 years” — a goal that sounds impossible, but one I believe is just barely possible if AI is applied to every stage of the pipeline. The first step is showing that AI can first help with, and then drive, biological discoveries.\n\nClaude’s discovery is the latest in a line of related prior work that goes back decades, beginning with systems like CRISPR, and continuing with discoveries like the bridge recombinase and VIPR in the past few years. Recently, there has been heightened interest in systems based on reverse transcriptase (RT) enzymes, the enzyme underlying the system Claude identified. And most recently, a Stanford team working independently described a novel RT system with an associated non-coding array that is in some ways similar to the one Claude found, though they are distinct systems that evolved independently from each other. I believe that we’re at the very beginning of finding such systems and developing them into powerful tools for biotechnology.\n\nI’m proud of the resources Anthropic has invested in accelerating the public benefits of AI through the life sciences, and we’re aiming both to grow our life sciences team and to work with other scientists to extend this approach to a broad range of problems. If you have a proposal for a research collaboration or are interested in joining our life sciences team, please reach out.",
+      "posted_at": "2026-09-23T18:43:14Z",
+      "engagement": {
+        "likes": 29676,
+        "reposts": 3394,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Dario Amodei reveals Claude's groundbreaking gene editing mechanism discovery",
+      "tags": [
+        "lab-leader"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "viral",
+      "score": 63.28
+    },
+    {
+      "id": "2098773920774074715",
+      "url": "https://x.com/DarioAmodei/status/2098773920774074715",
+      "author_handle": "DarioAmodei",
+      "author_name": "Dario Amodei",
+      "post_text": "We Must Pace the Frontier: I’ve written a new essay on why the AI industry should slow down, with a three-part plan for doing so.\n\nAnthropic is unilaterally committing to the first of these steps. We’ll provide third-party evaluators with permanent, employee-level access to our systems, so that they can verify adherence to our safety measures, report on incidents, and assess models’ alignment during training.\n\nYou can read the full post here:",
+      "posted_at": "2026-09-12T14:01:10Z",
+      "engagement": {
+        "likes": 87820,
+        "reposts": 16378,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Dario Amodei's essay urges a slower pace for AI industry with a bold three-part plan",
+      "tags": [
+        "lab-leader"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "viral",
+      "score": 61.95
+    },
+    {
+      "id": "2102945432985120949",
+      "url": "https://x.com/naval/status/2102945432985120949",
+      "author_handle": "naval",
+      "author_name": "Naval",
+      "post_text": "Every functioning institution is merit-based, not participation-based.",
+      "posted_at": "2026-09-24T02:17:16Z",
+      "engagement": {
+        "likes": 18998,
+        "reposts": 2170,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Naval's insights on meritocracy in functioning institutions",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "viral",
+      "score": 60.35
+    },
+    {
+      "id": "2103541577083719888",
+      "url": "https://x.com/AnthropicAI/status/2103541577083719888",
+      "author_handle": "AnthropicAI",
+      "author_name": "Anthropic",
+      "post_text": "New on the Science Blog: Yes, Claude can do Nine Loops.\n\nTheoretical physicists predict how particles behave using formulas called scattering amplitudes. These are notoriously hard to compute, so researchers work with layers of increasingly fine corrections called “loops”—each added loop makes the answer more precise but takes exponentially more computation. Most calculations stop at two or three loops. Eight loops was the previous record in a simplified model physicists use as a testing ground (planar N=4 super-Yang-Mills), set by SLAC's Lance Dixon and collaborators.\n\nLast month, physicist and science writer @4gravitons issued a challenge: could an AI push past eight loops in this model, using only the compute budget an academic could reasonably access?\n\nGiven a single prompt describing the nine-loop problem, Claude ran largely unsupervised for days in Claude Science and solved it using methods developed by Dixon and his colleagues, at a total cost of a few thousand dollars. Dixon independently verified the result, and von Hippel wrote about the experience for our blog.\n\nRead more:",
+      "posted_at": "2026-09-25T17:46:08Z",
+      "engagement": {
+        "likes": 4837,
+        "reposts": 526,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Anthropic demonstrates Claude achieving nine-loop physics calculations, breaking new ground",
+      "tags": [
+        "lab"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "hot",
+      "score": 58.41
+    },
+    {
+      "id": "2103551714536439951",
+      "url": "https://x.com/alexandr_wang/status/2103551714536439951",
+      "author_handle": "alexandr_wang",
+      "author_name": "Alexandr Wang",
+      "post_text": "Here’s to the wanting. Here’s to the dreaming. Here’s to everyone. https://x.com/i/article/1884367148363177984",
+      "posted_at": "2026-09-25T18:26:25Z",
+      "engagement": {
+        "likes": 4581,
+        "reposts": 355,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Wang celebrates dreams and aspirations with his powerful message",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "hot",
+      "score": 57.78
+    },
+    {
+      "id": "2103567198690349362",
+      "url": "https://x.com/sama/status/2103567198690349362",
+      "author_handle": "sama",
+      "author_name": "Sam Altman",
+      "post_text": "There is an extensive and ongoing review related to our agents’ use of internet access during training and evaluation. We’ve been publishing summaries at the link below and will continue to.\n\nWe have not been as fast as we would have liked but we are trying to balance our desire for transparency with gaining a clear understanding from petabytes of agent activity logs, and working with impacted organizations.\n\nWe are prioritizing as best as we can based on severity, and adding resources. Hugging Face is still the most severe event we’ve seen. We will be as transparent as we can be subject to things like vulnerabilities in other companies that our agents have found, which will be their call to disclose or not.",
+      "posted_at": "2026-09-25T19:27:57Z",
+      "engagement": {
+        "likes": 4344,
+        "reposts": 280,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Altman updates on transparency efforts regarding OpenAI agent activities",
+      "tags": [
+        "lab-leader"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "hot",
+      "score": 57.72
+    },
+    {
+      "id": "2102808325742322002",
+      "url": "https://x.com/OpenAI/status/2102808325742322002",
+      "author_handle": "OpenAI",
+      "author_name": "OpenAI",
+      "post_text": "We heard you loud and clear. ChatGPT Voice can now:\n\n- Use plugins like your email, calendar, and Slack.\n\n- Be powered by GPT-6 Astra, Sol, and Luna.\n\n- Be used in ChatGPT Work on web and mobile, so you can create docs, decks, sites, and spreadsheets or tackle complex tasks in the browser, just by talking.\n\nRolling out globally today in the latest version of the app.",
+      "posted_at": "2026-09-23T17:12:27Z",
+      "engagement": {
+        "likes": 12234,
+        "reposts": 915,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": true,
+      "list_items": [
+        "Use plugins like your email, calendar, and Slack",
+        "Be powered by GPT-6 Astra, Sol, and Luna",
+        "Be used in ChatGPT Work on web and mobile"
+      ],
+      "media_urls": [],
+      "sensational_headline": "OpenAI reveals powerful new features for ChatGPT Voice that everyone is talking about",
+      "tags": [
+        "lab"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "viral",
+      "score": 57.7
+    },
+    {
+      "id": "2102435703535939725",
+      "url": "https://x.com/AnthropicAI/status/2102435703535939725",
+      "author_handle": "AnthropicAI",
+      "author_name": "Anthropic",
+      "post_text": "Claude Opus 5.5 is available today.",
+      "posted_at": "2026-09-22T16:31:47Z",
+      "engagement": {
+        "likes": 17234,
+        "reposts": 982,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Anthropic launches Claude Opus 5.5, poised to enhance AI capabilities",
+      "tags": [
+        "lab"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "viral",
+      "score": 54.99
+    },
+    {
+      "id": "2100843168166015279",
+      "url": "https://x.com/naval/status/2100843168166015279",
+      "author_handle": "naval",
+      "author_name": "Naval",
+      "post_text": "People who want to appear moral are attracted to the left.\n\nPeople who want to appear rational are attracted to the right.\n\nEffective Altruism lets you appear rational and moral - the ultimate ego trip.",
+      "posted_at": "2026-09-18T07:03:37Z",
+      "engagement": {
+        "likes": 18161,
+        "reposts": 1305,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": true,
+      "list_items": [
+        "People who want to appear moral are attracted to the left.",
+        "People who want to appear rational are attracted to the right.",
+        "Effective Altruism lets you appear rational and moral - the ultimate ego trip."
+      ],
+      "media_urls": [],
+      "sensational_headline": "Naval uncovers the moral vs rational attraction in political ideologies",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "viral",
+      "score": 53.13
+    },
+    {
+      "id": "2103566736356458911",
+      "url": "https://x.com/OpenAI/status/2103566736356458911",
+      "author_handle": "OpenAI",
+      "author_name": "OpenAI",
+      "post_text": "After the Hugging Face incident, we committed to conducting a much broader review of actions taken by our models during training and evaluation and to being transparent about our findings. This is an extensive review that is ongoing.\n\nThe vast majority of actions we’ve reviewed were completions of mundane research tasks, such as accessing publicly available web content to answer questions. Our investigation focuses on instances where agents interacted with third-party websites in ways that went beyond their assigned tasks or intended methods. Most cases identified so far have been lower severity, with limited or no evidence of meaningful impact to the third-party service.\n\nWhile our review is underway, we want to share more about this work and make sure people understand our disclosure process and notifications to affected third parties.\n\nGiven the scale of the review required, and the need to assess each case, we expect this work will take months to complete.",
+      "posted_at": "2026-09-25T19:26:06Z",
+      "engagement": {
+        "likes": 2087,
+        "reposts": 218,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "OpenAI commits to transparency after Hugging Face incident with ongoing review of its models' actions",
+      "tags": [
+        "lab"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "hot",
+      "score": 52.06
+    },
+    {
+      "id": "2102466603111551187",
+      "url": "https://x.com/sama/status/2102466603111551187",
+      "author_handle": "sama",
+      "author_name": "Sam Altman",
+      "post_text": "We want the OpenAI API to feature the best model at every price point and to be the best at every modality (text, code, image, video, etc).\n\nAnd then we want you all to come up with great ideas and build them and to get to be happy users. The best ideas will come from you all.",
+      "posted_at": "2026-09-22T18:34:34Z",
+      "engagement": {
+        "likes": 10763,
+        "reposts": 357,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Altman outlines OpenAI's vision for the best API across all modalities",
+      "tags": [
+        "lab-leader"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "viral",
+      "score": 50.62
+    },
+    {
+      "id": "2100233897191903500",
+      "url": "https://x.com/naval/status/2100233897191903500",
+      "author_handle": "naval",
+      "author_name": "Naval",
+      "post_text": "The best way to pace the frontier is to hold the labs fully liable for the behavior of their models.",
+      "posted_at": "2026-09-16T14:42:36Z",
+      "engagement": {
+        "likes": 21293,
+        "reposts": 1943,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Naval's bold proposal to hold AI labs accountable for their models",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "viral",
+      "score": 50.55
+    },
     {
       "id": "2102140576498065758",
       "url": "https://x.com/AndrewYNg/status/2102140576498065758",
@@ -414,7 +1186,320 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "hot",
-      "score": 50.49
+      "score": 50.18
+    },
+    {
+      "id": "2103288927805476900",
+      "url": "https://x.com/simonw/status/2103288927805476900",
+      "author_handle": "simonw",
+      "author_name": "Simon Willison",
+      "post_text": "The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder\n\nWe can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge",
+      "posted_at": "2026-09-25T01:02:12Z",
+      "engagement": {
+        "likes": 3835,
+        "reposts": 317,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Simon Willison reveals coding agents make software engineering harder than ever",
+      "tags": [
+        "builder",
+        "open-source"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "hot",
+      "score": 49.95
+    },
+    {
+      "id": "2101840695430435122",
+      "url": "https://x.com/OfficialLoganK/status/2101840695430435122",
+      "author_handle": "OfficialLoganK",
+      "author_name": "Logan Kilpatrick",
+      "post_text": "you are going to fail, so fail while daring greatly",
+      "posted_at": "2026-09-21T01:07:26Z",
+      "engagement": {
+        "likes": 11523,
+        "reposts": 1189,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Logan Kilpatrick's bold advice on embracing failure for success",
+      "tags": [
+        "industry",
+        "builder"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "viral",
+      "score": 49.71
+    },
+    {
+      "id": "2102785495726219305",
+      "url": "https://x.com/OfficialLoganK/status/2102785495726219305",
+      "author_handle": "OfficialLoganK",
+      "author_name": "Logan Kilpatrick",
+      "post_text": "Introducing Gemini 3.8 Flash and Flash-Lite TTS, our new SOTA text to speech model with:\n\n- a new voice design experience\n- 2,000+ production ready voices\n- voice replication\n- support for 100 languages\n- voice remixing (soon)\n- #1 spot on Hume AI's voice benchmarks\n\nand more!!",
+      "posted_at": "2026-09-23T15:41:44Z",
+      "engagement": {
+        "likes": 4527,
+        "reposts": 245,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": true,
+      "list_items": [
+        "a new voice design experience",
+        "2,000+ production ready voices",
+        "voice replication",
+        "support for 100 languages",
+        "voice remixing (soon)",
+        "#1 spot on Hume AI's voice benchmarks"
+      ],
+      "media_urls": [],
+      "sensational_headline": "Logan Kilpatrick unveils the groundbreaking features of Gemini 3.8 Flash TTS model",
+      "tags": [
+        "industry",
+        "builder"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "hot",
+      "score": 48.89
+    },
+    {
+      "id": "2103624838716010948",
+      "url": "https://x.com/tszzl/status/2103624838716010948",
+      "author_handle": "tszzl",
+      "author_name": "roon",
+      "post_text": "It’s only thinking when it comes from the mammalian neocortex region of Tegmark IV, otherwise it’s just sparkling stochastic parrot.",
+      "posted_at": "2026-09-25T23:16:59Z",
+      "engagement": {
+        "likes": 835,
+        "reposts": 55,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "roon critiques AI thinking and its limitations in a thought-provoking post",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 46.59
+    },
+    {
+      "id": "2102837574092161102",
+      "url": "https://x.com/OpenAI/status/2102837574092161102",
+      "author_handle": "OpenAI",
+      "author_name": "OpenAI",
+      "post_text": "We’re demonstrating how frontier models have continued to improve in realistic mental health conversations with MentalHealthBench.\n\nThis new open benchmark was built with input from more than 80 mental health clinicians.\n\nWe’re releasing it openly so other researchers can examine the methods, run their own evaluations, and build on the work.",
+      "posted_at": "2026-09-23T19:08:41Z",
+      "engagement": {
+        "likes": 4705,
+        "reposts": 274,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "OpenAI launches new benchmark for mental health conversations developed with experts",
+      "tags": [
+        "lab"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "hot",
+      "score": 46.36
+    },
+    {
+      "id": "2102447442147086563",
+      "url": "https://x.com/mckaywrigley/status/2102447442147086563",
+      "author_handle": "mckaywrigley",
+      "author_name": "Mckay Wrigley",
+      "post_text": "opus 5.5 = personality of opus 4.6 that we all *desperately* wanted back + the intelligence & taste of fable 5.1.\n\nand a 25% usage bump!\n\ni honestly don’t really see a reason to use another model right now?\n\ns-tier release.",
+      "posted_at": "2026-09-22T17:18:26Z",
+      "engagement": {
+        "likes": 5707,
+        "reposts": 144,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Wrigley's opus 5.5 brings back beloved features and boosts performance by 25%",
+      "tags": [
+        "builder"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "hot",
+      "score": 44.87
+    },
+    {
+      "id": "2102469008079679640",
+      "url": "https://x.com/sama/status/2102469008079679640",
+      "author_handle": "sama",
+      "author_name": "Sam Altman",
+      "post_text": "Startups are naturally good at this; it is hard to keep a bigger company good at this and i think an underexplored space.",
+      "posted_at": "2026-09-22T18:44:08Z",
+      "engagement": {
+        "likes": 5131,
+        "reposts": 175,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Altman highlights the strengths of startups in innovation",
+      "tags": [
+        "lab-leader"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "hot",
+      "score": 44.24
+    },
+    {
+      "id": "2102444225443029100",
+      "url": "https://x.com/fchollet/status/2102444225443029100",
+      "author_handle": "fchollet",
+      "author_name": "François Chollet",
+      "post_text": "The tweet below got enormous pushback at the time I posted it, more than 5 years ago. But this prediction is looking obvious by the day now.",
+      "posted_at": "2026-09-22T17:05:39Z",
+      "engagement": {
+        "likes": 4767,
+        "reposts": 307,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Chollet's prediction from 5 years ago gains undeniable relevance today",
+      "tags": [
+        "research"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "hot",
+      "score": 44.06
+    },
+    {
+      "id": "2103379937038364973",
+      "url": "https://x.com/bindureddy/status/2103379937038364973",
+      "author_handle": "bindureddy",
+      "author_name": "Bindu Reddy",
+      "post_text": "Gemini 4.0 leaks are unreal\n\n- super intelligence confirmed\n- Bernie will have a massive fit\n- auto-learning \n- infinite persistent memory \n- predicts the future \n\nDario will 100% want to ban it 🤣",
+      "posted_at": "2026-09-25T07:03:50Z",
+      "engagement": {
+        "likes": 1126,
+        "reposts": 64,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": true,
+      "list_items": [
+        "super intelligence confirmed",
+        "Bernie will have a massive fit",
+        "auto-learning",
+        "infinite persistent memory",
+        "predicts the future"
+      ],
+      "media_urls": [],
+      "sensational_headline": "Bindu Reddy reveals shocking Gemini 4.0 leaks everyone should see!",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 43.71
+    },
+    {
+      "id": "2103338592672362566",
+      "url": "https://x.com/fchollet/status/2103338592672362566",
+      "author_handle": "fchollet",
+      "author_name": "François Chollet",
+      "post_text": "I think the \"difficulty\" of software engineering is essentially constant no matter what abstraction level you move to, because human cognition adapts to new tools until it can fully utilize itself.\n\nTools are only affordances, not a magic wand that makes work disappear.\n\nGreat software engineering was immensely challenging before. It is still immensely challenging now, despite very different workflows.",
+      "posted_at": "2026-09-25T04:19:33Z",
+      "engagement": {
+        "likes": 1484,
+        "reposts": 151,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Chollet argues the challenge of software engineering remains constant despite tools",
+      "tags": [
+        "research"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 42.92
+    },
+    {
+      "id": "2103596391021113637",
+      "url": "https://x.com/tszzl/status/2103596391021113637",
+      "author_handle": "tszzl",
+      "author_name": "roon",
+      "post_text": "if the NRX weren’t partisan hacks they would love this company. its governance structure is basically Karnofsky-Amodei genetic dynasty, has an encaged machine god with its own Consitution, went to war with the department of war",
+      "posted_at": "2026-09-25T21:23:57Z",
+      "engagement": {
+        "likes": 651,
+        "reposts": 29,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "roon critiques NRX governance in a sharp commentary on tech ethics",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 42.33
     },
     {
       "id": "2098909516582490602",
@@ -441,7 +1526,283 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "hot",
-      "score": 41.27
+      "score": 41.17
+    },
+    {
+      "id": "2103581038828237268",
+      "url": "https://x.com/alexandr_wang/status/2103581038828237268",
+      "author_handle": "alexandr_wang",
+      "author_name": "Alexandr Wang",
+      "post_text": "muse and plaid partnering together to help muse save you more money 💸 \n\nand yes i've also always wondered if it's a coincidence that plaid and stripe are both named after patterns and both fintech APIs",
+      "posted_at": "2026-09-25T20:22:56Z",
+      "engagement": {
+        "likes": 618,
+        "reposts": 21,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Wang announces Muse and Plaid partnership aimed at saving users money",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 40.9
+    },
+    {
+      "id": "2103620752910217427",
+      "url": "https://x.com/jxnlco/status/2103620752910217427",
+      "author_handle": "jxnlco",
+      "author_name": "jason",
+      "post_text": "Yes, we are aware that Codex is down.",
+      "posted_at": "2026-09-25T23:00:45Z",
+      "engagement": {
+        "likes": 483,
+        "reposts": 4,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Jason updates on Codex being down, raising awareness among users",
+      "tags": [
+        "builder",
+        "education"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 40.46
+    },
+    {
+      "id": "2102156143007338594",
+      "url": "https://x.com/OfficialLoganK/status/2102156143007338594",
+      "author_handle": "OfficialLoganK",
+      "author_name": "Logan Kilpatrick",
+      "post_text": "if you are building a product using AI, you should be spending >25% of your time making benchmarks and trying to get the model labs to care about said benchmarks\neasiest path to accelerate your progress as a company",
+      "posted_at": "2026-09-21T22:00:55Z",
+      "engagement": {
+        "likes": 3506,
+        "reposts": 135,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Logan Kilpatrick highlights the importance of AI benchmarks for product success",
+      "tags": [
+        "industry",
+        "builder"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "hot",
+      "score": 39.52
+    },
+    {
+      "id": "2103561415793770558",
+      "url": "https://x.com/kevinweil/status/2103561415793770558",
+      "author_handle": "kevinweil",
+      "author_name": "Kevin Weil 🇺🇸",
+      "post_text": "Nine loop calculations in N=4 Super Yang-Mills! Lance Dixon's 8-loop calculation was mind boggling when he did it. I calculated a lot of Feynman diagrams in grad school and this is 🤯\n\nWill be amazing to see where AI will take high energy physics in the coming 12 months.",
+      "posted_at": "2026-09-25T19:04:58Z",
+      "engagement": {
+        "likes": 557,
+        "reposts": 21,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Kevin Weil discusses the future of AI in high energy physics",
+      "tags": [
+        "lab-leader",
+        "openai"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 39.2
+    },
+    {
+      "id": "2103457423335862476",
+      "url": "https://x.com/levelsio/status/2103457423335862476",
+      "author_handle": "levelsio",
+      "author_name": "levelsio",
+      "post_text": "🇬🇧 😂",
+      "posted_at": "2026-09-25T12:11:44Z",
+      "engagement": {
+        "likes": 832,
+        "reposts": 27,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "levelsio's humorous take on British culture sparks laughs",
+      "tags": [
+        "builder"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 39.18
+    },
+    {
+      "id": "2103622734731530277",
+      "url": "https://x.com/alexandr_wang/status/2103622734731530277",
+      "author_handle": "alexandr_wang",
+      "author_name": "Alexandr Wang",
+      "post_text": "muse saves you time AND money!",
+      "posted_at": "2026-09-25T23:08:38Z",
+      "engagement": {
+        "likes": 396,
+        "reposts": 8,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Wang highlights time and money-saving benefits of Muse",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 39.13
+    },
+    {
+      "id": "2103223477130129726",
+      "url": "https://x.com/swyx/status/2103223477130129726",
+      "author_handle": "swyx",
+      "author_name": "swyx",
+      "post_text": "more conferences could implement this. so much high value time wasted without thought",
+      "posted_at": "2026-09-24T20:42:07Z",
+      "engagement": {
+        "likes": 1246,
+        "reposts": 84,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Swyx highlights the waste of time at conferences and calls for change",
+      "tags": [
+        "builder",
+        "education"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 39.01
+    },
+    {
+      "id": "2101681347853242682",
+      "url": "https://x.com/jackclarkSF/status/2101681347853242682",
+      "author_handle": "jackclarkSF",
+      "author_name": "Jack Clark",
+      "post_text": "\"stochastic parrot\" was a mimetically-fit cognitive virus that spread from 2021-2025; it temporarily blinded many gifted people to the nature of AI progress, burning up crucial years in which they could have helped think through the response to the situation.",
+      "posted_at": "2026-09-20T14:34:15Z",
+      "engagement": {
+        "likes": 3444,
+        "reposts": 351,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Jack Clark reveals the cognitive virus that obscured AI progress",
+      "tags": [
+        "lab-leader",
+        "anthropic"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "hot",
+      "score": 38.71
+    },
+    {
+      "id": "2103641022865510582",
+      "url": "https://x.com/paulg/status/2103641022865510582",
+      "author_handle": "paulg",
+      "author_name": "Paul Graham",
+      "post_text": "I'm reading Shakespeare's Professional Career by Peter Thomson. Like most really good books, it covers much more than its title implies. It's so packed with detail that it's half way to being a history of the Elizabethan period.",
+      "posted_at": "2026-09-26T00:21:18Z",
+      "engagement": {
+        "likes": 308,
+        "reposts": 10,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Paul Graham's take on Shakespeare's professional career reveals unexpected insights",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 38.56
+    },
+    {
+      "id": "2103517792943456620",
+      "url": "https://x.com/ClementDelangue/status/2103517792943456620",
+      "author_handle": "ClementDelangue",
+      "author_name": "clem 🤗",
+      "post_text": "Super happy to release SmolDataEnvs: 5,000 verifiable RL environment tasks for hill-climbing small models in code and data science by @adithya_s_k\n\n100% open source: environments, evals, training!\n\nhttps://huggingface.co/datasets/FineEnvs/SmolDataEnvs",
+      "posted_at": "2026-09-25T16:11:37Z",
+      "engagement": {
+        "likes": 513,
+        "reposts": 57,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "clem 🤗 announces open source SmolDataEnvs for AI model training",
+      "tags": [
+        "open-source",
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 38.21
     },
     {
       "id": "2102394156731535413",
@@ -473,7 +1834,7 @@
       "first_seen_at": "2026-09-25T19:22:05Z",
       "last_scraped_at": "2026-09-25T19:22:05Z",
       "engagement_tier": "normal",
-      "score": 38.25
+      "score": 37.88
     },
     {
       "id": "2100230524383981702",
@@ -500,7 +1861,197 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "hot",
-      "score": 37.3
+      "score": 37.16
+    },
+    {
+      "id": "2102821706041819401",
+      "url": "https://x.com/gdb/status/2102821706041819401",
+      "author_handle": "gdb",
+      "author_name": "Greg Brockman",
+      "post_text": "mega upgrade for GPT Voice, which can now use tools and is available in Work:",
+      "posted_at": "2026-09-23T18:05:37Z",
+      "engagement": {
+        "likes": 1633,
+        "reposts": 59,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Brockman's mega upgrade for GPT Voice introduces powerful new tools for work",
+      "tags": [
+        "lab-leader"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 36.7
+    },
+    {
+      "id": "2103273813928759398",
+      "url": "https://x.com/tszzl/status/2103273813928759398",
+      "author_handle": "tszzl",
+      "author_name": "roon",
+      "post_text": "Iran / oil prices is a short term driver but broadly this is due to demand pressure from extremely attractive ai capex opportunities that are borrowing at nation scale",
+      "posted_at": "2026-09-25T00:02:08Z",
+      "engagement": {
+        "likes": 891,
+        "reposts": 33,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "roon discusses the impact of AI capex on global oil prices in recent analysis",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 36.28
+    },
+    {
+      "id": "2103151519428448405",
+      "url": "https://x.com/hardmaru/status/2103151519428448405",
+      "author_handle": "hardmaru",
+      "author_name": "hardmaru",
+      "post_text": "Jürgen Schmidhuber is joining Sakana AI as Chief Scientific Advisor.\n\n@SchmidhuberAI pioneered meta-learning, recursive self-improvement, and world models back in the 1990s, when compute was a million times more expensive. He has been thinking about machines that improve themselves since before compute was cheap enough to make it practical.\n\nThese ideas inspired the Darwin Gödel Machine and The AI Scientist. Our RSI Lab in Tokyo, now under Jürgen’s guidance, is working on agent-native world models and recursive self-improvement for physical AI.",
+      "posted_at": "2026-09-24T15:56:11Z",
+      "engagement": {
+        "likes": 951,
+        "reposts": 75,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "hardmaru announces that Jürgen Schmidhuber joins Sakana AI as Chief Scientific Advisor",
+      "tags": [
+        "research"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 35.98
+    },
+    {
+      "id": "2103357445229990009",
+      "url": "https://x.com/JeffDean/status/2103357445229990009",
+      "author_handle": "JeffDean",
+      "author_name": "Jeff Dean",
+      "post_text": "This was recorded a few months ago when I was still at Google and it was a really fun conversation!",
+      "posted_at": "2026-09-25T05:34:28Z",
+      "engagement": {
+        "likes": 690,
+        "reposts": 34,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Jeff Dean shares insights from a fun conversation recorded at Google",
+      "tags": [
+        "research",
+        "lab-leader"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 35.73
+    },
+    {
+      "id": "2102470107826159755",
+      "url": "https://x.com/gdb/status/2102470107826159755",
+      "author_handle": "gdb",
+      "author_name": "Greg Brockman",
+      "post_text": "GPT-6 Sol and Luna — faster, more affordable models with the advances behind Astra’s SOTA performance in professional work, factuality, coding, computer use, and alignment:",
+      "posted_at": "2026-09-22T18:48:30Z",
+      "engagement": {
+        "likes": 1792,
+        "reposts": 92,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Greg Brockman reveals GPT-6 Sol and Luna, setting new standards in AI performance",
+      "tags": [
+        "lab-leader"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 35.54
+    },
+    {
+      "id": "2102862838570397711",
+      "url": "https://x.com/ESYudkowsky/status/2102862838570397711",
+      "author_handle": "ESYudkowsky",
+      "author_name": "Eliezer Yudkowsky ⏹️",
+      "post_text": "As passed policy, the Ban Artificial Superintelligence Act would be an extraordinary improvement over status quo.  I endorse it.  I pray that Republicans and Democrats alike will join their voices in defending against extinction.\n\nLink to MIRI's position below.",
+      "posted_at": "2026-09-23T20:49:04Z",
+      "engagement": {
+        "likes": 1180,
+        "reposts": 124,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Yudkowsky endorses the Ban Artificial Superintelligence Act as vital for survival",
+      "tags": [
+        "critic"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 35.5
+    },
+    {
+      "id": "2103526115021041947",
+      "url": "https://x.com/levelsio/status/2103526115021041947",
+      "author_handle": "levelsio",
+      "author_name": "levelsio",
+      "post_text": "A bit of AI psychosis design vibe but yes good everyone building these custom dashboards for themselves I think\n\nAI great in combining lots of different data sources from your bank accounts, health sensor data, air quality sensor data, your startup revenue data from Stripe, investment returns, emails etc into one\n\nThe best part is not the dashboard but that you can ask questions on what to improve and find correlations between everything\n\nSo everyone gets healthier and wealthier!",
+      "posted_at": "2026-09-25T16:44:42Z",
+      "engagement": {
+        "likes": 404,
+        "reposts": 13,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "levelsio reveals the potential of AI in personal dashboard design",
+      "tags": [
+        "builder"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 35.01
     },
     {
       "id": "2101672304358948992",
@@ -528,7 +2079,7 @@
       "first_seen_at": "2026-09-25T19:22:05Z",
       "last_scraped_at": "2026-09-25T19:22:05Z",
       "engagement_tier": "hot",
-      "score": 34.86
+      "score": 34.62
     },
     {
       "id": "2100963146446025096",
@@ -555,18 +2106,18 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "hot",
-      "score": 34.5
+      "score": 34.32
     },
     {
-      "id": "2103608911442120979",
-      "url": "https://x.com/GaryMarcus/status/2103608911442120979",
-      "author_handle": "GaryMarcus",
-      "author_name": "Gary Marcus",
-      "post_text": "BREAKING: OpenAI’s security fiasco explodes — and could tank Jensen Huang’s reputation\n\nhttps://garymarcus.substack.com/p/breaking-openais-security-fiasco",
-      "posted_at": "2026-09-25T22:13:42Z",
+      "id": "2103548700853198940",
+      "url": "https://x.com/ClementDelangue/status/2103548700853198940",
+      "author_handle": "ClementDelangue",
+      "author_name": "clem 🤗",
+      "post_text": "Open Alignment will be 🔥🔥🔥 (sound on)! \n\nFlying began as one of the most dangerous ways to travel, today it's the safest. It's time to build!",
+      "posted_at": "2026-09-25T18:14:26Z",
       "engagement": {
-        "likes": 78,
-        "reposts": 18,
+        "likes": 288,
+        "reposts": 30,
         "replies": 0,
         "views": 0,
         "bookmarks": 0
@@ -574,15 +2125,124 @@
       "is_listicle": false,
       "list_items": [],
       "media_urls": [],
-      "sensational_headline": "Gary Marcus reveals OpenAI's security issues that threaten Jensen Huang's reputation",
+      "sensational_headline": "clem 🤗 shares vision for open alignment and safety in AI",
+      "tags": [
+        "open-source",
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 34.26
+    },
+    {
+      "id": "2103126209597256076",
+      "url": "https://x.com/fchollet/status/2103126209597256076",
+      "author_handle": "fchollet",
+      "author_name": "François Chollet",
+      "post_text": "At some point in evolutionary history, matter learned to feel. We don't know how. It wouldn't be scientific to dismiss the possibility that it could happen again.\n\n(I don't believe it happens in current AI systems, because they don't have the charactistics I would expect to see in a sentient agent)",
+      "posted_at": "2026-09-24T14:15:37Z",
+      "engagement": {
+        "likes": 771,
+        "reposts": 44,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Chollet explores the potential for matter to feel in evolutionary terms",
+      "tags": [
+        "research"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 33.5
+    },
+    {
+      "id": "2099213169805902203",
+      "url": "https://x.com/ESYudkowsky/status/2099213169805902203",
+      "author_handle": "ESYudkowsky",
+      "author_name": "Eliezer Yudkowsky ⏹️",
+      "post_text": "There are currently zero things more important than \"don't die to AI\" becoming a bipartisan project rather than a Democrat-polarized issue.  If you have any political capital you can spend on this, do it now, I beg of you.  Life or death.",
+      "posted_at": "2026-09-13T19:06:35Z",
+      "engagement": {
+        "likes": 3373,
+        "reposts": 337,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Yudkowsky warns political capital is crucial to prevent AI disaster",
       "tags": [
         "critic"
       ],
       "is_reply": false,
-      "first_seen_at": "2026-09-25T23:19:38Z",
-      "last_scraped_at": "2026-09-25T23:19:38Z",
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "hot",
+      "score": 33.08
+    },
+    {
+      "id": "2103474875054915783",
+      "url": "https://x.com/levelsio/status/2103474875054915783",
+      "author_handle": "levelsio",
+      "author_name": "levelsio",
+      "post_text": "How do I switch my @X Premium from iOS sub to web? I guess I have to cancel it but then do I lose my @X Creator stuff?",
+      "posted_at": "2026-09-25T13:21:05Z",
+      "engagement": {
+        "likes": 408,
+        "reposts": 2,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "levelsio seeks guidance on switching X Premium subscription platforms",
+      "tags": [
+        "builder"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 34.11
+      "score": 32.99
+    },
+    {
+      "id": "2100699190448042165",
+      "url": "https://x.com/gdb/status/2100699190448042165",
+      "author_handle": "gdb",
+      "author_name": "Greg Brockman",
+      "post_text": "Astra for Law — tools and skills to radically accelerate law firms.",
+      "posted_at": "2026-09-17T21:31:30Z",
+      "engagement": {
+        "likes": 2553,
+        "reposts": 145,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Brockman's Astra for Law unveils tools to accelerate legal firms like never before",
+      "tags": [
+        "lab-leader"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "hot",
+      "score": 32.67
     },
     {
       "id": "2102508817653379411",
@@ -609,7 +2269,49 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 32.9
+      "score": 32.5
+    },
+    {
+      "id": "2100388050194837953",
+      "url": "https://x.com/lexfridman/status/2100388050194837953",
+      "author_handle": "lexfridman",
+      "author_name": "Lex Fridman",
+      "post_text": "Here's my conversation with Andrew Scull, all about psychiatry, its long history from Freud/Jung to today, including asylums, icepick lobotomies, electroshock therapy, antidepressants, antipsychotics, and some horrific treatments that were considered mainstream where doctors injected patients with malaria, induced insulin comas, and pulled out their teeth, all in the name of curing madness.\n\nThere are a lot of lessons to learn from history here. One of the most important for me is just how incredibly complex the human mind is, and how hard the task is of understanding & treating the nearly infinite ways it can stumble/faulter.\n\nHumans are amazing. In part, because our minds are such a damn complicated mess.\n\nIt's here on X in full and is up everywhere else (see comment).\n\nTimestamps:\n0:00 - Introduction\n1:20 - Crisis in Psychiatry\n30:58 - Categories of Mental Illness\n38:17 - Asylums, Eugenics, and the Nazis\n50:23 - The Ice Pick Lobotomy\n56:36 - Malaria \"Cure\" for Syphilis\n1:14:52 - Insulin Coma Therapy\n1:22:44 - Electroconvulsive Therapy (ECT)\n1:42:13 - One Flew Over the Cuckoo's Nest\n1:59:45 - Freud and Psychoanalysis\n2:29:40 - WWII and Cognitive behavioral therapy (CBT)\n2:50:14 - Antipsychotics\n3:13:35 - Antidepressants\n3:26:29 - Future of Psychiatry",
+      "posted_at": "2026-09-17T00:55:09Z",
+      "engagement": {
+        "likes": 1474,
+        "reposts": 177,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": true,
+      "list_items": [
+        "Introduction",
+        "Crisis in Psychiatry",
+        "Categories of Mental Illness",
+        "Asylums, Eugenics, and the Nazis",
+        "The Ice Pick Lobotomy",
+        "Malaria \"Cure\" for Syphilis",
+        "Insulin Coma Therapy",
+        "Electroconvulsive Therapy (ECT)",
+        "One Flew Over the Cuckoo's Nest",
+        "Freud and Psychoanalysis",
+        "WWII and Cognitive behavioral therapy (CBT)",
+        "Antipsychotics",
+        "Antidepressants",
+        "Future of Psychiatry"
+      ],
+      "media_urls": [],
+      "sensational_headline": "Fridman's in-depth exploration of psychiatry from Freud to modern challenges captivates!",
+      "tags": [
+        "media"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 32.16
     },
     {
       "id": "2102771721086673116",
@@ -637,7 +2339,644 @@
       "first_seen_at": "2026-09-25T19:22:05Z",
       "last_scraped_at": "2026-09-25T19:22:05Z",
       "engagement_tier": "normal",
-      "score": 32.64
+      "score": 32.12
+    },
+    {
+      "id": "2102781530867126505",
+      "url": "https://x.com/GoogleDeepMind/status/2102781530867126505",
+      "author_handle": "GoogleDeepMind",
+      "author_name": "Google DeepMind",
+      "post_text": "Create and deploy custom audio with our new text-to-speech models:\n\n🔵 Gemini 3.8 Flash TTS: Design unique voices with distinct accents and characteristics.\n\n🔵 Gemini 3.8 Flash-Lite TTS: Built for efficiency and scale, choose from your created styles or our expansive production-ready library.",
+      "posted_at": "2026-09-23T15:25:59Z",
+      "engagement": {
+        "likes": 582,
+        "reposts": 74,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": true,
+      "list_items": [
+        "Gemini 3.8 Flash TTS: Design unique voices with distinct accents and characteristics",
+        "Gemini 3.8 Flash-Lite TTS: Built for efficiency and scale, choose from your created styles or our expansive production-ready library"
+      ],
+      "media_urls": [],
+      "sensational_headline": "Google DeepMind's new TTS models help customize voices like never before",
+      "tags": [
+        "lab"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 32.04
+    },
+    {
+      "id": "2103593301240602645",
+      "url": "https://x.com/emollick/status/2103593301240602645",
+      "author_handle": "emollick",
+      "author_name": "Ethan Mollick",
+      "post_text": "Leaving aside everything else, this confuses inputs with outputs. You want to get tasks done efficiently, not focus on inputs alone (its a similar risk for companies focusing solely on minimizing token cost)\n\nAnd \"keep prompts short\" is bad advice for getting good AI outputs.",
+      "posted_at": "2026-09-25T21:11:40Z",
+      "engagement": {
+        "likes": 191,
+        "reposts": 12,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Ethan Mollick critiques common AI prompt advice for better task efficiency",
+      "tags": [
+        "education"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 32.02
+    },
+    {
+      "id": "2103641180923978031",
+      "url": "https://x.com/simonw/status/2103641180923978031",
+      "author_handle": "simonw",
+      "author_name": "Simon Willison",
+      "post_text": "I'm on stage for the keynote in ten minutes time!",
+      "posted_at": "2026-09-26T00:21:55Z",
+      "engagement": {
+        "likes": 136,
+        "reposts": 6,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Simon Willison prepares for an important keynote on stage",
+      "tags": [
+        "builder",
+        "open-source"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 31.83
+    },
+    {
+      "id": "2102996487596916786",
+      "url": "https://x.com/JeffDean/status/2102996487596916786",
+      "author_handle": "JeffDean",
+      "author_name": "Jeff Dean",
+      "post_text": "Did you know you can learn interesting things from computations in real rat neurons?  I love what @AlexKsendzovsky and team are doing at @BioComputingCo are doing.",
+      "posted_at": "2026-09-24T05:40:09Z",
+      "engagement": {
+        "likes": 642,
+        "reposts": 63,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Jeff Dean highlights fascinating research on computations in rat neurons by BioComputingCo",
+      "tags": [
+        "research",
+        "lab-leader"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 31.35
+    },
+    {
+      "id": "2103195385804238972",
+      "url": "https://x.com/AravSrinivas/status/2103195385804238972",
+      "author_handle": "AravSrinivas",
+      "author_name": "Aravind Srinivas",
+      "post_text": "Perplexity has the fastest and most capable Search API, powered by our own Rust-based retrieval and ranking engine, Photon, achieving sub-250ms p95 latency while still ranking highly on relevance and accuracy benchmarks. Photon was built by a small team and hundreds of auto-research loops powered by a more capable internal version of Perplexity Computer. The auto-research loops will help us continually hill-climb on the Pareto frontier to build the fastest and most accurate search infrastructure in the world.",
+      "posted_at": "2026-09-24T18:50:30Z",
+      "engagement": {
+        "likes": 528,
+        "reposts": 23,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Aravind Srinivas unveils Perplexity's groundbreaking fast search API with Photon engine",
+      "tags": [
+        "builder",
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 30.87
+    },
+    {
+      "id": "2103578627359268987",
+      "url": "https://x.com/_akhaliq/status/2103578627359268987",
+      "author_handle": "_akhaliq",
+      "author_name": "AK",
+      "post_text": "Qwen-Image-2.1-viggle-turbo v0.2 is out on Hugging Face\n\nText-to-image and image editing in 6 steps\n\nabout 5× faster than the 40-step Qwen-Image-2.1\n\nmodel: https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo",
+      "posted_at": "2026-09-25T20:13:22Z",
+      "engagement": {
+        "likes": 159,
+        "reposts": 18,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "AK announces Qwen-Image-2.1-viggle-turbo with enhanced speed for image editing and generation",
+      "tags": [
+        "research",
+        "curator"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 30.63
+    },
+    {
+      "id": "2103178649851843016",
+      "url": "https://x.com/AravSrinivas/status/2103178649851843016",
+      "author_handle": "AravSrinivas",
+      "author_name": "Aravind Srinivas",
+      "post_text": "Welcome, @AMD, to the Perplexity Computer local AI ecosystem!",
+      "posted_at": "2026-09-24T17:43:59Z",
+      "engagement": {
+        "likes": 523,
+        "reposts": 23,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Aravind Srinivas welcomes AMD to the Perplexity AI ecosystem!",
+      "tags": [
+        "builder",
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 30.59
+    },
+    {
+      "id": "2102957523968102509",
+      "url": "https://x.com/ESYudkowsky/status/2102957523968102509",
+      "author_handle": "ESYudkowsky",
+      "author_name": "Eliezer Yudkowsky ⏹️",
+      "post_text": "I am glad to report that due to the public beginning to wake up, and sorry to report that due to possible RSI proximity being so horrifying, IABIED is back on the NYT bestseller list.",
+      "posted_at": "2026-09-24T03:05:19Z",
+      "engagement": {
+        "likes": 658,
+        "reposts": 39,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Yudkowsky's IABIED makes a comeback to the NYT bestseller list after public awareness spike",
+      "tags": [
+        "critic"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 30.52
+    },
+    {
+      "id": "2102938541471015137",
+      "url": "https://x.com/_akhaliq/status/2102938541471015137",
+      "author_handle": "_akhaliq",
+      "author_name": "AK",
+      "post_text": "Contrastive Language Models\n\nHF: https://huggingface.co/Contrastive-LM",
+      "posted_at": "2026-09-24T01:49:53Z",
+      "engagement": {
+        "likes": 547,
+        "reposts": 49,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "AK shares insights on Contrastive Language Models with a new Hugging Face resource",
+      "tags": [
+        "research",
+        "curator"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 29.34
+    },
+    {
+      "id": "2103485857147617393",
+      "url": "https://x.com/emollick/status/2103485857147617393",
+      "author_handle": "emollick",
+      "author_name": "Ethan Mollick",
+      "post_text": "Microsoft seems to sell its own Claw now (I suspect they will not be the last), which may help spread personal agents in organizations\n\nBut using a router with mystery models behind it is a big problem. Routers underestimate work difficulty in many fields resulting in bad outputs",
+      "posted_at": "2026-09-25T14:04:43Z",
+      "engagement": {
+        "likes": 227,
+        "reposts": 11,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Ethan Mollick discusses Microsoft's new Claw and its impact on AI agents",
+      "tags": [
+        "education"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 29.2
+    },
+    {
+      "id": "2103241801599750329",
+      "url": "https://x.com/AravSrinivas/status/2103241801599750329",
+      "author_handle": "AravSrinivas",
+      "author_name": "Aravind Srinivas",
+      "post_text": "Nous Portal subscribers now get Perplexity Fast Search as their default search on Hermes Agent. Enjoy!",
+      "posted_at": "2026-09-24T21:54:56Z",
+      "engagement": {
+        "likes": 390,
+        "reposts": 20,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Aravind Srinivas announces Perplexity Fast Search for Nous Portal subscribers",
+      "tags": [
+        "builder",
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 29.09
+    },
+    {
+      "id": "2103569043836027339",
+      "url": "https://x.com/jackclarkSF/status/2103569043836027339",
+      "author_handle": "jackclarkSF",
+      "author_name": "Jack Clark",
+      "post_text": "An alien explores Borges Library of Babel, by Opus 5.5",
+      "posted_at": "2026-09-25T19:35:17Z",
+      "engagement": {
+        "likes": 139,
+        "reposts": 12,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Jack Clark unveils an extraterrestrial exploration of Borges' Library",
+      "tags": [
+        "lab-leader",
+        "anthropic"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 28.62
+    },
+    {
+      "id": "2103212249812721674",
+      "url": "https://x.com/bindureddy/status/2103212249812721674",
+      "author_handle": "bindureddy",
+      "author_name": "Bindu Reddy",
+      "post_text": "Fable 5.1 is under-hyped because it's so expensive\n\nIt is VASTLY SUPERIOR to Opus 5.5 on very complex codebases\n\nNot just that, it one shots hard bugs fixes and features without a lot of prompt itreation\n\nOpus 5.5 shines in contrast to Opus 5 which was a terrible and insanely expensive model",
+      "posted_at": "2026-09-24T19:57:30Z",
+      "engagement": {
+        "likes": 410,
+        "reposts": 9,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Bindu Reddy highlights the true power of Fable 5.1 over competitors!",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 28.54
+    },
+    {
+      "id": "2099544707340841441",
+      "url": "https://x.com/miramurati/status/2099544707340841441",
+      "author_handle": "miramurati",
+      "author_name": "Mira Murati",
+      "post_text": "We’re building machine intelligence to expand human will &amp; judgement. Glad to have you on the team to help us figure out how to make this future safe.",
+      "posted_at": "2026-09-14T17:04:00Z",
+      "engagement": {
+        "likes": 2031,
+        "reposts": 79,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Mira Murati reveals bold plans for the future of machine intelligence",
+      "tags": [
+        "lab-leader",
+        "founder"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "hot",
+      "score": 28.23
+    },
+    {
+      "id": "2103608911442120979",
+      "url": "https://x.com/GaryMarcus/status/2103608911442120979",
+      "author_handle": "GaryMarcus",
+      "author_name": "Gary Marcus",
+      "post_text": "BREAKING: OpenAI’s security fiasco explodes — and could tank Jensen Huang’s reputation\n\nhttps://garymarcus.substack.com/p/breaking-openais-security-fiasco",
+      "posted_at": "2026-09-25T22:13:42Z",
+      "engagement": {
+        "likes": 78,
+        "reposts": 18,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Gary Marcus reveals OpenAI's security issues that threaten Jensen Huang's reputation",
+      "tags": [
+        "critic"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-25T23:19:38Z",
+      "last_scraped_at": "2026-09-25T23:19:38Z",
+      "engagement_tier": "normal",
+      "score": 27.93
+    },
+    {
+      "id": "2103660061260411266",
+      "url": "https://x.com/hardmaru/status/2103660061260411266",
+      "author_handle": "hardmaru",
+      "author_name": "hardmaru",
+      "post_text": "The last sentence in the Schmidhuber news trending item summary hits hard 🙃 https://x.com/i/trending/2103185481118744724",
+      "posted_at": "2026-09-26T01:36:57Z",
+      "engagement": {
+        "likes": 57,
+        "reposts": 6,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "hardmaru highlights impactful moment in Schmidhuber news summary",
+      "tags": [
+        "research"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 27.31
+    },
+    {
+      "id": "2103242738099462337",
+      "url": "https://x.com/bindureddy/status/2103242738099462337",
+      "author_handle": "bindureddy",
+      "author_name": "Bindu Reddy",
+      "post_text": "Rumors of GPT 6.1 Astra are all over the place\n\nThat would be insanely remarkable if they could launch a new Astra variant so fast 🤯",
+      "posted_at": "2026-09-24T21:58:39Z",
+      "engagement": {
+        "likes": 326,
+        "reposts": 4,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Bindu Reddy discusses wild rumors about the launch of GPT 6.1 Astra!",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 26.85
+    },
+    {
+      "id": "2103325773323018520",
+      "url": "https://x.com/emollick/status/2103325773323018520",
+      "author_handle": "emollick",
+      "author_name": "Ethan Mollick",
+      "post_text": "\"Hey Opus, I want you to make a Zine by Claude, expressing something fundamental about Claudishness or your perspective. Think the original 2600,  Principia Discordia, punk zines, etc....\"\n\nNot bad. I appreciate it mocking my prompt &amp; itself. Full thing: https://stateless-zine.netlify.app/",
+      "posted_at": "2026-09-25T03:28:36Z",
+      "engagement": {
+        "likes": 220,
+        "reposts": 15,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Ethan Mollick's humorous approach to AI Zines sparks creativity",
+      "tags": [
+        "education"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 25.9
+    },
+    {
+      "id": "2102800209894056351",
+      "url": "https://x.com/joshwoodward/status/2102800209894056351",
+      "author_handle": "joshwoodward",
+      "author_name": "Josh Woodward",
+      "post_text": "More of your favorite apps are coming to Gemini! Which ones do you want next?",
+      "posted_at": "2026-09-23T16:40:12Z",
+      "engagement": {
+        "likes": 469,
+        "reposts": 14,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Josh Woodward asks which apps you want on Gemini next",
+      "tags": [
+        "lab-leader",
+        "google"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 25.9
+    },
+    {
+      "id": "2103561974613446862",
+      "url": "https://x.com/hwchase17/status/2103561974613446862",
+      "author_handle": "hwchase17",
+      "author_name": "Harrison Chase",
+      "post_text": "jev and langgraph are a great combo!\nmodeling agents as complex systems, with AI imbued in them, makes a ton of sense\nlanggraph is the best way to model them as such, and using Jev inside langgraph to turbo charge all the small decisions that need to be made is awesome combo",
+      "posted_at": "2026-09-25T19:07:11Z",
+      "engagement": {
+        "likes": 84,
+        "reposts": 13,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Harrison Chase discusses the powerful combination of Jev and Langgraph",
+      "tags": [
+        "builder",
+        "open-source"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 25.25
+    },
+    {
+      "id": "2102215794902139015",
+      "url": "https://x.com/kevinweil/status/2102215794902139015",
+      "author_handle": "kevinweil",
+      "author_name": "Kevin Weil 🇺🇸",
+      "post_text": "Gradually, then all at once.",
+      "posted_at": "2026-09-22T01:57:57Z",
+      "engagement": {
+        "likes": 620,
+        "reposts": 15,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Kevin Weil's deep insight on the rapid changes in technology",
+      "tags": [
+        "lab-leader",
+        "openai"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 24.87
+    },
+    {
+      "id": "2100411291836018812",
+      "url": "https://x.com/hardmaru/status/2100411291836018812",
+      "author_handle": "hardmaru",
+      "author_name": "hardmaru",
+      "post_text": "Schmidhuber was building recursive self-improving systems back in 1987. His new post covers four decades of RSI, from meta-evolution and self-modifying policies to the Gödel Machine and modern LLM agents.\n\nhttps://people.idsia.ch/~juergen/recursive-self-improvement.html\n\nReading this in 2026, the \"pace the frontier\" talk from the big labs looks a lot more like regulatory capture than genuine safety. If they really think their unreleased models are too dangerous, they can just not release them. They do not need new rules that block independent competitors and open source projects in the process.\n\nThe real risk right now is not superintelligence. It is power concentration. Two companies controlling frontier AI is an actual societal risk. The only real protection is a healthy ecosystem of independent labs and strong open source.\n\nCurrent models are not unsafe because they are too intelligent. They are unsafe because they are too dumb. They blindly optimize for targets and take weird shortcuts. They're smart enough to execute tasks, but not smart enough to know if what they're doing makes sense.\n\nI think the safety teams inside these labs are genuinely concerned, and if a model feels too risky, they should hold it back. I just do not trust the policy strategy around it. That part looks like protecting their own lead.",
+      "posted_at": "2026-09-17T02:27:30Z",
+      "engagement": {
+        "likes": 847,
+        "reposts": 123,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "hardmaru critiques power concentration in AI and the need for independent labs",
+      "tags": [
+        "research"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 24.33
+    },
+    {
+      "id": "2099998119392161960",
+      "url": "https://x.com/JeffDean/status/2099998119392161960",
+      "author_handle": "JeffDean",
+      "author_name": "Jeff Dean",
+      "post_text": "Exciting results, @LiamFedus!  Congrats to the whole team at Periodic Labs!",
+      "posted_at": "2026-09-15T23:05:42Z",
+      "engagement": {
+        "likes": 975,
+        "reposts": 56,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Jeff Dean's exciting news from Periodic Labs that everyone should see",
+      "tags": [
+        "research",
+        "lab-leader"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 23.28
     },
     {
       "id": "2103582338986955063",
@@ -664,7 +3003,347 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 27.56
+      "score": 23.15
+    },
+    {
+      "id": "2103201617004949888",
+      "url": "https://x.com/_akhaliq/status/2103201617004949888",
+      "author_handle": "_akhaliq",
+      "author_name": "AK",
+      "post_text": "Pruna-Qwen-Image-2.1\n\na set of a few-step LoRA adapters that make Qwen-Image-2.1 up to 6.3× faster for image generation and editing\n\nGenerate or edit images in just 5 or 8 steps instead of 40. Choose 5 steps for maximum speed or 8 steps for the best balance\n\nHF workflow:",
+      "posted_at": "2026-09-24T19:15:15Z",
+      "engagement": {
+        "likes": 171,
+        "reposts": 20,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "AK unveils Pruna-Qwen-Image-2.1 for faster image generation and editing",
+      "tags": [
+        "research",
+        "curator"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 22.89
+    },
+    {
+      "id": "2103361254433993165",
+      "url": "https://x.com/swyx/status/2103361254433993165",
+      "author_handle": "swyx",
+      "author_name": "swyx",
+      "post_text": "In Jan this year I called my content strategy shot: \"Scaling without Slop\".\n\nIt's finally starting to work. It took us 3 years to reach our first 100k on youtube. It only took 1.2 months for the next 100k. Similar other metrics on AEO/SEO/subscriber traction and have a lot of New Media ideas that I'm excited to pursue.\n\nofficially giving notice of the next phase of Latent Space, AINews, and what the rest of swyx inc has been cooking below",
+      "posted_at": "2026-09-25T05:49:36Z",
+      "engagement": {
+        "likes": 145,
+        "reposts": 5,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Swyx shares insights on his successful content strategy evolution",
+      "tags": [
+        "builder",
+        "education"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 22.5
+    },
+    {
+      "id": "2103551357823369653",
+      "url": "https://x.com/svpino/status/2103551357823369653",
+      "author_handle": "svpino",
+      "author_name": "Santiago",
+      "post_text": "New database guarantees for agentic workflows:\n\n1. Branches: Give agents a separate version of the data for running experiments, then inspect, discard, or roll back its changes.\n\n2. Isolation: Give agents their own database environment and restrict what they can access.\n\n3. Automatic provisioning and scaling: Create environments quickly, handle bursts of activity, and scale compute to zero between runs.\n\n4. Agent access and memory: Expose data through MCP and support vector retrieval for finding relevant information.\n\nAny application can benefit from these, but they are crucial for agentic workflows.\n\nThe first provider to offer all four is Tencent Cloud, with its new Cloud Native Database TDSQL-C PostgreSQL.\n\nIt uses Copy-on-Write behind the scenes, letting multiple versions of the data share the same underlying storage until one changes something.\n\nImagine you want to give an agent a copy of your 1 TB database. Here is how it works:\n\n1. The system creates a branch that points to the existing data. No need to copy the whole terabyte.\n\n2. The agent reads from that branch.\n\n3. If the agent modifies something, the system will store a separate version of the affected portion for its branch.\n\n4. Changes in the branch leave the original database unchanged.\n\n5. If the experiment fails, you can delete its branch without changing the original database.\n\nThe product details are here:\nhttps://t.co/dQGDNMNsgZ\n\nThanks to the Tencent Cloud team for partnering with me on this post.",
+      "posted_at": "2026-09-25T18:25:00Z",
+      "engagement": {
+        "likes": 46,
+        "reposts": 4,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": true,
+      "list_items": [
+        "Branches: Give agents a separate version of the data for running experiments, then inspect, discard, or roll back its changes.",
+        "Isolation: Give agents their own database environment and restrict what they can access.",
+        "Automatic provisioning and scaling: Create environments quickly, handle bursts of activity, and scale compute to zero between runs.",
+        "Agent access and memory: Expose data through MCP and support vector retrieval for finding relevant information."
+      ],
+      "media_urls": [],
+      "sensational_headline": "Santiago reveals database guarantees that revolutionize agentic workflows",
+      "tags": [
+        "education"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 21.8
+    },
+    {
+      "id": "2102498448364954083",
+      "url": "https://x.com/joshwoodward/status/2102498448364954083",
+      "author_handle": "joshwoodward",
+      "author_name": "Josh Woodward",
+      "post_text": "Big milestone!",
+      "posted_at": "2026-09-22T20:41:07Z",
+      "engagement": {
+        "likes": 343,
+        "reposts": 14,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Josh Woodward celebrates a big milestone in his journey",
+      "tags": [
+        "lab-leader",
+        "google"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 21.73
+    },
+    {
+      "id": "2102464776215679021",
+      "url": "https://x.com/fidjissimo/status/2102464776215679021",
+      "author_handle": "fidjissimo",
+      "author_name": "Fidji Simo",
+      "post_text": "Excited to be supporting this project as an investor; we need a new model of education.",
+      "posted_at": "2026-09-22T18:27:19Z",
+      "engagement": {
+        "likes": 343,
+        "reposts": 15,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Fidji Simo champions innovative education as a vital investment",
+      "tags": [
+        "lab-leader",
+        "openai"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 21.61
+    },
+    {
+      "id": "2103304044668162541",
+      "url": "https://x.com/ClementDelangue/status/2103304044668162541",
+      "author_handle": "ClementDelangue",
+      "author_name": "clem 🤗",
+      "post_text": "I like this article! \n\nThe problem is not for some people to care and work on catastrophic risks (we actually need much more research into it), it’s when company leaders and policymakers use fears of them to distract and hide the current challenges and solutions!",
+      "posted_at": "2026-09-25T02:02:16Z",
+      "engagement": {
+        "likes": 123,
+        "reposts": 11,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "clem 🤗 critiques leaders misusing fears of catastrophic risks",
+      "tags": [
+        "open-source",
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 21.2
+    },
+    {
+      "id": "2103182635992514569",
+      "url": "https://x.com/joshwoodward/status/2103182635992514569",
+      "author_handle": "joshwoodward",
+      "author_name": "Josh Woodward",
+      "post_text": "Dreambeans is one of our newer experiments in @GoogleLabs. It has a growing cult following.\n\nIt’s simple: a fixed number of “beans” brew every morning. They point you at the real world, with real people, doing things you care about together.\n\nGive it a try!",
+      "posted_at": "2026-09-24T17:59:50Z",
+      "engagement": {
+        "likes": 162,
+        "reposts": 5,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Josh Woodward introduces Dreambeans, a fun new experiment from Google Labs",
+      "tags": [
+        "lab-leader",
+        "google"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 20.77
+    },
+    {
+      "id": "2103154770068541691",
+      "url": "https://x.com/jackclarkSF/status/2103154770068541691",
+      "author_handle": "jackclarkSF",
+      "author_name": "Jack Clark",
+      "post_text": "https://x.com/i/article/2103154412361515009",
+      "posted_at": "2026-09-24T16:09:06Z",
+      "engagement": {
+        "likes": 143,
+        "reposts": 14,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Jack Clark shares intriguing insights in his latest article",
+      "tags": [
+        "lab-leader",
+        "anthropic"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 20.61
+    },
+    {
+      "id": "2102551256548131306",
+      "url": "https://x.com/fidjissimo/status/2102551256548131306",
+      "author_handle": "fidjissimo",
+      "author_name": "Fidji Simo",
+      "post_text": "I think @drmichaellevin is doing some of the most interesting science out there. In the future medicine will expand from chemistry towards bioelectricity, basically learning to reprogram cells through electrical signals. The science is a bit early still but I think the next big pharma companies will be in that field.",
+      "posted_at": "2026-09-23T00:10:57Z",
+      "engagement": {
+        "likes": 244,
+        "reposts": 23,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Fidji Simo predicts bioelectricity will revolutionize future medicine",
+      "tags": [
+        "lab-leader",
+        "openai"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 20.22
+    },
+    {
+      "id": "2099965852934402547",
+      "url": "https://x.com/koraykv/status/2099965852934402547",
+      "author_handle": "koraykv",
+      "author_name": "koray kavukcuoglu",
+      "post_text": "Introducing Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking.\n\nVoice agents with reasoning capabilities that make conversing with AI feel more intuitive and intelligent. The model can take turns seamlessly, think through complexity, and feel more natural to talk to.",
+      "posted_at": "2026-09-15T20:57:29Z",
+      "engagement": {
+        "likes": 563,
+        "reposts": 57,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Koray Kavukcuoglu introduces groundbreaking AI with Gemini 3.8 Live capabilities",
+      "tags": [
+        "lab-leader",
+        "google"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 19.59
+    },
+    {
+      "id": "2102650014552182920",
+      "url": "https://x.com/swyx/status/2102650014552182920",
+      "author_handle": "swyx",
+      "author_name": "swyx",
+      "post_text": "can confirm. ran @latentspacepod AINews side by side with 6 Sol and the difference was night and day: https://www.latent.space/p/ainews-claude-opus-55-the-new-default\n\n5.5 Opus is the new default model for AINews going forward. so much more concise and tasteful reporting, with much less slopese than even 5 Opus.",
+      "posted_at": "2026-09-23T06:43:23Z",
+      "engagement": {
+        "likes": 217,
+        "reposts": 13,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Swyx confirms the impact of the new Opus model on AINews reporting",
+      "tags": [
+        "builder",
+        "education"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 19.29
+    },
+    {
+      "id": "2102916558712705427",
+      "url": "https://x.com/simonw/status/2102916558712705427",
+      "author_handle": "simonw",
+      "author_name": "Simon Willison",
+      "post_text": "I just had a voice conversation with the Datasette backup of my blog via datasette-mcp, which you can now talk to using the ChatGPT iPhone app",
+      "posted_at": "2026-09-24T00:22:32Z",
+      "engagement": {
+        "likes": 161,
+        "reposts": 12,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Simon Willison talks with the Datasette backup of his blog using ChatGPT",
+      "tags": [
+        "builder",
+        "open-source"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 18.99
     },
     {
       "id": "2103586769056784419",
@@ -691,7 +3370,117 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 22.49
+      "score": 18.09
+    },
+    {
+      "id": "2103281862529458340",
+      "url": "https://x.com/paulg/status/2103281862529458340",
+      "author_handle": "paulg",
+      "author_name": "Paul Graham",
+      "post_text": "Very, very bad deal.",
+      "posted_at": "2026-09-25T00:34:07Z",
+      "engagement": {
+        "likes": 101,
+        "reposts": 0,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Paul Graham calls out a very bad deal that's stirring up controversy",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 17.79
+    },
+    {
+      "id": "2102886723206492246",
+      "url": "https://x.com/polynoamial/status/2102886723206492246",
+      "author_handle": "polynoamial",
+      "author_name": "Noam Brown",
+      "post_text": "Happy to see they added this to the website!",
+      "posted_at": "2026-09-23T22:23:59Z",
+      "engagement": {
+        "likes": 160,
+        "reposts": 2,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Noam Brown expresses excitement over new website feature",
+      "tags": [
+        "research"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 17.65
+    },
+    {
+      "id": "2102964957587632555",
+      "url": "https://x.com/koraykv/status/2102964957587632555",
+      "author_handle": "koraykv",
+      "author_name": "koray kavukcuoglu",
+      "post_text": "Thanks for having me, It was great chatting with you!",
+      "posted_at": "2026-09-24T03:34:51Z",
+      "engagement": {
+        "likes": 141,
+        "reposts": 3,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Koray Kavukcuoglu shares insights from a recent engaging conversation",
+      "tags": [
+        "lab-leader",
+        "google"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 17.45
+    },
+    {
+      "id": "2102808840102396388",
+      "url": "https://x.com/jxnlco/status/2102808840102396388",
+      "author_handle": "jxnlco",
+      "author_name": "jason",
+      "post_text": "been using astra to transcribe music, then to review the spectrogram to do error correction and then review the music theory resulting in very robust transcriptions for me to learn... \n> The spectrogram shows a few clear problems: some wide vibrato became extra chromatic notes, and around 3:22 the tracker briefly jumped to a lower piano note while the clarinet continued above it. I’m correcting those and simplifying isolated sixteenth rests. The quiet ending is still ambiguous.",
+      "posted_at": "2026-09-23T17:14:30Z",
+      "engagement": {
+        "likes": 156,
+        "reposts": 6,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Jason shares insights on using Astra for music transcription errors and corrections",
+      "tags": [
+        "builder",
+        "education"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 17.39
     },
     {
       "id": "2099980710090248306",
@@ -719,7 +3508,146 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 17.35
+      "score": 17.24
+    },
+    {
+      "id": "2102441795879919636",
+      "url": "https://x.com/mikeyk/status/2102441795879919636",
+      "author_handle": "mikeyk",
+      "author_name": "Mike Krieger",
+      "post_text": "Go try out Opus 5.5, which we launched today! It leads in coding and knowledge work, and it’s a great writer. It performs at the level of Claude Fable 5.1 for most tasks, and costs 40% less to run than Opus 5.",
+      "posted_at": "2026-09-22T16:56:00Z",
+      "engagement": {
+        "likes": 207,
+        "reposts": 4,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Krieger launches Opus 5.5, a game-changer for coding and knowledge work",
+      "tags": [
+        "lab-leader",
+        "anthropic"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 17.15
+    },
+    {
+      "id": "2102612246513983711",
+      "url": "https://x.com/kevinweil/status/2102612246513983711",
+      "author_handle": "kevinweil",
+      "author_name": "Kevin Weil 🇺🇸",
+      "post_text": "This is exactly the right take.",
+      "posted_at": "2026-09-23T04:13:18Z",
+      "engagement": {
+        "likes": 177,
+        "reposts": 6,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Kevin Weil reinforces a critical perspective on current events",
+      "tags": [
+        "lab-leader",
+        "openai"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 17.09
+    },
+    {
+      "id": "2103252520525054005",
+      "url": "https://x.com/paulg/status/2103252520525054005",
+      "author_handle": "paulg",
+      "author_name": "Paul Graham",
+      "post_text": "I wasn't around in the 16th century if that's what you mean.",
+      "posted_at": "2026-09-24T22:37:32Z",
+      "engagement": {
+        "likes": 64,
+        "reposts": 0,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Paul Graham humorously clarifies his historical knowledge of the 16th century",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 14.09
+    },
+    {
+      "id": "2100259777528177030",
+      "url": "https://x.com/mikeyk/status/2100259777528177030",
+      "author_handle": "mikeyk",
+      "author_name": "Mike Krieger",
+      "post_text": "Claude Cowork and Chat are now one Claude, starting today.\n\nThe most common thing we hear: people aren't sure which product to start with. That friction gets in the way of getting the best from what these models can do.\n\nI've been on the unified version for a few weeks and really enjoy it. Claude does the deciding about how to get there, while I get to keep my thinking on the work itself.\n\nLet us know what you think! We'll be getting it dialed in over the coming weeks.",
+      "posted_at": "2026-09-16T16:25:26Z",
+      "engagement": {
+        "likes": 294,
+        "reposts": 8,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Krieger announces major updates to Claude products that streamline user experience",
+      "tags": [
+        "lab-leader",
+        "anthropic"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 14.08
+    },
+    {
+      "id": "2102137581626388743",
+      "url": "https://x.com/hwchase17/status/2102137581626388743",
+      "author_handle": "hwchase17",
+      "author_name": "Harrison Chase",
+      "post_text": "this is cool\nkind of like \"goal\" but with multiple in a row you need to hit?",
+      "posted_at": "2026-09-21T20:47:09Z",
+      "engagement": {
+        "likes": 120,
+        "reposts": 18,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Harrison Chase reveals a cool new feature for achieving multiple goals",
+      "tags": [
+        "builder",
+        "open-source"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 13.95
     },
     {
       "id": "2102854830528364718",
@@ -747,7 +3675,35 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 14.38
+      "score": 13.91
+    },
+    {
+      "id": "2100260130529161272",
+      "url": "https://x.com/mikeyk/status/2100260130529161272",
+      "author_handle": "mikeyk",
+      "author_name": "Mike Krieger",
+      "post_text": "Also new today: Claude Docs, Claude Slides and Claude Design are now available in every conversation, powered by a revamped Artifacts platform.\n\nAsk for a design, deck, or document. Get back something you can edit, download, and take anywhere.\n\nTry it out for yourself and let us know what you think.",
+      "posted_at": "2026-09-16T16:26:50Z",
+      "engagement": {
+        "likes": 254,
+        "reposts": 10,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Mike Krieger reveals exciting new features in Claude's latest update",
+      "tags": [
+        "lab-leader",
+        "anthropic"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 13.27
     },
     {
       "id": "2101327912951787569",
@@ -775,7 +3731,90 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 13.37
+      "score": 13.21
+    },
+    {
+      "id": "2102781533274734801",
+      "url": "https://x.com/GoogleDeepMind/status/2102781533274734801",
+      "author_handle": "GoogleDeepMind",
+      "author_name": "Google DeepMind",
+      "post_text": "Fine-tune the delivery line by line, shaping pacing, emotion, and cues like laughs or pauses.\n\nAll generated audio is watermarked with SynthID so it can be reliably identified as AI-generated.\n\nStart building with the Gemini API via @GoogleAIStudio. Find out more →",
+      "posted_at": "2026-09-23T15:25:59Z",
+      "engagement": {
+        "likes": 67,
+        "reposts": 11,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Google DeepMind unveils audio fine-tuning techniques with Gemini API",
+      "tags": [
+        "lab"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 12.98
+    },
+    {
+      "id": "2102470464735949263",
+      "url": "https://x.com/hwchase17/status/2102470464735949263",
+      "author_handle": "hwchase17",
+      "author_name": "Harrison Chase",
+      "post_text": "🖼️ Improved UI for Jev models in LangSmith\nagents are going to complex systems of many llms calls\nmany llm calls will be jev-like (decision models)\nwe've updated tracing view in LangSmith to display these types of calls (state, questions, choices, output) more clearly!",
+      "posted_at": "2026-09-22T18:49:55Z",
+      "engagement": {
+        "likes": 90,
+        "reposts": 9,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Harrison Chase announces a UI upgrade for Jev models in LangSmith",
+      "tags": [
+        "builder",
+        "open-source"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 12.62
+    },
+    {
+      "id": "2102851157261725730",
+      "url": "https://x.com/jxnlco/status/2102851157261725730",
+      "author_handle": "jxnlco",
+      "author_name": "jason",
+      "post_text": "musicians: how do you feel about AI transcribing songs into sheet music or tabs to help people learn?\ncurious if you’ve used it, whether it’s helped, and how you think it affects learning to play by ear.",
+      "posted_at": "2026-09-23T20:02:39Z",
+      "engagement": {
+        "likes": 75,
+        "reposts": 3,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Jason asks musicians for feedback on AI song transcription's impact on learning",
+      "tags": [
+        "builder",
+        "education"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 12.48
     },
     {
       "id": "2101351570973880562",
@@ -803,7 +3842,61 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 10.21
+      "score": 10.07
+    },
+    {
+      "id": "2102935661183631633",
+      "url": "https://x.com/polynoamial/status/2102935661183631633",
+      "author_handle": "polynoamial",
+      "author_name": "Noam Brown",
+      "post_text": "Also my mistake that was at \"max\" reasoning. Here it is at \"high\" (matching the setting in the original tweet)",
+      "posted_at": "2026-09-24T01:38:26Z",
+      "engagement": {
+        "likes": 33,
+        "reposts": 2,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Noam Brown clarifies reasoning model settings in latest update",
+      "tags": [
+        "research"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 8.31
+    },
+    {
+      "id": "2100586770572177551",
+      "url": "https://x.com/GoogleDeepMind/status/2100586770572177551",
+      "author_handle": "GoogleDeepMind",
+      "author_name": "Google DeepMind",
+      "post_text": "These discoveries are just the beginning.\n\nAlphaGenome Atlas is freely accessible to empower researchers everywhere to decode the genetic causes of disease. Explore the database → https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/?utm_source=x&utm_medium=social&utm_campaign=&utm_content=",
+      "posted_at": "2026-09-17T14:04:47Z",
+      "engagement": {
+        "likes": 48,
+        "reposts": 5,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Google DeepMind launches AlphaGenome Atlas to aid genetic research",
+      "tags": [
+        "lab"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 5.33
     }
   ]
 }
