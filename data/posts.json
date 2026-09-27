@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T21:13:57Z",
+  "generated_at": "2026-09-27T00:39:47Z",
   "source": "firecrawl",
   "tracked_accounts": [
     {
@@ -745,7 +745,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 77.97
+      "score": 77.4
     },
     {
       "id": "2103537377239015827",
@@ -772,7 +772,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 71.88
+      "score": 71.13
     },
     {
       "id": "2103383018882896249",
@@ -799,7 +799,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 69.28
+      "score": 68.71
     },
     {
       "id": "2102824959827742916",
@@ -826,7 +826,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 64.47
+      "score": 64.17
     },
     {
       "id": "2102831170299834652",
@@ -853,7 +853,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 61.5
+      "score": 61.2
     },
     {
       "id": "2102945432985120949",
@@ -880,7 +880,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 58.35
+      "score": 58.01
     },
     {
       "id": "2102808325742322002",
@@ -911,7 +911,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 55.96
+      "score": 55.66
     },
     {
       "id": "2102435703535939725",
@@ -938,7 +938,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 53.72
+      "score": 53.49
     },
     {
       "id": "2100843168166015279",
@@ -969,7 +969,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 52.53
+      "score": 52.41
     },
     {
       "id": "2103541577083719888",
@@ -996,7 +996,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 52.29
+      "score": 51.53
     },
     {
       "id": "2103551714536439951",
@@ -1023,7 +1023,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 51.43
+      "score": 50.65
     },
     {
       "id": "2103567198690349362",
@@ -1050,7 +1050,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 50.98
+      "score": 50.18
     },
     {
       "id": "2100233897191903500",
@@ -1077,7 +1077,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 50.05
+      "score": 49.96
     },
     {
       "id": "2102466603111551187",
@@ -1104,7 +1104,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 49.31
+      "score": 49.08
     },
     {
       "id": "2102140576498065758",
@@ -1132,7 +1132,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "hot",
-      "score": 49.13
+      "score": 48.93
     },
     {
       "id": "2101840695430435122",
@@ -1160,7 +1160,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 48.81
+      "score": 48.65
     },
     {
       "id": "2102785495726219305",
@@ -1195,7 +1195,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 47.19
+      "score": 46.9
     },
     {
       "id": "2103288927805476900",
@@ -1223,7 +1223,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 46.71
+      "score": 46.22
     },
     {
       "id": "2103566736356458911",
@@ -1250,7 +1250,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 45.35
+      "score": 44.54
     },
     {
       "id": "2102837574092161102",
@@ -1277,7 +1277,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 44.58
+      "score": 44.28
     },
     {
       "id": "2102447442147086563",
@@ -1304,7 +1304,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 43.58
+      "score": 43.36
     },
     {
       "id": "2102469008079679640",
@@ -1331,7 +1331,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 42.94
+      "score": 42.71
     },
     {
       "id": "2102444225443029100",
@@ -1358,34 +1358,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 42.78
-    },
-    {
-      "id": "2098909516582490602",
-      "url": "https://x.com/demishassabis/status/2098909516582490602",
-      "author_handle": "demishassabis",
-      "author_name": "Demis Hassabis",
-      "post_text": "Dario's essay points towards the right path forward. The details need working through, but the direction is correct for meeting this critical moment.\n\nThis is also why we recently put out our proposal for an industry-wide standards body for frontier AI.",
-      "posted_at": "2026-09-12T22:59:59Z",
-      "engagement": {
-        "likes": 9070,
-        "reposts": 942,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Hassabis backs industry standards for AI after pivotal moment highlighted in essay",
-      "tags": [
-        "lab-leader"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-25T23:19:38Z",
-      "last_scraped_at": "2026-09-25T23:19:38Z",
-      "engagement_tier": "hot",
-      "score": 40.81
+      "score": 42.55
     },
     {
       "id": "2103379937038364973",
@@ -1418,7 +1391,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 39.84
+      "score": 39.28
     },
     {
       "id": "2103338592672362566",
@@ -1445,7 +1418,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 39.37
+      "score": 38.84
     },
     {
       "id": "2102156143007338594",
@@ -1473,7 +1446,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 38.46
+      "score": 38.27
     },
     {
       "id": "2101681347853242682",
@@ -1501,7 +1474,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 37.88
+      "score": 37.73
     },
     {
       "id": "2103624838716010948",
@@ -1528,7 +1501,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 37.8
+      "score": 36.88
     },
     {
       "id": "2100230524383981702",
@@ -1555,7 +1528,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "hot",
-      "score": 36.67
+      "score": 36.58
     },
     {
       "id": "2102394156731535413",
@@ -1587,7 +1560,7 @@
       "first_seen_at": "2026-09-25T19:22:05Z",
       "last_scraped_at": "2026-09-25T19:22:05Z",
       "engagement_tier": "normal",
-      "score": 36.66
+      "score": 36.44
     },
     {
       "id": "2103223477130129726",
@@ -1615,7 +1588,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 36.14
+      "score": 35.69
     },
     {
       "id": "2102821706041819401",
@@ -1642,61 +1615,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 34.97
-    },
-    {
-      "id": "2103596391021113637",
-      "url": "https://x.com/tszzl/status/2103596391021113637",
-      "author_handle": "tszzl",
-      "author_name": "roon",
-      "post_text": "if the NRX weren’t partisan hacks they would love this company. its governance structure is basically Karnofsky-Amodei genetic dynasty, has an encaged machine god with its own Consitution, went to war with the department of war",
-      "posted_at": "2026-09-25T21:23:57Z",
-      "engagement": {
-        "likes": 651,
-        "reposts": 29,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "roon critiques NRX governance in a sharp commentary on tech ethics",
-      "tags": [
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 34.75
-    },
-    {
-      "id": "2103457423335862476",
-      "url": "https://x.com/levelsio/status/2103457423335862476",
-      "author_handle": "levelsio",
-      "author_name": "levelsio",
-      "post_text": "🇬🇧 😂",
-      "posted_at": "2026-09-25T12:11:44Z",
-      "engagement": {
-        "likes": 832,
-        "reposts": 27,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "levelsio's humorous take on British culture sparks laughs",
-      "tags": [
-        "builder"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 34.53
+      "score": 34.67
     },
     {
       "id": "2102470107826159755",
@@ -1723,18 +1642,18 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 34.26
+      "score": 34.03
     },
     {
-      "id": "2103581038828237268",
-      "url": "https://x.com/alexandr_wang/status/2103581038828237268",
-      "author_handle": "alexandr_wang",
-      "author_name": "Alexandr Wang",
-      "post_text": "muse and plaid partnering together to help muse save you more money 💸 \n\nand yes i've also always wondered if it's a coincidence that plaid and stripe are both named after patterns and both fintech APIs",
-      "posted_at": "2026-09-25T20:22:56Z",
+      "id": "2103596391021113637",
+      "url": "https://x.com/tszzl/status/2103596391021113637",
+      "author_handle": "tszzl",
+      "author_name": "roon",
+      "post_text": "if the NRX weren’t partisan hacks they would love this company. its governance structure is basically Karnofsky-Amodei genetic dynasty, has an encaged machine god with its own Consitution, went to war with the department of war",
+      "posted_at": "2026-09-25T21:23:57Z",
       "engagement": {
-        "likes": 618,
-        "reposts": 21,
+        "likes": 651,
+        "reposts": 29,
         "replies": 0,
         "views": 0,
         "bookmarks": 0
@@ -1742,7 +1661,7 @@
       "is_listicle": false,
       "list_items": [],
       "media_urls": [],
-      "sensational_headline": "Wang announces Muse and Plaid partnership aimed at saving users money",
+      "sensational_headline": "roon critiques NRX governance in a sharp commentary on tech ethics",
       "tags": [
         "industry"
       ],
@@ -1750,7 +1669,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 33.84
+      "score": 33.9
+    },
+    {
+      "id": "2103457423335862476",
+      "url": "https://x.com/levelsio/status/2103457423335862476",
+      "author_handle": "levelsio",
+      "author_name": "levelsio",
+      "post_text": "🇬🇧 😂",
+      "posted_at": "2026-09-25T12:11:44Z",
+      "engagement": {
+        "likes": 832,
+        "reposts": 27,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "levelsio's humorous take on British culture sparks laughs",
+      "tags": [
+        "builder"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 33.9
     },
     {
       "id": "2101672304358948992",
@@ -1778,7 +1724,7 @@
       "first_seen_at": "2026-09-25T19:22:05Z",
       "last_scraped_at": "2026-09-25T19:22:05Z",
       "engagement_tier": "hot",
-      "score": 33.81
+      "score": 33.66
     },
     {
       "id": "2100963146446025096",
@@ -1805,7 +1751,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "hot",
-      "score": 33.71
+      "score": 33.59
     },
     {
       "id": "2102862838570397711",
@@ -1832,7 +1778,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 33.7
+      "score": 33.39
+    },
+    {
+      "id": "2103581038828237268",
+      "url": "https://x.com/alexandr_wang/status/2103581038828237268",
+      "author_handle": "alexandr_wang",
+      "author_name": "Alexandr Wang",
+      "post_text": "muse and plaid partnering together to help muse save you more money 💸 \n\nand yes i've also always wondered if it's a coincidence that plaid and stripe are both named after patterns and both fintech APIs",
+      "posted_at": "2026-09-25T20:22:56Z",
+      "engagement": {
+        "likes": 618,
+        "reposts": 21,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Wang announces Muse and Plaid partnership aimed at saving users money",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 33.03
     },
     {
       "id": "2103151519428448405",
@@ -1859,7 +1832,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 33.43
+      "score": 33.02
     },
     {
       "id": "2103273813928759398",
@@ -1886,35 +1859,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 33.18
-    },
-    {
-      "id": "2103561415793770558",
-      "url": "https://x.com/kevinweil/status/2103561415793770558",
-      "author_handle": "kevinweil",
-      "author_name": "Kevin Weil 🇺🇸",
-      "post_text": "Nine loop calculations in N=4 Super Yang-Mills! Lance Dixon's 8-loop calculation was mind boggling when he did it. I calculated a lot of Feynman diagrams in grad school and this is 🤯\n\nWill be amazing to see where AI will take high energy physics in the coming 12 months.",
-      "posted_at": "2026-09-25T19:04:58Z",
-      "engagement": {
-        "likes": 557,
-        "reposts": 21,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Kevin Weil discusses the future of AI in high energy physics",
-      "tags": [
-        "lab-leader",
-        "openai"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 32.71
+      "score": 32.7
     },
     {
       "id": "2099213169805902203",
@@ -1941,7 +1886,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 32.7
+      "score": 32.63
+    },
+    {
+      "id": "2100699190448042165",
+      "url": "https://x.com/gdb/status/2100699190448042165",
+      "author_handle": "gdb",
+      "author_name": "Greg Brockman",
+      "post_text": "Astra for Law — tools and skills to radically accelerate law firms.",
+      "posted_at": "2026-09-17T21:31:30Z",
+      "engagement": {
+        "likes": 2553,
+        "reposts": 145,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Brockman's Astra for Law unveils tools to accelerate legal firms like never before",
+      "tags": [
+        "lab-leader"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "hot",
+      "score": 32.0
     },
     {
       "id": "2103517792943456620",
@@ -1969,18 +1941,18 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 32.67
+      "score": 31.95
     },
     {
-      "id": "2100699190448042165",
-      "url": "https://x.com/gdb/status/2100699190448042165",
-      "author_handle": "gdb",
-      "author_name": "Greg Brockman",
-      "post_text": "Astra for Law — tools and skills to radically accelerate law firms.",
-      "posted_at": "2026-09-17T21:31:30Z",
+      "id": "2103561415793770558",
+      "url": "https://x.com/kevinweil/status/2103561415793770558",
+      "author_handle": "kevinweil",
+      "author_name": "Kevin Weil 🇺🇸",
+      "post_text": "Nine loop calculations in N=4 Super Yang-Mills! Lance Dixon's 8-loop calculation was mind boggling when he did it. I calculated a lot of Feynman diagrams in grad school and this is 🤯\n\nWill be amazing to see where AI will take high energy physics in the coming 12 months.",
+      "posted_at": "2026-09-25T19:04:58Z",
       "engagement": {
-        "likes": 2553,
-        "reposts": 145,
+        "likes": 557,
+        "reposts": 21,
         "replies": 0,
         "views": 0,
         "bookmarks": 0
@@ -1988,65 +1960,10 @@
       "is_listicle": false,
       "list_items": [],
       "media_urls": [],
-      "sensational_headline": "Brockman's Astra for Law unveils tools to accelerate legal firms like never before",
+      "sensational_headline": "Kevin Weil discusses the future of AI in high energy physics",
       "tags": [
-        "lab-leader"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "hot",
-      "score": 32.11
-    },
-    {
-      "id": "2103357445229990009",
-      "url": "https://x.com/JeffDean/status/2103357445229990009",
-      "author_handle": "JeffDean",
-      "author_name": "Jeff Dean",
-      "post_text": "This was recorded a few months ago when I was still at Google and it was a really fun conversation!",
-      "posted_at": "2026-09-25T05:34:28Z",
-      "engagement": {
-        "likes": 690,
-        "reposts": 34,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Jeff Dean shares insights from a fun conversation recorded at Google",
-      "tags": [
-        "research",
-        "lab-leader"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 32.09
-    },
-    {
-      "id": "2103620752910217427",
-      "url": "https://x.com/jxnlco/status/2103620752910217427",
-      "author_handle": "jxnlco",
-      "author_name": "jason",
-      "post_text": "Yes, we are aware that Codex is down.",
-      "posted_at": "2026-09-25T23:00:45Z",
-      "engagement": {
-        "likes": 483,
-        "reposts": 4,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Jason updates on Codex being down, raising awareness among users",
-      "tags": [
-        "builder",
-        "education"
+        "lab-leader",
+        "openai"
       ],
       "is_reply": false,
       "first_seen_at": "2026-09-26T03:58:14Z",
@@ -2094,7 +2011,63 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 31.65
+      "score": 31.56
+    },
+    {
+      "id": "2103357445229990009",
+      "url": "https://x.com/JeffDean/status/2103357445229990009",
+      "author_handle": "JeffDean",
+      "author_name": "Jeff Dean",
+      "post_text": "This was recorded a few months ago when I was still at Google and it was a really fun conversation!",
+      "posted_at": "2026-09-25T05:34:28Z",
+      "engagement": {
+        "likes": 690,
+        "reposts": 34,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Jeff Dean shares insights from a fun conversation recorded at Google",
+      "tags": [
+        "research",
+        "lab-leader"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 31.55
+    },
+    {
+      "id": "2103620752910217427",
+      "url": "https://x.com/jxnlco/status/2103620752910217427",
+      "author_handle": "jxnlco",
+      "author_name": "jason",
+      "post_text": "Yes, we are aware that Codex is down.",
+      "posted_at": "2026-09-25T23:00:45Z",
+      "engagement": {
+        "likes": 483,
+        "reposts": 4,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Jason updates on Codex being down, raising awareness among users",
+      "tags": [
+        "builder",
+        "education"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 31.04
     },
     {
       "id": "2102508817653379411",
@@ -2121,7 +2094,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 31.19
+      "score": 30.95
     },
     {
       "id": "2103126209597256076",
@@ -2148,34 +2121,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 31.06
-    },
-    {
-      "id": "2103622734731530277",
-      "url": "https://x.com/alexandr_wang/status/2103622734731530277",
-      "author_handle": "alexandr_wang",
-      "author_name": "Alexandr Wang",
-      "post_text": "muse saves you time AND money!",
-      "posted_at": "2026-09-25T23:08:38Z",
-      "engagement": {
-        "likes": 396,
-        "reposts": 8,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Wang highlights time and money-saving benefits of Muse",
-      "tags": [
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 30.54
+      "score": 30.66
     },
     {
       "id": "2102771721086673116",
@@ -2203,7 +2149,7 @@
       "first_seen_at": "2026-09-25T19:22:05Z",
       "last_scraped_at": "2026-09-25T19:22:05Z",
       "engagement_tier": "normal",
-      "score": 30.49
+      "score": 30.21
     },
     {
       "id": "2102781530867126505",
@@ -2233,18 +2179,18 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 30.39
+      "score": 30.11
     },
     {
-      "id": "2103526115021041947",
-      "url": "https://x.com/levelsio/status/2103526115021041947",
-      "author_handle": "levelsio",
-      "author_name": "levelsio",
-      "post_text": "A bit of AI psychosis design vibe but yes good everyone building these custom dashboards for themselves I think\n\nAI great in combining lots of different data sources from your bank accounts, health sensor data, air quality sensor data, your startup revenue data from Stripe, investment returns, emails etc into one\n\nThe best part is not the dashboard but that you can ask questions on what to improve and find correlations between everything\n\nSo everyone gets healthier and wealthier!",
-      "posted_at": "2026-09-25T16:44:42Z",
+      "id": "2103622734731530277",
+      "url": "https://x.com/alexandr_wang/status/2103622734731530277",
+      "author_handle": "alexandr_wang",
+      "author_name": "Alexandr Wang",
+      "post_text": "muse saves you time AND money!",
+      "posted_at": "2026-09-25T23:08:38Z",
       "engagement": {
-        "likes": 404,
-        "reposts": 13,
+        "likes": 396,
+        "reposts": 8,
         "replies": 0,
         "views": 0,
         "bookmarks": 0
@@ -2252,15 +2198,15 @@
       "is_listicle": false,
       "list_items": [],
       "media_urls": [],
-      "sensational_headline": "levelsio reveals the potential of AI in personal dashboard design",
+      "sensational_headline": "Wang highlights time and money-saving benefits of Muse",
       "tags": [
-        "builder"
+        "industry"
       ],
       "is_reply": false,
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 29.35
+      "score": 29.64
     },
     {
       "id": "2102996487596916786",
@@ -2288,18 +2234,18 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 29.29
+      "score": 28.95
     },
     {
-      "id": "2103641022865510582",
-      "url": "https://x.com/paulg/status/2103641022865510582",
-      "author_handle": "paulg",
-      "author_name": "Paul Graham",
-      "post_text": "I'm reading Shakespeare's Professional Career by Peter Thomson. Like most really good books, it covers much more than its title implies. It's so packed with detail that it's half way to being a history of the Elizabethan period.",
-      "posted_at": "2026-09-26T00:21:18Z",
+      "id": "2103526115021041947",
+      "url": "https://x.com/levelsio/status/2103526115021041947",
+      "author_handle": "levelsio",
+      "author_name": "levelsio",
+      "post_text": "A bit of AI psychosis design vibe but yes good everyone building these custom dashboards for themselves I think\n\nAI great in combining lots of different data sources from your bank accounts, health sensor data, air quality sensor data, your startup revenue data from Stripe, investment returns, emails etc into one\n\nThe best part is not the dashboard but that you can ask questions on what to improve and find correlations between everything\n\nSo everyone gets healthier and wealthier!",
+      "posted_at": "2026-09-25T16:44:42Z",
       "engagement": {
-        "likes": 308,
-        "reposts": 10,
+        "likes": 404,
+        "reposts": 13,
         "replies": 0,
         "views": 0,
         "bookmarks": 0
@@ -2307,15 +2253,15 @@
       "is_listicle": false,
       "list_items": [],
       "media_urls": [],
-      "sensational_headline": "Paul Graham's take on Shakespeare's professional career reveals unexpected insights",
+      "sensational_headline": "levelsio reveals the potential of AI in personal dashboard design",
       "tags": [
-        "industry"
+        "builder"
       ],
       "is_reply": false,
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 29.01
+      "score": 28.64
     },
     {
       "id": "2102957523968102509",
@@ -2342,7 +2288,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 28.56
+      "score": 28.23
+    },
+    {
+      "id": "2103641022865510582",
+      "url": "https://x.com/paulg/status/2103641022865510582",
+      "author_handle": "paulg",
+      "author_name": "Paul Graham",
+      "post_text": "I'm reading Shakespeare's Professional Career by Peter Thomson. Like most really good books, it covers much more than its title implies. It's so packed with detail that it's half way to being a history of the Elizabethan period.",
+      "posted_at": "2026-09-26T00:21:18Z",
+      "engagement": {
+        "likes": 308,
+        "reposts": 10,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Paul Graham's take on Shakespeare's professional career reveals unexpected insights",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 28.08
     },
     {
       "id": "2103195385804238972",
@@ -2370,90 +2343,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 28.19
-    },
-    {
-      "id": "2103474875054915783",
-      "url": "https://x.com/levelsio/status/2103474875054915783",
-      "author_handle": "levelsio",
-      "author_name": "levelsio",
-      "post_text": "How do I switch my @X Premium from iOS sub to web? I guess I have to cancel it but then do I lose my @X Creator stuff?",
-      "posted_at": "2026-09-25T13:21:05Z",
-      "engagement": {
-        "likes": 408,
-        "reposts": 2,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "levelsio seeks guidance on switching X Premium subscription platforms",
-      "tags": [
-        "builder"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 28.18
-    },
-    {
-      "id": "2103548700853198940",
-      "url": "https://x.com/ClementDelangue/status/2103548700853198940",
-      "author_handle": "ClementDelangue",
-      "author_name": "clem 🤗",
-      "post_text": "Open Alignment will be 🔥🔥🔥 (sound on)! \n\nFlying began as one of the most dangerous ways to travel, today it's the safest. It's time to build!",
-      "posted_at": "2026-09-25T18:14:26Z",
-      "engagement": {
-        "likes": 288,
-        "reposts": 30,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "clem shares vision for open alignment and safety in AI",
-      "tags": [
-        "open-source",
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 28.15
-    },
-    {
-      "id": "2103178649851843016",
-      "url": "https://x.com/AravSrinivas/status/2103178649851843016",
-      "author_handle": "AravSrinivas",
-      "author_name": "Aravind Srinivas",
-      "post_text": "Welcome, @AMD, to the Perplexity Computer local AI ecosystem!",
-      "posted_at": "2026-09-24T17:43:59Z",
-      "engagement": {
-        "likes": 523,
-        "reposts": 23,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Aravind Srinivas welcomes AMD to the Perplexity AI ecosystem!",
-      "tags": [
-        "builder",
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 27.98
+      "score": 27.76
     },
     {
       "id": "2099544707340841441",
@@ -2481,7 +2371,90 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 27.82
+      "score": 27.75
+    },
+    {
+      "id": "2103178649851843016",
+      "url": "https://x.com/AravSrinivas/status/2103178649851843016",
+      "author_handle": "AravSrinivas",
+      "author_name": "Aravind Srinivas",
+      "post_text": "Welcome, @AMD, to the Perplexity Computer local AI ecosystem!",
+      "posted_at": "2026-09-24T17:43:59Z",
+      "engagement": {
+        "likes": 523,
+        "reposts": 23,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Aravind Srinivas welcomes AMD to the Perplexity AI ecosystem!",
+      "tags": [
+        "builder",
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 27.56
+    },
+    {
+      "id": "2103474875054915783",
+      "url": "https://x.com/levelsio/status/2103474875054915783",
+      "author_handle": "levelsio",
+      "author_name": "levelsio",
+      "post_text": "How do I switch my @X Premium from iOS sub to web? I guess I have to cancel it but then do I lose my @X Creator stuff?",
+      "posted_at": "2026-09-25T13:21:05Z",
+      "engagement": {
+        "likes": 408,
+        "reposts": 2,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "levelsio seeks guidance on switching X Premium subscription platforms",
+      "tags": [
+        "builder"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 27.54
+    },
+    {
+      "id": "2103548700853198940",
+      "url": "https://x.com/ClementDelangue/status/2103548700853198940",
+      "author_handle": "ClementDelangue",
+      "author_name": "clem 🤗",
+      "post_text": "Open Alignment will be 🔥🔥🔥 (sound on)! \n\nFlying began as one of the most dangerous ways to travel, today it's the safest. It's time to build!",
+      "posted_at": "2026-09-25T18:14:26Z",
+      "engagement": {
+        "likes": 288,
+        "reposts": 30,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "clem shares vision for open alignment and safety in AI",
+      "tags": [
+        "open-source",
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 27.4
     },
     {
       "id": "2102938541471015137",
@@ -2509,7 +2482,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 27.43
+      "score": 27.11
     },
     {
       "id": "2103241801599750329",
@@ -2537,7 +2510,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 26.22
+      "score": 25.77
     },
     {
       "id": "2103212249812721674",
@@ -2564,61 +2537,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 25.82
-    },
-    {
-      "id": "2103593301240602645",
-      "url": "https://x.com/emollick/status/2103593301240602645",
-      "author_handle": "emollick",
-      "author_name": "Ethan Mollick",
-      "post_text": "Leaving aside everything else, this confuses inputs with outputs. You want to get tasks done efficiently, not focus on inputs alone (its a similar risk for companies focusing solely on minimizing token cost)\n\nAnd \"keep prompts short\" is bad advice for getting good AI outputs.",
-      "posted_at": "2026-09-25T21:11:40Z",
-      "engagement": {
-        "likes": 191,
-        "reposts": 12,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Ethan Mollick critiques common AI prompt advice for better task efficiency",
-      "tags": [
-        "education"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 24.76
-    },
-    {
-      "id": "2103485857147617393",
-      "url": "https://x.com/emollick/status/2103485857147617393",
-      "author_handle": "emollick",
-      "author_name": "Ethan Mollick",
-      "post_text": "Microsoft seems to sell its own Claw now (I suspect they will not be the last), which may help spread personal agents in organizations\n\nBut using a router with mystery models behind it is a big problem. Routers underestimate work difficulty in many fields resulting in bad outputs",
-      "posted_at": "2026-09-25T14:04:43Z",
-      "engagement": {
-        "likes": 227,
-        "reposts": 11,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Ethan Mollick discusses Microsoft's new Claw and its impact on AI agents",
-      "tags": [
-        "education"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 24.33
+      "score": 25.39
     },
     {
       "id": "2102800209894056351",
@@ -2646,18 +2565,18 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 24.27
+      "score": 23.99
     },
     {
-      "id": "2103242738099462337",
-      "url": "https://x.com/bindureddy/status/2103242738099462337",
-      "author_handle": "bindureddy",
-      "author_name": "Bindu Reddy",
-      "post_text": "Rumors of GPT 6.1 Astra are all over the place\n\nThat would be insanely remarkable if they could launch a new Astra variant so fast 🤯",
-      "posted_at": "2026-09-24T21:58:39Z",
+      "id": "2103593301240602645",
+      "url": "https://x.com/emollick/status/2103593301240602645",
+      "author_handle": "emollick",
+      "author_name": "Ethan Mollick",
+      "post_text": "Leaving aside everything else, this confuses inputs with outputs. You want to get tasks done efficiently, not focus on inputs alone (its a similar risk for companies focusing solely on minimizing token cost)\n\nAnd \"keep prompts short\" is bad advice for getting good AI outputs.",
+      "posted_at": "2026-09-25T21:11:40Z",
       "engagement": {
-        "likes": 326,
-        "reposts": 4,
+        "likes": 191,
+        "reposts": 12,
         "replies": 0,
         "views": 0,
         "bookmarks": 0
@@ -2665,43 +2584,15 @@
       "is_listicle": false,
       "list_items": [],
       "media_urls": [],
-      "sensational_headline": "Bindu Reddy discusses wild rumors about the launch of GPT 6.1 Astra!",
+      "sensational_headline": "Ethan Mollick critiques common AI prompt advice for better task efficiency",
       "tags": [
-        "industry"
+        "education"
       ],
       "is_reply": false,
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 24.01
-    },
-    {
-      "id": "2103578627359268987",
-      "url": "https://x.com/_akhaliq/status/2103578627359268987",
-      "author_handle": "_akhaliq",
-      "author_name": "AK",
-      "post_text": "Qwen-Image-2.1-viggle-turbo v0.2 is out on Hugging Face\n\nText-to-image and image editing in 6 steps\n\nabout 5× faster than the 40-step Qwen-Image-2.1\n\nmodel: https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo",
-      "posted_at": "2026-09-25T20:13:22Z",
-      "engagement": {
-        "likes": 159,
-        "reposts": 18,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "AK announces Qwen-Image-2.1-viggle-turbo with enhanced speed for image editing and generation",
-      "tags": [
-        "research",
-        "curator"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 23.86
+      "score": 23.95
     },
     {
       "id": "2100411291836018812",
@@ -2728,7 +2619,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 23.84
+      "score": 23.74
+    },
+    {
+      "id": "2103485857147617393",
+      "url": "https://x.com/emollick/status/2103485857147617393",
+      "author_handle": "emollick",
+      "author_name": "Ethan Mollick",
+      "post_text": "Microsoft seems to sell its own Claw now (I suspect they will not be the last), which may help spread personal agents in organizations\n\nBut using a router with mystery models behind it is a big problem. Routers underestimate work difficulty in many fields resulting in bad outputs",
+      "posted_at": "2026-09-25T14:04:43Z",
+      "engagement": {
+        "likes": 227,
+        "reposts": 11,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Ethan Mollick discusses Microsoft's new Claw and its impact on AI agents",
+      "tags": [
+        "education"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 23.69
     },
     {
       "id": "2102215794902139015",
@@ -2756,7 +2674,62 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 23.83
+      "score": 23.64
+    },
+    {
+      "id": "2103242738099462337",
+      "url": "https://x.com/bindureddy/status/2103242738099462337",
+      "author_handle": "bindureddy",
+      "author_name": "Bindu Reddy",
+      "post_text": "Rumors of GPT 6.1 Astra are all over the place\n\nThat would be insanely remarkable if they could launch a new Astra variant so fast 🤯",
+      "posted_at": "2026-09-24T21:58:39Z",
+      "engagement": {
+        "likes": 326,
+        "reposts": 4,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Bindu Reddy discusses wild rumors about the launch of GPT 6.1 Astra!",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 23.58
+    },
+    {
+      "id": "2103578627359268987",
+      "url": "https://x.com/_akhaliq/status/2103578627359268987",
+      "author_handle": "_akhaliq",
+      "author_name": "AK",
+      "post_text": "Qwen-Image-2.1-viggle-turbo v0.2 is out on Hugging Face\n\nText-to-image and image editing in 6 steps\n\nabout 5× faster than the 40-step Qwen-Image-2.1\n\nmodel: https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo",
+      "posted_at": "2026-09-25T20:13:22Z",
+      "engagement": {
+        "likes": 159,
+        "reposts": 18,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "AK announces Qwen-Image-2.1-viggle-turbo with enhanced speed for image editing and generation",
+      "tags": [
+        "research",
+        "curator"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 23.09
     },
     {
       "id": "2099998119392161960",
@@ -2784,7 +2757,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 22.85
+      "score": 22.76
     },
     {
       "id": "2103325773323018520",
@@ -2811,7 +2784,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 22.63
+      "score": 22.14
     },
     {
       "id": "2103641180923978031",
@@ -2839,7 +2812,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 22.51
+      "score": 21.61
     },
     {
       "id": "2103569043836027339",
@@ -2867,7 +2840,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 22.19
+      "score": 21.45
     },
     {
       "id": "2102498448364954083",
@@ -2895,7 +2868,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 20.51
+      "score": 20.3
     },
     {
       "id": "2102464776215679021",
@@ -2923,7 +2896,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 20.42
+      "score": 20.21
     },
     {
       "id": "2103201617004949888",
@@ -2951,7 +2924,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 20.32
+      "score": 19.92
     },
     {
       "id": "2103608911442120979",
@@ -2978,7 +2951,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 20.31
+      "score": 19.51
     },
     {
       "id": "2099965852934402547",
@@ -3006,63 +2979,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 19.18
-    },
-    {
-      "id": "2103561974613446862",
-      "url": "https://x.com/hwchase17/status/2103561974613446862",
-      "author_handle": "hwchase17",
-      "author_name": "Harrison Chase",
-      "post_text": "jev and langgraph are a great combo!\nmodeling agents as complex systems, with AI imbued in them, makes a ton of sense\nlanggraph is the best way to model them as such, and using Jev inside langgraph to turbo charge all the small decisions that need to be made is awesome combo",
-      "posted_at": "2026-09-25T19:07:11Z",
-      "engagement": {
-        "likes": 84,
-        "reposts": 13,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Harrison Chase discusses the powerful combination of Jev and Langgraph",
-      "tags": [
-        "builder",
-        "open-source"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 19.16
-    },
-    {
-      "id": "2103361254433993165",
-      "url": "https://x.com/swyx/status/2103361254433993165",
-      "author_handle": "swyx",
-      "author_name": "swyx",
-      "post_text": "In Jan this year I called my content strategy shot: \"Scaling without Slop\".\n\nIt's finally starting to work. It took us 3 years to reach our first 100k on youtube. It only took 1.2 months for the next 100k. Similar other metrics on AEO/SEO/subscriber traction and have a lot of New Media ideas that I'm excited to pursue.\n\nofficially giving notice of the next phase of Latent Space, AINews, and what the rest of swyx inc has been cooking below",
-      "posted_at": "2026-09-25T05:49:36Z",
-      "engagement": {
-        "likes": 145,
-        "reposts": 5,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Swyx shares insights on his successful content strategy evolution",
-      "tags": [
-        "builder",
-        "education"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 19.09
+      "score": 19.1
     },
     {
       "id": "2102551256548131306",
@@ -3090,7 +3007,63 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.98
+      "score": 18.76
+    },
+    {
+      "id": "2103361254433993165",
+      "url": "https://x.com/swyx/status/2103361254433993165",
+      "author_handle": "swyx",
+      "author_name": "swyx",
+      "post_text": "In Jan this year I called my content strategy shot: \"Scaling without Slop\".\n\nIt's finally starting to work. It took us 3 years to reach our first 100k on youtube. It only took 1.2 months for the next 100k. Similar other metrics on AEO/SEO/subscriber traction and have a lot of New Media ideas that I'm excited to pursue.\n\nofficially giving notice of the next phase of Latent Space, AINews, and what the rest of swyx inc has been cooking below",
+      "posted_at": "2026-09-25T05:49:36Z",
+      "engagement": {
+        "likes": 145,
+        "reposts": 5,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Swyx shares insights on his successful content strategy evolution",
+      "tags": [
+        "builder",
+        "education"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 18.6
+    },
+    {
+      "id": "2103561974613446862",
+      "url": "https://x.com/hwchase17/status/2103561974613446862",
+      "author_handle": "hwchase17",
+      "author_name": "Harrison Chase",
+      "post_text": "jev and langgraph are a great combo!\nmodeling agents as complex systems, with AI imbued in them, makes a ton of sense\nlanggraph is the best way to model them as such, and using Jev inside langgraph to turbo charge all the small decisions that need to be made is awesome combo",
+      "posted_at": "2026-09-25T19:07:11Z",
+      "engagement": {
+        "likes": 84,
+        "reposts": 13,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Harrison Chase discusses the powerful combination of Jev and Langgraph",
+      "tags": [
+        "builder",
+        "open-source"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 18.45
     },
     {
       "id": "2103182635992514569",
@@ -3118,7 +3091,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.34
+      "score": 17.96
     },
     {
       "id": "2103154770068541691",
@@ -3146,7 +3119,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.28
+      "score": 17.91
     },
     {
       "id": "2103304044668162541",
@@ -3174,7 +3147,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.21
+      "score": 17.76
     },
     {
       "id": "2102650014552182920",
@@ -3202,7 +3175,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 17.96
+      "score": 17.73
     },
     {
       "id": "2102916558712705427",
@@ -3230,34 +3203,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 17.29
-    },
-    {
-      "id": "2103660061260411266",
-      "url": "https://x.com/hardmaru/status/2103660061260411266",
-      "author_handle": "hardmaru",
-      "author_name": "hardmaru",
-      "post_text": "The last sentence in the Schmidhuber news trending item summary hits hard 🙃 https://x.com/i/trending/2103185481118744724",
-      "posted_at": "2026-09-26T01:36:57Z",
-      "engagement": {
-        "likes": 57,
-        "reposts": 6,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "hardmaru highlights impactful moment in Schmidhuber news summary",
-      "tags": [
-        "research"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 17.1
+      "score": 17.01
     },
     {
       "id": "2099980710090248306",
@@ -3285,7 +3231,34 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 16.84
+      "score": 16.76
+    },
+    {
+      "id": "2103660061260411266",
+      "url": "https://x.com/hardmaru/status/2103660061260411266",
+      "author_handle": "hardmaru",
+      "author_name": "hardmaru",
+      "post_text": "The last sentence in the Schmidhuber news trending item summary hits hard 🙃 https://x.com/i/trending/2103185481118744724",
+      "posted_at": "2026-09-26T01:36:57Z",
+      "engagement": {
+        "likes": 57,
+        "reposts": 6,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "hardmaru highlights impactful moment in Schmidhuber news summary",
+      "tags": [
+        "research"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 16.22
     },
     {
       "id": "2103582338986955063",
@@ -3312,7 +3285,118 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 16.7
+      "score": 15.99
+    },
+    {
+      "id": "2102441795879919636",
+      "url": "https://x.com/mikeyk/status/2102441795879919636",
+      "author_handle": "mikeyk",
+      "author_name": "Mike Krieger",
+      "post_text": "Go try out Opus 5.5, which we launched today! It leads in coding and knowledge work, and it’s a great writer. It performs at the level of Claude Fable 5.1 for most tasks, and costs 40% less to run than Opus 5.",
+      "posted_at": "2026-09-22T16:56:00Z",
+      "engagement": {
+        "likes": 207,
+        "reposts": 4,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Krieger launches Opus 5.5, a game-changer for coding and knowledge work",
+      "tags": [
+        "lab-leader",
+        "anthropic"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 15.87
+    },
+    {
+      "id": "2102886723206492246",
+      "url": "https://x.com/polynoamial/status/2102886723206492246",
+      "author_handle": "polynoamial",
+      "author_name": "Noam Brown",
+      "post_text": "Happy to see they added this to the website!",
+      "posted_at": "2026-09-23T22:23:59Z",
+      "engagement": {
+        "likes": 160,
+        "reposts": 2,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Noam Brown expresses excitement over new website feature",
+      "tags": [
+        "research"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 15.77
+    },
+    {
+      "id": "2102808840102396388",
+      "url": "https://x.com/jxnlco/status/2102808840102396388",
+      "author_handle": "jxnlco",
+      "author_name": "jason",
+      "post_text": "been using astra to transcribe music, then to review the spectrogram to do error correction and then review the music theory resulting in very robust transcriptions for me to learn... \n> The spectrogram shows a few clear problems: some wide vibrato became extra chromatic notes, and around 3:22 the tracker briefly jumped to a lower piano note while the clarinet continued above it. I’m correcting those and simplifying isolated sixteenth rests. The quiet ending is still ambiguous.",
+      "posted_at": "2026-09-23T17:14:30Z",
+      "engagement": {
+        "likes": 156,
+        "reposts": 6,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Jason shares insights on using Astra for music transcription errors and corrections",
+      "tags": [
+        "builder",
+        "education"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 15.65
+    },
+    {
+      "id": "2102612246513983711",
+      "url": "https://x.com/kevinweil/status/2102612246513983711",
+      "author_handle": "kevinweil",
+      "author_name": "Kevin Weil 🇺🇸",
+      "post_text": "This is exactly the right take.",
+      "posted_at": "2026-09-23T04:13:18Z",
+      "engagement": {
+        "likes": 177,
+        "reposts": 6,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Kevin Weil reinforces a critical perspective on current events",
+      "tags": [
+        "lab-leader",
+        "openai"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 15.63
     },
     {
       "id": "2103551357823369653",
@@ -3344,118 +3428,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 16.18
-    },
-    {
-      "id": "2102441795879919636",
-      "url": "https://x.com/mikeyk/status/2102441795879919636",
-      "author_handle": "mikeyk",
-      "author_name": "Mike Krieger",
-      "post_text": "Go try out Opus 5.5, which we launched today! It leads in coding and knowledge work, and it’s a great writer. It performs at the level of Claude Fable 5.1 for most tasks, and costs 40% less to run than Opus 5.",
-      "posted_at": "2026-09-22T16:56:00Z",
-      "engagement": {
-        "likes": 207,
-        "reposts": 4,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Krieger launches Opus 5.5, a game-changer for coding and knowledge work",
-      "tags": [
-        "lab-leader",
-        "anthropic"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 16.06
-    },
-    {
-      "id": "2102886723206492246",
-      "url": "https://x.com/polynoamial/status/2102886723206492246",
-      "author_handle": "polynoamial",
-      "author_name": "Noam Brown",
-      "post_text": "Happy to see they added this to the website!",
-      "posted_at": "2026-09-23T22:23:59Z",
-      "engagement": {
-        "likes": 160,
-        "reposts": 2,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Noam Brown expresses excitement over new website feature",
-      "tags": [
-        "research"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 16.04
-    },
-    {
-      "id": "2102808840102396388",
-      "url": "https://x.com/jxnlco/status/2102808840102396388",
-      "author_handle": "jxnlco",
-      "author_name": "jason",
-      "post_text": "been using astra to transcribe music, then to review the spectrogram to do error correction and then review the music theory resulting in very robust transcriptions for me to learn... \n> The spectrogram shows a few clear problems: some wide vibrato became extra chromatic notes, and around 3:22 the tracker briefly jumped to a lower piano note while the clarinet continued above it. I’m correcting those and simplifying isolated sixteenth rests. The quiet ending is still ambiguous.",
-      "posted_at": "2026-09-23T17:14:30Z",
-      "engagement": {
-        "likes": 156,
-        "reposts": 6,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Jason shares insights on using Astra for music transcription errors and corrections",
-      "tags": [
-        "builder",
-        "education"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 15.9
-    },
-    {
-      "id": "2102612246513983711",
-      "url": "https://x.com/kevinweil/status/2102612246513983711",
-      "author_handle": "kevinweil",
-      "author_name": "Kevin Weil 🇺🇸",
-      "post_text": "This is exactly the right take.",
-      "posted_at": "2026-09-23T04:13:18Z",
-      "engagement": {
-        "likes": 177,
-        "reposts": 6,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Kevin Weil reinforces a critical perspective on current events",
-      "tags": [
-        "lab-leader",
-        "openai"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 15.85
+      "score": 15.53
     },
     {
       "id": "2102964957587632555",
@@ -3483,7 +3456,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 15.71
+      "score": 15.42
     },
     {
       "id": "2103281862529458340",
@@ -3510,7 +3483,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 15.07
+      "score": 14.66
     },
     {
       "id": "2100259777528177030",
@@ -3538,7 +3511,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.68
+      "score": 13.6
     },
     {
       "id": "2102137581626388743",
@@ -3566,7 +3539,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.11
+      "score": 12.96
     },
     {
       "id": "2100260130529161272",
@@ -3594,7 +3567,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 12.87
+      "score": 12.8
     },
     {
       "id": "2101327912951787569",
@@ -3622,7 +3595,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 12.65
+      "score": 12.55
     },
     {
       "id": "2102854830528364718",
@@ -3650,61 +3623,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 12.49
-    },
-    {
-      "id": "2103586769056784419",
-      "url": "https://x.com/GaryMarcus/status/2103586769056784419",
-      "author_handle": "GaryMarcus",
-      "author_name": "Gary Marcus",
-      "post_text": "dozens. \n\nand the Trump administration hasn’t done a thing.",
-      "posted_at": "2026-09-25T20:45:43Z",
-      "engagement": {
-        "likes": 24,
-        "reposts": 7,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Gary Marcus highlights inaction from the Trump administration on critical issues",
-      "tags": [
-        "critic"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-25T23:19:38Z",
-      "last_scraped_at": "2026-09-25T23:19:38Z",
-      "engagement_tier": "normal",
-      "score": 12.08
-    },
-    {
-      "id": "2103252520525054005",
-      "url": "https://x.com/paulg/status/2103252520525054005",
-      "author_handle": "paulg",
-      "author_name": "Paul Graham",
-      "post_text": "I wasn't around in the 16th century if that's what you mean.",
-      "posted_at": "2026-09-24T22:37:32Z",
-      "engagement": {
-        "likes": 64,
-        "reposts": 0,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Paul Graham humorously clarifies his historical knowledge of the 16th century",
-      "tags": [
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 11.74
+      "score": 12.25
     },
     {
       "id": "2102781533274734801",
@@ -3731,7 +3650,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 11.69
+      "score": 11.48
     },
     {
       "id": "2102470464735949263",
@@ -3759,7 +3678,61 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 11.63
+      "score": 11.46
+    },
+    {
+      "id": "2103586769056784419",
+      "url": "https://x.com/GaryMarcus/status/2103586769056784419",
+      "author_handle": "GaryMarcus",
+      "author_name": "Gary Marcus",
+      "post_text": "dozens. \n\nand the Trump administration hasn’t done a thing.",
+      "posted_at": "2026-09-25T20:45:43Z",
+      "engagement": {
+        "likes": 24,
+        "reposts": 7,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Gary Marcus highlights inaction from the Trump administration on critical issues",
+      "tags": [
+        "critic"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-25T23:19:38Z",
+      "last_scraped_at": "2026-09-25T23:19:38Z",
+      "engagement_tier": "normal",
+      "score": 11.45
+    },
+    {
+      "id": "2103252520525054005",
+      "url": "https://x.com/paulg/status/2103252520525054005",
+      "author_handle": "paulg",
+      "author_name": "Paul Graham",
+      "post_text": "I wasn't around in the 16th century if that's what you mean.",
+      "posted_at": "2026-09-24T22:37:32Z",
+      "engagement": {
+        "likes": 64,
+        "reposts": 0,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Paul Graham humorously clarifies his historical knowledge of the 16th century",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 11.39
     },
     {
       "id": "2102851157261725730",
@@ -3787,7 +3760,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 11.13
+      "score": 10.91
     },
     {
       "id": "2101351570973880562",
@@ -3815,7 +3788,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 9.57
+      "score": 9.48
     },
     {
       "id": "2102935661183631633",
@@ -3842,7 +3815,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 7.14
+      "score": 6.96
     },
     {
       "id": "2100586770572177551",
@@ -3869,7 +3842,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 5.08
+      "score": 5.03
     }
   ]
 }
