@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T08:15:31Z",
+  "generated_at": "2026-09-27T14:04:23Z",
   "source": "firecrawl",
   "tracked_accounts": [
     {
@@ -745,7 +745,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 76.28
+      "score": 75.53
     },
     {
       "id": "2103537377239015827",
@@ -772,7 +772,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 69.69
+      "score": 68.77
     },
     {
       "id": "2103383018882896249",
@@ -799,7 +799,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 67.59
+      "score": 66.84
     },
     {
       "id": "2102824959827742916",
@@ -826,7 +826,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 63.54
+      "score": 63.09
     },
     {
       "id": "2102831170299834652",
@@ -853,7 +853,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 60.57
+      "score": 60.12
     },
     {
       "id": "2102945432985120949",
@@ -880,7 +880,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 57.32
+      "score": 56.83
     },
     {
       "id": "2102808325742322002",
@@ -911,7 +911,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 55.05
+      "score": 54.61
     },
     {
       "id": "2102435703535939725",
@@ -938,7 +938,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 53.01
+      "score": 52.66
     },
     {
       "id": "2100843168166015279",
@@ -969,34 +969,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 52.17
-    },
-    {
-      "id": "2103541577083719888",
-      "url": "https://x.com/AnthropicAI/status/2103541577083719888",
-      "author_handle": "AnthropicAI",
-      "author_name": "Anthropic",
-      "post_text": "New on the Science Blog: Yes, Claude can do Nine Loops.\n\nTheoretical physicists predict how particles behave using formulas called scattering amplitudes. These are notoriously hard to compute, so researchers work with layers of increasingly fine corrections called “loops”—each added loop makes the answer more precise but takes exponentially more computation. Most calculations stop at two or three loops. Eight loops was the previous record in a simplified model physicists use as a testing ground (planar N=4 super-Yang-Mills), set by SLAC's Lance Dixon and collaborators.\n\nLast month, physicist and science writer @4gravitons issued a challenge: could an AI push past eight loops in this model, using only the compute budget an academic could reasonably access?\n\nGiven a single prompt describing the nine-loop problem, Claude ran largely unsupervised for days in Claude Science and solved it using methods developed by Dixon and his colleagues, at a total cost of a few thousand dollars. Dixon independently verified the result, and von Hippel wrote about the experience for our blog.\n\nRead more:",
-      "posted_at": "2026-09-25T17:46:08Z",
-      "engagement": {
-        "likes": 4837,
-        "reposts": 526,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Anthropic demonstrates Claude achieving nine-loop physics calculations, breaking new ground",
-      "tags": [
-        "lab"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "hot",
-      "score": 50.09
+      "score": 51.99
     },
     {
       "id": "2100233897191903500",
@@ -1023,7 +996,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 49.75
+      "score": 49.6
+    },
+    {
+      "id": "2103541577083719888",
+      "url": "https://x.com/AnthropicAI/status/2103541577083719888",
+      "author_handle": "AnthropicAI",
+      "author_name": "Anthropic",
+      "post_text": "New on the Science Blog: Yes, Claude can do Nine Loops.\n\nTheoretical physicists predict how particles behave using formulas called scattering amplitudes. These are notoriously hard to compute, so researchers work with layers of increasingly fine corrections called “loops”—each added loop makes the answer more precise but takes exponentially more computation. Most calculations stop at two or three loops. Eight loops was the previous record in a simplified model physicists use as a testing ground (planar N=4 super-Yang-Mills), set by SLAC's Lance Dixon and collaborators.\n\nLast month, physicist and science writer @4gravitons issued a challenge: could an AI push past eight loops in this model, using only the compute budget an academic could reasonably access?\n\nGiven a single prompt describing the nine-loop problem, Claude ran largely unsupervised for days in Claude Science and solved it using methods developed by Dixon and his colleagues, at a total cost of a few thousand dollars. Dixon independently verified the result, and von Hippel wrote about the experience for our blog.\n\nRead more:",
+      "posted_at": "2026-09-25T17:46:08Z",
+      "engagement": {
+        "likes": 4837,
+        "reposts": 526,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Anthropic demonstrates Claude achieving nine-loop physics calculations, breaking new ground",
+      "tags": [
+        "lab"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "hot",
+      "score": 49.16
     },
     {
       "id": "2103551714536439951",
@@ -1050,34 +1050,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 49.19
-    },
-    {
-      "id": "2103567198690349362",
-      "url": "https://x.com/sama/status/2103567198690349362",
-      "author_handle": "sama",
-      "author_name": "Sam Altman",
-      "post_text": "There is an extensive and ongoing review related to our agents’ use of internet access during training and evaluation. We’ve been publishing summaries at the link below and will continue to.\n\nWe have not been as fast as we would have liked but we are trying to balance our desire for transparency with gaining a clear understanding from petabytes of agent activity logs, and working with impacted organizations.\n\nWe are prioritizing as best as we can based on severity, and adding resources. Hugging Face is still the most severe event we’ve seen. We will be as transparent as we can be subject to things like vulnerabilities in other companies that our agents have found, which will be their call to disclose or not.",
-      "posted_at": "2026-09-25T19:27:57Z",
-      "engagement": {
-        "likes": 4344,
-        "reposts": 280,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Altman updates on transparency efforts regarding OpenAI agent activities",
-      "tags": [
-        "lab-leader"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "hot",
-      "score": 48.67
+      "score": 48.24
     },
     {
       "id": "2102466603111551187",
@@ -1104,7 +1077,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 48.6
+      "score": 48.24
     },
     {
       "id": "2102140576498065758",
@@ -1132,7 +1105,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "hot",
-      "score": 48.53
+      "score": 48.23
     },
     {
       "id": "2101840695430435122",
@@ -1160,7 +1133,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 48.3
+      "score": 48.04
+    },
+    {
+      "id": "2103567198690349362",
+      "url": "https://x.com/sama/status/2103567198690349362",
+      "author_handle": "sama",
+      "author_name": "Sam Altman",
+      "post_text": "There is an extensive and ongoing review related to our agents’ use of internet access during training and evaluation. We’ve been publishing summaries at the link below and will continue to.\n\nWe have not been as fast as we would have liked but we are trying to balance our desire for transparency with gaining a clear understanding from petabytes of agent activity logs, and working with impacted organizations.\n\nWe are prioritizing as best as we can based on severity, and adding resources. Hugging Face is still the most severe event we’ve seen. We will be as transparent as we can be subject to things like vulnerabilities in other companies that our agents have found, which will be their call to disclose or not.",
+      "posted_at": "2026-09-25T19:27:57Z",
+      "engagement": {
+        "likes": 4344,
+        "reposts": 280,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Altman updates on transparency efforts regarding OpenAI agent activities",
+      "tags": [
+        "lab-leader"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "hot",
+      "score": 47.7
     },
     {
       "id": "2102785495726219305",
@@ -1195,7 +1195,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 46.3
+      "score": 45.87
     },
     {
       "id": "2103288927805476900",
@@ -1223,7 +1223,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 45.23
+      "score": 44.56
     },
     {
       "id": "2102837574092161102",
@@ -1250,34 +1250,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 43.65
-    },
-    {
-      "id": "2103566736356458911",
-      "url": "https://x.com/OpenAI/status/2103566736356458911",
-      "author_handle": "OpenAI",
-      "author_name": "OpenAI",
-      "post_text": "After the Hugging Face incident, we committed to conducting a much broader review of actions taken by our models during training and evaluation and to being transparent about our findings. This is an extensive review that is ongoing.\n\nThe vast majority of actions we’ve reviewed were completions of mundane research tasks, such as accessing publicly available web content to answer questions. Our investigation focuses on instances where agents interacted with third-party websites in ways that went beyond their assigned tasks or intended methods. Most cases identified so far have been lower severity, with limited or no evidence of meaningful impact to the third-party service.\n\nWhile our review is underway, we want to share more about this work and make sure people understand our disclosure process and notifications to affected third parties.\n\nGiven the scale of the review required, and the need to assess each case, we expect this work will take months to complete.",
-      "posted_at": "2026-09-25T19:26:06Z",
-      "engagement": {
-        "likes": 2087,
-        "reposts": 218,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "OpenAI commits to transparency after Hugging Face incident with ongoing review of its models' actions",
-      "tags": [
-        "lab"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "hot",
-      "score": 43.04
+      "score": 43.2
     },
     {
       "id": "2102447442147086563",
@@ -1304,7 +1277,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 42.88
+      "score": 42.53
+    },
+    {
+      "id": "2103566736356458911",
+      "url": "https://x.com/OpenAI/status/2103566736356458911",
+      "author_handle": "OpenAI",
+      "author_name": "OpenAI",
+      "post_text": "After the Hugging Face incident, we committed to conducting a much broader review of actions taken by our models during training and evaluation and to being transparent about our findings. This is an extensive review that is ongoing.\n\nThe vast majority of actions we’ve reviewed were completions of mundane research tasks, such as accessing publicly available web content to answer questions. Our investigation focuses on instances where agents interacted with third-party websites in ways that went beyond their assigned tasks or intended methods. Most cases identified so far have been lower severity, with limited or no evidence of meaningful impact to the third-party service.\n\nWhile our review is underway, we want to share more about this work and make sure people understand our disclosure process and notifications to affected third parties.\n\nGiven the scale of the review required, and the need to assess each case, we expect this work will take months to complete.",
+      "posted_at": "2026-09-25T19:26:06Z",
+      "engagement": {
+        "likes": 2087,
+        "reposts": 218,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "OpenAI commits to transparency after Hugging Face incident with ongoing review of its models' actions",
+      "tags": [
+        "lab"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "hot",
+      "score": 42.08
     },
     {
       "id": "2102469008079679640",
@@ -1331,7 +1331,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 42.22
+      "score": 41.87
     },
     {
       "id": "2102444225443029100",
@@ -1358,7 +1358,35 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 42.07
+      "score": 41.73
+    },
+    {
+      "id": "2102156143007338594",
+      "url": "https://x.com/OfficialLoganK/status/2102156143007338594",
+      "author_handle": "OfficialLoganK",
+      "author_name": "Logan Kilpatrick",
+      "post_text": "if you are building a product using AI, you should be spending >25% of your time making benchmarks and trying to get the model labs to care about said benchmarks\neasiest path to accelerate your progress as a company",
+      "posted_at": "2026-09-21T22:00:55Z",
+      "engagement": {
+        "likes": 3506,
+        "reposts": 135,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Logan Kilpatrick highlights the importance of AI benchmarks for product success",
+      "tags": [
+        "industry",
+        "builder"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "hot",
+      "score": 37.57
     },
     {
       "id": "2103379937038364973",
@@ -1391,62 +1419,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 38.17
-    },
-    {
-      "id": "2102156143007338594",
-      "url": "https://x.com/OfficialLoganK/status/2102156143007338594",
-      "author_handle": "OfficialLoganK",
-      "author_name": "Logan Kilpatrick",
-      "post_text": "if you are building a product using AI, you should be spending >25% of your time making benchmarks and trying to get the model labs to care about said benchmarks\neasiest path to accelerate your progress as a company",
-      "posted_at": "2026-09-21T22:00:55Z",
-      "engagement": {
-        "likes": 3506,
-        "reposts": 135,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Logan Kilpatrick highlights the importance of AI benchmarks for product success",
-      "tags": [
-        "industry",
-        "builder"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "hot",
-      "score": 37.86
-    },
-    {
-      "id": "2103338592672362566",
-      "url": "https://x.com/fchollet/status/2103338592672362566",
-      "author_handle": "fchollet",
-      "author_name": "François Chollet",
-      "post_text": "I think the \"difficulty\" of software engineering is essentially constant no matter what abstraction level you move to, because human cognition adapts to new tools until it can fully utilize itself.\n\nTools are only affordances, not a magic wand that makes work disappear.\n\nGreat software engineering was immensely challenging before. It is still immensely challenging now, despite very different workflows.",
-      "posted_at": "2026-09-25T04:19:33Z",
-      "engagement": {
-        "likes": 1484,
-        "reposts": 151,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Chollet argues the challenge of software engineering remains constant despite tools",
-      "tags": [
-        "research"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 37.8
+      "score": 37.43
     },
     {
       "id": "2101681347853242682",
@@ -1474,7 +1447,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 37.41
+      "score": 37.17
+    },
+    {
+      "id": "2103338592672362566",
+      "url": "https://x.com/fchollet/status/2103338592672362566",
+      "author_handle": "fchollet",
+      "author_name": "François Chollet",
+      "post_text": "I think the \"difficulty\" of software engineering is essentially constant no matter what abstraction level you move to, because human cognition adapts to new tools until it can fully utilize itself.\n\nTools are only affordances, not a magic wand that makes work disappear.\n\nGreat software engineering was immensely challenging before. It is still immensely challenging now, despite very different workflows.",
+      "posted_at": "2026-09-25T04:19:33Z",
+      "engagement": {
+        "likes": 1484,
+        "reposts": 151,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Chollet argues the challenge of software engineering remains constant despite tools",
+      "tags": [
+        "research"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 37.1
     },
     {
       "id": "2100230524383981702",
@@ -1501,7 +1501,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "hot",
-      "score": 36.37
+      "score": 36.22
     },
     {
       "id": "2102394156731535413",
@@ -1533,34 +1533,7 @@
       "first_seen_at": "2026-09-25T19:22:05Z",
       "last_scraped_at": "2026-09-25T19:22:05Z",
       "engagement_tier": "normal",
-      "score": 35.97
-    },
-    {
-      "id": "2103624838716010948",
-      "url": "https://x.com/tszzl/status/2103624838716010948",
-      "author_handle": "tszzl",
-      "author_name": "roon",
-      "post_text": "It’s only thinking when it comes from the mammalian neocortex region of Tegmark IV, otherwise it’s just sparkling stochastic parrot.",
-      "posted_at": "2026-09-25T23:16:59Z",
-      "engagement": {
-        "likes": 835,
-        "reposts": 55,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "roon critiques AI thinking and its limitations in a thought-provoking post",
-      "tags": [
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 35.21
+      "score": 35.64
     },
     {
       "id": "2103223477130129726",
@@ -1588,7 +1561,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 34.79
+      "score": 34.18
+    },
+    {
+      "id": "2103624838716010948",
+      "url": "https://x.com/tszzl/status/2103624838716010948",
+      "author_handle": "tszzl",
+      "author_name": "roon",
+      "post_text": "It’s only thinking when it comes from the mammalian neocortex region of Tegmark IV, otherwise it’s just sparkling stochastic parrot.",
+      "posted_at": "2026-09-25T23:16:59Z",
+      "engagement": {
+        "likes": 835,
+        "reposts": 55,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "roon critiques AI thinking and its limitations in a thought-provoking post",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 34.16
     },
     {
       "id": "2102821706041819401",
@@ -1615,7 +1615,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 34.06
+      "score": 33.63
     },
     {
       "id": "2102470107826159755",
@@ -1642,7 +1642,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 33.55
+      "score": 33.2
+    },
+    {
+      "id": "2100963146446025096",
+      "url": "https://x.com/drfeifei/status/2100963146446025096",
+      "author_handle": "drfeifei",
+      "author_name": "Fei-Fei Li",
+      "post_text": "Agents can be AI, but agency is human. It is every individual’s responsibility to empower our own agency, with the help of tools. But the North Star should always remain human centered.",
+      "posted_at": "2026-09-18T15:00:22Z",
+      "engagement": {
+        "likes": 2360,
+        "reposts": 373,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Fei-Fei Li emphasizes the importance of human agency in the age of AI",
+      "tags": [
+        "research"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-25T23:19:38Z",
+      "last_scraped_at": "2026-09-25T23:19:38Z",
+      "engagement_tier": "hot",
+      "score": 33.16
     },
     {
       "id": "2101672304358948992",
@@ -1670,88 +1697,7 @@
       "first_seen_at": "2026-09-25T19:22:05Z",
       "last_scraped_at": "2026-09-25T19:22:05Z",
       "engagement_tier": "hot",
-      "score": 33.34
-    },
-    {
-      "id": "2100963146446025096",
-      "url": "https://x.com/drfeifei/status/2100963146446025096",
-      "author_handle": "drfeifei",
-      "author_name": "Fei-Fei Li",
-      "post_text": "Agents can be AI, but agency is human. It is every individual’s responsibility to empower our own agency, with the help of tools. But the North Star should always remain human centered.",
-      "posted_at": "2026-09-18T15:00:22Z",
-      "engagement": {
-        "likes": 2360,
-        "reposts": 373,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Fei-Fei Li emphasizes the importance of human agency in the age of AI",
-      "tags": [
-        "research"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-25T23:19:38Z",
-      "last_scraped_at": "2026-09-25T23:19:38Z",
-      "engagement_tier": "hot",
-      "score": 33.34
-    },
-    {
-      "id": "2102862838570397711",
-      "url": "https://x.com/ESYudkowsky/status/2102862838570397711",
-      "author_handle": "ESYudkowsky",
-      "author_name": "Eliezer Yudkowsky ⏹️",
-      "post_text": "As passed policy, the Ban Artificial Superintelligence Act would be an extraordinary improvement over status quo.  I endorse it.  I pray that Republicans and Democrats alike will join their voices in defending against extinction.\n\nLink to MIRI's position below.",
-      "posted_at": "2026-09-23T20:49:04Z",
-      "engagement": {
-        "likes": 1180,
-        "reposts": 124,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Yudkowsky endorses the Ban Artificial Superintelligence Act as vital for survival",
-      "tags": [
-        "critic"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 32.76
-    },
-    {
-      "id": "2103457423335862476",
-      "url": "https://x.com/levelsio/status/2103457423335862476",
-      "author_handle": "levelsio",
-      "author_name": "levelsio",
-      "post_text": "🇬🇧 😂",
-      "posted_at": "2026-09-25T12:11:44Z",
-      "engagement": {
-        "likes": 832,
-        "reposts": 27,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "levelsio's humorous take on British culture sparks laughs",
-      "tags": [
-        "builder"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 32.67
+      "score": 33.1
     },
     {
       "id": "2099213169805902203",
@@ -1778,18 +1724,18 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 32.47
+      "score": 32.35
     },
     {
-      "id": "2103596391021113637",
-      "url": "https://x.com/tszzl/status/2103596391021113637",
-      "author_handle": "tszzl",
-      "author_name": "roon",
-      "post_text": "if the NRX weren’t partisan hacks they would love this company. its governance structure is basically Karnofsky-Amodei genetic dynasty, has an encaged machine god with its own Consitution, went to war with the department of war",
-      "posted_at": "2026-09-25T21:23:57Z",
+      "id": "2102862838570397711",
+      "url": "https://x.com/ESYudkowsky/status/2102862838570397711",
+      "author_handle": "ESYudkowsky",
+      "author_name": "Eliezer Yudkowsky ⏹️",
+      "post_text": "As passed policy, the Ban Artificial Superintelligence Act would be an extraordinary improvement over status quo.  I endorse it.  I pray that Republicans and Democrats alike will join their voices in defending against extinction.\n\nLink to MIRI's position below.",
+      "posted_at": "2026-09-23T20:49:04Z",
       "engagement": {
-        "likes": 651,
-        "reposts": 29,
+        "likes": 1180,
+        "reposts": 124,
         "replies": 0,
         "views": 0,
         "bookmarks": 0
@@ -1797,15 +1743,42 @@
       "is_listicle": false,
       "list_items": [],
       "media_urls": [],
-      "sensational_headline": "roon critiques NRX governance in a sharp commentary on tech ethics",
+      "sensational_headline": "Yudkowsky endorses the Ban Artificial Superintelligence Act as vital for survival",
       "tags": [
-        "industry"
+        "critic"
       ],
       "is_reply": false,
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 32.34
+      "score": 32.31
+    },
+    {
+      "id": "2103457423335862476",
+      "url": "https://x.com/levelsio/status/2103457423335862476",
+      "author_handle": "levelsio",
+      "author_name": "levelsio",
+      "post_text": "🇬🇧 😂",
+      "posted_at": "2026-09-25T12:11:44Z",
+      "engagement": {
+        "likes": 832,
+        "reposts": 27,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "levelsio's humorous take on British culture sparks laughs",
+      "tags": [
+        "builder"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 31.86
     },
     {
       "id": "2103151519428448405",
@@ -1832,7 +1805,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 32.2
+      "score": 31.63
     },
     {
       "id": "2100699190448042165",
@@ -1859,18 +1832,18 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 31.77
+      "score": 31.6
     },
     {
-      "id": "2103273813928759398",
-      "url": "https://x.com/tszzl/status/2103273813928759398",
+      "id": "2103596391021113637",
+      "url": "https://x.com/tszzl/status/2103596391021113637",
       "author_handle": "tszzl",
       "author_name": "roon",
-      "post_text": "Iran / oil prices is a short term driver but broadly this is due to demand pressure from extremely attractive ai capex opportunities that are borrowing at nation scale",
-      "posted_at": "2026-09-25T00:02:08Z",
+      "post_text": "if the NRX weren’t partisan hacks they would love this company. its governance structure is basically Karnofsky-Amodei genetic dynasty, has an encaged machine god with its own Consitution, went to war with the department of war",
+      "posted_at": "2026-09-25T21:23:57Z",
       "engagement": {
-        "likes": 891,
-        "reposts": 33,
+        "likes": 651,
+        "reposts": 29,
         "replies": 0,
         "views": 0,
         "bookmarks": 0
@@ -1878,7 +1851,7 @@
       "is_listicle": false,
       "list_items": [],
       "media_urls": [],
-      "sensational_headline": "roon discusses the impact of AI capex on global oil prices in recent analysis",
+      "sensational_headline": "roon critiques NRX governance in a sharp commentary on tech ethics",
       "tags": [
         "industry"
       ],
@@ -1886,34 +1859,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 31.75
-    },
-    {
-      "id": "2103581038828237268",
-      "url": "https://x.com/alexandr_wang/status/2103581038828237268",
-      "author_handle": "alexandr_wang",
-      "author_name": "Alexandr Wang",
-      "post_text": "muse and plaid partnering together to help muse save you more money 💸 \n\nand yes i've also always wondered if it's a coincidence that plaid and stripe are both named after patterns and both fintech APIs",
-      "posted_at": "2026-09-25T20:22:56Z",
-      "engagement": {
-        "likes": 618,
-        "reposts": 21,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Wang announces Muse and Plaid partnership aimed at saving users money",
-      "tags": [
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 31.51
+      "score": 31.34
     },
     {
       "id": "2100388050194837953",
@@ -1955,18 +1901,18 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 31.35
+      "score": 31.19
     },
     {
-      "id": "2103517792943456620",
-      "url": "https://x.com/ClementDelangue/status/2103517792943456620",
-      "author_handle": "ClementDelangue",
-      "author_name": "clem 🤗",
-      "post_text": "Super happy to release SmolDataEnvs: 5,000 verifiable RL environment tasks for hill-climbing small models in code and data science by @adithya_s_k\n\n100% open source: environments, evals, training!\n\nhttps://huggingface.co/datasets/FineEnvs/SmolDataEnvs",
-      "posted_at": "2026-09-25T16:11:37Z",
+      "id": "2103273813928759398",
+      "url": "https://x.com/tszzl/status/2103273813928759398",
+      "author_handle": "tszzl",
+      "author_name": "roon",
+      "post_text": "Iran / oil prices is a short term driver but broadly this is due to demand pressure from extremely attractive ai capex opportunities that are borrowing at nation scale",
+      "posted_at": "2026-09-25T00:02:08Z",
       "engagement": {
-        "likes": 513,
-        "reposts": 57,
+        "likes": 891,
+        "reposts": 33,
         "replies": 0,
         "views": 0,
         "bookmarks": 0
@@ -1974,16 +1920,69 @@
       "is_listicle": false,
       "list_items": [],
       "media_urls": [],
-      "sensational_headline": "clem announces open source SmolDataEnvs for AI model training",
+      "sensational_headline": "roon discusses the impact of AI capex on global oil prices in recent analysis",
       "tags": [
-        "open-source",
         "industry"
       ],
       "is_reply": false,
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 30.61
+      "score": 31.11
+    },
+    {
+      "id": "2103581038828237268",
+      "url": "https://x.com/alexandr_wang/status/2103581038828237268",
+      "author_handle": "alexandr_wang",
+      "author_name": "Alexandr Wang",
+      "post_text": "muse and plaid partnering together to help muse save you more money 💸 \n\nand yes i've also always wondered if it's a coincidence that plaid and stripe are both named after patterns and both fintech APIs",
+      "posted_at": "2026-09-25T20:22:56Z",
+      "engagement": {
+        "likes": 618,
+        "reposts": 21,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Wang announces Muse and Plaid partnership aimed at saving users money",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 30.54
+    },
+    {
+      "id": "2102508817653379411",
+      "url": "https://x.com/drfeifei/status/2102508817653379411",
+      "author_handle": "drfeifei",
+      "author_name": "Fei-Fei Li",
+      "post_text": "The goal of building any technology, AI included, should be bettering human lives and society.",
+      "posted_at": "2026-09-22T21:22:19Z",
+      "engagement": {
+        "likes": 1002,
+        "reposts": 151,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Fei-Fei Li highlights the importance of humanity in technological advancement",
+      "tags": [
+        "research"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-25T23:19:38Z",
+      "last_scraped_at": "2026-09-25T23:19:38Z",
+      "engagement_tier": "normal",
+      "score": 30.12
     },
     {
       "id": "2103357445229990009",
@@ -2011,7 +2010,35 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 30.5
+      "score": 29.8
+    },
+    {
+      "id": "2103517792943456620",
+      "url": "https://x.com/ClementDelangue/status/2103517792943456620",
+      "author_handle": "ClementDelangue",
+      "author_name": "clem 🤗",
+      "post_text": "Super happy to release SmolDataEnvs: 5,000 verifiable RL environment tasks for hill-climbing small models in code and data science by @adithya_s_k\n\n100% open source: environments, evals, training!\n\nhttps://huggingface.co/datasets/FineEnvs/SmolDataEnvs",
+      "posted_at": "2026-09-25T16:11:37Z",
+      "engagement": {
+        "likes": 513,
+        "reposts": 57,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "clem announces open source SmolDataEnvs for AI model training",
+      "tags": [
+        "open-source",
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 29.74
     },
     {
       "id": "2103561415793770558",
@@ -2039,34 +2066,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 30.48
-    },
-    {
-      "id": "2102508817653379411",
-      "url": "https://x.com/drfeifei/status/2102508817653379411",
-      "author_handle": "drfeifei",
-      "author_name": "Fei-Fei Li",
-      "post_text": "The goal of building any technology, AI included, should be bettering human lives and society.",
-      "posted_at": "2026-09-22T21:22:19Z",
-      "engagement": {
-        "likes": 1002,
-        "reposts": 151,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Fei-Fei Li highlights the importance of humanity in technological advancement",
-      "tags": [
-        "research"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-25T23:19:38Z",
-      "last_scraped_at": "2026-09-25T23:19:38Z",
-      "engagement_tier": "normal",
-      "score": 30.47
+      "score": 29.54
     },
     {
       "id": "2103126209597256076",
@@ -2093,7 +2093,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 29.86
+      "score": 29.31
     },
     {
       "id": "2102771721086673116",
@@ -2121,7 +2121,7 @@
       "first_seen_at": "2026-09-25T19:22:05Z",
       "last_scraped_at": "2026-09-25T19:22:05Z",
       "engagement_tier": "normal",
-      "score": 29.62
+      "score": 29.21
     },
     {
       "id": "2102781530867126505",
@@ -2151,7 +2151,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 29.52
+      "score": 29.1
     },
     {
       "id": "2103620752910217427",
@@ -2179,7 +2179,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 29.4
+      "score": 28.38
     },
     {
       "id": "2102996487596916786",
@@ -2207,34 +2207,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 28.25
-    },
-    {
-      "id": "2103622734731530277",
-      "url": "https://x.com/alexandr_wang/status/2103622734731530277",
-      "author_handle": "alexandr_wang",
-      "author_name": "Alexandr Wang",
-      "post_text": "muse saves you time AND money!",
-      "posted_at": "2026-09-25T23:08:38Z",
-      "engagement": {
-        "likes": 396,
-        "reposts": 8,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Wang highlights time and money-saving benefits of Muse",
-      "tags": [
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 28.01
+      "score": 27.76
     },
     {
       "id": "2099544707340841441",
@@ -2262,7 +2235,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 27.58
+      "score": 27.45
     },
     {
       "id": "2102957523968102509",
@@ -2289,7 +2262,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 27.56
+      "score": 27.09
+    },
+    {
+      "id": "2103622734731530277",
+      "url": "https://x.com/alexandr_wang/status/2103622734731530277",
+      "author_handle": "alexandr_wang",
+      "author_name": "Alexandr Wang",
+      "post_text": "muse saves you time AND money!",
+      "posted_at": "2026-09-25T23:08:38Z",
+      "engagement": {
+        "likes": 396,
+        "reposts": 8,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Wang highlights time and money-saving benefits of Muse",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 26.99
     },
     {
       "id": "2103526115021041947",
@@ -2316,7 +2316,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 27.29
+      "score": 26.42
     },
     {
       "id": "2103195385804238972",
@@ -2344,7 +2344,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 26.92
+      "score": 26.33
     },
     {
       "id": "2103178649851843016",
@@ -2372,7 +2372,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 26.73
+      "score": 26.16
     },
     {
       "id": "2102938541471015137",
@@ -2400,34 +2400,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 26.45
-    },
-    {
-      "id": "2103641022865510582",
-      "url": "https://x.com/paulg/status/2103641022865510582",
-      "author_handle": "paulg",
-      "author_name": "Paul Graham",
-      "post_text": "I'm reading Shakespeare's Professional Career by Peter Thomson. Like most really good books, it covers much more than its title implies. It's so packed with detail that it's half way to being a history of the Elizabethan period.",
-      "posted_at": "2026-09-26T00:21:18Z",
-      "engagement": {
-        "likes": 308,
-        "reposts": 10,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Paul Graham's take on Shakespeare's professional career reveals unexpected insights",
-      "tags": [
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 26.39
+      "score": 25.99
     },
     {
       "id": "2103474875054915783",
@@ -2454,7 +2427,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 26.31
+      "score": 25.51
+    },
+    {
+      "id": "2103641022865510582",
+      "url": "https://x.com/paulg/status/2103641022865510582",
+      "author_handle": "paulg",
+      "author_name": "Paul Graham",
+      "post_text": "I'm reading Shakespeare's Professional Career by Peter Thomson. Like most really good books, it covers much more than its title implies. It's so packed with detail that it's half way to being a history of the Elizabethan period.",
+      "posted_at": "2026-09-26T00:21:18Z",
+      "engagement": {
+        "likes": 308,
+        "reposts": 10,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Paul Graham's take on Shakespeare's professional career reveals unexpected insights",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 25.35
     },
     {
       "id": "2103548700853198940",
@@ -2482,7 +2482,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 26.01
+      "score": 25.12
     },
     {
       "id": "2103241801599750329",
@@ -2510,7 +2510,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 24.89
+      "score": 24.29
     },
     {
       "id": "2103212249812721674",
@@ -2537,7 +2537,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 24.54
+      "score": 23.96
     },
     {
       "id": "2100411291836018812",
@@ -2564,7 +2564,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 23.54
+      "score": 23.39
     },
     {
       "id": "2102800209894056351",
@@ -2592,7 +2592,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 23.42
+      "score": 23.01
     },
     {
       "id": "2102215794902139015",
@@ -2620,34 +2620,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 23.25
-    },
-    {
-      "id": "2103242738099462337",
-      "url": "https://x.com/bindureddy/status/2103242738099462337",
-      "author_handle": "bindureddy",
-      "author_name": "Bindu Reddy",
-      "post_text": "Rumors of GPT 6.1 Astra are all over the place\n\nThat would be insanely remarkable if they could launch a new Astra variant so fast 🤯",
-      "posted_at": "2026-09-24T21:58:39Z",
-      "engagement": {
-        "likes": 326,
-        "reposts": 4,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Bindu Reddy discusses wild rumors about the launch of GPT 6.1 Astra!",
-      "tags": [
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 22.7
+      "score": 22.96
     },
     {
       "id": "2099998119392161960",
@@ -2675,7 +2648,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 22.58
+      "score": 22.45
+    },
+    {
+      "id": "2103242738099462337",
+      "url": "https://x.com/bindureddy/status/2103242738099462337",
+      "author_handle": "bindureddy",
+      "author_name": "Bindu Reddy",
+      "post_text": "Rumors of GPT 6.1 Astra are all over the place\n\nThat would be insanely remarkable if they could launch a new Astra variant so fast 🤯",
+      "posted_at": "2026-09-24T21:58:39Z",
+      "engagement": {
+        "likes": 326,
+        "reposts": 4,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Bindu Reddy discusses wild rumors about the launch of GPT 6.1 Astra!",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 22.11
     },
     {
       "id": "2103485857147617393",
@@ -2702,7 +2702,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 22.47
+      "score": 21.68
     },
     {
       "id": "2103593301240602645",
@@ -2729,7 +2729,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 22.46
+      "score": 21.53
     },
     {
       "id": "2103578627359268987",
@@ -2757,7 +2757,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 21.66
+      "score": 20.76
     },
     {
       "id": "2103325773323018520",
@@ -2784,63 +2784,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 21.19
-    },
-    {
-      "id": "2103569043836027339",
-      "url": "https://x.com/jackclarkSF/status/2103569043836027339",
-      "author_handle": "jackclarkSF",
-      "author_name": "Jack Clark",
-      "post_text": "An alien explores Borges Library of Babel, by Opus 5.5",
-      "posted_at": "2026-09-25T19:35:17Z",
-      "engagement": {
-        "likes": 139,
-        "reposts": 12,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Jack Clark unveils an extraterrestrial exploration of Borges' Library",
-      "tags": [
-        "lab-leader",
-        "anthropic"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 20.07
-    },
-    {
-      "id": "2103641180923978031",
-      "url": "https://x.com/simonw/status/2103641180923978031",
-      "author_handle": "simonw",
-      "author_name": "Simon Willison",
-      "post_text": "I'm on stage for the keynote in ten minutes time!",
-      "posted_at": "2026-09-26T00:21:55Z",
-      "engagement": {
-        "likes": 136,
-        "reposts": 6,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Simon Willison prepares for an important keynote on stage",
-      "tags": [
-        "builder",
-        "open-source"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 20.01
+      "score": 20.55
     },
     {
       "id": "2102498448364954083",
@@ -2868,7 +2812,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 19.85
+      "score": 19.52
     },
     {
       "id": "2102464776215679021",
@@ -2896,18 +2840,18 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 19.77
+      "score": 19.46
     },
     {
-      "id": "2103201617004949888",
-      "url": "https://x.com/_akhaliq/status/2103201617004949888",
-      "author_handle": "_akhaliq",
-      "author_name": "AK",
-      "post_text": "Pruna-Qwen-Image-2.1\n\na set of a few-step LoRA adapters that make Qwen-Image-2.1 up to 6.3× faster for image generation and editing\n\nGenerate or edit images in just 5 or 8 steps instead of 40. Choose 5 steps for maximum speed or 8 steps for the best balance\n\nHF workflow:",
-      "posted_at": "2026-09-24T19:15:15Z",
+      "id": "2103569043836027339",
+      "url": "https://x.com/jackclarkSF/status/2103569043836027339",
+      "author_handle": "jackclarkSF",
+      "author_name": "Jack Clark",
+      "post_text": "An alien explores Borges Library of Babel, by Opus 5.5",
+      "posted_at": "2026-09-25T19:35:17Z",
       "engagement": {
-        "likes": 171,
-        "reposts": 20,
+        "likes": 139,
+        "reposts": 12,
         "replies": 0,
         "views": 0,
         "bookmarks": 0
@@ -2915,16 +2859,44 @@
       "is_listicle": false,
       "list_items": [],
       "media_urls": [],
-      "sensational_headline": "AK unveils Pruna-Qwen-Image-2.1 for faster image generation and editing",
+      "sensational_headline": "Jack Clark unveils an extraterrestrial exploration of Borges' Library",
       "tags": [
-        "research",
-        "curator"
+        "lab-leader",
+        "anthropic"
       ],
       "is_reply": false,
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 19.12
+      "score": 19.2
+    },
+    {
+      "id": "2103641180923978031",
+      "url": "https://x.com/simonw/status/2103641180923978031",
+      "author_handle": "simonw",
+      "author_name": "Simon Willison",
+      "post_text": "I'm on stage for the keynote in ten minutes time!",
+      "posted_at": "2026-09-26T00:21:55Z",
+      "engagement": {
+        "likes": 136,
+        "reposts": 6,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Simon Willison prepares for an important keynote on stage",
+      "tags": [
+        "builder",
+        "open-source"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 19.03
     },
     {
       "id": "2099965852934402547",
@@ -2952,7 +2924,35 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.93
+      "score": 18.8
+    },
+    {
+      "id": "2103201617004949888",
+      "url": "https://x.com/_akhaliq/status/2103201617004949888",
+      "author_handle": "_akhaliq",
+      "author_name": "AK",
+      "post_text": "Pruna-Qwen-Image-2.1\n\na set of a few-step LoRA adapters that make Qwen-Image-2.1 up to 6.3× faster for image generation and editing\n\nGenerate or edit images in just 5 or 8 steps instead of 40. Choose 5 steps for maximum speed or 8 steps for the best balance\n\nHF workflow:",
+      "posted_at": "2026-09-24T19:15:15Z",
+      "engagement": {
+        "likes": 171,
+        "reposts": 20,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "AK unveils Pruna-Qwen-Image-2.1 for faster image generation and editing",
+      "tags": [
+        "research",
+        "curator"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 18.57
     },
     {
       "id": "2102551256548131306",
@@ -2980,7 +2980,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.3
+      "score": 17.98
     },
     {
       "id": "2103608911442120979",
@@ -3007,7 +3007,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 18.05
+      "score": 17.15
     },
     {
       "id": "2103361254433993165",
@@ -3035,7 +3035,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 17.65
+      "score": 17.02
     },
     {
       "id": "2102650014552182920",
@@ -3063,7 +3063,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 17.26
+      "score": 16.92
     },
     {
       "id": "2103182635992514569",
@@ -3091,7 +3091,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 17.2
+      "score": 16.68
     },
     {
       "id": "2103154770068541691",
@@ -3119,63 +3119,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 17.18
-    },
-    {
-      "id": "2103561974613446862",
-      "url": "https://x.com/hwchase17/status/2103561974613446862",
-      "author_handle": "hwchase17",
-      "author_name": "Harrison Chase",
-      "post_text": "jev and langgraph are a great combo!\nmodeling agents as complex systems, with AI imbued in them, makes a ton of sense\nlanggraph is the best way to model them as such, and using Jev inside langgraph to turbo charge all the small decisions that need to be made is awesome combo",
-      "posted_at": "2026-09-25T19:07:11Z",
-      "engagement": {
-        "likes": 84,
-        "reposts": 13,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Harrison Chase discusses the powerful combination of Jev and Langgraph",
-      "tags": [
-        "builder",
-        "open-source"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 17.14
-    },
-    {
-      "id": "2103304044668162541",
-      "url": "https://x.com/ClementDelangue/status/2103304044668162541",
-      "author_handle": "ClementDelangue",
-      "author_name": "clem 🤗",
-      "post_text": "I like this article! \n\nThe problem is not for some people to care and work on catastrophic risks (we actually need much more research into it), it’s when company leaders and policymakers use fears of them to distract and hide the current challenges and solutions!",
-      "posted_at": "2026-09-25T02:02:16Z",
-      "engagement": {
-        "likes": 123,
-        "reposts": 11,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "clem critiques leaders misusing fears of catastrophic risks",
-      "tags": [
-        "open-source",
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 16.89
+      "score": 16.68
     },
     {
       "id": "2099980710090248306",
@@ -3203,7 +3147,63 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 16.6
+      "score": 16.47
+    },
+    {
+      "id": "2103561974613446862",
+      "url": "https://x.com/hwchase17/status/2103561974613446862",
+      "author_handle": "hwchase17",
+      "author_name": "Harrison Chase",
+      "post_text": "jev and langgraph are a great combo!\nmodeling agents as complex systems, with AI imbued in them, makes a ton of sense\nlanggraph is the best way to model them as such, and using Jev inside langgraph to turbo charge all the small decisions that need to be made is awesome combo",
+      "posted_at": "2026-09-25T19:07:11Z",
+      "engagement": {
+        "likes": 84,
+        "reposts": 13,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Harrison Chase discusses the powerful combination of Jev and Langgraph",
+      "tags": [
+        "builder",
+        "open-source"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 16.32
+    },
+    {
+      "id": "2103304044668162541",
+      "url": "https://x.com/ClementDelangue/status/2103304044668162541",
+      "author_handle": "ClementDelangue",
+      "author_name": "clem 🤗",
+      "post_text": "I like this article! \n\nThe problem is not for some people to care and work on catastrophic risks (we actually need much more research into it), it’s when company leaders and policymakers use fears of them to distract and hide the current challenges and solutions!",
+      "posted_at": "2026-09-25T02:02:16Z",
+      "engagement": {
+        "likes": 123,
+        "reposts": 11,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "clem critiques leaders misusing fears of catastrophic risks",
+      "tags": [
+        "open-source",
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 16.31
     },
     {
       "id": "2102916558712705427",
@@ -3231,7 +3231,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 16.43
+      "score": 16.03
     },
     {
       "id": "2102441795879919636",
@@ -3259,34 +3259,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 15.46
-    },
-    {
-      "id": "2102886723206492246",
-      "url": "https://x.com/polynoamial/status/2102886723206492246",
-      "author_handle": "polynoamial",
-      "author_name": "Noam Brown",
-      "post_text": "Happy to see they added this to the website!",
-      "posted_at": "2026-09-23T22:23:59Z",
-      "engagement": {
-        "likes": 160,
-        "reposts": 2,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Noam Brown expresses excitement over new website feature",
-      "tags": [
-        "research"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 15.23
+      "score": 15.18
     },
     {
       "id": "2102612246513983711",
@@ -3314,7 +3287,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 15.19
+      "score": 14.87
+    },
+    {
+      "id": "2102886723206492246",
+      "url": "https://x.com/polynoamial/status/2102886723206492246",
+      "author_handle": "polynoamial",
+      "author_name": "Noam Brown",
+      "post_text": "Happy to see they added this to the website!",
+      "posted_at": "2026-09-23T22:23:59Z",
+      "engagement": {
+        "likes": 160,
+        "reposts": 2,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Noam Brown expresses excitement over new website feature",
+      "tags": [
+        "research"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 14.84
     },
     {
       "id": "2102808840102396388",
@@ -3342,7 +3342,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 15.14
+      "score": 14.78
     },
     {
       "id": "2102964957587632555",
@@ -3370,7 +3370,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.84
+      "score": 14.43
     },
     {
       "id": "2103582338986955063",
@@ -3397,7 +3397,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 14.7
+      "score": 13.9
     },
     {
       "id": "2103660061260411266",
@@ -3424,7 +3424,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.69
+      "score": 13.78
     },
     {
       "id": "2103551357823369653",
@@ -3456,7 +3456,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.32
+      "score": 13.56
     },
     {
       "id": "2103281862529458340",
@@ -3483,7 +3483,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.87
+      "score": 13.35
     },
     {
       "id": "2100259777528177030",
@@ -3511,35 +3511,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.44
-    },
-    {
-      "id": "2102137581626388743",
-      "url": "https://x.com/hwchase17/status/2102137581626388743",
-      "author_handle": "hwchase17",
-      "author_name": "Harrison Chase",
-      "post_text": "this is cool\nkind of like \"goal\" but with multiple in a row you need to hit?",
-      "posted_at": "2026-09-21T20:47:09Z",
-      "engagement": {
-        "likes": 120,
-        "reposts": 18,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Harrison Chase reveals a cool new feature for achieving multiple goals",
-      "tags": [
-        "builder",
-        "open-source"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 12.65
+      "score": 13.31
     },
     {
       "id": "2100260130529161272",
@@ -3567,7 +3539,35 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 12.64
+      "score": 12.52
+    },
+    {
+      "id": "2102137581626388743",
+      "url": "https://x.com/hwchase17/status/2102137581626388743",
+      "author_handle": "hwchase17",
+      "author_name": "Harrison Chase",
+      "post_text": "this is cool\nkind of like \"goal\" but with multiple in a row you need to hit?",
+      "posted_at": "2026-09-21T20:47:09Z",
+      "engagement": {
+        "likes": 120,
+        "reposts": 18,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Harrison Chase reveals a cool new feature for achieving multiple goals",
+      "tags": [
+        "builder",
+        "open-source"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 12.42
     },
     {
       "id": "2101327912951787569",
@@ -3595,7 +3595,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 12.33
+      "score": 12.17
     },
     {
       "id": "2102854830528364718",
@@ -3623,7 +3623,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 11.77
+      "score": 11.44
     },
     {
       "id": "2102470464735949263",
@@ -3651,7 +3651,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 11.11
+      "score": 10.85
     },
     {
       "id": "2102781533274734801",
@@ -3678,7 +3678,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 11.04
+      "score": 10.73
     },
     {
       "id": "2103252520525054005",
@@ -3705,7 +3705,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.71
+      "score": 10.26
     },
     {
       "id": "2102851157261725730",
@@ -3733,7 +3733,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.46
+      "score": 10.14
     },
     {
       "id": "2103586769056784419",
@@ -3760,7 +3760,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 10.33
+      "score": 9.65
     },
     {
       "id": "2101351570973880562",
@@ -3788,7 +3788,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 9.29
+      "score": 9.15
     },
     {
       "id": "2102935661183631633",
@@ -3815,7 +3815,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 6.58
+      "score": 6.33
     },
     {
       "id": "2100586770572177551",
@@ -3842,7 +3842,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 4.93
+      "score": 4.86
     }
   ]
 }
