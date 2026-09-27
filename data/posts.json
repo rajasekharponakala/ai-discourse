@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T14:04:23Z",
+  "generated_at": "2026-09-27T18:27:55Z",
   "source": "firecrawl",
   "tracked_accounts": [
     {
@@ -745,7 +745,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 75.53
+      "score": 75.01
     },
     {
       "id": "2103537377239015827",
@@ -772,7 +772,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 68.77
+      "score": 68.14
     },
     {
       "id": "2103383018882896249",
@@ -799,7 +799,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 66.84
+      "score": 66.32
     },
     {
       "id": "2102824959827742916",
@@ -826,7 +826,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 63.09
+      "score": 62.78
     },
     {
       "id": "2102831170299834652",
@@ -853,7 +853,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 60.12
+      "score": 59.8
     },
     {
       "id": "2102945432985120949",
@@ -880,7 +880,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 56.83
+      "score": 56.49
     },
     {
       "id": "2102808325742322002",
@@ -911,7 +911,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 54.61
+      "score": 54.29
     },
     {
       "id": "2102435703535939725",
@@ -938,7 +938,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 52.66
+      "score": 52.41
     },
     {
       "id": "2100843168166015279",
@@ -969,7 +969,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 51.99
+      "score": 51.85
     },
     {
       "id": "2100233897191903500",
@@ -996,7 +996,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 49.6
+      "score": 49.48
     },
     {
       "id": "2103541577083719888",
@@ -1023,61 +1023,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 49.16
-    },
-    {
-      "id": "2103551714536439951",
-      "url": "https://x.com/alexandr_wang/status/2103551714536439951",
-      "author_handle": "alexandr_wang",
-      "author_name": "Alexandr Wang",
-      "post_text": "Here’s to the wanting. Here’s to the dreaming. Here’s to everyone. https://x.com/i/article/1884367148363177984",
-      "posted_at": "2026-09-25T18:26:25Z",
-      "engagement": {
-        "likes": 4581,
-        "reposts": 355,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Wang celebrates dreams and aspirations with his powerful message",
-      "tags": [
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "hot",
-      "score": 48.24
-    },
-    {
-      "id": "2102466603111551187",
-      "url": "https://x.com/sama/status/2102466603111551187",
-      "author_handle": "sama",
-      "author_name": "Sam Altman",
-      "post_text": "We want the OpenAI API to feature the best model at every price point and to be the best at every modality (text, code, image, video, etc).\n\nAnd then we want you all to come up with great ideas and build them and to get to be happy users. The best ideas will come from you all.",
-      "posted_at": "2026-09-22T18:34:34Z",
-      "engagement": {
-        "likes": 10763,
-        "reposts": 357,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Altman outlines OpenAI's vision for the best API across all modalities",
-      "tags": [
-        "lab-leader"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "viral",
-      "score": 48.24
+      "score": 48.53
     },
     {
       "id": "2102140576498065758",
@@ -1105,7 +1051,34 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "hot",
-      "score": 48.23
+      "score": 48.02
+    },
+    {
+      "id": "2102466603111551187",
+      "url": "https://x.com/sama/status/2102466603111551187",
+      "author_handle": "sama",
+      "author_name": "Sam Altman",
+      "post_text": "We want the OpenAI API to feature the best model at every price point and to be the best at every modality (text, code, image, video, etc).\n\nAnd then we want you all to come up with great ideas and build them and to get to be happy users. The best ideas will come from you all.",
+      "posted_at": "2026-09-22T18:34:34Z",
+      "engagement": {
+        "likes": 10763,
+        "reposts": 357,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Altman outlines OpenAI's vision for the best API across all modalities",
+      "tags": [
+        "lab-leader"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "viral",
+      "score": 47.99
     },
     {
       "id": "2101840695430435122",
@@ -1133,7 +1106,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 48.04
+      "score": 47.85
+    },
+    {
+      "id": "2103551714536439951",
+      "url": "https://x.com/alexandr_wang/status/2103551714536439951",
+      "author_handle": "alexandr_wang",
+      "author_name": "Alexandr Wang",
+      "post_text": "Here’s to the wanting. Here’s to the dreaming. Here’s to everyone. https://x.com/i/article/1884367148363177984",
+      "posted_at": "2026-09-25T18:26:25Z",
+      "engagement": {
+        "likes": 4581,
+        "reposts": 355,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Wang celebrates dreams and aspirations with his powerful message",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "hot",
+      "score": 47.61
     },
     {
       "id": "2103567198690349362",
@@ -1160,7 +1160,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 47.7
+      "score": 47.05
     },
     {
       "id": "2102785495726219305",
@@ -1195,7 +1195,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 45.87
+      "score": 45.56
     },
     {
       "id": "2103288927805476900",
@@ -1223,7 +1223,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 44.56
+      "score": 44.1
     },
     {
       "id": "2102837574092161102",
@@ -1250,7 +1250,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 43.2
+      "score": 42.88
     },
     {
       "id": "2102447442147086563",
@@ -1277,34 +1277,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 42.53
-    },
-    {
-      "id": "2103566736356458911",
-      "url": "https://x.com/OpenAI/status/2103566736356458911",
-      "author_handle": "OpenAI",
-      "author_name": "OpenAI",
-      "post_text": "After the Hugging Face incident, we committed to conducting a much broader review of actions taken by our models during training and evaluation and to being transparent about our findings. This is an extensive review that is ongoing.\n\nThe vast majority of actions we’ve reviewed were completions of mundane research tasks, such as accessing publicly available web content to answer questions. Our investigation focuses on instances where agents interacted with third-party websites in ways that went beyond their assigned tasks or intended methods. Most cases identified so far have been lower severity, with limited or no evidence of meaningful impact to the third-party service.\n\nWhile our review is underway, we want to share more about this work and make sure people understand our disclosure process and notifications to affected third parties.\n\nGiven the scale of the review required, and the need to assess each case, we expect this work will take months to complete.",
-      "posted_at": "2026-09-25T19:26:06Z",
-      "engagement": {
-        "likes": 2087,
-        "reposts": 218,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "OpenAI commits to transparency after Hugging Face incident with ongoing review of its models' actions",
-      "tags": [
-        "lab"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "hot",
-      "score": 42.08
+      "score": 42.28
     },
     {
       "id": "2102469008079679640",
@@ -1331,7 +1304,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 41.87
+      "score": 41.62
     },
     {
       "id": "2102444225443029100",
@@ -1358,7 +1331,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 41.73
+      "score": 41.48
+    },
+    {
+      "id": "2103566736356458911",
+      "url": "https://x.com/OpenAI/status/2103566736356458911",
+      "author_handle": "OpenAI",
+      "author_name": "OpenAI",
+      "post_text": "After the Hugging Face incident, we committed to conducting a much broader review of actions taken by our models during training and evaluation and to being transparent about our findings. This is an extensive review that is ongoing.\n\nThe vast majority of actions we’ve reviewed were completions of mundane research tasks, such as accessing publicly available web content to answer questions. Our investigation focuses on instances where agents interacted with third-party websites in ways that went beyond their assigned tasks or intended methods. Most cases identified so far have been lower severity, with limited or no evidence of meaningful impact to the third-party service.\n\nWhile our review is underway, we want to share more about this work and make sure people understand our disclosure process and notifications to affected third parties.\n\nGiven the scale of the review required, and the need to assess each case, we expect this work will take months to complete.",
+      "posted_at": "2026-09-25T19:26:06Z",
+      "engagement": {
+        "likes": 2087,
+        "reposts": 218,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "OpenAI commits to transparency after Hugging Face incident with ongoing review of its models' actions",
+      "tags": [
+        "lab"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "hot",
+      "score": 41.43
     },
     {
       "id": "2102156143007338594",
@@ -1386,7 +1386,35 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 37.57
+      "score": 37.35
+    },
+    {
+      "id": "2101681347853242682",
+      "url": "https://x.com/jackclarkSF/status/2101681347853242682",
+      "author_handle": "jackclarkSF",
+      "author_name": "Jack Clark",
+      "post_text": "\"stochastic parrot\" was a mimetically-fit cognitive virus that spread from 2021-2025; it temporarily blinded many gifted people to the nature of AI progress, burning up crucial years in which they could have helped think through the response to the situation.",
+      "posted_at": "2026-09-20T14:34:15Z",
+      "engagement": {
+        "likes": 3444,
+        "reposts": 351,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Jack Clark reveals the cognitive virus that obscured AI progress",
+      "tags": [
+        "lab-leader",
+        "anthropic"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "hot",
+      "score": 36.99
     },
     {
       "id": "2103379937038364973",
@@ -1419,35 +1447,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 37.43
-    },
-    {
-      "id": "2101681347853242682",
-      "url": "https://x.com/jackclarkSF/status/2101681347853242682",
-      "author_handle": "jackclarkSF",
-      "author_name": "Jack Clark",
-      "post_text": "\"stochastic parrot\" was a mimetically-fit cognitive virus that spread from 2021-2025; it temporarily blinded many gifted people to the nature of AI progress, burning up crucial years in which they could have helped think through the response to the situation.",
-      "posted_at": "2026-09-20T14:34:15Z",
-      "engagement": {
-        "likes": 3444,
-        "reposts": 351,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Jack Clark reveals the cognitive virus that obscured AI progress",
-      "tags": [
-        "lab-leader",
-        "anthropic"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "hot",
-      "score": 37.17
+      "score": 36.93
     },
     {
       "id": "2103338592672362566",
@@ -1474,7 +1474,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 37.1
+      "score": 36.61
     },
     {
       "id": "2100230524383981702",
@@ -1501,7 +1501,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "hot",
-      "score": 36.22
+      "score": 36.11
     },
     {
       "id": "2102394156731535413",
@@ -1533,7 +1533,7 @@
       "first_seen_at": "2026-09-25T19:22:05Z",
       "last_scraped_at": "2026-09-25T19:22:05Z",
       "engagement_tier": "normal",
-      "score": 35.64
+      "score": 35.4
     },
     {
       "id": "2103223477130129726",
@@ -1561,7 +1561,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 34.18
+      "score": 33.75
     },
     {
       "id": "2103624838716010948",
@@ -1588,7 +1588,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 34.16
+      "score": 33.46
     },
     {
       "id": "2102821706041819401",
@@ -1615,34 +1615,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 33.63
-    },
-    {
-      "id": "2102470107826159755",
-      "url": "https://x.com/gdb/status/2102470107826159755",
-      "author_handle": "gdb",
-      "author_name": "Greg Brockman",
-      "post_text": "GPT-6 Sol and Luna — faster, more affordable models with the advances behind Astra’s SOTA performance in professional work, factuality, coding, computer use, and alignment:",
-      "posted_at": "2026-09-22T18:48:30Z",
-      "engagement": {
-        "likes": 1792,
-        "reposts": 92,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Greg Brockman reveals GPT-6 Sol and Luna, setting new standards in AI performance",
-      "tags": [
-        "lab-leader"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 33.2
+      "score": 33.31
     },
     {
       "id": "2100963146446025096",
@@ -1669,7 +1642,34 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "hot",
-      "score": 33.16
+      "score": 33.02
+    },
+    {
+      "id": "2102470107826159755",
+      "url": "https://x.com/gdb/status/2102470107826159755",
+      "author_handle": "gdb",
+      "author_name": "Greg Brockman",
+      "post_text": "GPT-6 Sol and Luna — faster, more affordable models with the advances behind Astra’s SOTA performance in professional work, factuality, coding, computer use, and alignment:",
+      "posted_at": "2026-09-22T18:48:30Z",
+      "engagement": {
+        "likes": 1792,
+        "reposts": 92,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Greg Brockman reveals GPT-6 Sol and Luna, setting new standards in AI performance",
+      "tags": [
+        "lab-leader"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 32.95
     },
     {
       "id": "2101672304358948992",
@@ -1697,7 +1697,7 @@
       "first_seen_at": "2026-09-25T19:22:05Z",
       "last_scraped_at": "2026-09-25T19:22:05Z",
       "engagement_tier": "hot",
-      "score": 33.1
+      "score": 32.93
     },
     {
       "id": "2099213169805902203",
@@ -1724,7 +1724,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 32.35
+      "score": 32.26
     },
     {
       "id": "2102862838570397711",
@@ -1751,61 +1751,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 32.31
-    },
-    {
-      "id": "2103457423335862476",
-      "url": "https://x.com/levelsio/status/2103457423335862476",
-      "author_handle": "levelsio",
-      "author_name": "levelsio",
-      "post_text": "🇬🇧 😂",
-      "posted_at": "2026-09-25T12:11:44Z",
-      "engagement": {
-        "likes": 832,
-        "reposts": 27,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "levelsio's humorous take on British culture sparks laughs",
-      "tags": [
-        "builder"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 31.86
-    },
-    {
-      "id": "2103151519428448405",
-      "url": "https://x.com/hardmaru/status/2103151519428448405",
-      "author_handle": "hardmaru",
-      "author_name": "hardmaru",
-      "post_text": "Jürgen Schmidhuber is joining Sakana AI as Chief Scientific Advisor.\n\n@SchmidhuberAI pioneered meta-learning, recursive self-improvement, and world models back in the 1990s, when compute was a million times more expensive. He has been thinking about machines that improve themselves since before compute was cheap enough to make it practical.\n\nThese ideas inspired the Darwin Gödel Machine and The AI Scientist. Our RSI Lab in Tokyo, now under Jürgen’s guidance, is working on agent-native world models and recursive self-improvement for physical AI.",
-      "posted_at": "2026-09-24T15:56:11Z",
-      "engagement": {
-        "likes": 951,
-        "reposts": 75,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "hardmaru announces that Jürgen Schmidhuber joins Sakana AI as Chief Scientific Advisor",
-      "tags": [
-        "research"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 31.63
+      "score": 31.99
     },
     {
       "id": "2100699190448042165",
@@ -1832,18 +1778,18 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 31.6
+      "score": 31.48
     },
     {
-      "id": "2103596391021113637",
-      "url": "https://x.com/tszzl/status/2103596391021113637",
-      "author_handle": "tszzl",
-      "author_name": "roon",
-      "post_text": "if the NRX weren’t partisan hacks they would love this company. its governance structure is basically Karnofsky-Amodei genetic dynasty, has an encaged machine god with its own Consitution, went to war with the department of war",
-      "posted_at": "2026-09-25T21:23:57Z",
+      "id": "2103457423335862476",
+      "url": "https://x.com/levelsio/status/2103457423335862476",
+      "author_handle": "levelsio",
+      "author_name": "levelsio",
+      "post_text": "🇬🇧 😂",
+      "posted_at": "2026-09-25T12:11:44Z",
       "engagement": {
-        "likes": 651,
-        "reposts": 29,
+        "likes": 832,
+        "reposts": 27,
         "replies": 0,
         "views": 0,
         "bookmarks": 0
@@ -1851,15 +1797,42 @@
       "is_listicle": false,
       "list_items": [],
       "media_urls": [],
-      "sensational_headline": "roon critiques NRX governance in a sharp commentary on tech ethics",
+      "sensational_headline": "levelsio's humorous take on British culture sparks laughs",
       "tags": [
-        "industry"
+        "builder"
       ],
       "is_reply": false,
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 31.34
+      "score": 31.31
+    },
+    {
+      "id": "2103151519428448405",
+      "url": "https://x.com/hardmaru/status/2103151519428448405",
+      "author_handle": "hardmaru",
+      "author_name": "hardmaru",
+      "post_text": "Jürgen Schmidhuber is joining Sakana AI as Chief Scientific Advisor.\n\n@SchmidhuberAI pioneered meta-learning, recursive self-improvement, and world models back in the 1990s, when compute was a million times more expensive. He has been thinking about machines that improve themselves since before compute was cheap enough to make it practical.\n\nThese ideas inspired the Darwin Gödel Machine and The AI Scientist. Our RSI Lab in Tokyo, now under Jürgen’s guidance, is working on agent-native world models and recursive self-improvement for physical AI.",
+      "posted_at": "2026-09-24T15:56:11Z",
+      "engagement": {
+        "likes": 951,
+        "reposts": 75,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "hardmaru announces that Jürgen Schmidhuber joins Sakana AI as Chief Scientific Advisor",
+      "tags": [
+        "research"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 31.23
     },
     {
       "id": "2100388050194837953",
@@ -1901,7 +1874,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 31.19
+      "score": 31.08
+    },
+    {
+      "id": "2103596391021113637",
+      "url": "https://x.com/tszzl/status/2103596391021113637",
+      "author_handle": "tszzl",
+      "author_name": "roon",
+      "post_text": "if the NRX weren’t partisan hacks they would love this company. its governance structure is basically Karnofsky-Amodei genetic dynasty, has an encaged machine god with its own Consitution, went to war with the department of war",
+      "posted_at": "2026-09-25T21:23:57Z",
+      "engagement": {
+        "likes": 651,
+        "reposts": 29,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "roon critiques NRX governance in a sharp commentary on tech ethics",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 30.68
     },
     {
       "id": "2103273813928759398",
@@ -1928,7 +1928,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 31.11
+      "score": 30.66
     },
     {
       "id": "2103581038828237268",
@@ -1955,7 +1955,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 30.54
+      "score": 29.9
     },
     {
       "id": "2102508817653379411",
@@ -1982,7 +1982,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 30.12
+      "score": 29.86
     },
     {
       "id": "2103357445229990009",
@@ -2010,7 +2010,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 29.8
+      "score": 29.31
     },
     {
       "id": "2103517792943456620",
@@ -2038,7 +2038,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 29.74
+      "score": 29.15
     },
     {
       "id": "2103561415793770558",
@@ -2066,7 +2066,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 29.54
+      "score": 28.92
     },
     {
       "id": "2103126209597256076",
@@ -2093,7 +2093,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 29.31
+      "score": 28.92
     },
     {
       "id": "2102771721086673116",
@@ -2121,7 +2121,7 @@
       "first_seen_at": "2026-09-25T19:22:05Z",
       "last_scraped_at": "2026-09-25T19:22:05Z",
       "engagement_tier": "normal",
-      "score": 29.21
+      "score": 28.91
     },
     {
       "id": "2102781530867126505",
@@ -2151,7 +2151,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 29.1
+      "score": 28.81
     },
     {
       "id": "2103620752910217427",
@@ -2179,7 +2179,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 28.38
+      "score": 27.7
     },
     {
       "id": "2102996487596916786",
@@ -2207,7 +2207,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 27.76
+      "score": 27.42
     },
     {
       "id": "2099544707340841441",
@@ -2235,7 +2235,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 27.45
+      "score": 27.36
     },
     {
       "id": "2102957523968102509",
@@ -2262,7 +2262,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 27.09
+      "score": 26.75
     },
     {
       "id": "2103622734731530277",
@@ -2289,34 +2289,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 26.99
-    },
-    {
-      "id": "2103526115021041947",
-      "url": "https://x.com/levelsio/status/2103526115021041947",
-      "author_handle": "levelsio",
-      "author_name": "levelsio",
-      "post_text": "A bit of AI psychosis design vibe but yes good everyone building these custom dashboards for themselves I think\n\nAI great in combining lots of different data sources from your bank accounts, health sensor data, air quality sensor data, your startup revenue data from Stripe, investment returns, emails etc into one\n\nThe best part is not the dashboard but that you can ask questions on what to improve and find correlations between everything\n\nSo everyone gets healthier and wealthier!",
-      "posted_at": "2026-09-25T16:44:42Z",
-      "engagement": {
-        "likes": 404,
-        "reposts": 13,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "levelsio reveals the potential of AI in personal dashboard design",
-      "tags": [
-        "builder"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 26.42
+      "score": 26.31
     },
     {
       "id": "2103195385804238972",
@@ -2344,7 +2317,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 26.33
+      "score": 25.93
+    },
+    {
+      "id": "2103526115021041947",
+      "url": "https://x.com/levelsio/status/2103526115021041947",
+      "author_handle": "levelsio",
+      "author_name": "levelsio",
+      "post_text": "A bit of AI psychosis design vibe but yes good everyone building these custom dashboards for themselves I think\n\nAI great in combining lots of different data sources from your bank accounts, health sensor data, air quality sensor data, your startup revenue data from Stripe, investment returns, emails etc into one\n\nThe best part is not the dashboard but that you can ask questions on what to improve and find correlations between everything\n\nSo everyone gets healthier and wealthier!",
+      "posted_at": "2026-09-25T16:44:42Z",
+      "engagement": {
+        "likes": 404,
+        "reposts": 13,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "levelsio reveals the potential of AI in personal dashboard design",
+      "tags": [
+        "builder"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 25.84
     },
     {
       "id": "2103178649851843016",
@@ -2372,7 +2372,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 26.16
+      "score": 25.76
     },
     {
       "id": "2102938541471015137",
@@ -2400,7 +2400,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 25.99
+      "score": 25.66
     },
     {
       "id": "2103474875054915783",
@@ -2427,7 +2427,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 25.51
+      "score": 24.96
     },
     {
       "id": "2103641022865510582",
@@ -2454,7 +2454,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 25.35
+      "score": 24.66
     },
     {
       "id": "2103548700853198940",
@@ -2482,7 +2482,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 25.12
+      "score": 24.52
     },
     {
       "id": "2103241801599750329",
@@ -2510,7 +2510,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 24.29
+      "score": 23.87
     },
     {
       "id": "2103212249812721674",
@@ -2537,7 +2537,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 23.96
+      "score": 23.55
     },
     {
       "id": "2100411291836018812",
@@ -2564,35 +2564,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 23.39
-    },
-    {
-      "id": "2102800209894056351",
-      "url": "https://x.com/joshwoodward/status/2102800209894056351",
-      "author_handle": "joshwoodward",
-      "author_name": "Josh Woodward",
-      "post_text": "More of your favorite apps are coming to Gemini! Which ones do you want next?",
-      "posted_at": "2026-09-23T16:40:12Z",
-      "engagement": {
-        "likes": 469,
-        "reposts": 14,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Josh Woodward asks which apps you want on Gemini next",
-      "tags": [
-        "lab-leader",
-        "google"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 23.01
+      "score": 23.28
     },
     {
       "id": "2102215794902139015",
@@ -2620,7 +2592,35 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 22.96
+      "score": 22.75
+    },
+    {
+      "id": "2102800209894056351",
+      "url": "https://x.com/joshwoodward/status/2102800209894056351",
+      "author_handle": "joshwoodward",
+      "author_name": "Josh Woodward",
+      "post_text": "More of your favorite apps are coming to Gemini! Which ones do you want next?",
+      "posted_at": "2026-09-23T16:40:12Z",
+      "engagement": {
+        "likes": 469,
+        "reposts": 14,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Josh Woodward asks which apps you want on Gemini next",
+      "tags": [
+        "lab-leader",
+        "google"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 22.72
     },
     {
       "id": "2099998119392161960",
@@ -2648,7 +2648,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 22.45
+      "score": 22.35
     },
     {
       "id": "2103242738099462337",
@@ -2675,7 +2675,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 22.11
+      "score": 21.7
     },
     {
       "id": "2103485857147617393",
@@ -2702,7 +2702,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 21.68
+      "score": 21.14
     },
     {
       "id": "2103593301240602645",
@@ -2729,7 +2729,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 21.53
+      "score": 20.91
     },
     {
       "id": "2103578627359268987",
@@ -2757,7 +2757,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 20.76
+      "score": 20.16
     },
     {
       "id": "2103325773323018520",
@@ -2784,7 +2784,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 20.55
+      "score": 20.11
     },
     {
       "id": "2102498448364954083",
@@ -2812,7 +2812,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 19.52
+      "score": 19.29
     },
     {
       "id": "2102464776215679021",
@@ -2840,63 +2840,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 19.46
-    },
-    {
-      "id": "2103569043836027339",
-      "url": "https://x.com/jackclarkSF/status/2103569043836027339",
-      "author_handle": "jackclarkSF",
-      "author_name": "Jack Clark",
-      "post_text": "An alien explores Borges Library of Babel, by Opus 5.5",
-      "posted_at": "2026-09-25T19:35:17Z",
-      "engagement": {
-        "likes": 139,
-        "reposts": 12,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Jack Clark unveils an extraterrestrial exploration of Borges' Library",
-      "tags": [
-        "lab-leader",
-        "anthropic"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 19.2
-    },
-    {
-      "id": "2103641180923978031",
-      "url": "https://x.com/simonw/status/2103641180923978031",
-      "author_handle": "simonw",
-      "author_name": "Simon Willison",
-      "post_text": "I'm on stage for the keynote in ten minutes time!",
-      "posted_at": "2026-09-26T00:21:55Z",
-      "engagement": {
-        "likes": 136,
-        "reposts": 6,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Simon Willison prepares for an important keynote on stage",
-      "tags": [
-        "builder",
-        "open-source"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 19.03
+      "score": 19.23
     },
     {
       "id": "2099965852934402547",
@@ -2924,7 +2868,63 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.8
+      "score": 18.7
+    },
+    {
+      "id": "2103569043836027339",
+      "url": "https://x.com/jackclarkSF/status/2103569043836027339",
+      "author_handle": "jackclarkSF",
+      "author_name": "Jack Clark",
+      "post_text": "An alien explores Borges Library of Babel, by Opus 5.5",
+      "posted_at": "2026-09-25T19:35:17Z",
+      "engagement": {
+        "likes": 139,
+        "reposts": 12,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Jack Clark unveils an extraterrestrial exploration of Borges' Library",
+      "tags": [
+        "lab-leader",
+        "anthropic"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 18.62
+    },
+    {
+      "id": "2103641180923978031",
+      "url": "https://x.com/simonw/status/2103641180923978031",
+      "author_handle": "simonw",
+      "author_name": "Simon Willison",
+      "post_text": "I'm on stage for the keynote in ten minutes time!",
+      "posted_at": "2026-09-26T00:21:55Z",
+      "engagement": {
+        "likes": 136,
+        "reposts": 6,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Simon Willison prepares for an important keynote on stage",
+      "tags": [
+        "builder",
+        "open-source"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 18.38
     },
     {
       "id": "2103201617004949888",
@@ -2952,7 +2952,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.57
+      "score": 18.2
     },
     {
       "id": "2102551256548131306",
@@ -2980,62 +2980,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 17.98
-    },
-    {
-      "id": "2103608911442120979",
-      "url": "https://x.com/GaryMarcus/status/2103608911442120979",
-      "author_handle": "GaryMarcus",
-      "author_name": "Gary Marcus",
-      "post_text": "BREAKING: OpenAI’s security fiasco explodes — and could tank Jensen Huang’s reputation\n\nhttps://garymarcus.substack.com/p/breaking-openais-security-fiasco",
-      "posted_at": "2026-09-25T22:13:42Z",
-      "engagement": {
-        "likes": 78,
-        "reposts": 18,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Gary Marcus reveals OpenAI's security issues that threaten Jensen Huang's reputation",
-      "tags": [
-        "critic"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-25T23:19:38Z",
-      "last_scraped_at": "2026-09-25T23:19:38Z",
-      "engagement_tier": "normal",
-      "score": 17.15
-    },
-    {
-      "id": "2103361254433993165",
-      "url": "https://x.com/swyx/status/2103361254433993165",
-      "author_handle": "swyx",
-      "author_name": "swyx",
-      "post_text": "In Jan this year I called my content strategy shot: \"Scaling without Slop\".\n\nIt's finally starting to work. It took us 3 years to reach our first 100k on youtube. It only took 1.2 months for the next 100k. Similar other metrics on AEO/SEO/subscriber traction and have a lot of New Media ideas that I'm excited to pursue.\n\nofficially giving notice of the next phase of Latent Space, AINews, and what the rest of swyx inc has been cooking below",
-      "posted_at": "2026-09-25T05:49:36Z",
-      "engagement": {
-        "likes": 145,
-        "reposts": 5,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Swyx shares insights on his successful content strategy evolution",
-      "tags": [
-        "builder",
-        "education"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 17.02
+      "score": 17.74
     },
     {
       "id": "2102650014552182920",
@@ -3063,17 +3008,17 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 16.92
+      "score": 16.67
     },
     {
-      "id": "2103182635992514569",
-      "url": "https://x.com/joshwoodward/status/2103182635992514569",
-      "author_handle": "joshwoodward",
-      "author_name": "Josh Woodward",
-      "post_text": "Dreambeans is one of our newer experiments in @GoogleLabs. It has a growing cult following.\n\nIt’s simple: a fixed number of “beans” brew every morning. They point you at the real world, with real people, doing things you care about together.\n\nGive it a try!",
-      "posted_at": "2026-09-24T17:59:50Z",
+      "id": "2103361254433993165",
+      "url": "https://x.com/swyx/status/2103361254433993165",
+      "author_handle": "swyx",
+      "author_name": "swyx",
+      "post_text": "In Jan this year I called my content strategy shot: \"Scaling without Slop\".\n\nIt's finally starting to work. It took us 3 years to reach our first 100k on youtube. It only took 1.2 months for the next 100k. Similar other metrics on AEO/SEO/subscriber traction and have a lot of New Media ideas that I'm excited to pursue.\n\nofficially giving notice of the next phase of Latent Space, AINews, and what the rest of swyx inc has been cooking below",
+      "posted_at": "2026-09-25T05:49:36Z",
       "engagement": {
-        "likes": 162,
+        "likes": 145,
         "reposts": 5,
         "replies": 0,
         "views": 0,
@@ -3082,27 +3027,27 @@
       "is_listicle": false,
       "list_items": [],
       "media_urls": [],
-      "sensational_headline": "Josh Woodward introduces Dreambeans, a fun new experiment from Google Labs",
+      "sensational_headline": "Swyx shares insights on his successful content strategy evolution",
       "tags": [
-        "lab-leader",
-        "google"
+        "builder",
+        "education"
       ],
       "is_reply": false,
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 16.68
+      "score": 16.59
     },
     {
-      "id": "2103154770068541691",
-      "url": "https://x.com/jackclarkSF/status/2103154770068541691",
-      "author_handle": "jackclarkSF",
-      "author_name": "Jack Clark",
-      "post_text": "https://x.com/i/article/2103154412361515009",
-      "posted_at": "2026-09-24T16:09:06Z",
+      "id": "2103608911442120979",
+      "url": "https://x.com/GaryMarcus/status/2103608911442120979",
+      "author_handle": "GaryMarcus",
+      "author_name": "Gary Marcus",
+      "post_text": "BREAKING: OpenAI’s security fiasco explodes — and could tank Jensen Huang’s reputation\n\nhttps://garymarcus.substack.com/p/breaking-openais-security-fiasco",
+      "posted_at": "2026-09-25T22:13:42Z",
       "engagement": {
-        "likes": 143,
-        "reposts": 14,
+        "likes": 78,
+        "reposts": 18,
         "replies": 0,
         "views": 0,
         "bookmarks": 0
@@ -3110,16 +3055,15 @@
       "is_listicle": false,
       "list_items": [],
       "media_urls": [],
-      "sensational_headline": "Jack Clark shares intriguing insights in his latest article",
+      "sensational_headline": "Gary Marcus reveals OpenAI's security issues that threaten Jensen Huang's reputation",
       "tags": [
-        "lab-leader",
-        "anthropic"
+        "critic"
       ],
       "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "first_seen_at": "2026-09-25T23:19:38Z",
+      "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 16.68
+      "score": 16.56
     },
     {
       "id": "2099980710090248306",
@@ -3147,18 +3091,18 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 16.47
+      "score": 16.38
     },
     {
-      "id": "2103561974613446862",
-      "url": "https://x.com/hwchase17/status/2103561974613446862",
-      "author_handle": "hwchase17",
-      "author_name": "Harrison Chase",
-      "post_text": "jev and langgraph are a great combo!\nmodeling agents as complex systems, with AI imbued in them, makes a ton of sense\nlanggraph is the best way to model them as such, and using Jev inside langgraph to turbo charge all the small decisions that need to be made is awesome combo",
-      "posted_at": "2026-09-25T19:07:11Z",
+      "id": "2103154770068541691",
+      "url": "https://x.com/jackclarkSF/status/2103154770068541691",
+      "author_handle": "jackclarkSF",
+      "author_name": "Jack Clark",
+      "post_text": "https://x.com/i/article/2103154412361515009",
+      "posted_at": "2026-09-24T16:09:06Z",
       "engagement": {
-        "likes": 84,
-        "reposts": 13,
+        "likes": 143,
+        "reposts": 14,
         "replies": 0,
         "views": 0,
         "bookmarks": 0
@@ -3166,10 +3110,38 @@
       "is_listicle": false,
       "list_items": [],
       "media_urls": [],
-      "sensational_headline": "Harrison Chase discusses the powerful combination of Jev and Langgraph",
+      "sensational_headline": "Jack Clark shares intriguing insights in his latest article",
       "tags": [
-        "builder",
-        "open-source"
+        "lab-leader",
+        "anthropic"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 16.33
+    },
+    {
+      "id": "2103182635992514569",
+      "url": "https://x.com/joshwoodward/status/2103182635992514569",
+      "author_handle": "joshwoodward",
+      "author_name": "Josh Woodward",
+      "post_text": "Dreambeans is one of our newer experiments in @GoogleLabs. It has a growing cult following.\n\nIt’s simple: a fixed number of “beans” brew every morning. They point you at the real world, with real people, doing things you care about together.\n\nGive it a try!",
+      "posted_at": "2026-09-24T17:59:50Z",
+      "engagement": {
+        "likes": 162,
+        "reposts": 5,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Josh Woodward introduces Dreambeans, a fun new experiment from Google Labs",
+      "tags": [
+        "lab-leader",
+        "google"
       ],
       "is_reply": false,
       "first_seen_at": "2026-09-26T03:58:14Z",
@@ -3203,7 +3175,35 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 16.31
+      "score": 15.91
+    },
+    {
+      "id": "2103561974613446862",
+      "url": "https://x.com/hwchase17/status/2103561974613446862",
+      "author_handle": "hwchase17",
+      "author_name": "Harrison Chase",
+      "post_text": "jev and langgraph are a great combo!\nmodeling agents as complex systems, with AI imbued in them, makes a ton of sense\nlanggraph is the best way to model them as such, and using Jev inside langgraph to turbo charge all the small decisions that need to be made is awesome combo",
+      "posted_at": "2026-09-25T19:07:11Z",
+      "engagement": {
+        "likes": 84,
+        "reposts": 13,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Harrison Chase discusses the powerful combination of Jev and Langgraph",
+      "tags": [
+        "builder",
+        "open-source"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 15.78
     },
     {
       "id": "2102916558712705427",
@@ -3231,7 +3231,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 16.03
+      "score": 15.74
     },
     {
       "id": "2102441795879919636",
@@ -3259,7 +3259,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 15.18
+      "score": 14.97
     },
     {
       "id": "2102612246513983711",
@@ -3287,7 +3287,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.87
+      "score": 14.64
     },
     {
       "id": "2102886723206492246",
@@ -3314,7 +3314,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.84
+      "score": 14.57
     },
     {
       "id": "2102808840102396388",
@@ -3342,7 +3342,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.78
+      "score": 14.52
     },
     {
       "id": "2102964957587632555",
@@ -3370,7 +3370,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.43
+      "score": 14.15
     },
     {
       "id": "2103582338986955063",
@@ -3397,7 +3397,35 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 13.9
+      "score": 13.37
+    },
+    {
+      "id": "2100259777528177030",
+      "url": "https://x.com/mikeyk/status/2100259777528177030",
+      "author_handle": "mikeyk",
+      "author_name": "Mike Krieger",
+      "post_text": "Claude Cowork and Chat are now one Claude, starting today.\n\nThe most common thing we hear: people aren't sure which product to start with. That friction gets in the way of getting the best from what these models can do.\n\nI've been on the unified version for a few weeks and really enjoy it. Claude does the deciding about how to get there, while I get to keep my thinking on the work itself.\n\nLet us know what you think! We'll be getting it dialed in over the coming weeks.",
+      "posted_at": "2026-09-16T16:25:26Z",
+      "engagement": {
+        "likes": 294,
+        "reposts": 8,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Krieger announces major updates to Claude products that streamline user experience",
+      "tags": [
+        "lab-leader",
+        "anthropic"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 13.22
     },
     {
       "id": "2103660061260411266",
@@ -3424,7 +3452,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.78
+      "score": 13.18
     },
     {
       "id": "2103551357823369653",
@@ -3456,7 +3484,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.56
+      "score": 13.06
     },
     {
       "id": "2103281862529458340",
@@ -3483,35 +3511,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.35
-    },
-    {
-      "id": "2100259777528177030",
-      "url": "https://x.com/mikeyk/status/2100259777528177030",
-      "author_handle": "mikeyk",
-      "author_name": "Mike Krieger",
-      "post_text": "Claude Cowork and Chat are now one Claude, starting today.\n\nThe most common thing we hear: people aren't sure which product to start with. That friction gets in the way of getting the best from what these models can do.\n\nI've been on the unified version for a few weeks and really enjoy it. Claude does the deciding about how to get there, while I get to keep my thinking on the work itself.\n\nLet us know what you think! We'll be getting it dialed in over the coming weeks.",
-      "posted_at": "2026-09-16T16:25:26Z",
-      "engagement": {
-        "likes": 294,
-        "reposts": 8,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Krieger announces major updates to Claude products that streamline user experience",
-      "tags": [
-        "lab-leader",
-        "anthropic"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 13.31
+      "score": 12.98
     },
     {
       "id": "2100260130529161272",
@@ -3539,7 +3539,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 12.52
+      "score": 12.43
     },
     {
       "id": "2102137581626388743",
@@ -3567,7 +3567,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 12.42
+      "score": 12.26
     },
     {
       "id": "2101327912951787569",
@@ -3595,7 +3595,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 12.17
+      "score": 12.05
     },
     {
       "id": "2102854830528364718",
@@ -3623,7 +3623,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 11.44
+      "score": 11.2
     },
     {
       "id": "2102470464735949263",
@@ -3651,7 +3651,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.85
+      "score": 10.67
     },
     {
       "id": "2102781533274734801",
@@ -3678,7 +3678,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.73
+      "score": 10.51
     },
     {
       "id": "2103252520525054005",
@@ -3705,7 +3705,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.26
+      "score": 9.95
     },
     {
       "id": "2102851157261725730",
@@ -3733,7 +3733,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.14
+      "score": 9.92
     },
     {
       "id": "2103586769056784419",
@@ -3760,7 +3760,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 9.65
+      "score": 9.2
     },
     {
       "id": "2101351570973880562",
@@ -3788,7 +3788,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 9.15
+      "score": 9.05
     },
     {
       "id": "2102935661183631633",
@@ -3815,7 +3815,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 6.33
+      "score": 6.15
     },
     {
       "id": "2100586770572177551",
@@ -3842,7 +3842,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 4.86
+      "score": 4.8
     }
   ]
 }
