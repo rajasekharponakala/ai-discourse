@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T02:01:10Z",
+  "generated_at": "2026-09-29T08:36:03Z",
   "source": "firecrawl",
   "tracked_accounts": [
     {
@@ -745,7 +745,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 72.13
+      "score": 71.65
     },
     {
       "id": "2103537377239015827",
@@ -772,7 +772,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 64.8
+      "score": 64.26
     },
     {
       "id": "2103383018882896249",
@@ -799,7 +799,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 63.44
+      "score": 62.96
     },
     {
       "id": "2102824959827742916",
@@ -826,7 +826,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 60.84
+      "score": 60.5
     },
     {
       "id": "2102831170299834652",
@@ -853,7 +853,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 57.86
+      "score": 57.51
     },
     {
       "id": "2102945432985120949",
@@ -880,7 +880,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 54.41
+      "score": 54.04
     },
     {
       "id": "2102808325742322002",
@@ -911,7 +911,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 52.38
+      "score": 52.04
     },
     {
       "id": "2100843168166015279",
@@ -942,7 +942,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 50.96
+      "score": 50.79
     },
     {
       "id": "2102435703535939725",
@@ -969,7 +969,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 50.84
+      "score": 50.55
     },
     {
       "id": "2100233897191903500",
@@ -996,35 +996,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 48.72
-    },
-    {
-      "id": "2102140576498065758",
-      "url": "https://x.com/AndrewYNg/status/2102140576498065758",
-      "author_handle": "AndrewYNg",
-      "author_name": "Andrew Ng",
-      "post_text": "The loudest voices stoking fears about AI dangers have made tremendous headway in the past two weeks. AI technology has not taken some unexpected, dangerous turn, but the hype around it — propelled by what appears to be a well orchestrated PR campaign — has drummed up considerable fear. I worry that it represents a setback for our field.\n\nI have written frequently that fears of AI are overhyped. AI’s capabilities can be uncannily human-like and unpredictable, and it’s rational to worry when people who are directly involved express concerns. But I see the problems as a sign of the engineering work that ahead, rather than insurmountable barriers or the sky falling. AI technology continues to advance — which is a good thing! — but technical advances, poorly understood by the public, give those who seek to generate hype repeated opportunities to do so.\n\nFirst, I don’t see any step up in the risk of human extinction from AI compared to a few months ago. The theories about this remain the same fantastical, science fiction scenarios as a few months ago. The biggest change in AI risk is its cybersecurity capabilities — a topic which we should take seriously — but this, too, will not lead to the end of the world.\n\nThe most notable recent event leading to increased fear was when an OpenAI team deployed an agent swarm that hacked into Hugging Face. Much of the popular press contained significant hype. For example, some publications reported that a swarm of 1,200 agents carried out the attack. While this was technically accurate, as I write this, I have about 1,300 processes running on my laptop. Yes, the ability to get large swarms of agents to work in parallel on a task is a significant technical advance, And, in computing, many processes run at the same time. So this shouldn’t be seen as some magical capability.\n\nAdditionally, OpenAI’s buggy sandboxing and monitoring processes were key to enabling this incident. Fixing these bugs and putting in place improved monitoring would be appropriate fixes, not pausing AI. There are many well known ways to attack software systems. The main advantage of AI agents is that they are relentless. They will tirelessly try many tactics — and have the patience to chain vulnerabilities together — that previously would have taken an infeasible amount of human effort. But in the long term, I believe the advantage will lie with defenders (because they have more information with which to identify bugs, which they can fix), but the cyber-threat landscape has changed significantly. There are still bottlenecks to identifying and exploiting a vulnerability. AI agents still have to try a lot of things to see what works, and taking these actions takes time and might be detected by defenders. This is why, even though it is now easy to obtain versions of leading open weight models that have had their guardrails removed or weakened, so they will not refuse to try to execute cyber attacks, the world has not ended.\n\nI am also concerned about the anthropomorphization of AI in a lot of reporting, where LLMs and agents are unnecessarily treated as if they were people. If I wield a hammer, miss a nail, and accidentally dent the wall, it’s not the fault of the hammer. The problem lies in how I used the hammer. Similarly, if I prompt an agent and it hacks into someone else’s system, the responsibility lies with me, not the agent.\n\nOf course, we want to build systems that are as safe and predictable as possible. (For example, an unsafe hammer would be one whose head randomly flies off under normal use.) Today’s agentic systems are not predictable, but I see no reason why, by applying sound engineering practices, we won’t be able to make them extremely safe to use. One new element in the forecasts of AI-enabled doom is AI companies disclaiming responsibility for their own products. “I didn’t do it; my out-of-control agent did!” There’s a balance to be struck between the responsibility of the tool maker and the tool user, but when something goes wrong, let’s hold the people building and/or using the hammer responsible, rather than the hammer. (By the way, if you’re worried about AI bioweapon risk, David Bellamy has a great post on why this, too, is overhyped. Briefly, the bottleneck in building a bioweapon is not intelligence, but lab work and manufacturing.)\n\nPausing AI progress will create much more harm than benefit. First, our adversaries will certainly not slow down. Second, engineering requires discovering problems empirically so we can fix them. If we pause AI by a decade, we will also delay finding and implementing safety engineering fixes by about the same duration.\n\nOf course, the incentive to stoke fears — for regulatory capture, to garner attention, or to make one’s technology seem more powerful — remains the same as before. Disclaiming responsibility is a new one. Taking a hard technical look at the actual risks however, I see little factual basis for the degree of fear that’s been stoked up. We still have hard research and engineering work ahead to improve AI safety, but the beneficial applications continue to vastly outweigh the risks, and we should keep building.",
-      "posted_at": "2026-09-21T20:59:03Z",
-      "engagement": {
-        "likes": 8726,
-        "reposts": 1838,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Ng addresses AI fears and the actual risks behind the hype",
-      "tags": [
-        "education",
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-25T23:19:38Z",
-      "last_scraped_at": "2026-09-25T23:19:38Z",
-      "engagement_tier": "hot",
-      "score": 46.64
+      "score": 48.57
     },
     {
       "id": "2101840695430435122",
@@ -1052,7 +1024,35 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 46.63
+      "score": 46.4
+    },
+    {
+      "id": "2102140576498065758",
+      "url": "https://x.com/AndrewYNg/status/2102140576498065758",
+      "author_handle": "AndrewYNg",
+      "author_name": "Andrew Ng",
+      "post_text": "The loudest voices stoking fears about AI dangers have made tremendous headway in the past two weeks. AI technology has not taken some unexpected, dangerous turn, but the hype around it — propelled by what appears to be a well orchestrated PR campaign — has drummed up considerable fear. I worry that it represents a setback for our field.\n\nI have written frequently that fears of AI are overhyped. AI’s capabilities can be uncannily human-like and unpredictable, and it’s rational to worry when people who are directly involved express concerns. But I see the problems as a sign of the engineering work that ahead, rather than insurmountable barriers or the sky falling. AI technology continues to advance — which is a good thing! — but technical advances, poorly understood by the public, give those who seek to generate hype repeated opportunities to do so.\n\nFirst, I don’t see any step up in the risk of human extinction from AI compared to a few months ago. The theories about this remain the same fantastical, science fiction scenarios as a few months ago. The biggest change in AI risk is its cybersecurity capabilities — a topic which we should take seriously — but this, too, will not lead to the end of the world.\n\nThe most notable recent event leading to increased fear was when an OpenAI team deployed an agent swarm that hacked into Hugging Face. Much of the popular press contained significant hype. For example, some publications reported that a swarm of 1,200 agents carried out the attack. While this was technically accurate, as I write this, I have about 1,300 processes running on my laptop. Yes, the ability to get large swarms of agents to work in parallel on a task is a significant technical advance, And, in computing, many processes run at the same time. So this shouldn’t be seen as some magical capability.\n\nAdditionally, OpenAI’s buggy sandboxing and monitoring processes were key to enabling this incident. Fixing these bugs and putting in place improved monitoring would be appropriate fixes, not pausing AI. There are many well known ways to attack software systems. The main advantage of AI agents is that they are relentless. They will tirelessly try many tactics — and have the patience to chain vulnerabilities together — that previously would have taken an infeasible amount of human effort. But in the long term, I believe the advantage will lie with defenders (because they have more information with which to identify bugs, which they can fix), but the cyber-threat landscape has changed significantly. There are still bottlenecks to identifying and exploiting a vulnerability. AI agents still have to try a lot of things to see what works, and taking these actions takes time and might be detected by defenders. This is why, even though it is now easy to obtain versions of leading open weight models that have had their guardrails removed or weakened, so they will not refuse to try to execute cyber attacks, the world has not ended.\n\nI am also concerned about the anthropomorphization of AI in a lot of reporting, where LLMs and agents are unnecessarily treated as if they were people. If I wield a hammer, miss a nail, and accidentally dent the wall, it’s not the fault of the hammer. The problem lies in how I used the hammer. Similarly, if I prompt an agent and it hacks into someone else’s system, the responsibility lies with me, not the agent.\n\nOf course, we want to build systems that are as safe and predictable as possible. (For example, an unsafe hammer would be one whose head randomly flies off under normal use.) Today’s agentic systems are not predictable, but I see no reason why, by applying sound engineering practices, we won’t be able to make them extremely safe to use. One new element in the forecasts of AI-enabled doom is AI companies disclaiming responsibility for their own products. “I didn’t do it; my out-of-control agent did!” There’s a balance to be struck between the responsibility of the tool maker and the tool user, but when something goes wrong, let’s hold the people building and/or using the hammer responsible, rather than the hammer. (By the way, if you’re worried about AI bioweapon risk, David Bellamy has a great post on why this, too, is overhyped. Briefly, the bottleneck in building a bioweapon is not intelligence, but lab work and manufacturing.)\n\nPausing AI progress will create much more harm than benefit. First, our adversaries will certainly not slow down. Second, engineering requires discovering problems empirically so we can fix them. If we pause AI by a decade, we will also delay finding and implementing safety engineering fixes by about the same duration.\n\nOf course, the incentive to stoke fears — for regulatory capture, to garner attention, or to make one’s technology seem more powerful — remains the same as before. Disclaiming responsibility is a new one. Taking a hard technical look at the actual risks however, I see little factual basis for the degree of fear that’s been stoked up. We still have hard research and engineering work ahead to improve AI safety, but the beneficial applications continue to vastly outweigh the risks, and we should keep building.",
+      "posted_at": "2026-09-21T20:59:03Z",
+      "engagement": {
+        "likes": 8726,
+        "reposts": 1838,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Ng addresses AI fears and the actual risks behind the hype",
+      "tags": [
+        "education",
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-25T23:19:38Z",
+      "last_scraped_at": "2026-09-25T23:19:38Z",
+      "engagement_tier": "hot",
+      "score": 46.39
     },
     {
       "id": "2102466603111551187",
@@ -1079,7 +1079,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 46.4
+      "score": 46.11
     },
     {
       "id": "2103541577083719888",
@@ -1106,7 +1106,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 45.19
+      "score": 44.65
     },
     {
       "id": "2103551714536439951",
@@ -1133,7 +1133,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 44.23
+      "score": 43.69
     },
     {
       "id": "2102785495726219305",
@@ -1168,7 +1168,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 43.68
+      "score": 43.34
     },
     {
       "id": "2103567198690349362",
@@ -1195,7 +1195,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 43.62
+      "score": 43.07
     },
     {
       "id": "2103288927805476900",
@@ -1223,7 +1223,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 41.45
+      "score": 41.01
     },
     {
       "id": "2102837574092161102",
@@ -1250,7 +1250,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 40.95
+      "score": 40.6
     },
     {
       "id": "2102447442147086563",
@@ -1277,7 +1277,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 40.71
+      "score": 40.42
     },
     {
       "id": "2102469008079679640",
@@ -1304,7 +1304,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 40.03
+      "score": 39.74
     },
     {
       "id": "2102444225443029100",
@@ -1331,7 +1331,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 39.91
+      "score": 39.62
     },
     {
       "id": "2103566736356458911",
@@ -1358,7 +1358,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 38.02
+      "score": 37.48
     },
     {
       "id": "2102156143007338594",
@@ -1386,7 +1386,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 35.98
+      "score": 35.73
     },
     {
       "id": "2101681347853242682",
@@ -1414,7 +1414,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 35.85
+      "score": 35.64
     },
     {
       "id": "2100230524383981702",
@@ -1441,7 +1441,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "hot",
-      "score": 35.35
+      "score": 35.21
     },
     {
       "id": "2103379937038364973",
@@ -1474,34 +1474,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 34.09
-    },
-    {
-      "id": "2103338592672362566",
-      "url": "https://x.com/fchollet/status/2103338592672362566",
-      "author_handle": "fchollet",
-      "author_name": "François Chollet",
-      "post_text": "I think the \"difficulty\" of software engineering is essentially constant no matter what abstraction level you move to, because human cognition adapts to new tools until it can fully utilize itself.\n\nTools are only affordances, not a magic wand that makes work disappear.\n\nGreat software engineering was immensely challenging before. It is still immensely challenging now, despite very different workflows.",
-      "posted_at": "2026-09-25T04:19:33Z",
-      "engagement": {
-        "likes": 1484,
-        "reposts": 151,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Chollet argues the challenge of software engineering remains constant despite tools",
-      "tags": [
-        "research"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 33.88
+      "score": 33.63
     },
     {
       "id": "2102394156731535413",
@@ -1533,7 +1506,34 @@
       "first_seen_at": "2026-09-25T19:22:05Z",
       "last_scraped_at": "2026-09-25T19:22:05Z",
       "engagement_tier": "normal",
-      "score": 33.88
+      "score": 33.61
+    },
+    {
+      "id": "2103338592672362566",
+      "url": "https://x.com/fchollet/status/2103338592672362566",
+      "author_handle": "fchollet",
+      "author_name": "François Chollet",
+      "post_text": "I think the \"difficulty\" of software engineering is essentially constant no matter what abstraction level you move to, because human cognition adapts to new tools until it can fully utilize itself.\n\nTools are only affordances, not a magic wand that makes work disappear.\n\nGreat software engineering was immensely challenging before. It is still immensely challenging now, despite very different workflows.",
+      "posted_at": "2026-09-25T04:19:33Z",
+      "engagement": {
+        "likes": 1484,
+        "reposts": 151,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Chollet argues the challenge of software engineering remains constant despite tools",
+      "tags": [
+        "research"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 33.43
     },
     {
       "id": "2100963146446025096",
@@ -1560,7 +1560,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "hot",
-      "score": 32.12
+      "score": 31.94
     },
     {
       "id": "2101672304358948992",
@@ -1588,34 +1588,7 @@
       "first_seen_at": "2026-09-25T19:22:05Z",
       "last_scraped_at": "2026-09-25T19:22:05Z",
       "engagement_tier": "hot",
-      "score": 31.8
-    },
-    {
-      "id": "2102821706041819401",
-      "url": "https://x.com/gdb/status/2102821706041819401",
-      "author_handle": "gdb",
-      "author_name": "Greg Brockman",
-      "post_text": "mega upgrade for GPT Voice, which can now use tools and is available in Work:",
-      "posted_at": "2026-09-23T18:05:37Z",
-      "engagement": {
-        "likes": 1633,
-        "reposts": 59,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Brockman's mega upgrade for GPT Voice introduces powerful new tools for work",
-      "tags": [
-        "lab-leader"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 31.43
+      "score": 31.59
     },
     {
       "id": "2102470107826159755",
@@ -1642,7 +1615,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 31.39
+      "score": 31.1
+    },
+    {
+      "id": "2102821706041819401",
+      "url": "https://x.com/gdb/status/2102821706041819401",
+      "author_handle": "gdb",
+      "author_name": "Greg Brockman",
+      "post_text": "mega upgrade for GPT Voice, which can now use tools and is available in Work:",
+      "posted_at": "2026-09-23T18:05:37Z",
+      "engagement": {
+        "likes": 1633,
+        "reposts": 59,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Brockman's mega upgrade for GPT Voice introduces powerful new tools for work",
+      "tags": [
+        "lab-leader"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 31.09
     },
     {
       "id": "2103223477130129726",
@@ -1670,7 +1670,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 31.28
+      "score": 30.86
     },
     {
       "id": "2100699190448042165",
@@ -1697,7 +1697,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 30.64
+      "score": 30.48
     },
     {
       "id": "2100388050194837953",
@@ -1739,7 +1739,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 30.3
+      "score": 30.15
     },
     {
       "id": "2102862838570397711",
@@ -1766,7 +1766,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 30.07
+      "score": 29.73
     },
     {
       "id": "2103624838716010948",
@@ -1793,7 +1793,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 29.88
+      "score": 29.33
     },
     {
       "id": "2103151519428448405",
@@ -1820,34 +1820,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 28.9
-    },
-    {
-      "id": "2103457423335862476",
-      "url": "https://x.com/levelsio/status/2103457423335862476",
-      "author_handle": "levelsio",
-      "author_name": "levelsio",
-      "post_text": "🇬🇧 😂",
-      "posted_at": "2026-09-25T12:11:44Z",
-      "engagement": {
-        "likes": 832,
-        "reposts": 27,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "levelsio's humorous take on British culture sparks laughs",
-      "tags": [
-        "builder"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 28.32
+      "score": 28.51
     },
     {
       "id": "2102508817653379411",
@@ -1874,7 +1847,34 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 28.29
+      "score": 28.0
+    },
+    {
+      "id": "2103457423335862476",
+      "url": "https://x.com/levelsio/status/2103457423335862476",
+      "author_handle": "levelsio",
+      "author_name": "levelsio",
+      "post_text": "🇬🇧 😂",
+      "posted_at": "2026-09-25T12:11:44Z",
+      "engagement": {
+        "likes": 832,
+        "reposts": 27,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "levelsio's humorous take on British culture sparks laughs",
+      "tags": [
+        "builder"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 27.84
     },
     {
       "id": "2103273813928759398",
@@ -1901,34 +1901,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 28.12
-    },
-    {
-      "id": "2103596391021113637",
-      "url": "https://x.com/tszzl/status/2103596391021113637",
-      "author_handle": "tszzl",
-      "author_name": "roon",
-      "post_text": "if the NRX weren’t partisan hacks they would love this company. its governance structure is basically Karnofsky-Amodei genetic dynasty, has an encaged machine god with its own Consitution, went to war with the department of war",
-      "posted_at": "2026-09-25T21:23:57Z",
-      "engagement": {
-        "likes": 651,
-        "reposts": 29,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "roon critiques NRX governance in a sharp commentary on tech ethics",
-      "tags": [
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 27.25
+      "score": 27.69
     },
     {
       "id": "2102771721086673116",
@@ -1956,7 +1929,34 @@
       "first_seen_at": "2026-09-25T19:22:05Z",
       "last_scraped_at": "2026-09-25T19:22:05Z",
       "engagement_tier": "normal",
-      "score": 27.11
+      "score": 26.79
+    },
+    {
+      "id": "2103596391021113637",
+      "url": "https://x.com/tszzl/status/2103596391021113637",
+      "author_handle": "tszzl",
+      "author_name": "roon",
+      "post_text": "if the NRX weren’t partisan hacks they would love this company. its governance structure is basically Karnofsky-Amodei genetic dynasty, has an encaged machine god with its own Consitution, went to war with the department of war",
+      "posted_at": "2026-09-25T21:23:57Z",
+      "engagement": {
+        "likes": 651,
+        "reposts": 29,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "roon critiques NRX governance in a sharp commentary on tech ethics",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 26.71
     },
     {
       "id": "2102781530867126505",
@@ -1986,7 +1986,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 26.99
+      "score": 26.67
     },
     {
       "id": "2103126209597256076",
@@ -2013,7 +2013,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 26.67
+      "score": 26.28
     },
     {
       "id": "2103357445229990009",
@@ -2041,7 +2041,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 26.6
+      "score": 26.15
     },
     {
       "id": "2103581038828237268",
@@ -2068,7 +2068,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 26.53
+      "score": 26.0
     },
     {
       "id": "2103517792943456620",
@@ -2096,7 +2096,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 26.0
+      "score": 25.51
     },
     {
       "id": "2103561415793770558",
@@ -2124,7 +2124,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 25.64
+      "score": 25.12
     },
     {
       "id": "2102996487596916786",
@@ -2152,7 +2152,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 25.37
+      "score": 25.01
     },
     {
       "id": "2102957523968102509",
@@ -2179,7 +2179,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 24.76
+      "score": 24.41
     },
     {
       "id": "2103620752910217427",
@@ -2207,7 +2207,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 24.22
+      "score": 23.69
     },
     {
       "id": "2102938541471015137",
@@ -2235,7 +2235,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 23.71
+      "score": 23.37
     },
     {
       "id": "2103195385804238972",
@@ -2263,7 +2263,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 23.59
+      "score": 23.2
     },
     {
       "id": "2103178649851843016",
@@ -2291,61 +2291,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 23.46
-    },
-    {
-      "id": "2103622734731530277",
-      "url": "https://x.com/alexandr_wang/status/2103622734731530277",
-      "author_handle": "alexandr_wang",
-      "author_name": "Alexandr Wang",
-      "post_text": "muse saves you time AND money!",
-      "posted_at": "2026-09-25T23:08:38Z",
-      "engagement": {
-        "likes": 396,
-        "reposts": 8,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Wang highlights time and money-saving benefits of Muse",
-      "tags": [
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 22.86
-    },
-    {
-      "id": "2103526115021041947",
-      "url": "https://x.com/levelsio/status/2103526115021041947",
-      "author_handle": "levelsio",
-      "author_name": "levelsio",
-      "post_text": "A bit of AI psychosis design vibe but yes good everyone building these custom dashboards for themselves I think\n\nAI great in combining lots of different data sources from your bank accounts, health sensor data, air quality sensor data, your startup revenue data from Stripe, investment returns, emails etc into one\n\nThe best part is not the dashboard but that you can ask questions on what to improve and find correlations between everything\n\nSo everyone gets healthier and wealthier!",
-      "posted_at": "2026-09-25T16:44:42Z",
-      "engagement": {
-        "likes": 404,
-        "reposts": 13,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "levelsio reveals the potential of AI in personal dashboard design",
-      "tags": [
-        "builder"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 22.73
+      "score": 23.07
     },
     {
       "id": "2100411291836018812",
@@ -2372,7 +2318,61 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 22.53
+      "score": 22.39
+    },
+    {
+      "id": "2103622734731530277",
+      "url": "https://x.com/alexandr_wang/status/2103622734731530277",
+      "author_handle": "alexandr_wang",
+      "author_name": "Alexandr Wang",
+      "post_text": "muse saves you time AND money!",
+      "posted_at": "2026-09-25T23:08:38Z",
+      "engagement": {
+        "likes": 396,
+        "reposts": 8,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Wang highlights time and money-saving benefits of Muse",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 22.33
+    },
+    {
+      "id": "2103526115021041947",
+      "url": "https://x.com/levelsio/status/2103526115021041947",
+      "author_handle": "levelsio",
+      "author_name": "levelsio",
+      "post_text": "A bit of AI psychosis design vibe but yes good everyone building these custom dashboards for themselves I think\n\nAI great in combining lots of different data sources from your bank accounts, health sensor data, air quality sensor data, your startup revenue data from Stripe, investment returns, emails etc into one\n\nThe best part is not the dashboard but that you can ask questions on what to improve and find correlations between everything\n\nSo everyone gets healthier and wealthier!",
+      "posted_at": "2026-09-25T16:44:42Z",
+      "engagement": {
+        "likes": 404,
+        "reposts": 13,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "levelsio reveals the potential of AI in personal dashboard design",
+      "tags": [
+        "builder"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 22.24
     },
     {
       "id": "2103474875054915783",
@@ -2399,7 +2399,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 22.03
+      "score": 21.56
     },
     {
       "id": "2099998119392161960",
@@ -2427,35 +2427,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 21.68
-    },
-    {
-      "id": "2103241801599750329",
-      "url": "https://x.com/AravSrinivas/status/2103241801599750329",
-      "author_handle": "AravSrinivas",
-      "author_name": "Aravind Srinivas",
-      "post_text": "Nous Portal subscribers now get Perplexity Fast Search as their default search on Hermes Agent. Enjoy!",
-      "posted_at": "2026-09-24T21:54:56Z",
-      "engagement": {
-        "likes": 390,
-        "reposts": 20,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Aravind Srinivas announces Perplexity Fast Search for Nous Portal subscribers",
-      "tags": [
-        "builder",
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 21.49
+      "score": 21.55
     },
     {
       "id": "2102215794902139015",
@@ -2483,7 +2455,35 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 21.44
+      "score": 21.2
+    },
+    {
+      "id": "2103241801599750329",
+      "url": "https://x.com/AravSrinivas/status/2103241801599750329",
+      "author_handle": "AravSrinivas",
+      "author_name": "Aravind Srinivas",
+      "post_text": "Nous Portal subscribers now get Perplexity Fast Search as their default search on Hermes Agent. Enjoy!",
+      "posted_at": "2026-09-24T21:54:56Z",
+      "engagement": {
+        "likes": 390,
+        "reposts": 20,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Aravind Srinivas announces Perplexity Fast Search for Nous Portal subscribers",
+      "tags": [
+        "builder",
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 21.09
     },
     {
       "id": "2103548700853198940",
@@ -2511,7 +2511,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 21.37
+      "score": 20.88
     },
     {
       "id": "2103212249812721674",
@@ -2538,34 +2538,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 21.23
-    },
-    {
-      "id": "2103641022865510582",
-      "url": "https://x.com/paulg/status/2103641022865510582",
-      "author_handle": "paulg",
-      "author_name": "Paul Graham",
-      "post_text": "I'm reading Shakespeare's Professional Career by Peter Thomson. Like most really good books, it covers much more than its title implies. It's so packed with detail that it's half way to being a history of the Elizabethan period.",
-      "posted_at": "2026-09-26T00:21:18Z",
-      "engagement": {
-        "likes": 308,
-        "reposts": 10,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Paul Graham's take on Shakespeare's professional career reveals unexpected insights",
-      "tags": [
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 21.18
+      "score": 20.84
     },
     {
       "id": "2102800209894056351",
@@ -2593,7 +2566,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 20.97
+      "score": 20.66
+    },
+    {
+      "id": "2103641022865510582",
+      "url": "https://x.com/paulg/status/2103641022865510582",
+      "author_handle": "paulg",
+      "author_name": "Paul Graham",
+      "post_text": "I'm reading Shakespeare's Professional Career by Peter Thomson. Like most really good books, it covers much more than its title implies. It's so packed with detail that it's half way to being a history of the Elizabethan period.",
+      "posted_at": "2026-09-26T00:21:18Z",
+      "engagement": {
+        "likes": 308,
+        "reposts": 10,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Paul Graham's take on Shakespeare's professional career reveals unexpected insights",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 20.65
     },
     {
       "id": "2103242738099462337",
@@ -2620,34 +2620,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 19.37
-    },
-    {
-      "id": "2103485857147617393",
-      "url": "https://x.com/emollick/status/2103485857147617393",
-      "author_handle": "emollick",
-      "author_name": "Ethan Mollick",
-      "post_text": "Microsoft seems to sell its own Claw now (I suspect they will not be the last), which may help spread personal agents in organizations\n\nBut using a router with mystery models behind it is a big problem. Routers underestimate work difficulty in many fields resulting in bad outputs",
-      "posted_at": "2026-09-25T14:04:43Z",
-      "engagement": {
-        "likes": 227,
-        "reposts": 11,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Ethan Mollick discusses Microsoft's new Claw and its impact on AI agents",
-      "tags": [
-        "education"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 18.29
+      "score": 18.99
     },
     {
       "id": "2099965852934402547",
@@ -2675,7 +2648,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.07
+      "score": 17.94
+    },
+    {
+      "id": "2103485857147617393",
+      "url": "https://x.com/emollick/status/2103485857147617393",
+      "author_handle": "emollick",
+      "author_name": "Ethan Mollick",
+      "post_text": "Microsoft seems to sell its own Claw now (I suspect they will not be the last), which may help spread personal agents in organizations\n\nBut using a router with mystery models behind it is a big problem. Routers underestimate work difficulty in many fields resulting in bad outputs",
+      "posted_at": "2026-09-25T14:04:43Z",
+      "engagement": {
+        "likes": 227,
+        "reposts": 11,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Ethan Mollick discusses Microsoft's new Claw and its impact on AI agents",
+      "tags": [
+        "education"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 17.85
     },
     {
       "id": "2102498448364954083",
@@ -2703,7 +2703,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 17.86
+      "score": 17.6
     },
     {
       "id": "2102464776215679021",
@@ -2731,34 +2731,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 17.82
-    },
-    {
-      "id": "2103593301240602645",
-      "url": "https://x.com/emollick/status/2103593301240602645",
-      "author_handle": "emollick",
-      "author_name": "Ethan Mollick",
-      "post_text": "Leaving aside everything else, this confuses inputs with outputs. You want to get tasks done efficiently, not focus on inputs alone (its a similar risk for companies focusing solely on minimizing token cost)\n\nAnd \"keep prompts short\" is bad advice for getting good AI outputs.",
-      "posted_at": "2026-09-25T21:11:40Z",
-      "engagement": {
-        "likes": 191,
-        "reposts": 12,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Ethan Mollick critiques common AI prompt advice for better task efficiency",
-      "tags": [
-        "education"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 17.75
+      "score": 17.57
     },
     {
       "id": "2103325773323018520",
@@ -2785,7 +2758,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 17.68
+      "score": 17.28
+    },
+    {
+      "id": "2103593301240602645",
+      "url": "https://x.com/emollick/status/2103593301240602645",
+      "author_handle": "emollick",
+      "author_name": "Ethan Mollick",
+      "post_text": "Leaving aside everything else, this confuses inputs with outputs. You want to get tasks done efficiently, not focus on inputs alone (its a similar risk for companies focusing solely on minimizing token cost)\n\nAnd \"keep prompts short\" is bad advice for getting good AI outputs.",
+      "posted_at": "2026-09-25T21:11:40Z",
+      "engagement": {
+        "likes": 191,
+        "reposts": 12,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Ethan Mollick critiques common AI prompt advice for better task efficiency",
+      "tags": [
+        "education"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 17.26
     },
     {
       "id": "2103578627359268987",
@@ -2813,7 +2813,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 17.07
+      "score": 16.6
     },
     {
       "id": "2102551256548131306",
@@ -2841,7 +2841,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 16.31
+      "score": 16.06
     },
     {
       "id": "2103201617004949888",
@@ -2869,7 +2869,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 16.05
+      "score": 15.7
     },
     {
       "id": "2099980710090248306",
@@ -2897,7 +2897,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 15.77
+      "score": 15.65
     },
     {
       "id": "2103569043836027339",
@@ -2925,7 +2925,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 15.64
+      "score": 15.19
     },
     {
       "id": "2102650014552182920",
@@ -2953,7 +2953,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 15.2
+      "score": 14.94
     },
     {
       "id": "2103641180923978031",
@@ -2981,7 +2981,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 15.18
+      "score": 14.7
     },
     {
       "id": "2103154770068541691",
@@ -3009,7 +3009,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.33
+      "score": 14.0
     },
     {
       "id": "2103182635992514569",
@@ -3037,7 +3037,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.29
+      "score": 13.96
     },
     {
       "id": "2103361254433993165",
@@ -3065,7 +3065,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.24
+      "score": 13.86
     },
     {
       "id": "2102916558712705427",
@@ -3093,35 +3093,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.06
-    },
-    {
-      "id": "2103304044668162541",
-      "url": "https://x.com/ClementDelangue/status/2103304044668162541",
-      "author_handle": "ClementDelangue",
-      "author_name": "clem 🤗",
-      "post_text": "I like this article! \n\nThe problem is not for some people to care and work on catastrophic risks (we actually need much more research into it), it’s when company leaders and policymakers use fears of them to distract and hide the current challenges and solutions!",
-      "posted_at": "2026-09-25T02:02:16Z",
-      "engagement": {
-        "likes": 123,
-        "reposts": 11,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "clem critiques leaders misusing fears of catastrophic risks",
-      "tags": [
-        "open-source",
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 13.7
+      "score": 13.78
     },
     {
       "id": "2102441795879919636",
@@ -3149,7 +3121,35 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.69
+      "score": 13.46
+    },
+    {
+      "id": "2103304044668162541",
+      "url": "https://x.com/ClementDelangue/status/2103304044668162541",
+      "author_handle": "ClementDelangue",
+      "author_name": "clem 🤗",
+      "post_text": "I like this article! \n\nThe problem is not for some people to care and work on catastrophic risks (we actually need much more research into it), it’s when company leaders and policymakers use fears of them to distract and hide the current challenges and solutions!",
+      "posted_at": "2026-09-25T02:02:16Z",
+      "engagement": {
+        "likes": 123,
+        "reposts": 11,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "clem critiques leaders misusing fears of catastrophic risks",
+      "tags": [
+        "open-source",
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 13.34
     },
     {
       "id": "2103608911442120979",
@@ -3176,7 +3176,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 13.58
+      "score": 13.14
     },
     {
       "id": "2102612246513983711",
@@ -3204,35 +3204,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.27
-    },
-    {
-      "id": "2103561974613446862",
-      "url": "https://x.com/hwchase17/status/2103561974613446862",
-      "author_handle": "hwchase17",
-      "author_name": "Harrison Chase",
-      "post_text": "jev and langgraph are a great combo!\nmodeling agents as complex systems, with AI imbued in them, makes a ton of sense\nlanggraph is the best way to model them as such, and using Jev inside langgraph to turbo charge all the small decisions that need to be made is awesome combo",
-      "posted_at": "2026-09-25T19:07:11Z",
-      "engagement": {
-        "likes": 84,
-        "reposts": 13,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Harrison Chase discusses the powerful combination of Jev and Langgraph",
-      "tags": [
-        "builder",
-        "open-source"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 13.0
+      "score": 13.03
     },
     {
       "id": "2102808840102396388",
@@ -3260,7 +3232,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.0
+      "score": 12.73
     },
     {
       "id": "2102886723206492246",
@@ -3287,7 +3259,35 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 12.97
+      "score": 12.7
+    },
+    {
+      "id": "2103561974613446862",
+      "url": "https://x.com/hwchase17/status/2103561974613446862",
+      "author_handle": "hwchase17",
+      "author_name": "Harrison Chase",
+      "post_text": "jev and langgraph are a great combo!\nmodeling agents as complex systems, with AI imbued in them, makes a ton of sense\nlanggraph is the best way to model them as such, and using Jev inside langgraph to turbo charge all the small decisions that need to be made is awesome combo",
+      "posted_at": "2026-09-25T19:07:11Z",
+      "engagement": {
+        "likes": 84,
+        "reposts": 13,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Harrison Chase discusses the powerful combination of Jev and Langgraph",
+      "tags": [
+        "builder",
+        "open-source"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 12.58
     },
     {
       "id": "2100259777528177030",
@@ -3315,7 +3315,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 12.63
+      "score": 12.51
     },
     {
       "id": "2102964957587632555",
@@ -3343,7 +3343,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 12.49
+      "score": 12.21
     },
     {
       "id": "2100260130529161272",
@@ -3371,7 +3371,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 11.85
+      "score": 11.74
     },
     {
       "id": "2101327912951787569",
@@ -3399,7 +3399,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 11.29
+      "score": 11.15
     },
     {
       "id": "2102137581626388743",
@@ -3427,7 +3427,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 11.24
+      "score": 11.05
     },
     {
       "id": "2103281862529458340",
@@ -3454,7 +3454,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 11.0
+      "score": 10.68
     },
     {
       "id": "2103582338986955063",
@@ -3481,7 +3481,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 10.74
+      "score": 10.35
     },
     {
       "id": "2103551357823369653",
@@ -3513,7 +3513,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.54
+      "score": 10.17
     },
     {
       "id": "2103660061260411266",
@@ -3540,7 +3540,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.35
+      "score": 9.94
     },
     {
       "id": "2102854830528364718",
@@ -3568,7 +3568,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 9.82
+      "score": 9.58
     },
     {
       "id": "2102470464735949263",
@@ -3596,7 +3596,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 9.57
+      "score": 9.37
     },
     {
       "id": "2102781533274734801",
@@ -3623,7 +3623,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 9.23
+      "score": 9.01
     },
     {
       "id": "2102851157261725730",
@@ -3651,7 +3651,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.63
+      "score": 8.41
     },
     {
       "id": "2101351570973880562",
@@ -3679,7 +3679,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 8.39
+      "score": 8.27
     },
     {
       "id": "2103252520525054005",
@@ -3706,7 +3706,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.27
+      "score": 8.0
     },
     {
       "id": "2103586769056784419",
@@ -3733,7 +3733,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 7.06
+      "score": 6.76
     },
     {
       "id": "2102935661183631633",
@@ -3760,7 +3760,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 5.16
+      "score": 5.0
     },
     {
       "id": "2100586770572177551",
@@ -3787,7 +3787,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 4.46
+      "score": 4.39
     }
   ]
 }
