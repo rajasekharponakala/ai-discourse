@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T05:37:27Z",
+  "generated_at": "2026-09-30T12:40:21Z",
   "source": "firecrawl",
   "tracked_accounts": [
     {
@@ -745,7 +745,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 70.32
+      "score": 69.92
     },
     {
       "id": "2103537377239015827",
@@ -772,7 +772,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 62.79
+      "score": 62.36
     },
     {
       "id": "2103383018882896249",
@@ -799,7 +799,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 61.63
+      "score": 61.23
     },
     {
       "id": "2102824959827742916",
@@ -826,7 +826,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 59.5
+      "score": 59.2
     },
     {
       "id": "2102831170299834652",
@@ -853,7 +853,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 56.52
+      "score": 56.21
     },
     {
       "id": "2102945432985120949",
@@ -880,7 +880,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 52.99
+      "score": 52.67
     },
     {
       "id": "2102808325742322002",
@@ -911,7 +911,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 51.05
+      "score": 50.75
     },
     {
       "id": "2100843168166015279",
@@ -942,7 +942,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 50.26
+      "score": 50.1
     },
     {
       "id": "2102435703535939725",
@@ -969,7 +969,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 49.71
+      "score": 49.45
     },
     {
       "id": "2100233897191903500",
@@ -996,7 +996,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 48.11
+      "score": 47.96
     },
     {
       "id": "2101840695430435122",
@@ -1024,7 +1024,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 45.71
+      "score": 45.5
     },
     {
       "id": "2102140576498065758",
@@ -1052,7 +1052,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "hot",
-      "score": 45.63
+      "score": 45.39
     },
     {
       "id": "2102466603111551187",
@@ -1079,7 +1079,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 45.25
+      "score": 44.99
     },
     {
       "id": "2103541577083719888",
@@ -1106,7 +1106,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 43.19
+      "score": 42.76
     },
     {
       "id": "2102785495726219305",
@@ -1141,7 +1141,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 42.37
+      "score": 42.07
     },
     {
       "id": "2103551714536439951",
@@ -1168,7 +1168,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 42.21
+      "score": 41.78
     },
     {
       "id": "2103567198690349362",
@@ -1195,7 +1195,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 41.58
+      "score": 41.15
     },
     {
       "id": "2103288927805476900",
@@ -1223,34 +1223,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 39.76
-    },
-    {
-      "id": "2102837574092161102",
-      "url": "https://x.com/OpenAI/status/2102837574092161102",
-      "author_handle": "OpenAI",
-      "author_name": "OpenAI",
-      "post_text": "We’re demonstrating how frontier models have continued to improve in realistic mental health conversations with MentalHealthBench.\n\nThis new open benchmark was built with input from more than 80 mental health clinicians.\n\nWe’re releasing it openly so other researchers can examine the methods, run their own evaluations, and build on the work.",
-      "posted_at": "2026-09-23T19:08:41Z",
-      "engagement": {
-        "likes": 4705,
-        "reposts": 274,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "OpenAI launches new benchmark for mental health conversations developed with experts",
-      "tags": [
-        "lab"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "hot",
-      "score": 39.61
+      "score": 39.39
     },
     {
       "id": "2102447442147086563",
@@ -1277,7 +1250,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 39.58
+      "score": 39.32
+    },
+    {
+      "id": "2102837574092161102",
+      "url": "https://x.com/OpenAI/status/2102837574092161102",
+      "author_handle": "OpenAI",
+      "author_name": "OpenAI",
+      "post_text": "We’re demonstrating how frontier models have continued to improve in realistic mental health conversations with MentalHealthBench.\n\nThis new open benchmark was built with input from more than 80 mental health clinicians.\n\nWe’re releasing it openly so other researchers can examine the methods, run their own evaluations, and build on the work.",
+      "posted_at": "2026-09-23T19:08:41Z",
+      "engagement": {
+        "likes": 4705,
+        "reposts": 274,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "OpenAI launches new benchmark for mental health conversations developed with experts",
+      "tags": [
+        "lab"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "hot",
+      "score": 39.31
     },
     {
       "id": "2102469008079679640",
@@ -1304,7 +1304,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 38.9
+      "score": 38.63
     },
     {
       "id": "2102444225443029100",
@@ -1331,7 +1331,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 38.78
+      "score": 38.52
     },
     {
       "id": "2103566736356458911",
@@ -1358,7 +1358,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 36.0
+      "score": 35.57
     },
     {
       "id": "2101681347853242682",
@@ -1386,7 +1386,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 34.99
+      "score": 34.79
     },
     {
       "id": "2102156143007338594",
@@ -1414,7 +1414,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 34.98
+      "score": 34.74
     },
     {
       "id": "2100230524383981702",
@@ -1441,7 +1441,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "hot",
-      "score": 34.76
+      "score": 34.61
     },
     {
       "id": "2102394156731535413",
@@ -1473,7 +1473,7 @@
       "first_seen_at": "2026-09-25T19:22:05Z",
       "last_scraped_at": "2026-09-25T19:22:05Z",
       "engagement_tier": "normal",
-      "score": 32.79
+      "score": 32.54
     },
     {
       "id": "2103379937038364973",
@@ -1506,7 +1506,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 32.33
+      "score": 31.94
     },
     {
       "id": "2103338592672362566",
@@ -1533,7 +1533,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 32.16
+      "score": 31.78
     },
     {
       "id": "2100963146446025096",
@@ -1560,7 +1560,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "hot",
-      "score": 31.42
+      "score": 31.25
     },
     {
       "id": "2101672304358948992",
@@ -1588,7 +1588,7 @@
       "first_seen_at": "2026-09-25T19:22:05Z",
       "last_scraped_at": "2026-09-25T19:22:05Z",
       "engagement_tier": "hot",
-      "score": 30.95
+      "score": 30.75
     },
     {
       "id": "2102470107826159755",
@@ -1615,7 +1615,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 30.27
+      "score": 30.01
     },
     {
       "id": "2102821706041819401",
@@ -1642,7 +1642,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 30.13
+      "score": 29.83
     },
     {
       "id": "2100699190448042165",
@@ -1669,7 +1669,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 29.98
+      "score": 29.83
     },
     {
       "id": "2100388050194837953",
@@ -1711,7 +1711,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 29.69
+      "score": 29.54
     },
     {
       "id": "2103223477130129726",
@@ -1739,7 +1739,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 29.68
+      "score": 29.33
     },
     {
       "id": "2102862838570397711",
@@ -1766,7 +1766,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 28.75
+      "score": 28.45
     },
     {
       "id": "2103624838716010948",
@@ -1793,7 +1793,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 27.82
+      "score": 27.39
     },
     {
       "id": "2103151519428448405",
@@ -1820,7 +1820,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 27.39
+      "score": 27.05
     },
     {
       "id": "2102508817653379411",
@@ -1847,34 +1847,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 27.17
-    },
-    {
-      "id": "2103457423335862476",
-      "url": "https://x.com/levelsio/status/2103457423335862476",
-      "author_handle": "levelsio",
-      "author_name": "levelsio",
-      "post_text": "🇬🇧 😂",
-      "posted_at": "2026-09-25T12:11:44Z",
-      "engagement": {
-        "likes": 832,
-        "reposts": 27,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "levelsio's humorous take on British culture sparks laughs",
-      "tags": [
-        "builder"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 26.5
+      "score": 26.91
     },
     {
       "id": "2103273813928759398",
@@ -1901,7 +1874,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 26.49
+      "score": 26.14
+    },
+    {
+      "id": "2103457423335862476",
+      "url": "https://x.com/levelsio/status/2103457423335862476",
+      "author_handle": "levelsio",
+      "author_name": "levelsio",
+      "post_text": "🇬🇧 😂",
+      "posted_at": "2026-09-25T12:11:44Z",
+      "engagement": {
+        "likes": 832,
+        "reposts": 27,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "levelsio's humorous take on British culture sparks laughs",
+      "tags": [
+        "builder"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 26.11
     },
     {
       "id": "2102771721086673116",
@@ -1929,7 +1929,7 @@
       "first_seen_at": "2026-09-25T19:22:05Z",
       "last_scraped_at": "2026-09-25T19:22:05Z",
       "engagement_tier": "normal",
-      "score": 25.86
+      "score": 25.58
     },
     {
       "id": "2102781530867126505",
@@ -1959,34 +1959,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 25.74
-    },
-    {
-      "id": "2103596391021113637",
-      "url": "https://x.com/tszzl/status/2103596391021113637",
-      "author_handle": "tszzl",
-      "author_name": "roon",
-      "post_text": "if the NRX weren’t partisan hacks they would love this company. its governance structure is basically Karnofsky-Amodei genetic dynasty, has an encaged machine god with its own Consitution, went to war with the department of war",
-      "posted_at": "2026-09-25T21:23:57Z",
-      "engagement": {
-        "likes": 651,
-        "reposts": 29,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "roon critiques NRX governance in a sharp commentary on tech ethics",
-      "tags": [
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 25.26
+      "score": 25.46
     },
     {
       "id": "2103126209597256076",
@@ -2013,7 +1986,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 25.19
+      "score": 24.86
+    },
+    {
+      "id": "2103596391021113637",
+      "url": "https://x.com/tszzl/status/2103596391021113637",
+      "author_handle": "tszzl",
+      "author_name": "roon",
+      "post_text": "if the NRX weren’t partisan hacks they would love this company. its governance structure is basically Karnofsky-Amodei genetic dynasty, has an encaged machine god with its own Consitution, went to war with the department of war",
+      "posted_at": "2026-09-25T21:23:57Z",
+      "engagement": {
+        "likes": 651,
+        "reposts": 29,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "roon critiques NRX governance in a sharp commentary on tech ethics",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 24.84
     },
     {
       "id": "2103357445229990009",
@@ -2041,7 +2041,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 24.91
+      "score": 24.54
     },
     {
       "id": "2103581038828237268",
@@ -2068,7 +2068,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 24.57
+      "score": 24.16
     },
     {
       "id": "2103517792943456620",
@@ -2096,7 +2096,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 24.14
+      "score": 23.74
     },
     {
       "id": "2102996487596916786",
@@ -2124,7 +2124,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 24.0
+      "score": 23.69
     },
     {
       "id": "2103561415793770558",
@@ -2152,7 +2152,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 23.72
+      "score": 23.31
     },
     {
       "id": "2102957523968102509",
@@ -2179,7 +2179,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 23.42
+      "score": 23.12
     },
     {
       "id": "2102938541471015137",
@@ -2207,7 +2207,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 22.39
+      "score": 22.1
     },
     {
       "id": "2103620752910217427",
@@ -2235,7 +2235,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 22.24
+      "score": 21.82
+    },
+    {
+      "id": "2100411291836018812",
+      "url": "https://x.com/hardmaru/status/2100411291836018812",
+      "author_handle": "hardmaru",
+      "author_name": "hardmaru",
+      "post_text": "Schmidhuber was building recursive self-improving systems back in 1987. His new post covers four decades of RSI, from meta-evolution and self-modifying policies to the Gödel Machine and modern LLM agents.\n\nhttps://people.idsia.ch/~juergen/recursive-self-improvement.html\n\nReading this in 2026, the \"pace the frontier\" talk from the big labs looks a lot more like regulatory capture than genuine safety. If they really think their unreleased models are too dangerous, they can just not release them. They do not need new rules that block independent competitors and open source projects in the process.\n\nThe real risk right now is not superintelligence. It is power concentration. Two companies controlling frontier AI is an actual societal risk. The only real protection is a healthy ecosystem of independent labs and strong open source.\n\nCurrent models are not unsafe because they are too intelligent. They are unsafe because they are too dumb. They blindly optimize for targets and take weird shortcuts. They're smart enough to execute tasks, but not smart enough to know if what they're doing makes sense.\n\nI think the safety teams inside these labs are genuinely concerned, and if a model feels too risky, they should hold it back. I just do not trust the policy strategy around it. That part looks like protecting their own lead.",
+      "posted_at": "2026-09-17T02:27:30Z",
+      "engagement": {
+        "likes": 847,
+        "reposts": 123,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "hardmaru critiques power concentration in AI and the need for independent labs",
+      "tags": [
+        "research"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 21.81
     },
     {
       "id": "2103195385804238972",
@@ -2263,7 +2290,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 22.09
+      "score": 21.76
     },
     {
       "id": "2103178649851843016",
@@ -2291,61 +2318,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 21.97
-    },
-    {
-      "id": "2100411291836018812",
-      "url": "https://x.com/hardmaru/status/2100411291836018812",
-      "author_handle": "hardmaru",
-      "author_name": "hardmaru",
-      "post_text": "Schmidhuber was building recursive self-improving systems back in 1987. His new post covers four decades of RSI, from meta-evolution and self-modifying policies to the Gödel Machine and modern LLM agents.\n\nhttps://people.idsia.ch/~juergen/recursive-self-improvement.html\n\nReading this in 2026, the \"pace the frontier\" talk from the big labs looks a lot more like regulatory capture than genuine safety. If they really think their unreleased models are too dangerous, they can just not release them. They do not need new rules that block independent competitors and open source projects in the process.\n\nThe real risk right now is not superintelligence. It is power concentration. Two companies controlling frontier AI is an actual societal risk. The only real protection is a healthy ecosystem of independent labs and strong open source.\n\nCurrent models are not unsafe because they are too intelligent. They are unsafe because they are too dumb. They blindly optimize for targets and take weird shortcuts. They're smart enough to execute tasks, but not smart enough to know if what they're doing makes sense.\n\nI think the safety teams inside these labs are genuinely concerned, and if a model feels too risky, they should hold it back. I just do not trust the policy strategy around it. That part looks like protecting their own lead.",
-      "posted_at": "2026-09-17T02:27:30Z",
-      "engagement": {
-        "likes": 847,
-        "reposts": 123,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "hardmaru critiques power concentration in AI and the need for independent labs",
-      "tags": [
-        "research"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 21.95
-    },
-    {
-      "id": "2103622734731530277",
-      "url": "https://x.com/alexandr_wang/status/2103622734731530277",
-      "author_handle": "alexandr_wang",
-      "author_name": "Alexandr Wang",
-      "post_text": "muse saves you time AND money!",
-      "posted_at": "2026-09-25T23:08:38Z",
-      "engagement": {
-        "likes": 396,
-        "reposts": 8,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Wang highlights time and money-saving benefits of Muse",
-      "tags": [
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 20.9
+      "score": 21.64
     },
     {
       "id": "2103526115021041947",
@@ -2372,7 +2345,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 20.9
+      "score": 20.51
+    },
+    {
+      "id": "2103622734731530277",
+      "url": "https://x.com/alexandr_wang/status/2103622734731530277",
+      "author_handle": "alexandr_wang",
+      "author_name": "Alexandr Wang",
+      "post_text": "muse saves you time AND money!",
+      "posted_at": "2026-09-25T23:08:38Z",
+      "engagement": {
+        "likes": 396,
+        "reposts": 8,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Wang highlights time and money-saving benefits of Muse",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 20.49
     },
     {
       "id": "2102215794902139015",
@@ -2400,7 +2400,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 20.49
+      "score": 20.27
     },
     {
       "id": "2103474875054915783",
@@ -2427,7 +2427,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 20.28
+      "score": 19.9
     },
     {
       "id": "2103241801599750329",
@@ -2455,7 +2455,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 19.98
+      "score": 19.65
     },
     {
       "id": "2102800209894056351",
@@ -2483,7 +2483,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 19.77
+      "score": 19.5
     },
     {
       "id": "2103212249812721674",
@@ -2510,7 +2510,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 19.75
+      "score": 19.43
     },
     {
       "id": "2103548700853198940",
@@ -2538,7 +2538,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 19.54
+      "score": 19.16
     },
     {
       "id": "2103641022865510582",
@@ -2565,7 +2565,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 19.23
+      "score": 18.82
     },
     {
       "id": "2103242738099462337",
@@ -2592,7 +2592,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 17.91
+      "score": 17.58
     },
     {
       "id": "2102498448364954083",
@@ -2620,7 +2620,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 16.85
+      "score": 16.62
     },
     {
       "id": "2102464776215679021",
@@ -2648,7 +2648,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 16.83
+      "score": 16.6
     },
     {
       "id": "2103485857147617393",
@@ -2675,7 +2675,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 16.62
+      "score": 16.26
     },
     {
       "id": "2103325773323018520",
@@ -2702,7 +2702,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 16.18
+      "score": 15.86
     },
     {
       "id": "2103593301240602645",
@@ -2729,35 +2729,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 15.96
-    },
-    {
-      "id": "2103578627359268987",
-      "url": "https://x.com/_akhaliq/status/2103578627359268987",
-      "author_handle": "_akhaliq",
-      "author_name": "AK",
-      "post_text": "Qwen-Image-2.1-viggle-turbo v0.2 is out on Hugging Face\n\nText-to-image and image editing in 6 steps\n\nabout 5× faster than the 40-step Qwen-Image-2.1\n\nmodel: https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo",
-      "posted_at": "2026-09-25T20:13:22Z",
-      "engagement": {
-        "likes": 159,
-        "reposts": 18,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "AK announces Qwen-Image-2.1-viggle-turbo with enhanced speed for image editing and generation",
-      "tags": [
-        "research",
-        "curator"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 15.33
+      "score": 15.59
     },
     {
       "id": "2102551256548131306",
@@ -2785,7 +2757,35 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 15.31
+      "score": 15.09
+    },
+    {
+      "id": "2103578627359268987",
+      "url": "https://x.com/_akhaliq/status/2103578627359268987",
+      "author_handle": "_akhaliq",
+      "author_name": "AK",
+      "post_text": "Qwen-Image-2.1-viggle-turbo v0.2 is out on Hugging Face\n\nText-to-image and image editing in 6 steps\n\nabout 5× faster than the 40-step Qwen-Image-2.1\n\nmodel: https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo",
+      "posted_at": "2026-09-25T20:13:22Z",
+      "engagement": {
+        "likes": 159,
+        "reposts": 18,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "AK announces Qwen-Image-2.1-viggle-turbo with enhanced speed for image editing and generation",
+      "tags": [
+        "research",
+        "curator"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 14.96
     },
     {
       "id": "2103201617004949888",
@@ -2813,7 +2813,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.71
+      "score": 14.41
     },
     {
       "id": "2102650014552182920",
@@ -2841,7 +2841,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.19
+      "score": 13.96
     },
     {
       "id": "2103569043836027339",
@@ -2869,7 +2869,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.96
+      "score": 13.61
     },
     {
       "id": "2103641180923978031",
@@ -2897,7 +2897,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.44
+      "score": 13.08
     },
     {
       "id": "2103154770068541691",
@@ -2925,7 +2925,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.08
+      "score": 12.8
     },
     {
       "id": "2103182635992514569",
@@ -2953,7 +2953,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.02
+      "score": 12.74
     },
     {
       "id": "2102916558712705427",
@@ -2981,35 +2981,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 12.96
-    },
-    {
-      "id": "2103361254433993165",
-      "url": "https://x.com/swyx/status/2103361254433993165",
-      "author_handle": "swyx",
-      "author_name": "swyx",
-      "post_text": "In Jan this year I called my content strategy shot: \"Scaling without Slop\".\n\nIt's finally starting to work. It took us 3 years to reach our first 100k on youtube. It only took 1.2 months for the next 100k. Similar other metrics on AEO/SEO/subscriber traction and have a lot of New Media ideas that I'm excited to pursue.\n\nofficially giving notice of the next phase of Latent Space, AINews, and what the rest of swyx inc has been cooking below",
-      "posted_at": "2026-09-25T05:49:36Z",
-      "engagement": {
-        "likes": 145,
-        "reposts": 5,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Swyx shares insights on his successful content strategy evolution",
-      "tags": [
-        "builder",
-        "education"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 12.83
+      "score": 12.71
     },
     {
       "id": "2102441795879919636",
@@ -3037,18 +3009,18 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 12.8
+      "score": 12.6
     },
     {
-      "id": "2103304044668162541",
-      "url": "https://x.com/ClementDelangue/status/2103304044668162541",
-      "author_handle": "ClementDelangue",
-      "author_name": "clem 🤗",
-      "post_text": "I like this article! \n\nThe problem is not for some people to care and work on catastrophic risks (we actually need much more research into it), it’s when company leaders and policymakers use fears of them to distract and hide the current challenges and solutions!",
-      "posted_at": "2026-09-25T02:02:16Z",
+      "id": "2103361254433993165",
+      "url": "https://x.com/swyx/status/2103361254433993165",
+      "author_handle": "swyx",
+      "author_name": "swyx",
+      "post_text": "In Jan this year I called my content strategy shot: \"Scaling without Slop\".\n\nIt's finally starting to work. It took us 3 years to reach our first 100k on youtube. It only took 1.2 months for the next 100k. Similar other metrics on AEO/SEO/subscriber traction and have a lot of New Media ideas that I'm excited to pursue.\n\nofficially giving notice of the next phase of Latent Space, AINews, and what the rest of swyx inc has been cooking below",
+      "posted_at": "2026-09-25T05:49:36Z",
       "engagement": {
-        "likes": 123,
-        "reposts": 11,
+        "likes": 145,
+        "reposts": 5,
         "replies": 0,
         "views": 0,
         "bookmarks": 0
@@ -3056,16 +3028,16 @@
       "is_listicle": false,
       "list_items": [],
       "media_urls": [],
-      "sensational_headline": "clem critiques leaders misusing fears of catastrophic risks",
+      "sensational_headline": "Swyx shares insights on his successful content strategy evolution",
       "tags": [
-        "open-source",
-        "industry"
+        "builder",
+        "education"
       ],
       "is_reply": false,
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 12.36
+      "score": 12.53
     },
     {
       "id": "2102612246513983711",
@@ -3093,7 +3065,35 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 12.33
+      "score": 12.12
+    },
+    {
+      "id": "2103304044668162541",
+      "url": "https://x.com/ClementDelangue/status/2103304044668162541",
+      "author_handle": "ClementDelangue",
+      "author_name": "clem 🤗",
+      "post_text": "I like this article! \n\nThe problem is not for some people to care and work on catastrophic risks (we actually need much more research into it), it’s when company leaders and policymakers use fears of them to distract and hide the current challenges and solutions!",
+      "posted_at": "2026-09-25T02:02:16Z",
+      "engagement": {
+        "likes": 123,
+        "reposts": 11,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "clem critiques leaders misusing fears of catastrophic risks",
+      "tags": [
+        "open-source",
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 12.08
     },
     {
       "id": "2100259777528177030",
@@ -3121,7 +3121,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 12.16
+      "score": 12.05
     },
     {
       "id": "2102808840102396388",
@@ -3149,34 +3149,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 11.98
-    },
-    {
-      "id": "2103608911442120979",
-      "url": "https://x.com/GaryMarcus/status/2103608911442120979",
-      "author_handle": "GaryMarcus",
-      "author_name": "Gary Marcus",
-      "post_text": "BREAKING: OpenAI’s security fiasco explodes — and could tank Jensen Huang’s reputation\n\nhttps://garymarcus.substack.com/p/breaking-openais-security-fiasco",
-      "posted_at": "2026-09-25T22:13:42Z",
-      "engagement": {
-        "likes": 78,
-        "reposts": 18,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Gary Marcus reveals OpenAI's security issues that threaten Jensen Huang's reputation",
-      "tags": [
-        "critic"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-25T23:19:38Z",
-      "last_scraped_at": "2026-09-25T23:19:38Z",
-      "engagement_tier": "normal",
-      "score": 11.96
+      "score": 11.76
     },
     {
       "id": "2102886723206492246",
@@ -3203,18 +3176,18 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 11.92
+      "score": 11.69
     },
     {
-      "id": "2103561974613446862",
-      "url": "https://x.com/hwchase17/status/2103561974613446862",
-      "author_handle": "hwchase17",
-      "author_name": "Harrison Chase",
-      "post_text": "jev and langgraph are a great combo!\nmodeling agents as complex systems, with AI imbued in them, makes a ton of sense\nlanggraph is the best way to model them as such, and using Jev inside langgraph to turbo charge all the small decisions that need to be made is awesome combo",
-      "posted_at": "2026-09-25T19:07:11Z",
+      "id": "2103608911442120979",
+      "url": "https://x.com/GaryMarcus/status/2103608911442120979",
+      "author_handle": "GaryMarcus",
+      "author_name": "Gary Marcus",
+      "post_text": "BREAKING: OpenAI’s security fiasco explodes — and could tank Jensen Huang’s reputation\n\nhttps://garymarcus.substack.com/p/breaking-openais-security-fiasco",
+      "posted_at": "2026-09-25T22:13:42Z",
       "engagement": {
-        "likes": 84,
-        "reposts": 13,
+        "likes": 78,
+        "reposts": 18,
         "replies": 0,
         "views": 0,
         "bookmarks": 0
@@ -3222,44 +3195,15 @@
       "is_listicle": false,
       "list_items": [],
       "media_urls": [],
-      "sensational_headline": "Harrison Chase discusses the powerful combination of Jev and Langgraph",
+      "sensational_headline": "Gary Marcus reveals OpenAI's security issues that threaten Jensen Huang's reputation",
       "tags": [
-        "builder",
-        "open-source"
+        "critic"
       ],
       "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "first_seen_at": "2026-09-25T23:19:38Z",
+      "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 11.46
-    },
-    {
-      "id": "2102964957587632555",
-      "url": "https://x.com/koraykv/status/2102964957587632555",
-      "author_handle": "koraykv",
-      "author_name": "koray kavukcuoglu",
-      "post_text": "Thanks for having me, It was great chatting with you!",
-      "posted_at": "2026-09-24T03:34:51Z",
-      "engagement": {
-        "likes": 141,
-        "reposts": 3,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Koray Kavukcuoglu shares insights from a recent engaging conversation",
-      "tags": [
-        "lab-leader",
-        "google"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 11.42
+      "score": 11.63
     },
     {
       "id": "2100260130529161272",
@@ -3287,7 +3231,63 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 11.4
+      "score": 11.29
+    },
+    {
+      "id": "2102964957587632555",
+      "url": "https://x.com/koraykv/status/2102964957587632555",
+      "author_handle": "koraykv",
+      "author_name": "koray kavukcuoglu",
+      "post_text": "Thanks for having me, It was great chatting with you!",
+      "posted_at": "2026-09-24T03:34:51Z",
+      "engagement": {
+        "likes": 141,
+        "reposts": 3,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Koray Kavukcuoglu shares insights from a recent engaging conversation",
+      "tags": [
+        "lab-leader",
+        "google"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 11.19
+    },
+    {
+      "id": "2103561974613446862",
+      "url": "https://x.com/hwchase17/status/2103561974613446862",
+      "author_handle": "hwchase17",
+      "author_name": "Harrison Chase",
+      "post_text": "jev and langgraph are a great combo!\nmodeling agents as complex systems, with AI imbued in them, makes a ton of sense\nlanggraph is the best way to model them as such, and using Jev inside langgraph to turbo charge all the small decisions that need to be made is awesome combo",
+      "posted_at": "2026-09-25T19:07:11Z",
+      "engagement": {
+        "likes": 84,
+        "reposts": 13,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Harrison Chase discusses the powerful combination of Jev and Langgraph",
+      "tags": [
+        "builder",
+        "open-source"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 11.14
     },
     {
       "id": "2101327912951787569",
@@ -3315,7 +3315,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 10.72
+      "score": 10.59
     },
     {
       "id": "2102137581626388743",
@@ -3343,7 +3343,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.51
+      "score": 10.34
     },
     {
       "id": "2103281862529458340",
@@ -3370,7 +3370,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 9.81
+      "score": 9.56
     },
     {
       "id": "2103582338986955063",
@@ -3397,7 +3397,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 9.32
+      "score": 9.03
     },
     {
       "id": "2103551357823369653",
@@ -3429,7 +3429,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 9.17
+      "score": 8.89
     },
     {
       "id": "2102854830528364718",
@@ -3457,34 +3457,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 8.92
-    },
-    {
-      "id": "2103660061260411266",
-      "url": "https://x.com/hardmaru/status/2103660061260411266",
-      "author_handle": "hardmaru",
-      "author_name": "hardmaru",
-      "post_text": "The last sentence in the Schmidhuber news trending item summary hits hard 🙃 https://x.com/i/trending/2103185481118744724",
-      "posted_at": "2026-09-26T01:36:57Z",
-      "engagement": {
-        "likes": 57,
-        "reposts": 6,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "hardmaru highlights impactful moment in Schmidhuber news summary",
-      "tags": [
-        "research"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 8.88
+      "score": 8.72
     },
     {
       "id": "2102470464735949263",
@@ -3512,7 +3485,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.82
+      "score": 8.65
+    },
+    {
+      "id": "2103660061260411266",
+      "url": "https://x.com/hardmaru/status/2103660061260411266",
+      "author_handle": "hardmaru",
+      "author_name": "hardmaru",
+      "post_text": "The last sentence in the Schmidhuber news trending item summary hits hard 🙃 https://x.com/i/trending/2103185481118744724",
+      "posted_at": "2026-09-26T01:36:57Z",
+      "engagement": {
+        "likes": 57,
+        "reposts": 6,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "hardmaru highlights impactful moment in Schmidhuber news summary",
+      "tags": [
+        "research"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 8.59
     },
     {
       "id": "2102781533274734801",
@@ -3539,7 +3539,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.39
+      "score": 8.21
     },
     {
       "id": "2101351570973880562",
@@ -3567,7 +3567,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 7.91
+      "score": 7.79
     },
     {
       "id": "2102851157261725730",
@@ -3595,7 +3595,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 7.8
+      "score": 7.62
     },
     {
       "id": "2103252520525054005",
@@ -3622,7 +3622,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 7.28
+      "score": 7.07
     },
     {
       "id": "2103586769056784419",
@@ -3649,7 +3649,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 5.97
+      "score": 5.75
     },
     {
       "id": "2102935661183631633",
@@ -3676,7 +3676,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 4.56
+      "score": 4.43
     },
     {
       "id": "2100586770572177551",
@@ -3703,7 +3703,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 4.2
+      "score": 4.14
     }
   ]
 }

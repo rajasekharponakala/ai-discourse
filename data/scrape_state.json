@@ -66,6 +66,29 @@
   },
   "runs": [
     {
+      "at": "2026-09-30T12:40:21Z",
+      "accounts": [],
+      "ok_accounts": 0,
+      "fresh_posts": 0,
+      "published_posts": 107,
+      "out_of_credits": false,
+      "credits_spent": 0.0,
+      "budget": {
+        "mode": "budget",
+        "remaining_credits": -1000.0,
+        "plan_credits": 1000.0,
+        "billing_period_end": "2026-10-25T19:05:47Z",
+        "runs_left": 304,
+        "reserve": 100.0,
+        "allowance": 0.0,
+        "bank": 0.0,
+        "run_budget": 0.0,
+        "credits_per_scrape": 10.0
+      },
+      "error_count": 0,
+      "errors": []
+    },
+    {
       "at": "2026-09-30T05:37:27Z",
       "accounts": [],
       "ok_accounts": 0,
@@ -691,21 +714,6 @@
         "https://x.com/RichardSocher: scrape failed for https://x.com/RichardSocher: Rate Limit Exceeded: Failed to scrape. Rate limit exceeded. Consumed (req/min): 46, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 8s, resets at Sat Sep 26 2026 04:05:33 GMT+000",
         "https://x.com/kaifulee: scrape failed for https://x.com/kaifulee: Rate Limit Exceeded: Failed to scrape. Rate limit exceeded. Consumed (req/min): 47, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 5s, resets at Sat Sep 26 2026 04:05:33 GMT+0000 (Co"
       ]
-    },
-    {
-      "at": "2026-09-25T23:19:38Z",
-      "accounts": [
-        "AndrewYNg",
-        "drfeifei",
-        "demishassabis",
-        "GaryMarcus",
-        "maximelabonne",
-        "chipro"
-      ],
-      "ok_accounts": 6,
-      "fresh_posts": 15,
-      "published_posts": 15,
-      "errors": []
     }
   ],
   "avg_credits_per_scrape": 10.0,
