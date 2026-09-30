@@ -66,6 +66,29 @@
   },
   "runs": [
     {
+      "at": "2026-09-30T05:37:27Z",
+      "accounts": [],
+      "ok_accounts": 0,
+      "fresh_posts": 0,
+      "published_posts": 107,
+      "out_of_credits": false,
+      "credits_spent": 0.0,
+      "budget": {
+        "mode": "budget",
+        "remaining_credits": -1000.0,
+        "plan_credits": 1000.0,
+        "billing_period_end": "2026-10-25T19:05:47Z",
+        "runs_left": 307,
+        "reserve": 100.0,
+        "allowance": 0.0,
+        "bank": 0.0,
+        "run_budget": 0.0,
+        "credits_per_scrape": 10.0
+      },
+      "error_count": 0,
+      "errors": []
+    },
+    {
       "at": "2026-09-29T22:19:27Z",
       "accounts": [],
       "ok_accounts": 0,
@@ -682,17 +705,6 @@
       "ok_accounts": 6,
       "fresh_posts": 15,
       "published_posts": 15,
-      "errors": []
-    },
-    {
-      "at": "2026-09-25T19:22:05Z",
-      "accounts": [
-        "karpathy",
-        "rasbt"
-      ],
-      "ok_accounts": 2,
-      "fresh_posts": 5,
-      "published_posts": 3,
       "errors": []
     }
   ],
