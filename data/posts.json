@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T13:23:29Z",
+  "generated_at": "2026-10-01T19:34:30Z",
   "source": "firecrawl",
   "tracked_accounts": [
     {
@@ -745,7 +745,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 68.69
+      "score": 68.41
     },
     {
       "id": "2103537377239015827",
@@ -772,7 +772,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 61.03
+      "score": 60.74
     },
     {
       "id": "2103383018882896249",
@@ -799,7 +799,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 60.0
+      "score": 59.72
     },
     {
       "id": "2102824959827742916",
@@ -826,7 +826,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 58.23
+      "score": 58.0
     },
     {
       "id": "2102831170299834652",
@@ -853,7 +853,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 55.24
+      "score": 55.01
     },
     {
       "id": "2102945432985120949",
@@ -880,7 +880,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 51.65
+      "score": 51.42
     },
     {
       "id": "2102808325742322002",
@@ -911,7 +911,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 49.79
+      "score": 49.56
     },
     {
       "id": "2100843168166015279",
@@ -942,7 +942,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 49.54
+      "score": 49.41
     },
     {
       "id": "2102435703535939725",
@@ -969,7 +969,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 48.6
+      "score": 48.41
     },
     {
       "id": "2101840695430435122",
@@ -997,7 +997,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 44.79
+      "score": 44.62
     },
     {
       "id": "2102140576498065758",
@@ -1025,7 +1025,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "hot",
-      "score": 44.62
+      "score": 44.44
     },
     {
       "id": "2102466603111551187",
@@ -1052,7 +1052,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 44.14
+      "score": 43.94
     },
     {
       "id": "2103541577083719888",
@@ -1079,7 +1079,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 41.44
+      "score": 41.14
     },
     {
       "id": "2102785495726219305",
@@ -1114,7 +1114,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 41.12
+      "score": 40.9
     },
     {
       "id": "2103551714536439951",
@@ -1141,7 +1141,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 40.46
+      "score": 40.16
     },
     {
       "id": "2103567198690349362",
@@ -1168,7 +1168,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 39.81
+      "score": 39.51
     },
     {
       "id": "2102447442147086563",
@@ -1195,7 +1195,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 38.47
+      "score": 38.28
     },
     {
       "id": "2102837574092161102",
@@ -1222,7 +1222,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 38.34
+      "score": 38.12
     },
     {
       "id": "2103288927805476900",
@@ -1250,7 +1250,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 38.22
+      "score": 37.96
     },
     {
       "id": "2102469008079679640",
@@ -1277,7 +1277,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 37.78
+      "score": 37.59
     },
     {
       "id": "2102444225443029100",
@@ -1304,34 +1304,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 37.68
-    },
-    {
-      "id": "2103566736356458911",
-      "url": "https://x.com/OpenAI/status/2103566736356458911",
-      "author_handle": "OpenAI",
-      "author_name": "OpenAI",
-      "post_text": "After the Hugging Face incident, we committed to conducting a much broader review of actions taken by our models during training and evaluation and to being transparent about our findings. This is an extensive review that is ongoing.\n\nThe vast majority of actions we’ve reviewed were completions of mundane research tasks, such as accessing publicly available web content to answer questions. Our investigation focuses on instances where agents interacted with third-party websites in ways that went beyond their assigned tasks or intended methods. Most cases identified so far have been lower severity, with limited or no evidence of meaningful impact to the third-party service.\n\nWhile our review is underway, we want to share more about this work and make sure people understand our disclosure process and notifications to affected third parties.\n\nGiven the scale of the review required, and the need to assess each case, we expect this work will take months to complete.",
-      "posted_at": "2026-09-25T19:26:06Z",
-      "engagement": {
-        "likes": 2087,
-        "reposts": 218,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "OpenAI commits to transparency after Hugging Face incident with ongoing review of its models' actions",
-      "tags": [
-        "lab"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "hot",
-      "score": 34.24
+      "score": 37.48
     },
     {
       "id": "2101681347853242682",
@@ -1359,7 +1332,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 34.12
+      "score": 33.96
+    },
+    {
+      "id": "2103566736356458911",
+      "url": "https://x.com/OpenAI/status/2103566736356458911",
+      "author_handle": "OpenAI",
+      "author_name": "OpenAI",
+      "post_text": "After the Hugging Face incident, we committed to conducting a much broader review of actions taken by our models during training and evaluation and to being transparent about our findings. This is an extensive review that is ongoing.\n\nThe vast majority of actions we’ve reviewed were completions of mundane research tasks, such as accessing publicly available web content to answer questions. Our investigation focuses on instances where agents interacted with third-party websites in ways that went beyond their assigned tasks or intended methods. Most cases identified so far have been lower severity, with limited or no evidence of meaningful impact to the third-party service.\n\nWhile our review is underway, we want to share more about this work and make sure people understand our disclosure process and notifications to affected third parties.\n\nGiven the scale of the review required, and the need to assess each case, we expect this work will take months to complete.",
+      "posted_at": "2026-09-25T19:26:06Z",
+      "engagement": {
+        "likes": 2087,
+        "reposts": 218,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "OpenAI commits to transparency after Hugging Face incident with ongoing review of its models' actions",
+      "tags": [
+        "lab"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "hot",
+      "score": 33.95
     },
     {
       "id": "2102156143007338594",
@@ -1387,7 +1387,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 33.98
+      "score": 33.8
     },
     {
       "id": "2102394156731535413",
@@ -1419,7 +1419,34 @@
       "first_seen_at": "2026-09-25T19:22:05Z",
       "last_scraped_at": "2026-09-25T19:22:05Z",
       "engagement_tier": "normal",
-      "score": 31.72
+      "score": 31.53
+    },
+    {
+      "id": "2100963146446025096",
+      "url": "https://x.com/drfeifei/status/2100963146446025096",
+      "author_handle": "drfeifei",
+      "author_name": "Fei-Fei Li",
+      "post_text": "Agents can be AI, but agency is human. It is every individual’s responsibility to empower our own agency, with the help of tools. But the North Star should always remain human centered.",
+      "posted_at": "2026-09-18T15:00:22Z",
+      "engagement": {
+        "likes": 2360,
+        "reposts": 373,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Fei-Fei Li emphasizes the importance of human agency in the age of AI",
+      "tags": [
+        "research"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-25T23:19:38Z",
+      "last_scraped_at": "2026-09-25T23:19:38Z",
+      "engagement_tier": "hot",
+      "score": 30.56
     },
     {
       "id": "2103379937038364973",
@@ -1452,34 +1479,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 30.74
-    },
-    {
-      "id": "2100963146446025096",
-      "url": "https://x.com/drfeifei/status/2100963146446025096",
-      "author_handle": "drfeifei",
-      "author_name": "Fei-Fei Li",
-      "post_text": "Agents can be AI, but agency is human. It is every individual’s responsibility to empower our own agency, with the help of tools. But the North Star should always remain human centered.",
-      "posted_at": "2026-09-18T15:00:22Z",
-      "engagement": {
-        "likes": 2360,
-        "reposts": 373,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Fei-Fei Li emphasizes the importance of human agency in the age of AI",
-      "tags": [
-        "research"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-25T23:19:38Z",
-      "last_scraped_at": "2026-09-25T23:19:38Z",
-      "engagement_tier": "hot",
-      "score": 30.69
+      "score": 30.48
     },
     {
       "id": "2103338592672362566",
@@ -1506,7 +1506,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 30.61
+      "score": 30.35
     },
     {
       "id": "2101672304358948992",
@@ -1534,7 +1534,7 @@
       "first_seen_at": "2026-09-25T19:22:05Z",
       "last_scraped_at": "2026-09-25T19:22:05Z",
       "engagement_tier": "hot",
-      "score": 30.09
+      "score": 29.94
     },
     {
       "id": "2100699190448042165",
@@ -1561,7 +1561,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 29.3
+      "score": 29.18
     },
     {
       "id": "2102470107826159755",
@@ -1588,7 +1588,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 29.18
+      "score": 28.99
     },
     {
       "id": "2102821706041819401",
@@ -1615,7 +1615,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 28.89
+      "score": 28.68
     },
     {
       "id": "2103223477130129726",
@@ -1643,7 +1643,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 28.23
+      "score": 27.98
     },
     {
       "id": "2102862838570397711",
@@ -1670,7 +1670,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 27.5
+      "score": 27.29
     },
     {
       "id": "2102508817653379411",
@@ -1697,7 +1697,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 26.08
+      "score": 25.89
     },
     {
       "id": "2103624838716010948",
@@ -1724,7 +1724,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 26.06
+      "score": 25.77
     },
     {
       "id": "2103151519428448405",
@@ -1751,7 +1751,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 25.99
+      "score": 25.75
     },
     {
       "id": "2103273813928759398",
@@ -1778,7 +1778,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 25.03
+      "score": 24.78
     },
     {
       "id": "2103457423335862476",
@@ -1805,7 +1805,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 24.9
+      "score": 24.63
     },
     {
       "id": "2102771721086673116",
@@ -1833,7 +1833,7 @@
       "first_seen_at": "2026-09-25T19:22:05Z",
       "last_scraped_at": "2026-09-25T19:22:05Z",
       "engagement_tier": "normal",
-      "score": 24.68
+      "score": 24.47
     },
     {
       "id": "2102781530867126505",
@@ -1863,7 +1863,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 24.55
+      "score": 24.35
     },
     {
       "id": "2103126209597256076",
@@ -1890,7 +1890,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 23.83
+      "score": 23.59
     },
     {
       "id": "2103596391021113637",
@@ -1917,7 +1917,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 23.55
+      "score": 23.26
     },
     {
       "id": "2103357445229990009",
@@ -1945,7 +1945,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 23.4
+      "score": 23.15
     },
     {
       "id": "2103581038828237268",
@@ -1972,7 +1972,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 22.89
+      "score": 22.61
     },
     {
       "id": "2102996487596916786",
@@ -2000,7 +2000,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 22.72
+      "score": 22.5
     },
     {
       "id": "2103517792943456620",
@@ -2028,7 +2028,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 22.51
+      "score": 22.24
     },
     {
       "id": "2102957523968102509",
@@ -2055,7 +2055,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 22.17
+      "score": 21.96
     },
     {
       "id": "2103561415793770558",
@@ -2083,7 +2083,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 22.06
+      "score": 21.78
     },
     {
       "id": "2102938541471015137",
@@ -2111,7 +2111,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 21.17
+      "score": 20.95
     },
     {
       "id": "2103195385804238972",
@@ -2139,7 +2139,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 20.73
+      "score": 20.5
     },
     {
       "id": "2103178649851843016",
@@ -2167,7 +2167,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 20.62
+      "score": 20.39
     },
     {
       "id": "2103620752910217427",
@@ -2195,7 +2195,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 20.56
+      "score": 20.28
     },
     {
       "id": "2102215794902139015",
@@ -2223,7 +2223,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 19.55
+      "score": 19.39
     },
     {
       "id": "2103526115021041947",
@@ -2250,7 +2250,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 19.32
+      "score": 19.06
     },
     {
       "id": "2103622734731530277",
@@ -2277,7 +2277,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 19.24
+      "score": 18.96
     },
     {
       "id": "2103474875054915783",
@@ -2304,7 +2304,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.75
+      "score": 18.5
     },
     {
       "id": "2102800209894056351",
@@ -2332,7 +2332,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.64
+      "score": 18.45
     },
     {
       "id": "2103241801599750329",
@@ -2360,7 +2360,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.62
+      "score": 18.39
     },
     {
       "id": "2103212249812721674",
@@ -2387,7 +2387,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.42
+      "score": 18.19
     },
     {
       "id": "2103548700853198940",
@@ -2415,7 +2415,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 17.98
+      "score": 17.72
     },
     {
       "id": "2103641022865510582",
@@ -2442,7 +2442,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 17.59
+      "score": 17.32
     },
     {
       "id": "2103242738099462337",
@@ -2469,7 +2469,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 16.59
+      "score": 16.37
     },
     {
       "id": "2102498448364954083",
@@ -2497,7 +2497,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 15.89
+      "score": 15.72
     },
     {
       "id": "2102464776215679021",
@@ -2525,7 +2525,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 15.88
+      "score": 15.71
     },
     {
       "id": "2103485857147617393",
@@ -2552,7 +2552,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 15.18
+      "score": 14.94
     },
     {
       "id": "2103325773323018520",
@@ -2579,7 +2579,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.86
+      "score": 14.64
     },
     {
       "id": "2103593301240602645",
@@ -2606,7 +2606,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.46
+      "score": 14.22
     },
     {
       "id": "2102551256548131306",
@@ -2634,7 +2634,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.37
+      "score": 14.2
     },
     {
       "id": "2103578627359268987",
@@ -2662,7 +2662,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.86
+      "score": 13.62
     },
     {
       "id": "2103201617004949888",
@@ -2690,7 +2690,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.51
+      "score": 13.3
     },
     {
       "id": "2102650014552182920",
@@ -2718,7 +2718,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.24
+      "score": 13.07
     },
     {
       "id": "2103569043836027339",
@@ -2746,63 +2746,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 12.56
-    },
-    {
-      "id": "2103641180923978031",
-      "url": "https://x.com/simonw/status/2103641180923978031",
-      "author_handle": "simonw",
-      "author_name": "Simon Willison",
-      "post_text": "I'm on stage for the keynote in ten minutes time!",
-      "posted_at": "2026-09-26T00:21:55Z",
-      "engagement": {
-        "likes": 136,
-        "reposts": 6,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Simon Willison prepares for an important keynote on stage",
-      "tags": [
-        "builder",
-        "open-source"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 12.0
-    },
-    {
-      "id": "2103154770068541691",
-      "url": "https://x.com/jackclarkSF/status/2103154770068541691",
-      "author_handle": "jackclarkSF",
-      "author_name": "Jack Clark",
-      "post_text": "https://x.com/i/article/2103154412361515009",
-      "posted_at": "2026-09-24T16:09:06Z",
-      "engagement": {
-        "likes": 143,
-        "reposts": 14,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Jack Clark shares intriguing insights in his latest article",
-      "tags": [
-        "lab-leader",
-        "anthropic"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 11.96
+      "score": 12.33
     },
     {
       "id": "2102441795879919636",
@@ -2830,7 +2774,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 11.96
+      "score": 11.81
     },
     {
       "id": "2102916558712705427",
@@ -2858,7 +2802,63 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 11.95
+      "score": 11.78
+    },
+    {
+      "id": "2103641180923978031",
+      "url": "https://x.com/simonw/status/2103641180923978031",
+      "author_handle": "simonw",
+      "author_name": "Simon Willison",
+      "post_text": "I'm on stage for the keynote in ten minutes time!",
+      "posted_at": "2026-09-26T00:21:55Z",
+      "engagement": {
+        "likes": 136,
+        "reposts": 6,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Simon Willison prepares for an important keynote on stage",
+      "tags": [
+        "builder",
+        "open-source"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 11.77
+    },
+    {
+      "id": "2103154770068541691",
+      "url": "https://x.com/jackclarkSF/status/2103154770068541691",
+      "author_handle": "jackclarkSF",
+      "author_name": "Jack Clark",
+      "post_text": "https://x.com/i/article/2103154412361515009",
+      "posted_at": "2026-09-24T16:09:06Z",
+      "engagement": {
+        "likes": 143,
+        "reposts": 14,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Jack Clark shares intriguing insights in his latest article",
+      "tags": [
+        "lab-leader",
+        "anthropic"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 11.77
     },
     {
       "id": "2103182635992514569",
@@ -2886,7 +2886,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 11.89
+      "score": 11.7
     },
     {
       "id": "2103361254433993165",
@@ -2914,7 +2914,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 11.61
+      "score": 11.41
     },
     {
       "id": "2102612246513983711",
@@ -2942,7 +2942,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 11.45
+      "score": 11.29
     },
     {
       "id": "2103304044668162541",
@@ -2970,7 +2970,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 11.2
+      "score": 11.01
     },
     {
       "id": "2102808840102396388",
@@ -2998,7 +2998,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 11.05
+      "score": 10.89
     },
     {
       "id": "2102886723206492246",
@@ -3025,7 +3025,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.96
+      "score": 10.8
     },
     {
       "id": "2103608911442120979",
@@ -3052,7 +3052,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 10.63
+      "score": 10.41
     },
     {
       "id": "2102964957587632555",
@@ -3080,35 +3080,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.46
-    },
-    {
-      "id": "2103561974613446862",
-      "url": "https://x.com/hwchase17/status/2103561974613446862",
-      "author_handle": "hwchase17",
-      "author_name": "Harrison Chase",
-      "post_text": "jev and langgraph are a great combo!\nmodeling agents as complex systems, with AI imbued in them, makes a ton of sense\nlanggraph is the best way to model them as such, and using Jev inside langgraph to turbo charge all the small decisions that need to be made is awesome combo",
-      "posted_at": "2026-09-25T19:07:11Z",
-      "engagement": {
-        "likes": 84,
-        "reposts": 13,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Harrison Chase discusses the powerful combination of Jev and Langgraph",
-      "tags": [
-        "builder",
-        "open-source"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 10.19
+      "score": 10.29
     },
     {
       "id": "2101327912951787569",
@@ -3136,7 +3108,35 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 10.15
+      "score": 10.05
+    },
+    {
+      "id": "2103561974613446862",
+      "url": "https://x.com/hwchase17/status/2103561974613446862",
+      "author_handle": "hwchase17",
+      "author_name": "Harrison Chase",
+      "post_text": "jev and langgraph are a great combo!\nmodeling agents as complex systems, with AI imbued in them, makes a ton of sense\nlanggraph is the best way to model them as such, and using Jev inside langgraph to turbo charge all the small decisions that need to be made is awesome combo",
+      "posted_at": "2026-09-25T19:07:11Z",
+      "engagement": {
+        "likes": 84,
+        "reposts": 13,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Harrison Chase discusses the powerful combination of Jev and Langgraph",
+      "tags": [
+        "builder",
+        "open-source"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 9.98
     },
     {
       "id": "2102137581626388743",
@@ -3164,7 +3164,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 9.81
+      "score": 9.69
     },
     {
       "id": "2103281862529458340",
@@ -3191,7 +3191,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.79
+      "score": 8.63
     },
     {
       "id": "2103582338986955063",
@@ -3218,7 +3218,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 8.18
+      "score": 8.0
     },
     {
       "id": "2102470464735949263",
@@ -3246,7 +3246,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.12
+      "score": 8.0
     },
     {
       "id": "2102854830528364718",
@@ -3274,7 +3274,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 8.11
+      "score": 7.98
     },
     {
       "id": "2103551357823369653",
@@ -3306,7 +3306,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.06
+      "score": 7.88
     },
     {
       "id": "2103660061260411266",
@@ -3333,7 +3333,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 7.72
+      "score": 7.54
     },
     {
       "id": "2102781533274734801",
@@ -3360,7 +3360,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 7.64
+      "score": 7.51
     },
     {
       "id": "2101351570973880562",
@@ -3388,7 +3388,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 7.43
+      "score": 7.34
     },
     {
       "id": "2102851157261725730",
@@ -3416,7 +3416,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 7.06
+      "score": 6.93
     },
     {
       "id": "2103252520525054005",
@@ -3443,7 +3443,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 6.44
+      "score": 6.31
     },
     {
       "id": "2103586769056784419",
@@ -3470,7 +3470,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 5.12
+      "score": 4.98
     },
     {
       "id": "2102935661183631633",
@@ -3497,34 +3497,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 4.04
-    },
-    {
-      "id": "2100586770572177551",
-      "url": "https://x.com/GoogleDeepMind/status/2100586770572177551",
-      "author_handle": "GoogleDeepMind",
-      "author_name": "Google DeepMind",
-      "post_text": "These discoveries are just the beginning.\n\nAlphaGenome Atlas is freely accessible to empower researchers everywhere to decode the genetic causes of disease. Explore the database → https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/?utm_source=x&utm_medium=social&utm_campaign=&utm_content=",
-      "posted_at": "2026-09-17T14:04:47Z",
-      "engagement": {
-        "likes": 48,
-        "reposts": 5,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Google DeepMind launches AlphaGenome Atlas to aid genetic research",
-      "tags": [
-        "lab"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 3.94
+      "score": 3.95
     }
   ]
 }
