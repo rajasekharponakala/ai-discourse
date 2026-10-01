@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T23:53:54Z",
+  "generated_at": "2026-10-01T06:01:23Z",
   "source": "firecrawl",
   "tracked_accounts": [
     {
@@ -745,7 +745,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 69.33
+      "score": 69.03
     },
     {
       "id": "2103537377239015827",
@@ -772,7 +772,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 61.73
+      "score": 61.4
     },
     {
       "id": "2103383018882896249",
@@ -799,7 +799,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 60.65
+      "score": 60.35
     },
     {
       "id": "2102824959827742916",
@@ -826,7 +826,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 58.74
+      "score": 58.5
     },
     {
       "id": "2102831170299834652",
@@ -853,7 +853,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 55.75
+      "score": 55.51
     },
     {
       "id": "2102945432985120949",
@@ -880,7 +880,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 52.19
+      "score": 51.94
     },
     {
       "id": "2102808325742322002",
@@ -911,7 +911,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 50.3
+      "score": 50.06
     },
     {
       "id": "2100843168166015279",
@@ -942,7 +942,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 49.84
+      "score": 49.7
     },
     {
       "id": "2102435703535939725",
@@ -969,7 +969,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 49.05
+      "score": 48.84
     },
     {
       "id": "2101840695430435122",
@@ -997,7 +997,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 45.17
+      "score": 44.99
     },
     {
       "id": "2102140576498065758",
@@ -1025,7 +1025,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "hot",
-      "score": 45.03
+      "score": 44.84
     },
     {
       "id": "2102466603111551187",
@@ -1052,7 +1052,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 44.59
+      "score": 44.38
     },
     {
       "id": "2103541577083719888",
@@ -1079,7 +1079,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 42.13
+      "score": 41.8
     },
     {
       "id": "2102785495726219305",
@@ -1114,7 +1114,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 41.62
+      "score": 41.39
     },
     {
       "id": "2103551714536439951",
@@ -1141,7 +1141,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 41.15
+      "score": 40.82
     },
     {
       "id": "2103567198690349362",
@@ -1168,7 +1168,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 40.51
+      "score": 40.18
     },
     {
       "id": "2102447442147086563",
@@ -1195,7 +1195,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 38.92
+      "score": 38.71
     },
     {
       "id": "2102837574092161102",
@@ -1222,7 +1222,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 38.85
+      "score": 38.62
     },
     {
       "id": "2103288927805476900",
@@ -1250,7 +1250,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 38.83
+      "score": 38.55
     },
     {
       "id": "2102469008079679640",
@@ -1277,7 +1277,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 38.23
+      "score": 38.03
     },
     {
       "id": "2102444225443029100",
@@ -1304,7 +1304,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 38.13
+      "score": 37.92
     },
     {
       "id": "2103566736356458911",
@@ -1331,7 +1331,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 34.93
+      "score": 34.61
     },
     {
       "id": "2101681347853242682",
@@ -1359,7 +1359,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 34.47
+      "score": 34.31
     },
     {
       "id": "2102156143007338594",
@@ -1387,7 +1387,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 34.39
+      "score": 34.2
     },
     {
       "id": "2102394156731535413",
@@ -1419,7 +1419,7 @@
       "first_seen_at": "2026-09-25T19:22:05Z",
       "last_scraped_at": "2026-09-25T19:22:05Z",
       "engagement_tier": "normal",
-      "score": 32.15
+      "score": 31.95
     },
     {
       "id": "2103379937038364973",
@@ -1452,7 +1452,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 31.37
+      "score": 31.08
     },
     {
       "id": "2103338592672362566",
@@ -1479,7 +1479,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 31.22
+      "score": 30.94
     },
     {
       "id": "2100963146446025096",
@@ -1506,7 +1506,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "hot",
-      "score": 30.99
+      "score": 30.85
     },
     {
       "id": "2101672304358948992",
@@ -1534,34 +1534,7 @@
       "first_seen_at": "2026-09-25T19:22:05Z",
       "last_scraped_at": "2026-09-25T19:22:05Z",
       "engagement_tier": "hot",
-      "score": 30.44
-    },
-    {
-      "id": "2102470107826159755",
-      "url": "https://x.com/gdb/status/2102470107826159755",
-      "author_handle": "gdb",
-      "author_name": "Greg Brockman",
-      "post_text": "GPT-6 Sol and Luna — faster, more affordable models with the advances behind Astra’s SOTA performance in professional work, factuality, coding, computer use, and alignment:",
-      "posted_at": "2026-09-22T18:48:30Z",
-      "engagement": {
-        "likes": 1792,
-        "reposts": 92,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Greg Brockman reveals GPT-6 Sol and Luna, setting new standards in AI performance",
-      "tags": [
-        "lab-leader"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 29.62
+      "score": 30.28
     },
     {
       "id": "2100699190448042165",
@@ -1588,7 +1561,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 29.58
+      "score": 29.46
+    },
+    {
+      "id": "2102470107826159755",
+      "url": "https://x.com/gdb/status/2102470107826159755",
+      "author_handle": "gdb",
+      "author_name": "Greg Brockman",
+      "post_text": "GPT-6 Sol and Luna — faster, more affordable models with the advances behind Astra’s SOTA performance in professional work, factuality, coding, computer use, and alignment:",
+      "posted_at": "2026-09-22T18:48:30Z",
+      "engagement": {
+        "likes": 1792,
+        "reposts": 92,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Greg Brockman reveals GPT-6 Sol and Luna, setting new standards in AI performance",
+      "tags": [
+        "lab-leader"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 29.42
     },
     {
       "id": "2102821706041819401",
@@ -1615,49 +1615,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 29.39
-    },
-    {
-      "id": "2100388050194837953",
-      "url": "https://x.com/lexfridman/status/2100388050194837953",
-      "author_handle": "lexfridman",
-      "author_name": "Lex Fridman",
-      "post_text": "Here's my conversation with Andrew Scull, all about psychiatry, its long history from Freud/Jung to today, including asylums, icepick lobotomies, electroshock therapy, antidepressants, antipsychotics, and some horrific treatments that were considered mainstream where doctors injected patients with malaria, induced insulin comas, and pulled out their teeth, all in the name of curing madness.\n\nThere are a lot of lessons to learn from history here. One of the most important for me is just how incredibly complex the human mind is, and how hard the task is of understanding & treating the nearly infinite ways it can stumble/faulter.\n\nHumans are amazing. In part, because our minds are such a damn complicated mess.\n\nIt's here on X in full and is up everywhere else (see comment).\n\nTimestamps:\n0:00 - Introduction\n1:20 - Crisis in Psychiatry\n30:58 - Categories of Mental Illness\n38:17 - Asylums, Eugenics, and the Nazis\n50:23 - The Ice Pick Lobotomy\n56:36 - Malaria \"Cure\" for Syphilis\n1:14:52 - Insulin Coma Therapy\n1:22:44 - Electroconvulsive Therapy (ECT)\n1:42:13 - One Flew Over the Cuckoo's Nest\n1:59:45 - Freud and Psychoanalysis\n2:29:40 - WWII and Cognitive behavioral therapy (CBT)\n2:50:14 - Antipsychotics\n3:13:35 - Antidepressants\n3:26:29 - Future of Psychiatry",
-      "posted_at": "2026-09-17T00:55:09Z",
-      "engagement": {
-        "likes": 1474,
-        "reposts": 177,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": true,
-      "list_items": [
-        "Introduction",
-        "Crisis in Psychiatry",
-        "Categories of Mental Illness",
-        "Asylums, Eugenics, and the Nazis",
-        "The Ice Pick Lobotomy",
-        "Malaria \"Cure\" for Syphilis",
-        "Insulin Coma Therapy",
-        "Electroconvulsive Therapy (ECT)",
-        "One Flew Over the Cuckoo's Nest",
-        "Freud and Psychoanalysis",
-        "WWII and Cognitive behavioral therapy (CBT)",
-        "Antipsychotics",
-        "Antidepressants",
-        "Future of Psychiatry"
-      ],
-      "media_urls": [],
-      "sensational_headline": "Fridman's in-depth exploration of psychiatry from Freud to modern challenges captivates!",
-      "tags": [
-        "media"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 29.32
+      "score": 29.16
     },
     {
       "id": "2103223477130129726",
@@ -1685,7 +1643,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 28.8
+      "score": 28.53
     },
     {
       "id": "2102862838570397711",
@@ -1712,7 +1670,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 28.0
+      "score": 27.77
     },
     {
       "id": "2103624838716010948",
@@ -1739,34 +1697,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 26.75
-    },
-    {
-      "id": "2103151519428448405",
-      "url": "https://x.com/hardmaru/status/2103151519428448405",
-      "author_handle": "hardmaru",
-      "author_name": "hardmaru",
-      "post_text": "Jürgen Schmidhuber is joining Sakana AI as Chief Scientific Advisor.\n\n@SchmidhuberAI pioneered meta-learning, recursive self-improvement, and world models back in the 1990s, when compute was a million times more expensive. He has been thinking about machines that improve themselves since before compute was cheap enough to make it practical.\n\nThese ideas inspired the Darwin Gödel Machine and The AI Scientist. Our RSI Lab in Tokyo, now under Jürgen’s guidance, is working on agent-native world models and recursive self-improvement for physical AI.",
-      "posted_at": "2026-09-24T15:56:11Z",
-      "engagement": {
-        "likes": 951,
-        "reposts": 75,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "hardmaru announces that Jürgen Schmidhuber joins Sakana AI as Chief Scientific Advisor",
-      "tags": [
-        "research"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 26.55
+      "score": 26.43
     },
     {
       "id": "2102508817653379411",
@@ -1793,7 +1724,34 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 26.52
+      "score": 26.32
+    },
+    {
+      "id": "2103151519428448405",
+      "url": "https://x.com/hardmaru/status/2103151519428448405",
+      "author_handle": "hardmaru",
+      "author_name": "hardmaru",
+      "post_text": "Jürgen Schmidhuber is joining Sakana AI as Chief Scientific Advisor.\n\n@SchmidhuberAI pioneered meta-learning, recursive self-improvement, and world models back in the 1990s, when compute was a million times more expensive. He has been thinking about machines that improve themselves since before compute was cheap enough to make it practical.\n\nThese ideas inspired the Darwin Gödel Machine and The AI Scientist. Our RSI Lab in Tokyo, now under Jürgen’s guidance, is working on agent-native world models and recursive self-improvement for physical AI.",
+      "posted_at": "2026-09-24T15:56:11Z",
+      "engagement": {
+        "likes": 951,
+        "reposts": 75,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "hardmaru announces that Jürgen Schmidhuber joins Sakana AI as Chief Scientific Advisor",
+      "tags": [
+        "research"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 26.29
     },
     {
       "id": "2103273813928759398",
@@ -1820,7 +1778,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 25.61
+      "score": 25.34
     },
     {
       "id": "2103457423335862476",
@@ -1847,7 +1805,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 25.53
+      "score": 25.24
     },
     {
       "id": "2102771721086673116",
@@ -1875,7 +1833,7 @@
       "first_seen_at": "2026-09-25T19:22:05Z",
       "last_scraped_at": "2026-09-25T19:22:05Z",
       "engagement_tier": "normal",
-      "score": 25.16
+      "score": 24.94
     },
     {
       "id": "2102781530867126505",
@@ -1905,7 +1863,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 25.03
+      "score": 24.81
     },
     {
       "id": "2103126209597256076",
@@ -1932,7 +1890,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 24.37
+      "score": 24.12
     },
     {
       "id": "2103596391021113637",
@@ -1959,7 +1917,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 24.22
+      "score": 23.9
     },
     {
       "id": "2103357445229990009",
@@ -1987,7 +1945,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 24.0
+      "score": 23.72
     },
     {
       "id": "2103581038828237268",
@@ -2014,7 +1972,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 23.55
+      "score": 23.24
     },
     {
       "id": "2102996487596916786",
@@ -2042,7 +2000,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 23.23
+      "score": 22.99
     },
     {
       "id": "2103517792943456620",
@@ -2070,7 +2028,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 23.15
+      "score": 22.85
+    },
+    {
+      "id": "2102957523968102509",
+      "url": "https://x.com/ESYudkowsky/status/2102957523968102509",
+      "author_handle": "ESYudkowsky",
+      "author_name": "Eliezer Yudkowsky ⏹️",
+      "post_text": "I am glad to report that due to the public beginning to wake up, and sorry to report that due to possible RSI proximity being so horrifying, IABIED is back on the NYT bestseller list.",
+      "posted_at": "2026-09-24T03:05:19Z",
+      "engagement": {
+        "likes": 658,
+        "reposts": 39,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Yudkowsky's IABIED makes a comeback to the NYT bestseller list after public awareness spike",
+      "tags": [
+        "critic"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 22.44
     },
     {
       "id": "2103561415793770558",
@@ -2098,34 +2083,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 22.71
-    },
-    {
-      "id": "2102957523968102509",
-      "url": "https://x.com/ESYudkowsky/status/2102957523968102509",
-      "author_handle": "ESYudkowsky",
-      "author_name": "Eliezer Yudkowsky ⏹️",
-      "post_text": "I am glad to report that due to the public beginning to wake up, and sorry to report that due to possible RSI proximity being so horrifying, IABIED is back on the NYT bestseller list.",
-      "posted_at": "2026-09-24T03:05:19Z",
-      "engagement": {
-        "likes": 658,
-        "reposts": 39,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Yudkowsky's IABIED makes a comeback to the NYT bestseller list after public awareness spike",
-      "tags": [
-        "critic"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 22.67
+      "score": 22.41
     },
     {
       "id": "2102938541471015137",
@@ -2153,34 +2111,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 21.66
-    },
-    {
-      "id": "2100411291836018812",
-      "url": "https://x.com/hardmaru/status/2100411291836018812",
-      "author_handle": "hardmaru",
-      "author_name": "hardmaru",
-      "post_text": "Schmidhuber was building recursive self-improving systems back in 1987. His new post covers four decades of RSI, from meta-evolution and self-modifying policies to the Gödel Machine and modern LLM agents.\n\nhttps://people.idsia.ch/~juergen/recursive-self-improvement.html\n\nReading this in 2026, the \"pace the frontier\" talk from the big labs looks a lot more like regulatory capture than genuine safety. If they really think their unreleased models are too dangerous, they can just not release them. They do not need new rules that block independent competitors and open source projects in the process.\n\nThe real risk right now is not superintelligence. It is power concentration. Two companies controlling frontier AI is an actual societal risk. The only real protection is a healthy ecosystem of independent labs and strong open source.\n\nCurrent models are not unsafe because they are too intelligent. They are unsafe because they are too dumb. They blindly optimize for targets and take weird shortcuts. They're smart enough to execute tasks, but not smart enough to know if what they're doing makes sense.\n\nI think the safety teams inside these labs are genuinely concerned, and if a model feels too risky, they should hold it back. I just do not trust the policy strategy around it. That part looks like protecting their own lead.",
-      "posted_at": "2026-09-17T02:27:30Z",
-      "engagement": {
-        "likes": 847,
-        "reposts": 123,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "hardmaru critiques power concentration in AI and the need for independent labs",
-      "tags": [
-        "research"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 21.59
+      "score": 21.43
     },
     {
       "id": "2103195385804238972",
@@ -2208,7 +2139,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 21.27
+      "score": 21.02
     },
     {
       "id": "2103620752910217427",
@@ -2236,7 +2167,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 21.21
+      "score": 20.91
     },
     {
       "id": "2103178649851843016",
@@ -2264,34 +2195,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 21.15
-    },
-    {
-      "id": "2103526115021041947",
-      "url": "https://x.com/levelsio/status/2103526115021041947",
-      "author_handle": "levelsio",
-      "author_name": "levelsio",
-      "post_text": "A bit of AI psychosis design vibe but yes good everyone building these custom dashboards for themselves I think\n\nAI great in combining lots of different data sources from your bank accounts, health sensor data, air quality sensor data, your startup revenue data from Stripe, investment returns, emails etc into one\n\nThe best part is not the dashboard but that you can ask questions on what to improve and find correlations between everything\n\nSo everyone gets healthier and wealthier!",
-      "posted_at": "2026-09-25T16:44:42Z",
-      "engagement": {
-        "likes": 404,
-        "reposts": 13,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "levelsio reveals the potential of AI in personal dashboard design",
-      "tags": [
-        "builder"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 19.94
+      "score": 20.9
     },
     {
       "id": "2102215794902139015",
@@ -2319,7 +2223,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 19.93
+      "score": 19.76
+    },
+    {
+      "id": "2103526115021041947",
+      "url": "https://x.com/levelsio/status/2103526115021041947",
+      "author_handle": "levelsio",
+      "author_name": "levelsio",
+      "post_text": "A bit of AI psychosis design vibe but yes good everyone building these custom dashboards for themselves I think\n\nAI great in combining lots of different data sources from your bank accounts, health sensor data, air quality sensor data, your startup revenue data from Stripe, investment returns, emails etc into one\n\nThe best part is not the dashboard but that you can ask questions on what to improve and find correlations between everything\n\nSo everyone gets healthier and wealthier!",
+      "posted_at": "2026-09-25T16:44:42Z",
+      "engagement": {
+        "likes": 404,
+        "reposts": 13,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "levelsio reveals the potential of AI in personal dashboard design",
+      "tags": [
+        "builder"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 19.65
     },
     {
       "id": "2103622734731530277",
@@ -2346,7 +2277,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 19.89
+      "score": 19.58
     },
     {
       "id": "2103474875054915783",
@@ -2373,7 +2304,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 19.35
+      "score": 19.07
     },
     {
       "id": "2103241801599750329",
@@ -2401,7 +2332,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 19.16
+      "score": 18.91
     },
     {
       "id": "2102800209894056351",
@@ -2429,7 +2360,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 19.09
+      "score": 18.88
     },
     {
       "id": "2103212249812721674",
@@ -2456,7 +2387,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.95
+      "score": 18.7
     },
     {
       "id": "2103548700853198940",
@@ -2484,7 +2415,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.59
+      "score": 18.3
     },
     {
       "id": "2103641022865510582",
@@ -2511,7 +2442,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.23
+      "score": 17.93
     },
     {
       "id": "2103242738099462337",
@@ -2538,7 +2469,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 17.11
+      "score": 16.87
     },
     {
       "id": "2102498448364954083",
@@ -2566,7 +2497,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 16.28
+      "score": 16.1
     },
     {
       "id": "2102464776215679021",
@@ -2594,7 +2525,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 16.26
+      "score": 16.08
     },
     {
       "id": "2103485857147617393",
@@ -2621,7 +2552,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 15.74
+      "score": 15.48
     },
     {
       "id": "2103325773323018520",
@@ -2648,7 +2579,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 15.38
+      "score": 15.14
     },
     {
       "id": "2103593301240602645",
@@ -2675,7 +2606,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 15.04
+      "score": 14.77
     },
     {
       "id": "2102551256548131306",
@@ -2703,7 +2634,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.75
+      "score": 14.57
     },
     {
       "id": "2103578627359268987",
@@ -2731,7 +2662,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.43
+      "score": 14.17
     },
     {
       "id": "2103201617004949888",
@@ -2759,7 +2690,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.98
+      "score": 13.76
     },
     {
       "id": "2102650014552182920",
@@ -2787,7 +2718,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.62
+      "score": 13.44
     },
     {
       "id": "2103569043836027339",
@@ -2815,7 +2746,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.11
+      "score": 12.85
     },
     {
       "id": "2103641180923978031",
@@ -2843,7 +2774,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 12.56
+      "score": 12.3
     },
     {
       "id": "2103154770068541691",
@@ -2871,7 +2802,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 12.4
+      "score": 12.2
     },
     {
       "id": "2102916558712705427",
@@ -2899,35 +2830,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 12.35
-    },
-    {
-      "id": "2103182635992514569",
-      "url": "https://x.com/joshwoodward/status/2103182635992514569",
-      "author_handle": "joshwoodward",
-      "author_name": "Josh Woodward",
-      "post_text": "Dreambeans is one of our newer experiments in @GoogleLabs. It has a growing cult following.\n\nIt’s simple: a fixed number of “beans” brew every morning. They point you at the real world, with real people, doing things you care about together.\n\nGive it a try!",
-      "posted_at": "2026-09-24T17:59:50Z",
-      "engagement": {
-        "likes": 162,
-        "reposts": 5,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Josh Woodward introduces Dreambeans, a fun new experiment from Google Labs",
-      "tags": [
-        "lab-leader",
-        "google"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 12.33
+      "score": 12.16
     },
     {
       "id": "2102441795879919636",
@@ -2955,7 +2858,35 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 12.3
+      "score": 12.14
+    },
+    {
+      "id": "2103182635992514569",
+      "url": "https://x.com/joshwoodward/status/2103182635992514569",
+      "author_handle": "joshwoodward",
+      "author_name": "Josh Woodward",
+      "post_text": "Dreambeans is one of our newer experiments in @GoogleLabs. It has a growing cult following.\n\nIt’s simple: a fixed number of “beans” brew every morning. They point you at the real world, with real people, doing things you care about together.\n\nGive it a try!",
+      "posted_at": "2026-09-24T17:59:50Z",
+      "engagement": {
+        "likes": 162,
+        "reposts": 5,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Josh Woodward introduces Dreambeans, a fun new experiment from Google Labs",
+      "tags": [
+        "lab-leader",
+        "google"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 12.13
     },
     {
       "id": "2103361254433993165",
@@ -2983,7 +2914,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 12.09
+      "score": 11.86
     },
     {
       "id": "2102612246513983711",
@@ -3011,7 +2942,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 11.8
+      "score": 11.64
     },
     {
       "id": "2103304044668162541",
@@ -3039,7 +2970,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 11.66
+      "score": 11.44
     },
     {
       "id": "2102808840102396388",
@@ -3067,7 +2998,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 11.42
+      "score": 11.25
     },
     {
       "id": "2102886723206492246",
@@ -3094,7 +3025,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 11.35
+      "score": 11.17
     },
     {
       "id": "2103608911442120979",
@@ -3121,7 +3052,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 11.14
+      "score": 10.9
     },
     {
       "id": "2102964957587632555",
@@ -3149,7 +3080,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.84
+      "score": 10.66
     },
     {
       "id": "2103561974613446862",
@@ -3177,7 +3108,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.68
+      "score": 10.45
     },
     {
       "id": "2101327912951787569",
@@ -3205,7 +3136,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 10.38
+      "score": 10.28
     },
     {
       "id": "2102137581626388743",
@@ -3233,7 +3164,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.09
+      "score": 9.96
     },
     {
       "id": "2103281862529458340",
@@ -3260,7 +3191,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 9.19
+      "score": 9.01
     },
     {
       "id": "2103582338986955063",
@@ -3287,7 +3218,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 8.62
+      "score": 8.41
     },
     {
       "id": "2103551357823369653",
@@ -3319,7 +3250,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.49
+      "score": 8.28
     },
     {
       "id": "2102854830528364718",
@@ -3347,7 +3278,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 8.43
+      "score": 8.28
     },
     {
       "id": "2102470464735949263",
@@ -3375,7 +3306,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.4
+      "score": 8.27
     },
     {
       "id": "2103660061260411266",
@@ -3402,7 +3333,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.17
+      "score": 7.96
     },
     {
       "id": "2102781533274734801",
@@ -3429,7 +3360,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 7.94
+      "score": 7.8
     },
     {
       "id": "2101351570973880562",
@@ -3457,7 +3388,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 7.62
+      "score": 7.53
     },
     {
       "id": "2102851157261725730",
@@ -3485,7 +3416,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 7.35
+      "score": 7.22
     },
     {
       "id": "2103252520525054005",
@@ -3512,7 +3443,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 6.77
+      "score": 6.61
     },
     {
       "id": "2103586769056784419",
@@ -3539,7 +3470,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 5.44
+      "score": 5.29
     },
     {
       "id": "2102935661183631633",
@@ -3566,7 +3497,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 4.24
+      "score": 4.15
     },
     {
       "id": "2100586770572177551",
@@ -3593,7 +3524,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 4.05
+      "score": 4.0
     }
   ]
 }
