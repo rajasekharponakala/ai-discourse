@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T00:41:22Z",
+  "generated_at": "2026-10-04T08:29:36Z",
   "source": "firecrawl",
   "tracked_accounts": [
     {
@@ -745,7 +745,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 66.4
+      "score": 66.15
     },
     {
       "id": "2103537377239015827",
@@ -772,7 +772,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 58.61
+      "score": 58.34
     },
     {
       "id": "2103383018882896249",
@@ -799,7 +799,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 57.72
+      "score": 57.46
     },
     {
       "id": "2102824959827742916",
@@ -826,7 +826,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 56.33
+      "score": 56.12
     },
     {
       "id": "2102831170299834652",
@@ -853,7 +853,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 53.34
+      "score": 53.13
     },
     {
       "id": "2102945432985120949",
@@ -880,7 +880,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 49.69
+      "score": 49.47
     },
     {
       "id": "2102808325742322002",
@@ -911,7 +911,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 47.91
+      "score": 47.69
     },
     {
       "id": "2102435703535939725",
@@ -938,7 +938,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 46.92
+      "score": 46.72
     },
     {
       "id": "2101840695430435122",
@@ -966,7 +966,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 43.34
+      "score": 43.17
     },
     {
       "id": "2102140576498065758",
@@ -994,7 +994,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "hot",
-      "score": 43.07
+      "score": 42.88
     },
     {
       "id": "2102466603111551187",
@@ -1021,7 +1021,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 42.44
+      "score": 42.25
     },
     {
       "id": "2102785495726219305",
@@ -1056,7 +1056,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 39.27
+      "score": 39.05
     },
     {
       "id": "2103541577083719888",
@@ -1083,7 +1083,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 39.03
+      "score": 38.77
     },
     {
       "id": "2103551714536439951",
@@ -1110,7 +1110,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 38.04
+      "score": 37.78
     },
     {
       "id": "2103567198690349362",
@@ -1137,7 +1137,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 37.38
+      "score": 37.12
     },
     {
       "id": "2102447442147086563",
@@ -1164,7 +1164,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 36.8
+      "score": 36.6
     },
     {
       "id": "2102837574092161102",
@@ -1191,7 +1191,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 36.46
+      "score": 36.25
     },
     {
       "id": "2102469008079679640",
@@ -1218,7 +1218,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 36.1
+      "score": 35.91
+    },
+    {
+      "id": "2102444225443029100",
+      "url": "https://x.com/fchollet/status/2102444225443029100",
+      "author_handle": "fchollet",
+      "author_name": "François Chollet",
+      "post_text": "The tweet below got enormous pushback at the time I posted it, more than 5 years ago. But this prediction is looking obvious by the day now.",
+      "posted_at": "2026-09-22T17:05:39Z",
+      "engagement": {
+        "likes": 4767,
+        "reposts": 307,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Chollet's prediction from 5 years ago gains undeniable relevance today",
+      "tags": [
+        "research"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "hot",
+      "score": 35.81
     },
     {
       "id": "2103288927805476900",
@@ -1246,34 +1273,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 36.04
-    },
-    {
-      "id": "2102444225443029100",
-      "url": "https://x.com/fchollet/status/2102444225443029100",
-      "author_handle": "fchollet",
-      "author_name": "François Chollet",
-      "post_text": "The tweet below got enormous pushback at the time I posted it, more than 5 years ago. But this prediction is looking obvious by the day now.",
-      "posted_at": "2026-09-22T17:05:39Z",
-      "engagement": {
-        "likes": 4767,
-        "reposts": 307,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Chollet's prediction from 5 years ago gains undeniable relevance today",
-      "tags": [
-        "research"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "hot",
-      "score": 36.01
+      "score": 35.8
     },
     {
       "id": "2101681347853242682",
@@ -1301,7 +1301,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 32.74
+      "score": 32.58
     },
     {
       "id": "2102156143007338594",
@@ -1329,7 +1329,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 32.44
+      "score": 32.26
     },
     {
       "id": "2103566736356458911",
@@ -1356,7 +1356,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 31.84
+      "score": 31.58
     },
     {
       "id": "2102394156731535413",
@@ -1388,7 +1388,7 @@
       "first_seen_at": "2026-09-25T19:22:05Z",
       "last_scraped_at": "2026-09-25T19:22:05Z",
       "engagement_tier": "normal",
-      "score": 30.09
+      "score": 29.91
     },
     {
       "id": "2101672304358948992",
@@ -1416,7 +1416,7 @@
       "first_seen_at": "2026-09-25T19:22:05Z",
       "last_scraped_at": "2026-09-25T19:22:05Z",
       "engagement_tier": "hot",
-      "score": 28.74
+      "score": 28.58
     },
     {
       "id": "2103379937038364973",
@@ -1449,7 +1449,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 28.53
+      "score": 28.29
     },
     {
       "id": "2103338592672362566",
@@ -1476,7 +1476,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 28.43
+      "score": 28.2
     },
     {
       "id": "2102470107826159755",
@@ -1503,7 +1503,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 27.54
+      "score": 27.35
     },
     {
       "id": "2102821706041819401",
@@ -1530,7 +1530,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 27.08
+      "score": 26.87
     },
     {
       "id": "2103223477130129726",
@@ -1558,7 +1558,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 26.16
+      "score": 25.93
     },
     {
       "id": "2102862838570397711",
@@ -1585,7 +1585,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 25.68
+      "score": 25.47
     },
     {
       "id": "2102508817653379411",
@@ -1612,7 +1612,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 24.45
+      "score": 24.26
     },
     {
       "id": "2103151519428448405",
@@ -1639,7 +1639,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 24.0
+      "score": 23.78
     },
     {
       "id": "2103624838716010948",
@@ -1666,7 +1666,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 23.69
+      "score": 23.44
     },
     {
       "id": "2103273813928759398",
@@ -1693,7 +1693,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 22.97
+      "score": 22.74
     },
     {
       "id": "2102771721086673116",
@@ -1721,7 +1721,7 @@
       "first_seen_at": "2026-09-25T19:22:05Z",
       "last_scraped_at": "2026-09-25T19:22:05Z",
       "engagement_tier": "normal",
-      "score": 22.94
+      "score": 22.74
     },
     {
       "id": "2102781530867126505",
@@ -1751,7 +1751,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 22.81
+      "score": 22.61
     },
     {
       "id": "2103457423335862476",
@@ -1778,7 +1778,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 22.7
+      "score": 22.46
     },
     {
       "id": "2103126209597256076",
@@ -1805,7 +1805,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 21.89
+      "score": 21.67
     },
     {
       "id": "2103357445229990009",
@@ -1833,7 +1833,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 21.31
+      "score": 21.08
     },
     {
       "id": "2103596391021113637",
@@ -1860,7 +1860,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 21.25
+      "score": 21.01
     },
     {
       "id": "2102996487596916786",
@@ -1888,7 +1888,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 20.88
+      "score": 20.68
     },
     {
       "id": "2103581038828237268",
@@ -1915,7 +1915,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 20.62
+      "score": 20.38
     },
     {
       "id": "2102957523968102509",
@@ -1942,7 +1942,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 20.37
+      "score": 20.17
     },
     {
       "id": "2103517792943456620",
@@ -1970,7 +1970,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 20.31
+      "score": 20.07
     },
     {
       "id": "2103561415793770558",
@@ -1998,7 +1998,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 19.83
+      "score": 19.59
     },
     {
       "id": "2102938541471015137",
@@ -2026,7 +2026,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 19.39
+      "score": 19.19
     },
     {
       "id": "2103195385804238972",
@@ -2054,7 +2054,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.81
+      "score": 18.6
     },
     {
       "id": "2103178649851843016",
@@ -2082,7 +2082,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.71
+      "score": 18.5
     },
     {
       "id": "2103620752910217427",
@@ -2110,7 +2110,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.32
+      "score": 18.08
     },
     {
       "id": "2102215794902139015",
@@ -2138,7 +2138,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.14
+      "score": 17.98
     },
     {
       "id": "2103526115021041947",
@@ -2165,34 +2165,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 17.21
-    },
-    {
-      "id": "2103622734731530277",
-      "url": "https://x.com/alexandr_wang/status/2103622734731530277",
-      "author_handle": "alexandr_wang",
-      "author_name": "Alexandr Wang",
-      "post_text": "muse saves you time AND money!",
-      "posted_at": "2026-09-25T23:08:38Z",
-      "engagement": {
-        "likes": 396,
-        "reposts": 8,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Wang highlights time and money-saving benefits of Muse",
-      "tags": [
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 17.04
+      "score": 16.98
     },
     {
       "id": "2102800209894056351",
@@ -2220,7 +2193,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 17.0
+      "score": 16.82
+    },
+    {
+      "id": "2103622734731530277",
+      "url": "https://x.com/alexandr_wang/status/2103622734731530277",
+      "author_handle": "alexandr_wang",
+      "author_name": "Alexandr Wang",
+      "post_text": "muse saves you time AND money!",
+      "posted_at": "2026-09-25T23:08:38Z",
+      "engagement": {
+        "likes": 396,
+        "reposts": 8,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Wang highlights time and money-saving benefits of Muse",
+      "tags": [
+        "industry"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 16.81
     },
     {
       "id": "2103241801599750329",
@@ -2248,7 +2248,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 16.73
+      "score": 16.53
     },
     {
       "id": "2103474875054915783",
@@ -2275,7 +2275,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 16.69
+      "score": 16.47
     },
     {
       "id": "2103212249812721674",
@@ -2302,7 +2302,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 16.55
+      "score": 16.35
     },
     {
       "id": "2103548700853198940",
@@ -2330,7 +2330,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 15.89
+      "score": 15.66
     },
     {
       "id": "2103641022865510582",
@@ -2357,7 +2357,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 15.44
+      "score": 15.21
     },
     {
       "id": "2103242738099462337",
@@ -2384,7 +2384,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.78
+      "score": 14.58
     },
     {
       "id": "2102498448364954083",
@@ -2412,7 +2412,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.47
+      "score": 14.31
     },
     {
       "id": "2102464776215679021",
@@ -2440,7 +2440,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.47
+      "score": 14.31
     },
     {
       "id": "2103485857147617393",
@@ -2467,7 +2467,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.27
+      "score": 13.06
     },
     {
       "id": "2103325773323018520",
@@ -2494,7 +2494,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.07
+      "score": 12.88
     },
     {
       "id": "2102551256548131306",
@@ -2522,7 +2522,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 12.98
+      "score": 12.83
     },
     {
       "id": "2103593301240602645",
@@ -2549,7 +2549,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 12.51
+      "score": 12.3
     },
     {
       "id": "2103578627359268987",
@@ -2577,35 +2577,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 11.96
-    },
-    {
-      "id": "2103201617004949888",
-      "url": "https://x.com/_akhaliq/status/2103201617004949888",
-      "author_handle": "_akhaliq",
-      "author_name": "AK",
-      "post_text": "Pruna-Qwen-Image-2.1\n\na set of a few-step LoRA adapters that make Qwen-Image-2.1 up to 6.3× faster for image generation and editing\n\nGenerate or edit images in just 5 or 8 steps instead of 40. Choose 5 steps for maximum speed or 8 steps for the best balance\n\nHF workflow:",
-      "posted_at": "2026-09-24T19:15:15Z",
-      "engagement": {
-        "likes": 171,
-        "reposts": 20,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "AK unveils Pruna-Qwen-Image-2.1 for faster image generation and editing",
-      "tags": [
-        "research",
-        "curator"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 11.86
+      "score": 11.76
     },
     {
       "id": "2102650014552182920",
@@ -2633,18 +2605,18 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 11.86
+      "score": 11.71
     },
     {
-      "id": "2103569043836027339",
-      "url": "https://x.com/jackclarkSF/status/2103569043836027339",
-      "author_handle": "jackclarkSF",
-      "author_name": "Jack Clark",
-      "post_text": "An alien explores Borges Library of Babel, by Opus 5.5",
-      "posted_at": "2026-09-25T19:35:17Z",
+      "id": "2103201617004949888",
+      "url": "https://x.com/_akhaliq/status/2103201617004949888",
+      "author_handle": "_akhaliq",
+      "author_name": "AK",
+      "post_text": "Pruna-Qwen-Image-2.1\n\na set of a few-step LoRA adapters that make Qwen-Image-2.1 up to 6.3× faster for image generation and editing\n\nGenerate or edit images in just 5 or 8 steps instead of 40. Choose 5 steps for maximum speed or 8 steps for the best balance\n\nHF workflow:",
+      "posted_at": "2026-09-24T19:15:15Z",
       "engagement": {
-        "likes": 139,
-        "reposts": 12,
+        "likes": 171,
+        "reposts": 20,
         "replies": 0,
         "views": 0,
         "bookmarks": 0
@@ -2652,16 +2624,16 @@
       "is_listicle": false,
       "list_items": [],
       "media_urls": [],
-      "sensational_headline": "Jack Clark unveils an extraterrestrial exploration of Borges' Library",
+      "sensational_headline": "AK unveils Pruna-Qwen-Image-2.1 for faster image generation and editing",
       "tags": [
-        "lab-leader",
-        "anthropic"
+        "research",
+        "curator"
       ],
       "is_reply": false,
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.75
+      "score": 11.68
     },
     {
       "id": "2102441795879919636",
@@ -2689,7 +2661,35 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.72
+      "score": 10.58
+    },
+    {
+      "id": "2103569043836027339",
+      "url": "https://x.com/jackclarkSF/status/2103569043836027339",
+      "author_handle": "jackclarkSF",
+      "author_name": "Jack Clark",
+      "post_text": "An alien explores Borges Library of Babel, by Opus 5.5",
+      "posted_at": "2026-09-25T19:35:17Z",
+      "engagement": {
+        "likes": 139,
+        "reposts": 12,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Jack Clark unveils an extraterrestrial exploration of Borges' Library",
+      "tags": [
+        "lab-leader",
+        "anthropic"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 10.56
     },
     {
       "id": "2102916558712705427",
@@ -2717,7 +2717,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.54
+      "score": 10.38
     },
     {
       "id": "2103154770068541691",
@@ -2745,7 +2745,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.43
+      "score": 10.27
     },
     {
       "id": "2103182635992514569",
@@ -2773,35 +2773,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.35
-    },
-    {
-      "id": "2103641180923978031",
-      "url": "https://x.com/simonw/status/2103641180923978031",
-      "author_handle": "simonw",
-      "author_name": "Simon Willison",
-      "post_text": "I'm on stage for the keynote in ten minutes time!",
-      "posted_at": "2026-09-26T00:21:55Z",
-      "engagement": {
-        "likes": 136,
-        "reposts": 6,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Simon Willison prepares for an important keynote on stage",
-      "tags": [
-        "builder",
-        "open-source"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 10.18
+      "score": 10.19
     },
     {
       "id": "2102612246513983711",
@@ -2829,7 +2801,35 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.18
+      "score": 10.04
+    },
+    {
+      "id": "2103641180923978031",
+      "url": "https://x.com/simonw/status/2103641180923978031",
+      "author_handle": "simonw",
+      "author_name": "Simon Willison",
+      "post_text": "I'm on stage for the keynote in ten minutes time!",
+      "posted_at": "2026-09-26T00:21:55Z",
+      "engagement": {
+        "likes": 136,
+        "reposts": 6,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "Simon Willison prepares for an important keynote on stage",
+      "tags": [
+        "builder",
+        "open-source"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 9.99
     },
     {
       "id": "2103361254433993165",
@@ -2857,7 +2857,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.0
+      "score": 9.83
     },
     {
       "id": "2102808840102396388",
@@ -2885,7 +2885,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 9.74
+      "score": 9.59
     },
     {
       "id": "2103304044668162541",
@@ -2913,7 +2913,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 9.65
+      "score": 9.48
     },
     {
       "id": "2102886723206492246",
@@ -2940,7 +2940,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 9.62
+      "score": 9.48
     },
     {
       "id": "2102964957587632555",
@@ -2968,7 +2968,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 9.12
+      "score": 8.97
     },
     {
       "id": "2103608911442120979",
@@ -2995,7 +2995,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 8.94
+      "score": 8.77
     },
     {
       "id": "2102137581626388743",
@@ -3023,7 +3023,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.79
+      "score": 8.67
     },
     {
       "id": "2103561974613446862",
@@ -3051,7 +3051,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.57
+      "score": 8.41
     },
     {
       "id": "2103281862529458340",
@@ -3078,7 +3078,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 7.46
+      "score": 7.32
     },
     {
       "id": "2102470464735949263",
@@ -3106,7 +3106,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 7.12
+      "score": 7.01
     },
     {
       "id": "2102854830528364718",
@@ -3134,7 +3134,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 7.0
+      "score": 6.88
     },
     {
       "id": "2103582338986955063",
@@ -3161,7 +3161,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 6.76
+      "score": 6.61
     },
     {
       "id": "2103551357823369653",
@@ -3193,7 +3193,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 6.67
+      "score": 6.52
     },
     {
       "id": "2102781533274734801",
@@ -3220,7 +3220,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 6.59
+      "score": 6.48
     },
     {
       "id": "2103660061260411266",
@@ -3247,7 +3247,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 6.31
+      "score": 6.17
     },
     {
       "id": "2102851157261725730",
@@ -3275,7 +3275,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 6.05
+      "score": 5.94
     },
     {
       "id": "2103252520525054005",
@@ -3302,7 +3302,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 5.37
+      "score": 5.26
     },
     {
       "id": "2103586769056784419",
@@ -3329,7 +3329,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 4.1
+      "score": 4.0
     },
     {
       "id": "2102935661183631633",
@@ -3356,7 +3356,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 3.36
+      "score": 3.29
     }
   ]
 }
