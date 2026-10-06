@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T15:14:55Z",
+  "generated_at": "2026-10-06T21:00:55Z",
   "source": "firecrawl",
   "tracked_accounts": [
     {
@@ -745,7 +745,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 64.6
+      "score": 64.46
     },
     {
       "id": "2103537377239015827",
@@ -772,7 +772,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 56.73
+      "score": 56.58
     },
     {
       "id": "2103383018882896249",
@@ -799,7 +799,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 55.92
+      "score": 55.77
     },
     {
       "id": "2102824959827742916",
@@ -826,7 +826,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 54.77
+      "score": 54.65
     },
     {
       "id": "2102831170299834652",
@@ -853,7 +853,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 51.78
+      "score": 51.65
     },
     {
       "id": "2102945432985120949",
@@ -880,7 +880,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 48.09
+      "score": 47.96
     },
     {
       "id": "2102808325742322002",
@@ -911,61 +911,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 46.36
-    },
-    {
-      "id": "2102435703535939725",
-      "url": "https://x.com/AnthropicAI/status/2102435703535939725",
-      "author_handle": "AnthropicAI",
-      "author_name": "Anthropic",
-      "post_text": "Claude Opus 5.5 is available today.",
-      "posted_at": "2026-09-22T16:31:47Z",
-      "engagement": {
-        "likes": 17234,
-        "reposts": 982,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Anthropic launches Claude Opus 5.5, poised to enhance AI capabilities",
-      "tags": [
-        "lab"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "viral",
-      "score": 45.49
-    },
-    {
-      "id": "2102466603111551187",
-      "url": "https://x.com/sama/status/2102466603111551187",
-      "author_handle": "sama",
-      "author_name": "Sam Altman",
-      "post_text": "We want the OpenAI API to feature the best model at every price point and to be the best at every modality (text, code, image, video, etc).\n\nAnd then we want you all to come up with great ideas and build them and to get to be happy users. The best ideas will come from you all.",
-      "posted_at": "2026-09-22T18:34:34Z",
-      "engagement": {
-        "likes": 10763,
-        "reposts": 357,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Altman outlines OpenAI's vision for the best API across all modalities",
-      "tags": [
-        "lab-leader"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "viral",
-      "score": 41.01
+      "score": 46.23
     },
     {
       "id": "2102785495726219305",
@@ -1000,7 +946,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 37.74
+      "score": 37.61
     },
     {
       "id": "2103541577083719888",
@@ -1027,7 +973,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 37.17
+      "score": 37.02
     },
     {
       "id": "2103551714536439951",
@@ -1054,7 +1000,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 36.18
+      "score": 36.03
     },
     {
       "id": "2103567198690349362",
@@ -1081,34 +1027,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 35.52
-    },
-    {
-      "id": "2102447442147086563",
-      "url": "https://x.com/mckaywrigley/status/2102447442147086563",
-      "author_handle": "mckaywrigley",
-      "author_name": "Mckay Wrigley",
-      "post_text": "opus 5.5 = personality of opus 4.6 that we all *desperately* wanted back + the intelligence & taste of fable 5.1.\n\nand a 25% usage bump!\n\ni honestly don’t really see a reason to use another model right now?\n\ns-tier release.",
-      "posted_at": "2026-09-22T17:18:26Z",
-      "engagement": {
-        "likes": 5707,
-        "reposts": 144,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Wrigley's opus 5.5 brings back beloved features and boosts performance by 25%",
-      "tags": [
-        "builder"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "hot",
-      "score": 35.39
+      "score": 35.37
     },
     {
       "id": "2102837574092161102",
@@ -1135,61 +1054,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 34.92
-    },
-    {
-      "id": "2102469008079679640",
-      "url": "https://x.com/sama/status/2102469008079679640",
-      "author_handle": "sama",
-      "author_name": "Sam Altman",
-      "post_text": "Startups are naturally good at this; it is hard to keep a bigger company good at this and i think an underexplored space.",
-      "posted_at": "2026-09-22T18:44:08Z",
-      "engagement": {
-        "likes": 5131,
-        "reposts": 175,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Altman highlights the strengths of startups in innovation",
-      "tags": [
-        "lab-leader"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "hot",
-      "score": 34.69
-    },
-    {
-      "id": "2102444225443029100",
-      "url": "https://x.com/fchollet/status/2102444225443029100",
-      "author_handle": "fchollet",
-      "author_name": "François Chollet",
-      "post_text": "The tweet below got enormous pushback at the time I posted it, more than 5 years ago. But this prediction is looking obvious by the day now.",
-      "posted_at": "2026-09-22T17:05:39Z",
-      "engagement": {
-        "likes": 4767,
-        "reposts": 307,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Chollet's prediction from 5 years ago gains undeniable relevance today",
-      "tags": [
-        "research"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "hot",
-      "score": 34.6
+      "score": 34.8
     },
     {
       "id": "2103288927805476900",
@@ -1217,7 +1082,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 34.32
+      "score": 34.18
     },
     {
       "id": "2103566736356458911",
@@ -1244,7 +1109,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 30.0
+      "score": 29.85
     },
     {
       "id": "2103379937038364973",
@@ -1277,7 +1142,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 26.81
+      "score": 26.67
     },
     {
       "id": "2103338592672362566",
@@ -1304,34 +1169,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 26.73
-    },
-    {
-      "id": "2102470107826159755",
-      "url": "https://x.com/gdb/status/2102470107826159755",
-      "author_handle": "gdb",
-      "author_name": "Greg Brockman",
-      "post_text": "GPT-6 Sol and Luna — faster, more affordable models with the advances behind Astra’s SOTA performance in professional work, factuality, coding, computer use, and alignment:",
-      "posted_at": "2026-09-22T18:48:30Z",
-      "engagement": {
-        "likes": 1792,
-        "reposts": 92,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Greg Brockman reveals GPT-6 Sol and Luna, setting new standards in AI performance",
-      "tags": [
-        "lab-leader"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 26.16
+      "score": 26.59
     },
     {
       "id": "2102821706041819401",
@@ -1358,7 +1196,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 25.59
+      "score": 25.47
     },
     {
       "id": "2103223477130129726",
@@ -1386,7 +1224,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 24.53
+      "score": 24.4
     },
     {
       "id": "2102862838570397711",
@@ -1413,7 +1251,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 24.19
+      "score": 24.07
     },
     {
       "id": "2102508817653379411",
@@ -1440,7 +1278,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 23.09
+      "score": 22.98
     },
     {
       "id": "2103151519428448405",
@@ -1467,7 +1305,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 22.43
+      "score": 22.3
     },
     {
       "id": "2103624838716010948",
@@ -1494,7 +1332,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 21.9
+      "score": 21.76
     },
     {
       "id": "2102771721086673116",
@@ -1522,7 +1360,7 @@
       "first_seen_at": "2026-09-25T19:22:05Z",
       "last_scraped_at": "2026-09-25T19:22:05Z",
       "engagement_tier": "normal",
-      "score": 21.51
+      "score": 21.4
     },
     {
       "id": "2102781530867126505",
@@ -1552,7 +1390,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 21.38
+      "score": 21.27
     },
     {
       "id": "2103273813928759398",
@@ -1579,7 +1417,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 21.36
+      "score": 21.23
     },
     {
       "id": "2103457423335862476",
@@ -1606,7 +1444,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 21.01
+      "score": 20.88
     },
     {
       "id": "2103126209597256076",
@@ -1633,7 +1471,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 20.35
+      "score": 20.23
     },
     {
       "id": "2103357445229990009",
@@ -1661,7 +1499,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 19.69
+      "score": 19.56
     },
     {
       "id": "2103596391021113637",
@@ -1688,7 +1526,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 19.52
+      "score": 19.39
     },
     {
       "id": "2102996487596916786",
@@ -1716,7 +1554,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 19.41
+      "score": 19.3
     },
     {
       "id": "2102957523968102509",
@@ -1743,7 +1581,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.92
+      "score": 18.81
     },
     {
       "id": "2103581038828237268",
@@ -1770,7 +1608,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.91
+      "score": 18.78
     },
     {
       "id": "2103517792943456620",
@@ -1798,7 +1636,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.64
+      "score": 18.51
     },
     {
       "id": "2103561415793770558",
@@ -1826,7 +1664,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.15
+      "score": 18.02
     },
     {
       "id": "2102938541471015137",
@@ -1854,7 +1692,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 17.97
+      "score": 17.86
     },
     {
       "id": "2103195385804238972",
@@ -1882,7 +1720,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 17.31
+      "score": 17.19
     },
     {
       "id": "2103178649851843016",
@@ -1910,7 +1748,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 17.22
+      "score": 17.11
     },
     {
       "id": "2103620752910217427",
@@ -1938,7 +1776,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 16.65
+      "score": 16.52
     },
     {
       "id": "2102800209894056351",
@@ -1966,7 +1804,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 15.69
+      "score": 15.58
     },
     {
       "id": "2103526115021041947",
@@ -1993,7 +1831,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 15.61
+      "score": 15.49
     },
     {
       "id": "2103622734731530277",
@@ -2020,7 +1858,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 15.41
+      "score": 15.28
     },
     {
       "id": "2103241801599750329",
@@ -2048,7 +1886,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 15.27
+      "score": 15.16
     },
     {
       "id": "2103474875054915783",
@@ -2075,7 +1913,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 15.14
+      "score": 15.02
     },
     {
       "id": "2103212249812721674",
@@ -2102,7 +1940,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 15.11
+      "score": 15.0
     },
     {
       "id": "2103548700853198940",
@@ -2130,7 +1968,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.33
+      "score": 14.21
     },
     {
       "id": "2103641022865510582",
@@ -2157,7 +1995,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.86
+      "score": 13.74
     },
     {
       "id": "2103242738099462337",
@@ -2184,63 +2022,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.38
-    },
-    {
-      "id": "2102464776215679021",
-      "url": "https://x.com/fidjissimo/status/2102464776215679021",
-      "author_handle": "fidjissimo",
-      "author_name": "Fidji Simo",
-      "post_text": "Excited to be supporting this project as an investor; we need a new model of education.",
-      "posted_at": "2026-09-22T18:27:19Z",
-      "engagement": {
-        "likes": 343,
-        "reposts": 15,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Fidji Simo champions innovative education as a vital investment",
-      "tags": [
-        "lab-leader",
-        "openai"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 13.32
-    },
-    {
-      "id": "2102498448364954083",
-      "url": "https://x.com/joshwoodward/status/2102498448364954083",
-      "author_handle": "joshwoodward",
-      "author_name": "Josh Woodward",
-      "post_text": "Big milestone!",
-      "posted_at": "2026-09-22T20:41:07Z",
-      "engagement": {
-        "likes": 343,
-        "reposts": 14,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Josh Woodward celebrates a big milestone in his journey",
-      "tags": [
-        "lab-leader",
-        "google"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 13.31
+      "score": 13.28
     },
     {
       "id": "2102551256548131306",
@@ -2268,7 +2050,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 11.87
+      "score": 11.78
     },
     {
       "id": "2103485857147617393",
@@ -2295,7 +2077,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 11.85
+      "score": 11.74
     },
     {
       "id": "2103325773323018520",
@@ -2322,7 +2104,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 11.72
+      "score": 11.62
     },
     {
       "id": "2103593301240602645",
@@ -2349,7 +2131,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 11.09
+      "score": 10.98
     },
     {
       "id": "2102650014552182920",
@@ -2377,7 +2159,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.77
+      "score": 10.68
     },
     {
       "id": "2103201617004949888",
@@ -2405,7 +2187,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.62
+      "score": 10.52
     },
     {
       "id": "2103578627359268987",
@@ -2433,35 +2215,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.57
-    },
-    {
-      "id": "2102441795879919636",
-      "url": "https://x.com/mikeyk/status/2102441795879919636",
-      "author_handle": "mikeyk",
-      "author_name": "Mike Krieger",
-      "post_text": "Go try out Opus 5.5, which we launched today! It leads in coding and knowledge work, and it’s a great writer. It performs at the level of Claude Fable 5.1 for most tasks, and costs 40% less to run than Opus 5.",
-      "posted_at": "2026-09-22T16:56:00Z",
-      "engagement": {
-        "likes": 207,
-        "reposts": 4,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Krieger launches Opus 5.5, a game-changer for coding and knowledge work",
-      "tags": [
-        "lab-leader",
-        "anthropic"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 9.73
+      "score": 10.47
     },
     {
       "id": "2102916558712705427",
@@ -2489,7 +2243,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 9.45
+      "score": 9.36
     },
     {
       "id": "2103569043836027339",
@@ -2517,7 +2271,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 9.44
+      "score": 9.34
     },
     {
       "id": "2103154770068541691",
@@ -2545,7 +2299,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 9.29
+      "score": 9.2
     },
     {
       "id": "2103182635992514569",
@@ -2573,7 +2327,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 9.2
+      "score": 9.11
     },
     {
       "id": "2102612246513983711",
@@ -2601,7 +2355,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 9.18
+      "score": 9.1
     },
     {
       "id": "2103641180923978031",
@@ -2629,7 +2383,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.89
+      "score": 8.79
     },
     {
       "id": "2103361254433993165",
@@ -2657,7 +2411,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.82
+      "score": 8.72
     },
     {
       "id": "2102808840102396388",
@@ -2685,7 +2439,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.72
+      "score": 8.64
     },
     {
       "id": "2102886723206492246",
@@ -2712,7 +2466,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.6
+      "score": 8.51
     },
     {
       "id": "2103304044668162541",
@@ -2740,7 +2494,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.51
+      "score": 8.42
     },
     {
       "id": "2102964957587632555",
@@ -2768,7 +2522,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.1
+      "score": 8.02
     },
     {
       "id": "2103608911442120979",
@@ -2795,7 +2549,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 7.76
+      "score": 7.67
     },
     {
       "id": "2103561974613446862",
@@ -2823,7 +2577,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 7.43
+      "score": 7.35
     },
     {
       "id": "2103281862529458340",
@@ -2850,35 +2604,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 6.49
-    },
-    {
-      "id": "2102470464735949263",
-      "url": "https://x.com/hwchase17/status/2102470464735949263",
-      "author_handle": "hwchase17",
-      "author_name": "Harrison Chase",
-      "post_text": "🖼️ Improved UI for Jev models in LangSmith\nagents are going to complex systems of many llms calls\nmany llm calls will be jev-like (decision models)\nwe've updated tracing view in LangSmith to display these types of calls (state, questions, choices, output) more clearly!",
-      "posted_at": "2026-09-22T18:49:55Z",
-      "engagement": {
-        "likes": 90,
-        "reposts": 9,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Harrison Chase announces a UI upgrade for Jev models in LangSmith",
-      "tags": [
-        "builder",
-        "open-source"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 6.34
+      "score": 6.42
     },
     {
       "id": "2102854830528364718",
@@ -2906,7 +2632,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 6.17
+      "score": 6.1
     },
     {
       "id": "2102781533274734801",
@@ -2933,7 +2659,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 5.8
+      "score": 5.74
     },
     {
       "id": "2103582338986955063",
@@ -2960,7 +2686,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 5.78
+      "score": 5.71
     },
     {
       "id": "2103551357823369653",
@@ -2992,7 +2718,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 5.7
+      "score": 5.63
     },
     {
       "id": "2103660061260411266",
@@ -3019,7 +2745,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 5.36
+      "score": 5.29
     },
     {
       "id": "2102851157261725730",
@@ -3047,7 +2773,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 5.3
+      "score": 5.24
     },
     {
       "id": "2103252520525054005",
@@ -3074,7 +2800,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 4.61
+      "score": 4.55
     },
     {
       "id": "2103586769056784419",
@@ -3101,7 +2827,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 3.43
+      "score": 3.38
     },
     {
       "id": "2102935661183631633",
@@ -3128,7 +2854,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 2.88
+      "score": 2.84
     }
   ]
 }
