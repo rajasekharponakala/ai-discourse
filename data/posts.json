@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T08:44:36Z",
+  "generated_at": "2026-10-07T17:26:52Z",
   "source": "firecrawl",
   "tracked_accounts": [
     {
@@ -745,7 +745,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 64.17
+      "score": 63.97
     },
     {
       "id": "2103537377239015827",
@@ -772,7 +772,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 56.28
+      "score": 56.07
     },
     {
       "id": "2103383018882896249",
@@ -799,7 +799,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 55.49
+      "score": 55.28
     },
     {
       "id": "2102824959827742916",
@@ -826,7 +826,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 54.39
+      "score": 54.21
     },
     {
       "id": "2102831170299834652",
@@ -853,7 +853,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 51.4
+      "score": 51.22
     },
     {
       "id": "2102945432985120949",
@@ -880,73 +880,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 47.7
-    },
-    {
-      "id": "2102808325742322002",
-      "url": "https://x.com/OpenAI/status/2102808325742322002",
-      "author_handle": "OpenAI",
-      "author_name": "OpenAI",
-      "post_text": "We heard you loud and clear. ChatGPT Voice can now:\n\n- Use plugins like your email, calendar, and Slack.\n\n- Be powered by GPT-6 Astra, Sol, and Luna.\n\n- Be used in ChatGPT Work on web and mobile, so you can create docs, decks, sites, and spreadsheets or tackle complex tasks in the browser, just by talking.\n\nRolling out globally today in the latest version of the app.",
-      "posted_at": "2026-09-23T17:12:27Z",
-      "engagement": {
-        "likes": 12234,
-        "reposts": 915,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": true,
-      "list_items": [
-        "Use plugins like your email, calendar, and Slack",
-        "Be powered by GPT-6 Astra, Sol, and Luna",
-        "Be used in ChatGPT Work on web and mobile"
-      ],
-      "media_urls": [],
-      "sensational_headline": "OpenAI reveals powerful new features for ChatGPT Voice that everyone is talking about",
-      "tags": [
-        "lab"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "viral",
-      "score": 45.98
-    },
-    {
-      "id": "2102785495726219305",
-      "url": "https://x.com/OfficialLoganK/status/2102785495726219305",
-      "author_handle": "OfficialLoganK",
-      "author_name": "Logan Kilpatrick",
-      "post_text": "Introducing Gemini 3.8 Flash and Flash-Lite TTS, our new SOTA text to speech model with:\n\n- a new voice design experience\n- 2,000+ production ready voices\n- voice replication\n- support for 100 languages\n- voice remixing (soon)\n- #1 spot on Hume AI's voice benchmarks\n\nand more!!",
-      "posted_at": "2026-09-23T15:41:44Z",
-      "engagement": {
-        "likes": 4527,
-        "reposts": 245,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": true,
-      "list_items": [
-        "a new voice design experience",
-        "2,000+ production ready voices",
-        "voice replication",
-        "support for 100 languages",
-        "voice remixing (soon)",
-        "#1 spot on Hume AI's voice benchmarks"
-      ],
-      "media_urls": [],
-      "sensational_headline": "Logan Kilpatrick unveils the groundbreaking features of Gemini 3.8 Flash TTS model",
-      "tags": [
-        "industry",
-        "builder"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "hot",
-      "score": 37.36
+      "score": 47.51
     },
     {
       "id": "2103541577083719888",
@@ -973,7 +907,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 36.73
+      "score": 36.52
     },
     {
       "id": "2103551714536439951",
@@ -1000,7 +934,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 35.74
+      "score": 35.53
     },
     {
       "id": "2103567198690349362",
@@ -1027,7 +961,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 35.07
+      "score": 34.86
     },
     {
       "id": "2102837574092161102",
@@ -1054,7 +988,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 34.55
+      "score": 34.37
     },
     {
       "id": "2103288927805476900",
@@ -1082,7 +1016,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 33.9
+      "score": 33.71
     },
     {
       "id": "2103566736356458911",
@@ -1109,7 +1043,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 29.56
+      "score": 29.36
     },
     {
       "id": "2103379937038364973",
@@ -1142,7 +1076,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 26.4
+      "score": 26.21
     },
     {
       "id": "2103338592672362566",
@@ -1169,7 +1103,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 26.32
+      "score": 26.13
     },
     {
       "id": "2102821706041819401",
@@ -1196,7 +1130,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 25.23
+      "score": 25.06
     },
     {
       "id": "2103223477130129726",
@@ -1224,7 +1158,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 24.14
+      "score": 23.95
     },
     {
       "id": "2102862838570397711",
@@ -1251,7 +1185,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 23.83
+      "score": 23.66
     },
     {
       "id": "2103151519428448405",
@@ -1278,7 +1212,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 22.05
+      "score": 21.87
     },
     {
       "id": "2103624838716010948",
@@ -1305,65 +1239,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 21.48
-    },
-    {
-      "id": "2102771721086673116",
-      "url": "https://x.com/rasbt/status/2102771721086673116",
-      "author_handle": "rasbt",
-      "author_name": "Sebastian Raschka",
-      "post_text": "The main appeal of open-source agent harnesses isn't that they are free, but that we can inspect what they are doing on our computers.",
-      "posted_at": "2026-09-23T14:47:00Z",
-      "engagement": {
-        "likes": 888,
-        "reposts": 79,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Sebastian Raschka explains why open-source agent harnesses offer more than just free access",
-      "tags": [
-        "research",
-        "education"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-25T19:22:05Z",
-      "last_scraped_at": "2026-09-25T19:22:05Z",
-      "engagement_tier": "normal",
-      "score": 21.17
-    },
-    {
-      "id": "2102781530867126505",
-      "url": "https://x.com/GoogleDeepMind/status/2102781530867126505",
-      "author_handle": "GoogleDeepMind",
-      "author_name": "Google DeepMind",
-      "post_text": "Create and deploy custom audio with our new text-to-speech models:\n\n🔵 Gemini 3.8 Flash TTS: Design unique voices with distinct accents and characteristics.\n\n🔵 Gemini 3.8 Flash-Lite TTS: Built for efficiency and scale, choose from your created styles or our expansive production-ready library.",
-      "posted_at": "2026-09-23T15:25:59Z",
-      "engagement": {
-        "likes": 582,
-        "reposts": 74,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": true,
-      "list_items": [
-        "Gemini 3.8 Flash TTS: Design unique voices with distinct accents and characteristics",
-        "Gemini 3.8 Flash-Lite TTS: Built for efficiency and scale, choose from your created styles or our expansive production-ready library"
-      ],
-      "media_urls": [],
-      "sensational_headline": "Google DeepMind's new TTS models help customize voices like never before",
-      "tags": [
-        "lab"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 21.04
+      "score": 21.28
     },
     {
       "id": "2103273813928759398",
@@ -1390,7 +1266,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 20.98
+      "score": 20.79
     },
     {
       "id": "2103457423335862476",
@@ -1417,7 +1293,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 20.61
+      "score": 20.43
     },
     {
       "id": "2103126209597256076",
@@ -1444,7 +1320,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 19.99
+      "score": 19.81
     },
     {
       "id": "2103357445229990009",
@@ -1472,7 +1348,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 19.31
+      "score": 19.13
     },
     {
       "id": "2103596391021113637",
@@ -1499,7 +1375,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 19.12
+      "score": 18.93
     },
     {
       "id": "2102996487596916786",
@@ -1527,7 +1403,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 19.06
+      "score": 18.9
     },
     {
       "id": "2102957523968102509",
@@ -1554,7 +1430,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.58
+      "score": 18.41
     },
     {
       "id": "2103581038828237268",
@@ -1581,7 +1457,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.51
+      "score": 18.32
     },
     {
       "id": "2103517792943456620",
@@ -1609,7 +1485,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.25
+      "score": 18.06
     },
     {
       "id": "2103561415793770558",
@@ -1637,7 +1513,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 17.76
+      "score": 17.57
     },
     {
       "id": "2102938541471015137",
@@ -1665,7 +1541,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 17.64
+      "score": 17.47
     },
     {
       "id": "2103195385804238972",
@@ -1693,7 +1569,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 16.96
+      "score": 16.79
     },
     {
       "id": "2103178649851843016",
@@ -1721,7 +1597,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 16.87
+      "score": 16.7
     },
     {
       "id": "2103620752910217427",
@@ -1749,35 +1625,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 16.26
-    },
-    {
-      "id": "2102800209894056351",
-      "url": "https://x.com/joshwoodward/status/2102800209894056351",
-      "author_handle": "joshwoodward",
-      "author_name": "Josh Woodward",
-      "post_text": "More of your favorite apps are coming to Gemini! Which ones do you want next?",
-      "posted_at": "2026-09-23T16:40:12Z",
-      "engagement": {
-        "likes": 469,
-        "reposts": 14,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Josh Woodward asks which apps you want on Gemini next",
-      "tags": [
-        "lab-leader",
-        "google"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 15.37
+      "score": 16.08
     },
     {
       "id": "2103526115021041947",
@@ -1804,7 +1652,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 15.24
+      "score": 15.07
     },
     {
       "id": "2103622734731530277",
@@ -1831,7 +1679,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 15.03
+      "score": 14.85
     },
     {
       "id": "2103241801599750329",
@@ -1859,7 +1707,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.93
+      "score": 14.77
     },
     {
       "id": "2103474875054915783",
@@ -1886,7 +1734,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.78
+      "score": 14.61
     },
     {
       "id": "2103212249812721674",
@@ -1913,7 +1761,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.77
+      "score": 14.61
     },
     {
       "id": "2103548700853198940",
@@ -1941,7 +1789,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.97
+      "score": 13.8
     },
     {
       "id": "2103641022865510582",
@@ -1968,7 +1816,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.5
+      "score": 13.33
     },
     {
       "id": "2103242738099462337",
@@ -1995,7 +1843,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.06
+      "score": 12.91
     },
     {
       "id": "2103485857147617393",
@@ -2022,7 +1870,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 11.52
+      "score": 11.37
     },
     {
       "id": "2103325773323018520",
@@ -2049,7 +1897,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 11.41
+      "score": 11.26
     },
     {
       "id": "2103593301240602645",
@@ -2076,7 +1924,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.76
+      "score": 10.61
     },
     {
       "id": "2103201617004949888",
@@ -2104,7 +1952,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.33
+      "score": 10.19
     },
     {
       "id": "2103578627359268987",
@@ -2132,7 +1980,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.26
+      "score": 10.11
     },
     {
       "id": "2102916558712705427",
@@ -2160,7 +2008,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 9.19
+      "score": 9.07
     },
     {
       "id": "2103569043836027339",
@@ -2188,7 +2036,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 9.15
+      "score": 9.01
     },
     {
       "id": "2103154770068541691",
@@ -2216,7 +2064,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 9.02
+      "score": 8.89
     },
     {
       "id": "2103182635992514569",
@@ -2244,7 +2092,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.94
+      "score": 8.81
     },
     {
       "id": "2103641180923978031",
@@ -2272,7 +2120,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.6
+      "score": 8.46
     },
     {
       "id": "2103361254433993165",
@@ -2300,35 +2148,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.54
-    },
-    {
-      "id": "2102808840102396388",
-      "url": "https://x.com/jxnlco/status/2102808840102396388",
-      "author_handle": "jxnlco",
-      "author_name": "jason",
-      "post_text": "been using astra to transcribe music, then to review the spectrogram to do error correction and then review the music theory resulting in very robust transcriptions for me to learn... \n> The spectrogram shows a few clear problems: some wide vibrato became extra chromatic notes, and around 3:22 the tracker briefly jumped to a lower piano note while the clarinet continued above it. I’m correcting those and simplifying isolated sixteenth rests. The quiet ending is still ambiguous.",
-      "posted_at": "2026-09-23T17:14:30Z",
-      "engagement": {
-        "likes": 156,
-        "reposts": 6,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Jason shares insights on using Astra for music transcription errors and corrections",
-      "tags": [
-        "builder",
-        "education"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 8.48
+      "score": 8.42
     },
     {
       "id": "2102886723206492246",
@@ -2355,7 +2175,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.36
+      "score": 8.24
     },
     {
       "id": "2103304044668162541",
@@ -2383,7 +2203,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.24
+      "score": 8.12
     },
     {
       "id": "2102964957587632555",
@@ -2411,7 +2231,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 7.87
+      "score": 7.76
     },
     {
       "id": "2103608911442120979",
@@ -2438,7 +2258,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 7.49
+      "score": 7.37
     },
     {
       "id": "2103561974613446862",
@@ -2466,7 +2286,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 7.18
+      "score": 7.06
     },
     {
       "id": "2103281862529458340",
@@ -2493,7 +2313,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 6.27
+      "score": 6.17
     },
     {
       "id": "2102854830528364718",
@@ -2521,34 +2341,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 5.97
-    },
-    {
-      "id": "2102781533274734801",
-      "url": "https://x.com/GoogleDeepMind/status/2102781533274734801",
-      "author_handle": "GoogleDeepMind",
-      "author_name": "Google DeepMind",
-      "post_text": "Fine-tune the delivery line by line, shaping pacing, emotion, and cues like laughs or pauses.\n\nAll generated audio is watermarked with SynthID so it can be reliably identified as AI-generated.\n\nStart building with the Gemini API via @GoogleAIStudio. Find out more →",
-      "posted_at": "2026-09-23T15:25:59Z",
-      "engagement": {
-        "likes": 67,
-        "reposts": 11,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Google DeepMind unveils audio fine-tuning techniques with Gemini API",
-      "tags": [
-        "lab"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 5.62
+      "score": 5.88
     },
     {
       "id": "2103582338986955063",
@@ -2575,7 +2368,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 5.56
+      "score": 5.46
     },
     {
       "id": "2103551357823369653",
@@ -2607,7 +2400,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 5.49
+      "score": 5.39
     },
     {
       "id": "2103660061260411266",
@@ -2634,7 +2427,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 5.15
+      "score": 5.05
     },
     {
       "id": "2102851157261725730",
@@ -2662,7 +2455,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 5.12
+      "score": 5.04
     },
     {
       "id": "2103252520525054005",
@@ -2689,7 +2482,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 4.44
+      "score": 4.36
     },
     {
       "id": "2103586769056784419",
@@ -2716,7 +2509,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 3.29
+      "score": 3.22
     },
     {
       "id": "2102935661183631633",
@@ -2743,7 +2536,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 2.77
+      "score": 2.72
     }
   ]
 }
