@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T17:26:52Z",
+  "generated_at": "2026-10-07T23:08:53Z",
   "source": "firecrawl",
   "tracked_accounts": [
     {
@@ -745,7 +745,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 63.97
+      "score": 63.84
     },
     {
       "id": "2103537377239015827",
@@ -772,7 +772,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 56.07
+      "score": 55.94
     },
     {
       "id": "2103383018882896249",
@@ -799,61 +799,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 55.28
-    },
-    {
-      "id": "2102824959827742916",
-      "url": "https://x.com/AnthropicAI/status/2102824959827742916",
-      "author_handle": "AnthropicAI",
-      "author_name": "Anthropic",
-      "post_text": "Claude has discovered a previously unknown enzyme system hidden in the DNA of bacteriophages. Beside the enzyme’s gene sits a long array of repeating DNA—a structure that looks somewhat similar to CRISPR.\n\nWe don’t yet understand what this system does, but only a handful of known systems share its features, and all of them are able to cut, copy, and paste DNA. Historically, the discovery of such programmable systems has helped revolutionize medicine. CRISPR, for instance, is now the foundation of genetic medicines. But it will take much more work to learn what this system does, and whether it can be put to similar use.\n\nRead more:",
-      "posted_at": "2026-09-23T18:18:33Z",
-      "engagement": {
-        "likes": 40791,
-        "reposts": 5266,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Anthropic reveals Claude's groundbreaking enzyme discovery that could revolutionize medicine",
-      "tags": [
-        "lab"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "viral",
-      "score": 54.21
-    },
-    {
-      "id": "2102831170299834652",
-      "url": "https://x.com/DarioAmodei/status/2102831170299834652",
-      "author_handle": "DarioAmodei",
-      "author_name": "Dario Amodei",
-      "post_text": "Today we announced the Claude-led discovery of a molecular machine that we suspect could represent a new gene editing mechanism. Its precise function, biotechnological utility (if any), or level of significance is not yet clear, but at minimum it is work I would have been proud to do as a PhD student. The work was done mostly, though not entirely, by Claude: our life sciences team suggested a broad area of research, Claude read through the literature and a bunch of genome data and discovered something interesting, then Claude proposed experiments to verify the discovery and our team carried them out.\n\nIt’s easy to dismiss this as a one-off or curiosity, but we’ve repeatedly seen a pattern where AI performance in new intellectual domains goes from weak to superhuman in a matter of a few years. In 2023 models struggled to do math at the level of an average high-school student. In 2024 they started to do well on math competitions for the best high-schoolers in the country, in 2025 they started to solve minor open problems, in early 2026 more significant open problems, and in late 2026 they are beginning to solve the top few open problems in all of mathematics. We believe AI for biology is on a similar exponential trend.\n\nThe main difference between biology and mathematics, of course, is that math can be done purely theoretically, while biology requires experimentation. Some have used this to draw the conclusion that AI’s utility in biology will be limited. We think this is wrong. As we’ve demonstrated today, humans can collaborate with AI to perform the experiments, validate key results in a few weeks and, if necessary, work with the AI to iterate on what they find. Eventually it may even be possible for Claude itself to safely perform the experiments by autonomously controlling lab equipment, with appropriate safeguards in place, but we aren’t doing that today (our lab is also a BSL1/BSL2 facility that doesn't handle materials dangerous to humans).\n\nMore broadly, biomedical advancement has many stages — from fundamental biology discoveries, to translational research, to drug discovery, clinical trials, and finally the actual delivery of medicines and health care to patients. We are also interested in these later stages, but even simply accelerating the first stage of fundamental biological discoveries has the potential to speed up and broaden the entire pipeline. Improving our understanding of biology and sharpening biologists’ tools can drive forward all of the later stages, for example by identifying new drug targets, finding new therapeutic modalities, allowing for more precise measurement, and speeding up the experimental loop which itself further accelerates our understanding of biology. This will not in itself speed up clinical trial times, but if it succeeds it could greatly increase the number of promising candidates that go into the pipeline — an increase in throughput even though latency remains.\n\nIn Machines of Loving Grace, I wrote about AI’s potential to “cure most diseases in 5-10 years” — a goal that sounds impossible, but one I believe is just barely possible if AI is applied to every stage of the pipeline. The first step is showing that AI can first help with, and then drive, biological discoveries.\n\nClaude’s discovery is the latest in a line of related prior work that goes back decades, beginning with systems like CRISPR, and continuing with discoveries like the bridge recombinase and VIPR in the past few years. Recently, there has been heightened interest in systems based on reverse transcriptase (RT) enzymes, the enzyme underlying the system Claude identified. And most recently, a Stanford team working independently described a novel RT system with an associated non-coding array that is in some ways similar to the one Claude found, though they are distinct systems that evolved independently from each other. I believe that we’re at the very beginning of finding such systems and developing them into powerful tools for biotechnology.\n\nI’m proud of the resources Anthropic has invested in accelerating the public benefits of AI through the life sciences, and we’re aiming both to grow our life sciences team and to work with other scientists to extend this approach to a broad range of problems. If you have a proposal for a research collaboration or are interested in joining our life sciences team, please reach out.",
-      "posted_at": "2026-09-23T18:43:14Z",
-      "engagement": {
-        "likes": 29676,
-        "reposts": 3394,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Dario Amodei reveals Claude's groundbreaking gene editing mechanism discovery",
-      "tags": [
-        "lab-leader"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "viral",
-      "score": 51.22
+      "score": 55.15
     },
     {
       "id": "2102945432985120949",
@@ -880,7 +826,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 47.51
+      "score": 47.4
     },
     {
       "id": "2103541577083719888",
@@ -907,7 +853,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 36.52
+      "score": 36.39
     },
     {
       "id": "2103551714536439951",
@@ -934,7 +880,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 35.53
+      "score": 35.4
     },
     {
       "id": "2103567198690349362",
@@ -961,34 +907,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 34.86
-    },
-    {
-      "id": "2102837574092161102",
-      "url": "https://x.com/OpenAI/status/2102837574092161102",
-      "author_handle": "OpenAI",
-      "author_name": "OpenAI",
-      "post_text": "We’re demonstrating how frontier models have continued to improve in realistic mental health conversations with MentalHealthBench.\n\nThis new open benchmark was built with input from more than 80 mental health clinicians.\n\nWe’re releasing it openly so other researchers can examine the methods, run their own evaluations, and build on the work.",
-      "posted_at": "2026-09-23T19:08:41Z",
-      "engagement": {
-        "likes": 4705,
-        "reposts": 274,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "OpenAI launches new benchmark for mental health conversations developed with experts",
-      "tags": [
-        "lab"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "hot",
-      "score": 34.37
+      "score": 34.73
     },
     {
       "id": "2103288927805476900",
@@ -1016,7 +935,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 33.71
+      "score": 33.58
     },
     {
       "id": "2103566736356458911",
@@ -1043,7 +962,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 29.36
+      "score": 29.22
     },
     {
       "id": "2103379937038364973",
@@ -1076,7 +995,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 26.21
+      "score": 26.08
     },
     {
       "id": "2103338592672362566",
@@ -1103,34 +1022,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 26.13
-    },
-    {
-      "id": "2102821706041819401",
-      "url": "https://x.com/gdb/status/2102821706041819401",
-      "author_handle": "gdb",
-      "author_name": "Greg Brockman",
-      "post_text": "mega upgrade for GPT Voice, which can now use tools and is available in Work:",
-      "posted_at": "2026-09-23T18:05:37Z",
-      "engagement": {
-        "likes": 1633,
-        "reposts": 59,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Brockman's mega upgrade for GPT Voice introduces powerful new tools for work",
-      "tags": [
-        "lab-leader"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 25.06
+      "score": 26.01
     },
     {
       "id": "2103223477130129726",
@@ -1158,34 +1050,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 23.95
-    },
-    {
-      "id": "2102862838570397711",
-      "url": "https://x.com/ESYudkowsky/status/2102862838570397711",
-      "author_handle": "ESYudkowsky",
-      "author_name": "Eliezer Yudkowsky ⏹️",
-      "post_text": "As passed policy, the Ban Artificial Superintelligence Act would be an extraordinary improvement over status quo.  I endorse it.  I pray that Republicans and Democrats alike will join their voices in defending against extinction.\n\nLink to MIRI's position below.",
-      "posted_at": "2026-09-23T20:49:04Z",
-      "engagement": {
-        "likes": 1180,
-        "reposts": 124,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Yudkowsky endorses the Ban Artificial Superintelligence Act as vital for survival",
-      "tags": [
-        "critic"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 23.66
+      "score": 23.84
     },
     {
       "id": "2103151519428448405",
@@ -1212,7 +1077,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 21.87
+      "score": 21.76
     },
     {
       "id": "2103624838716010948",
@@ -1239,7 +1104,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 21.28
+      "score": 21.16
     },
     {
       "id": "2103273813928759398",
@@ -1266,7 +1131,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 20.79
+      "score": 20.68
     },
     {
       "id": "2103457423335862476",
@@ -1293,7 +1158,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 20.43
+      "score": 20.31
     },
     {
       "id": "2103126209597256076",
@@ -1320,7 +1185,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 19.81
+      "score": 19.7
     },
     {
       "id": "2103357445229990009",
@@ -1348,7 +1213,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 19.13
+      "score": 19.01
     },
     {
       "id": "2103596391021113637",
@@ -1375,7 +1240,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.93
+      "score": 18.81
     },
     {
       "id": "2102996487596916786",
@@ -1403,7 +1268,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.9
+      "score": 18.79
     },
     {
       "id": "2102957523968102509",
@@ -1430,7 +1295,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.41
+      "score": 18.31
     },
     {
       "id": "2103581038828237268",
@@ -1457,7 +1322,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.32
+      "score": 18.2
     },
     {
       "id": "2103517792943456620",
@@ -1485,7 +1350,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.06
+      "score": 17.95
     },
     {
       "id": "2103561415793770558",
@@ -1513,7 +1378,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 17.57
+      "score": 17.45
     },
     {
       "id": "2102938541471015137",
@@ -1541,7 +1406,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 17.47
+      "score": 17.37
     },
     {
       "id": "2103195385804238972",
@@ -1569,7 +1434,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 16.79
+      "score": 16.68
     },
     {
       "id": "2103178649851843016",
@@ -1597,7 +1462,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 16.7
+      "score": 16.6
     },
     {
       "id": "2103620752910217427",
@@ -1625,7 +1490,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 16.08
+      "score": 15.96
     },
     {
       "id": "2103526115021041947",
@@ -1652,7 +1517,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 15.07
+      "score": 14.96
     },
     {
       "id": "2103622734731530277",
@@ -1679,7 +1544,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.85
+      "score": 14.74
     },
     {
       "id": "2103241801599750329",
@@ -1707,34 +1572,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.77
-    },
-    {
-      "id": "2103474875054915783",
-      "url": "https://x.com/levelsio/status/2103474875054915783",
-      "author_handle": "levelsio",
-      "author_name": "levelsio",
-      "post_text": "How do I switch my @X Premium from iOS sub to web? I guess I have to cancel it but then do I lose my @X Creator stuff?",
-      "posted_at": "2026-09-25T13:21:05Z",
-      "engagement": {
-        "likes": 408,
-        "reposts": 2,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "levelsio seeks guidance on switching X Premium subscription platforms",
-      "tags": [
-        "builder"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 14.61
+      "score": 14.67
     },
     {
       "id": "2103212249812721674",
@@ -1761,7 +1599,34 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.61
+      "score": 14.51
+    },
+    {
+      "id": "2103474875054915783",
+      "url": "https://x.com/levelsio/status/2103474875054915783",
+      "author_handle": "levelsio",
+      "author_name": "levelsio",
+      "post_text": "How do I switch my @X Premium from iOS sub to web? I guess I have to cancel it but then do I lose my @X Creator stuff?",
+      "posted_at": "2026-09-25T13:21:05Z",
+      "engagement": {
+        "likes": 408,
+        "reposts": 2,
+        "replies": 0,
+        "views": 0,
+        "bookmarks": 0
+      },
+      "is_listicle": false,
+      "list_items": [],
+      "media_urls": [],
+      "sensational_headline": "levelsio seeks guidance on switching X Premium subscription platforms",
+      "tags": [
+        "builder"
+      ],
+      "is_reply": false,
+      "first_seen_at": "2026-09-26T03:58:14Z",
+      "last_scraped_at": "2026-09-26T03:58:14Z",
+      "engagement_tier": "normal",
+      "score": 14.5
     },
     {
       "id": "2103548700853198940",
@@ -1789,7 +1654,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.8
+      "score": 13.69
     },
     {
       "id": "2103641022865510582",
@@ -1816,7 +1681,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.33
+      "score": 13.22
     },
     {
       "id": "2103242738099462337",
@@ -1843,7 +1708,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 12.91
+      "score": 12.81
     },
     {
       "id": "2103485857147617393",
@@ -1870,7 +1735,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 11.37
+      "score": 11.27
     },
     {
       "id": "2103325773323018520",
@@ -1897,7 +1762,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 11.26
+      "score": 11.17
     },
     {
       "id": "2103593301240602645",
@@ -1924,7 +1789,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.61
+      "score": 10.52
     },
     {
       "id": "2103201617004949888",
@@ -1952,7 +1817,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.19
+      "score": 10.1
     },
     {
       "id": "2103578627359268987",
@@ -1980,7 +1845,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.11
+      "score": 10.02
     },
     {
       "id": "2102916558712705427",
@@ -2008,7 +1873,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 9.07
+      "score": 8.99
     },
     {
       "id": "2103569043836027339",
@@ -2036,7 +1901,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 9.01
+      "score": 8.92
     },
     {
       "id": "2103154770068541691",
@@ -2064,7 +1929,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.89
+      "score": 8.81
     },
     {
       "id": "2103182635992514569",
@@ -2092,7 +1957,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.81
+      "score": 8.73
     },
     {
       "id": "2103641180923978031",
@@ -2120,7 +1985,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.46
+      "score": 8.38
     },
     {
       "id": "2103361254433993165",
@@ -2148,34 +2013,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.42
-    },
-    {
-      "id": "2102886723206492246",
-      "url": "https://x.com/polynoamial/status/2102886723206492246",
-      "author_handle": "polynoamial",
-      "author_name": "Noam Brown",
-      "post_text": "Happy to see they added this to the website!",
-      "posted_at": "2026-09-23T22:23:59Z",
-      "engagement": {
-        "likes": 160,
-        "reposts": 2,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Noam Brown expresses excitement over new website feature",
-      "tags": [
-        "research"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 8.24
+      "score": 8.34
     },
     {
       "id": "2103304044668162541",
@@ -2203,7 +2041,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.12
+      "score": 8.04
     },
     {
       "id": "2102964957587632555",
@@ -2231,7 +2069,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 7.76
+      "score": 7.69
     },
     {
       "id": "2103608911442120979",
@@ -2258,7 +2096,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 7.37
+      "score": 7.29
     },
     {
       "id": "2103561974613446862",
@@ -2286,7 +2124,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 7.06
+      "score": 6.98
     },
     {
       "id": "2103281862529458340",
@@ -2313,35 +2151,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 6.17
-    },
-    {
-      "id": "2102854830528364718",
-      "url": "https://x.com/maximelabonne/status/2102854830528364718",
-      "author_handle": "maximelabonne",
-      "author_name": "Maxime Labonne",
-      "post_text": "Reject monolithic frontier models, embrace intelligence too cheap to meter everywhere",
-      "posted_at": "2026-09-23T20:17:15Z",
-      "engagement": {
-        "likes": 84,
-        "reposts": 7,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Maxime Labonne advocates for new AI paradigms in a thought-provoking post",
-      "tags": [
-        "research",
-        "open-source"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-25T23:19:38Z",
-      "last_scraped_at": "2026-09-25T23:19:38Z",
-      "engagement_tier": "normal",
-      "score": 5.88
+      "score": 6.1
     },
     {
       "id": "2103582338986955063",
@@ -2368,7 +2178,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 5.46
+      "score": 5.4
     },
     {
       "id": "2103551357823369653",
@@ -2400,7 +2210,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 5.39
+      "score": 5.33
     },
     {
       "id": "2103660061260411266",
@@ -2427,35 +2237,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 5.05
-    },
-    {
-      "id": "2102851157261725730",
-      "url": "https://x.com/jxnlco/status/2102851157261725730",
-      "author_handle": "jxnlco",
-      "author_name": "jason",
-      "post_text": "musicians: how do you feel about AI transcribing songs into sheet music or tabs to help people learn?\ncurious if you’ve used it, whether it’s helped, and how you think it affects learning to play by ear.",
-      "posted_at": "2026-09-23T20:02:39Z",
-      "engagement": {
-        "likes": 75,
-        "reposts": 3,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Jason asks musicians for feedback on AI song transcription's impact on learning",
-      "tags": [
-        "builder",
-        "education"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 5.04
+      "score": 4.99
     },
     {
       "id": "2103252520525054005",
@@ -2482,7 +2264,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 4.36
+      "score": 4.31
     },
     {
       "id": "2103586769056784419",
@@ -2509,7 +2291,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 3.22
+      "score": 3.18
     },
     {
       "id": "2102935661183631633",
@@ -2536,7 +2318,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 2.72
+      "score": 2.69
     }
   ]
 }
