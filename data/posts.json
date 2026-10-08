@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T13:36:16Z",
+  "generated_at": "2026-10-08T19:59:22Z",
   "source": "firecrawl",
   "tracked_accounts": [
     {
@@ -745,7 +745,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 63.52
+      "score": 63.38
     },
     {
       "id": "2103537377239015827",
@@ -772,7 +772,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 55.61
+      "score": 55.47
     },
     {
       "id": "2103383018882896249",
@@ -799,7 +799,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 54.83
+      "score": 54.7
     },
     {
       "id": "2103541577083719888",
@@ -826,7 +826,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 36.06
+      "score": 35.92
     },
     {
       "id": "2103551714536439951",
@@ -853,7 +853,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 35.07
+      "score": 34.93
     },
     {
       "id": "2103567198690349362",
@@ -880,7 +880,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 34.4
+      "score": 34.26
     },
     {
       "id": "2103288927805476900",
@@ -908,7 +908,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 33.27
+      "score": 33.14
     },
     {
       "id": "2103566736356458911",
@@ -935,7 +935,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 28.9
+      "score": 28.77
     },
     {
       "id": "2103379937038364973",
@@ -968,7 +968,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 25.78
+      "score": 25.65
     },
     {
       "id": "2103338592672362566",
@@ -995,7 +995,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 25.71
+      "score": 25.58
     },
     {
       "id": "2103223477130129726",
@@ -1023,34 +1023,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 23.55
-    },
-    {
-      "id": "2103151519428448405",
-      "url": "https://x.com/hardmaru/status/2103151519428448405",
-      "author_handle": "hardmaru",
-      "author_name": "hardmaru",
-      "post_text": "Jürgen Schmidhuber is joining Sakana AI as Chief Scientific Advisor.\n\n@SchmidhuberAI pioneered meta-learning, recursive self-improvement, and world models back in the 1990s, when compute was a million times more expensive. He has been thinking about machines that improve themselves since before compute was cheap enough to make it practical.\n\nThese ideas inspired the Darwin Gödel Machine and The AI Scientist. Our RSI Lab in Tokyo, now under Jürgen’s guidance, is working on agent-native world models and recursive self-improvement for physical AI.",
-      "posted_at": "2026-09-24T15:56:11Z",
-      "engagement": {
-        "likes": 951,
-        "reposts": 75,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "hardmaru announces that Jürgen Schmidhuber joins Sakana AI as Chief Scientific Advisor",
-      "tags": [
-        "research"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 21.48
+      "score": 23.42
     },
     {
       "id": "2103624838716010948",
@@ -1077,7 +1050,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 20.85
+      "score": 20.72
     },
     {
       "id": "2103273813928759398",
@@ -1104,7 +1077,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 20.39
+      "score": 20.27
     },
     {
       "id": "2103457423335862476",
@@ -1131,34 +1104,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 20.01
-    },
-    {
-      "id": "2103126209597256076",
-      "url": "https://x.com/fchollet/status/2103126209597256076",
-      "author_handle": "fchollet",
-      "author_name": "François Chollet",
-      "post_text": "At some point in evolutionary history, matter learned to feel. We don't know how. It wouldn't be scientific to dismiss the possibility that it could happen again.\n\n(I don't believe it happens in current AI systems, because they don't have the charactistics I would expect to see in a sentient agent)",
-      "posted_at": "2026-09-24T14:15:37Z",
-      "engagement": {
-        "likes": 771,
-        "reposts": 44,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Chollet explores the potential for matter to feel in evolutionary terms",
-      "tags": [
-        "research"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 19.43
+      "score": 19.89
     },
     {
       "id": "2103357445229990009",
@@ -1186,7 +1132,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.73
+      "score": 18.61
     },
     {
       "id": "2103596391021113637",
@@ -1213,7 +1159,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.51
+      "score": 18.38
     },
     {
       "id": "2103581038828237268",
@@ -1240,7 +1186,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 17.91
+      "score": 17.79
     },
     {
       "id": "2103517792943456620",
@@ -1268,7 +1214,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 17.66
+      "score": 17.53
     },
     {
       "id": "2103561415793770558",
@@ -1296,63 +1242,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 17.17
-    },
-    {
-      "id": "2103195385804238972",
-      "url": "https://x.com/AravSrinivas/status/2103195385804238972",
-      "author_handle": "AravSrinivas",
-      "author_name": "Aravind Srinivas",
-      "post_text": "Perplexity has the fastest and most capable Search API, powered by our own Rust-based retrieval and ranking engine, Photon, achieving sub-250ms p95 latency while still ranking highly on relevance and accuracy benchmarks. Photon was built by a small team and hundreds of auto-research loops powered by a more capable internal version of Perplexity Computer. The auto-research loops will help us continually hill-climb on the Pareto frontier to build the fastest and most accurate search infrastructure in the world.",
-      "posted_at": "2026-09-24T18:50:30Z",
-      "engagement": {
-        "likes": 528,
-        "reposts": 23,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Aravind Srinivas unveils Perplexity's groundbreaking fast search API with Photon engine",
-      "tags": [
-        "builder",
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 16.42
-    },
-    {
-      "id": "2103178649851843016",
-      "url": "https://x.com/AravSrinivas/status/2103178649851843016",
-      "author_handle": "AravSrinivas",
-      "author_name": "Aravind Srinivas",
-      "post_text": "Welcome, @AMD, to the Perplexity Computer local AI ecosystem!",
-      "posted_at": "2026-09-24T17:43:59Z",
-      "engagement": {
-        "likes": 523,
-        "reposts": 23,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Aravind Srinivas welcomes AMD to the Perplexity AI ecosystem!",
-      "tags": [
-        "builder",
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 16.34
+      "score": 17.04
     },
     {
       "id": "2103620752910217427",
@@ -1380,7 +1270,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 15.68
+      "score": 15.56
     },
     {
       "id": "2103526115021041947",
@@ -1407,7 +1297,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.69
+      "score": 14.57
     },
     {
       "id": "2103622734731530277",
@@ -1434,7 +1324,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.47
+      "score": 14.35
     },
     {
       "id": "2103241801599750329",
@@ -1462,34 +1352,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.41
-    },
-    {
-      "id": "2103212249812721674",
-      "url": "https://x.com/bindureddy/status/2103212249812721674",
-      "author_handle": "bindureddy",
-      "author_name": "Bindu Reddy",
-      "post_text": "Fable 5.1 is under-hyped because it's so expensive\n\nIt is VASTLY SUPERIOR to Opus 5.5 on very complex codebases\n\nNot just that, it one shots hard bugs fixes and features without a lot of prompt itreation\n\nOpus 5.5 shines in contrast to Opus 5 which was a terrible and insanely expensive model",
-      "posted_at": "2026-09-24T19:57:30Z",
-      "engagement": {
-        "likes": 410,
-        "reposts": 9,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Bindu Reddy highlights the true power of Fable 5.1 over competitors!",
-      "tags": [
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 14.26
+      "score": 14.3
     },
     {
       "id": "2103474875054915783",
@@ -1516,7 +1379,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.24
+      "score": 14.12
     },
     {
       "id": "2103548700853198940",
@@ -1544,7 +1407,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.43
+      "score": 13.32
     },
     {
       "id": "2103641022865510582",
@@ -1571,7 +1434,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 12.95
+      "score": 12.84
     },
     {
       "id": "2103242738099462337",
@@ -1598,7 +1461,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 12.57
+      "score": 12.47
     },
     {
       "id": "2103485857147617393",
@@ -1625,7 +1488,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 11.04
+      "score": 10.93
     },
     {
       "id": "2103325773323018520",
@@ -1652,7 +1515,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.94
+      "score": 10.85
     },
     {
       "id": "2103593301240602645",
@@ -1679,35 +1542,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.28
-    },
-    {
-      "id": "2103201617004949888",
-      "url": "https://x.com/_akhaliq/status/2103201617004949888",
-      "author_handle": "_akhaliq",
-      "author_name": "AK",
-      "post_text": "Pruna-Qwen-Image-2.1\n\na set of a few-step LoRA adapters that make Qwen-Image-2.1 up to 6.3× faster for image generation and editing\n\nGenerate or edit images in just 5 or 8 steps instead of 40. Choose 5 steps for maximum speed or 8 steps for the best balance\n\nHF workflow:",
-      "posted_at": "2026-09-24T19:15:15Z",
-      "engagement": {
-        "likes": 171,
-        "reposts": 20,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "AK unveils Pruna-Qwen-Image-2.1 for faster image generation and editing",
-      "tags": [
-        "research",
-        "curator"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 9.89
+      "score": 10.18
     },
     {
       "id": "2103578627359268987",
@@ -1735,7 +1570,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 9.79
+      "score": 9.69
     },
     {
       "id": "2103569043836027339",
@@ -1763,63 +1598,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.71
-    },
-    {
-      "id": "2103154770068541691",
-      "url": "https://x.com/jackclarkSF/status/2103154770068541691",
-      "author_handle": "jackclarkSF",
-      "author_name": "Jack Clark",
-      "post_text": "https://x.com/i/article/2103154412361515009",
-      "posted_at": "2026-09-24T16:09:06Z",
-      "engagement": {
-        "likes": 143,
-        "reposts": 14,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Jack Clark shares intriguing insights in his latest article",
-      "tags": [
-        "lab-leader",
-        "anthropic"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
       "score": 8.62
-    },
-    {
-      "id": "2103182635992514569",
-      "url": "https://x.com/joshwoodward/status/2103182635992514569",
-      "author_handle": "joshwoodward",
-      "author_name": "Josh Woodward",
-      "post_text": "Dreambeans is one of our newer experiments in @GoogleLabs. It has a growing cult following.\n\nIt’s simple: a fixed number of “beans” brew every morning. They point you at the real world, with real people, doing things you care about together.\n\nGive it a try!",
-      "posted_at": "2026-09-24T17:59:50Z",
-      "engagement": {
-        "likes": 162,
-        "reposts": 5,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Josh Woodward introduces Dreambeans, a fun new experiment from Google Labs",
-      "tags": [
-        "lab-leader",
-        "google"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 8.54
     },
     {
       "id": "2103641180923978031",
@@ -1847,7 +1626,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.17
+      "score": 8.08
     },
     {
       "id": "2103361254433993165",
@@ -1875,7 +1654,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.14
+      "score": 8.06
     },
     {
       "id": "2103304044668162541",
@@ -1903,7 +1682,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 7.86
+      "score": 7.78
     },
     {
       "id": "2103608911442120979",
@@ -1930,7 +1709,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 7.1
+      "score": 7.02
     },
     {
       "id": "2103561974613446862",
@@ -1958,7 +1737,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 6.8
+      "score": 6.73
     },
     {
       "id": "2103281862529458340",
@@ -1985,7 +1764,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 5.95
+      "score": 5.88
     },
     {
       "id": "2103582338986955063",
@@ -2012,7 +1791,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 5.24
+      "score": 5.18
     },
     {
       "id": "2103551357823369653",
@@ -2044,7 +1823,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 5.18
+      "score": 5.12
     },
     {
       "id": "2103660061260411266",
@@ -2071,7 +1850,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 4.85
+      "score": 4.78
     },
     {
       "id": "2103252520525054005",
@@ -2098,7 +1877,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 4.19
+      "score": 4.14
     },
     {
       "id": "2103586769056784419",
@@ -2125,7 +1904,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 3.08
+      "score": 3.03
     }
   ]
 }
