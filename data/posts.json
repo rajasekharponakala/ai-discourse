@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T09:10:00Z",
+  "generated_at": "2026-10-09T17:00:55Z",
   "source": "firecrawl",
   "tracked_accounts": [
     {
@@ -745,7 +745,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 55.18
+      "score": 55.02
     },
     {
       "id": "2103541577083719888",
@@ -772,7 +772,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 35.64
+      "score": 35.48
     },
     {
       "id": "2103551714536439951",
@@ -799,7 +799,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 34.65
+      "score": 34.49
     },
     {
       "id": "2103567198690349362",
@@ -826,7 +826,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 33.98
+      "score": 33.82
     },
     {
       "id": "2103566736356458911",
@@ -853,7 +853,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 28.49
+      "score": 28.33
     },
     {
       "id": "2103624838716010948",
@@ -880,34 +880,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 20.46
-    },
-    {
-      "id": "2103457423335862476",
-      "url": "https://x.com/levelsio/status/2103457423335862476",
-      "author_handle": "levelsio",
-      "author_name": "levelsio",
-      "post_text": "🇬🇧 😂",
-      "posted_at": "2026-09-25T12:11:44Z",
-      "engagement": {
-        "likes": 832,
-        "reposts": 27,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "levelsio's humorous take on British culture sparks laughs",
-      "tags": [
-        "builder"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 19.64
+      "score": 20.31
     },
     {
       "id": "2103596391021113637",
@@ -934,7 +907,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.13
+      "score": 17.99
     },
     {
       "id": "2103581038828237268",
@@ -961,35 +934,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 17.54
-    },
-    {
-      "id": "2103517792943456620",
-      "url": "https://x.com/ClementDelangue/status/2103517792943456620",
-      "author_handle": "ClementDelangue",
-      "author_name": "clem 🤗",
-      "post_text": "Super happy to release SmolDataEnvs: 5,000 verifiable RL environment tasks for hill-climbing small models in code and data science by @adithya_s_k\n\n100% open source: environments, evals, training!\n\nhttps://huggingface.co/datasets/FineEnvs/SmolDataEnvs",
-      "posted_at": "2026-09-25T16:11:37Z",
-      "engagement": {
-        "likes": 513,
-        "reposts": 57,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "clem announces open source SmolDataEnvs for AI model training",
-      "tags": [
-        "open-source",
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 17.29
+      "score": 17.39
     },
     {
       "id": "2103561415793770558",
@@ -1017,7 +962,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 16.8
+      "score": 16.66
     },
     {
       "id": "2103620752910217427",
@@ -1045,34 +990,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 15.32
-    },
-    {
-      "id": "2103526115021041947",
-      "url": "https://x.com/levelsio/status/2103526115021041947",
-      "author_handle": "levelsio",
-      "author_name": "levelsio",
-      "post_text": "A bit of AI psychosis design vibe but yes good everyone building these custom dashboards for themselves I think\n\nAI great in combining lots of different data sources from your bank accounts, health sensor data, air quality sensor data, your startup revenue data from Stripe, investment returns, emails etc into one\n\nThe best part is not the dashboard but that you can ask questions on what to improve and find correlations between everything\n\nSo everyone gets healthier and wealthier!",
-      "posted_at": "2026-09-25T16:44:42Z",
-      "engagement": {
-        "likes": 404,
-        "reposts": 13,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "levelsio reveals the potential of AI in personal dashboard design",
-      "tags": [
-        "builder"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 14.34
+      "score": 15.18
     },
     {
       "id": "2103622734731530277",
@@ -1099,34 +1017,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.12
-    },
-    {
-      "id": "2103474875054915783",
-      "url": "https://x.com/levelsio/status/2103474875054915783",
-      "author_handle": "levelsio",
-      "author_name": "levelsio",
-      "post_text": "How do I switch my @X Premium from iOS sub to web? I guess I have to cancel it but then do I lose my @X Creator stuff?",
-      "posted_at": "2026-09-25T13:21:05Z",
-      "engagement": {
-        "likes": 408,
-        "reposts": 2,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "levelsio seeks guidance on switching X Premium subscription platforms",
-      "tags": [
-        "builder"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 13.9
+      "score": 13.98
     },
     {
       "id": "2103548700853198940",
@@ -1154,7 +1045,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.1
+      "score": 12.97
     },
     {
       "id": "2103641022865510582",
@@ -1181,34 +1072,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 12.62
-    },
-    {
-      "id": "2103485857147617393",
-      "url": "https://x.com/emollick/status/2103485857147617393",
-      "author_handle": "emollick",
-      "author_name": "Ethan Mollick",
-      "post_text": "Microsoft seems to sell its own Claw now (I suspect they will not be the last), which may help spread personal agents in organizations\n\nBut using a router with mystery models behind it is a big problem. Routers underestimate work difficulty in many fields resulting in bad outputs",
-      "posted_at": "2026-09-25T14:04:43Z",
-      "engagement": {
-        "likes": 227,
-        "reposts": 11,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Ethan Mollick discusses Microsoft's new Claw and its impact on AI agents",
-      "tags": [
-        "education"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 10.73
+      "score": 12.49
     },
     {
       "id": "2103593301240602645",
@@ -1235,7 +1099,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 9.99
+      "score": 9.87
     },
     {
       "id": "2103578627359268987",
@@ -1263,7 +1127,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 9.5
+      "score": 9.39
     },
     {
       "id": "2103569043836027339",
@@ -1291,7 +1155,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.44
+      "score": 8.34
     },
     {
       "id": "2103641180923978031",
@@ -1319,7 +1183,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 7.91
+      "score": 7.81
     },
     {
       "id": "2103608911442120979",
@@ -1346,7 +1210,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 6.86
+      "score": 6.77
     },
     {
       "id": "2103561974613446862",
@@ -1374,7 +1238,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 6.57
+      "score": 6.49
     },
     {
       "id": "2103582338986955063",
@@ -1401,7 +1265,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 5.05
+      "score": 4.98
     },
     {
       "id": "2103551357823369653",
@@ -1433,7 +1297,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 4.99
+      "score": 4.92
     },
     {
       "id": "2103660061260411266",
@@ -1460,7 +1324,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 4.66
+      "score": 4.59
     },
     {
       "id": "2103586769056784419",
@@ -1487,7 +1351,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 2.95
+      "score": 2.9
     }
   ]
 }
