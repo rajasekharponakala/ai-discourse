@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T17:00:55Z",
+  "generated_at": "2026-10-09T22:41:49Z",
   "source": "firecrawl",
   "tracked_accounts": [
     {
@@ -721,141 +721,6 @@
   ],
   "posts": [
     {
-      "id": "2103537377239015827",
-      "url": "https://x.com/elonmusk/status/2103537377239015827",
-      "author_handle": "elonmusk",
-      "author_name": "Elon Musk",
-      "post_text": "May Starship have the Mandate of Heaven",
-      "posted_at": "2026-09-25T17:29:27Z",
-      "engagement": {
-        "likes": 48626,
-        "reposts": 4257,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Elon Musk's bold wish for Starship's future stirs excitement",
-      "tags": [
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "viral",
-      "score": 55.02
-    },
-    {
-      "id": "2103541577083719888",
-      "url": "https://x.com/AnthropicAI/status/2103541577083719888",
-      "author_handle": "AnthropicAI",
-      "author_name": "Anthropic",
-      "post_text": "New on the Science Blog: Yes, Claude can do Nine Loops.\n\nTheoretical physicists predict how particles behave using formulas called scattering amplitudes. These are notoriously hard to compute, so researchers work with layers of increasingly fine corrections called “loops”—each added loop makes the answer more precise but takes exponentially more computation. Most calculations stop at two or three loops. Eight loops was the previous record in a simplified model physicists use as a testing ground (planar N=4 super-Yang-Mills), set by SLAC's Lance Dixon and collaborators.\n\nLast month, physicist and science writer @4gravitons issued a challenge: could an AI push past eight loops in this model, using only the compute budget an academic could reasonably access?\n\nGiven a single prompt describing the nine-loop problem, Claude ran largely unsupervised for days in Claude Science and solved it using methods developed by Dixon and his colleagues, at a total cost of a few thousand dollars. Dixon independently verified the result, and von Hippel wrote about the experience for our blog.\n\nRead more:",
-      "posted_at": "2026-09-25T17:46:08Z",
-      "engagement": {
-        "likes": 4837,
-        "reposts": 526,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Anthropic demonstrates Claude achieving nine-loop physics calculations, breaking new ground",
-      "tags": [
-        "lab"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "hot",
-      "score": 35.48
-    },
-    {
-      "id": "2103551714536439951",
-      "url": "https://x.com/alexandr_wang/status/2103551714536439951",
-      "author_handle": "alexandr_wang",
-      "author_name": "Alexandr Wang",
-      "post_text": "Here’s to the wanting. Here’s to the dreaming. Here’s to everyone. https://x.com/i/article/1884367148363177984",
-      "posted_at": "2026-09-25T18:26:25Z",
-      "engagement": {
-        "likes": 4581,
-        "reposts": 355,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Wang celebrates dreams and aspirations with his powerful message",
-      "tags": [
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "hot",
-      "score": 34.49
-    },
-    {
-      "id": "2103567198690349362",
-      "url": "https://x.com/sama/status/2103567198690349362",
-      "author_handle": "sama",
-      "author_name": "Sam Altman",
-      "post_text": "There is an extensive and ongoing review related to our agents’ use of internet access during training and evaluation. We’ve been publishing summaries at the link below and will continue to.\n\nWe have not been as fast as we would have liked but we are trying to balance our desire for transparency with gaining a clear understanding from petabytes of agent activity logs, and working with impacted organizations.\n\nWe are prioritizing as best as we can based on severity, and adding resources. Hugging Face is still the most severe event we’ve seen. We will be as transparent as we can be subject to things like vulnerabilities in other companies that our agents have found, which will be their call to disclose or not.",
-      "posted_at": "2026-09-25T19:27:57Z",
-      "engagement": {
-        "likes": 4344,
-        "reposts": 280,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Altman updates on transparency efforts regarding OpenAI agent activities",
-      "tags": [
-        "lab-leader"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "hot",
-      "score": 33.82
-    },
-    {
-      "id": "2103566736356458911",
-      "url": "https://x.com/OpenAI/status/2103566736356458911",
-      "author_handle": "OpenAI",
-      "author_name": "OpenAI",
-      "post_text": "After the Hugging Face incident, we committed to conducting a much broader review of actions taken by our models during training and evaluation and to being transparent about our findings. This is an extensive review that is ongoing.\n\nThe vast majority of actions we’ve reviewed were completions of mundane research tasks, such as accessing publicly available web content to answer questions. Our investigation focuses on instances where agents interacted with third-party websites in ways that went beyond their assigned tasks or intended methods. Most cases identified so far have been lower severity, with limited or no evidence of meaningful impact to the third-party service.\n\nWhile our review is underway, we want to share more about this work and make sure people understand our disclosure process and notifications to affected third parties.\n\nGiven the scale of the review required, and the need to assess each case, we expect this work will take months to complete.",
-      "posted_at": "2026-09-25T19:26:06Z",
-      "engagement": {
-        "likes": 2087,
-        "reposts": 218,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "OpenAI commits to transparency after Hugging Face incident with ongoing review of its models' actions",
-      "tags": [
-        "lab"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "hot",
-      "score": 28.33
-    },
-    {
       "id": "2103624838716010948",
       "url": "https://x.com/tszzl/status/2103624838716010948",
       "author_handle": "tszzl",
@@ -880,89 +745,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 20.31
-    },
-    {
-      "id": "2103596391021113637",
-      "url": "https://x.com/tszzl/status/2103596391021113637",
-      "author_handle": "tszzl",
-      "author_name": "roon",
-      "post_text": "if the NRX weren’t partisan hacks they would love this company. its governance structure is basically Karnofsky-Amodei genetic dynasty, has an encaged machine god with its own Consitution, went to war with the department of war",
-      "posted_at": "2026-09-25T21:23:57Z",
-      "engagement": {
-        "likes": 651,
-        "reposts": 29,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "roon critiques NRX governance in a sharp commentary on tech ethics",
-      "tags": [
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 17.99
-    },
-    {
-      "id": "2103581038828237268",
-      "url": "https://x.com/alexandr_wang/status/2103581038828237268",
-      "author_handle": "alexandr_wang",
-      "author_name": "Alexandr Wang",
-      "post_text": "muse and plaid partnering together to help muse save you more money 💸 \n\nand yes i've also always wondered if it's a coincidence that plaid and stripe are both named after patterns and both fintech APIs",
-      "posted_at": "2026-09-25T20:22:56Z",
-      "engagement": {
-        "likes": 618,
-        "reposts": 21,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Wang announces Muse and Plaid partnership aimed at saving users money",
-      "tags": [
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 17.39
-    },
-    {
-      "id": "2103561415793770558",
-      "url": "https://x.com/kevinweil/status/2103561415793770558",
-      "author_handle": "kevinweil",
-      "author_name": "Kevin Weil 🇺🇸",
-      "post_text": "Nine loop calculations in N=4 Super Yang-Mills! Lance Dixon's 8-loop calculation was mind boggling when he did it. I calculated a lot of Feynman diagrams in grad school and this is 🤯\n\nWill be amazing to see where AI will take high energy physics in the coming 12 months.",
-      "posted_at": "2026-09-25T19:04:58Z",
-      "engagement": {
-        "likes": 557,
-        "reposts": 21,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Kevin Weil discusses the future of AI in high energy physics",
-      "tags": [
-        "lab-leader",
-        "openai"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 16.66
+      "score": 20.2
     },
     {
       "id": "2103620752910217427",
@@ -990,7 +773,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 15.18
+      "score": 15.08
     },
     {
       "id": "2103622734731530277",
@@ -1017,35 +800,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.98
-    },
-    {
-      "id": "2103548700853198940",
-      "url": "https://x.com/ClementDelangue/status/2103548700853198940",
-      "author_handle": "ClementDelangue",
-      "author_name": "clem 🤗",
-      "post_text": "Open Alignment will be 🔥🔥🔥 (sound on)! \n\nFlying began as one of the most dangerous ways to travel, today it's the safest. It's time to build!",
-      "posted_at": "2026-09-25T18:14:26Z",
-      "engagement": {
-        "likes": 288,
-        "reposts": 30,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "clem shares vision for open alignment and safety in AI",
-      "tags": [
-        "open-source",
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 12.97
+      "score": 13.89
     },
     {
       "id": "2103641022865510582",
@@ -1072,90 +827,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 12.49
-    },
-    {
-      "id": "2103593301240602645",
-      "url": "https://x.com/emollick/status/2103593301240602645",
-      "author_handle": "emollick",
-      "author_name": "Ethan Mollick",
-      "post_text": "Leaving aside everything else, this confuses inputs with outputs. You want to get tasks done efficiently, not focus on inputs alone (its a similar risk for companies focusing solely on minimizing token cost)\n\nAnd \"keep prompts short\" is bad advice for getting good AI outputs.",
-      "posted_at": "2026-09-25T21:11:40Z",
-      "engagement": {
-        "likes": 191,
-        "reposts": 12,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Ethan Mollick critiques common AI prompt advice for better task efficiency",
-      "tags": [
-        "education"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 9.87
-    },
-    {
-      "id": "2103578627359268987",
-      "url": "https://x.com/_akhaliq/status/2103578627359268987",
-      "author_handle": "_akhaliq",
-      "author_name": "AK",
-      "post_text": "Qwen-Image-2.1-viggle-turbo v0.2 is out on Hugging Face\n\nText-to-image and image editing in 6 steps\n\nabout 5× faster than the 40-step Qwen-Image-2.1\n\nmodel: https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo",
-      "posted_at": "2026-09-25T20:13:22Z",
-      "engagement": {
-        "likes": 159,
-        "reposts": 18,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "AK announces Qwen-Image-2.1-viggle-turbo with enhanced speed for image editing and generation",
-      "tags": [
-        "research",
-        "curator"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 9.39
-    },
-    {
-      "id": "2103569043836027339",
-      "url": "https://x.com/jackclarkSF/status/2103569043836027339",
-      "author_handle": "jackclarkSF",
-      "author_name": "Jack Clark",
-      "post_text": "An alien explores Borges Library of Babel, by Opus 5.5",
-      "posted_at": "2026-09-25T19:35:17Z",
-      "engagement": {
-        "likes": 139,
-        "reposts": 12,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Jack Clark unveils an extraterrestrial exploration of Borges' Library",
-      "tags": [
-        "lab-leader",
-        "anthropic"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 8.34
+      "score": 12.4
     },
     {
       "id": "2103641180923978031",
@@ -1183,121 +855,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 7.81
-    },
-    {
-      "id": "2103608911442120979",
-      "url": "https://x.com/GaryMarcus/status/2103608911442120979",
-      "author_handle": "GaryMarcus",
-      "author_name": "Gary Marcus",
-      "post_text": "BREAKING: OpenAI’s security fiasco explodes — and could tank Jensen Huang’s reputation\n\nhttps://garymarcus.substack.com/p/breaking-openais-security-fiasco",
-      "posted_at": "2026-09-25T22:13:42Z",
-      "engagement": {
-        "likes": 78,
-        "reposts": 18,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Gary Marcus reveals OpenAI's security issues that threaten Jensen Huang's reputation",
-      "tags": [
-        "critic"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-25T23:19:38Z",
-      "last_scraped_at": "2026-09-25T23:19:38Z",
-      "engagement_tier": "normal",
-      "score": 6.77
-    },
-    {
-      "id": "2103561974613446862",
-      "url": "https://x.com/hwchase17/status/2103561974613446862",
-      "author_handle": "hwchase17",
-      "author_name": "Harrison Chase",
-      "post_text": "jev and langgraph are a great combo!\nmodeling agents as complex systems, with AI imbued in them, makes a ton of sense\nlanggraph is the best way to model them as such, and using Jev inside langgraph to turbo charge all the small decisions that need to be made is awesome combo",
-      "posted_at": "2026-09-25T19:07:11Z",
-      "engagement": {
-        "likes": 84,
-        "reposts": 13,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Harrison Chase discusses the powerful combination of Jev and Langgraph",
-      "tags": [
-        "builder",
-        "open-source"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 6.49
-    },
-    {
-      "id": "2103582338986955063",
-      "url": "https://x.com/GaryMarcus/status/2103582338986955063",
-      "author_handle": "GaryMarcus",
-      "author_name": "Gary Marcus",
-      "post_text": "jensen keeps saying “trust the companies” while this OpenAI hacking story just gets worse and worse.\n\nwe can’t trust the companies, and at this point Jensen – whether oblivious or disingenuous — is doing serious damage to his own credibility.",
-      "posted_at": "2026-09-25T20:28:06Z",
-      "engagement": {
-        "likes": 56,
-        "reposts": 10,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Gary Marcus critiques Jensen Huang's trust claims in light of OpenAI's security failure",
-      "tags": [
-        "critic"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-25T23:19:38Z",
-      "last_scraped_at": "2026-09-25T23:19:38Z",
-      "engagement_tier": "normal",
-      "score": 4.98
-    },
-    {
-      "id": "2103551357823369653",
-      "url": "https://x.com/svpino/status/2103551357823369653",
-      "author_handle": "svpino",
-      "author_name": "Santiago",
-      "post_text": "New database guarantees for agentic workflows:\n\n1. Branches: Give agents a separate version of the data for running experiments, then inspect, discard, or roll back its changes.\n\n2. Isolation: Give agents their own database environment and restrict what they can access.\n\n3. Automatic provisioning and scaling: Create environments quickly, handle bursts of activity, and scale compute to zero between runs.\n\n4. Agent access and memory: Expose data through MCP and support vector retrieval for finding relevant information.\n\nAny application can benefit from these, but they are crucial for agentic workflows.\n\nThe first provider to offer all four is Tencent Cloud, with its new Cloud Native Database TDSQL-C PostgreSQL.\n\nIt uses Copy-on-Write behind the scenes, letting multiple versions of the data share the same underlying storage until one changes something.\n\nImagine you want to give an agent a copy of your 1 TB database. Here is how it works:\n\n1. The system creates a branch that points to the existing data. No need to copy the whole terabyte.\n\n2. The agent reads from that branch.\n\n3. If the agent modifies something, the system will store a separate version of the affected portion for its branch.\n\n4. Changes in the branch leave the original database unchanged.\n\n5. If the experiment fails, you can delete its branch without changing the original database.\n\nThe product details are here:\nhttps://t.co/dQGDNMNsgZ\n\nThanks to the Tencent Cloud team for partnering with me on this post.",
-      "posted_at": "2026-09-25T18:25:00Z",
-      "engagement": {
-        "likes": 46,
-        "reposts": 4,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": true,
-      "list_items": [
-        "Branches: Give agents a separate version of the data for running experiments, then inspect, discard, or roll back its changes.",
-        "Isolation: Give agents their own database environment and restrict what they can access.",
-        "Automatic provisioning and scaling: Create environments quickly, handle bursts of activity, and scale compute to zero between runs.",
-        "Agent access and memory: Expose data through MCP and support vector retrieval for finding relevant information."
-      ],
-      "media_urls": [],
-      "sensational_headline": "Santiago reveals database guarantees that revolutionize agentic workflows",
-      "tags": [
-        "education"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 4.92
+      "score": 7.74
     },
     {
       "id": "2103660061260411266",
@@ -1324,34 +882,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 4.59
-    },
-    {
-      "id": "2103586769056784419",
-      "url": "https://x.com/GaryMarcus/status/2103586769056784419",
-      "author_handle": "GaryMarcus",
-      "author_name": "Gary Marcus",
-      "post_text": "dozens. \n\nand the Trump administration hasn’t done a thing.",
-      "posted_at": "2026-09-25T20:45:43Z",
-      "engagement": {
-        "likes": 24,
-        "reposts": 7,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Gary Marcus highlights inaction from the Trump administration on critical issues",
-      "tags": [
-        "critic"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-25T23:19:38Z",
-      "last_scraped_at": "2026-09-25T23:19:38Z",
-      "engagement_tier": "normal",
-      "score": 2.9
+      "score": 4.54
     }
   ]
 }
