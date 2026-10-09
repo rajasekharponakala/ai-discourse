@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T19:59:22Z",
+  "generated_at": "2026-10-09T00:25:09Z",
   "source": "firecrawl",
   "tracked_accounts": [
     {
@@ -745,7 +745,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 63.38
+      "score": 63.29
     },
     {
       "id": "2103537377239015827",
@@ -772,7 +772,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 55.47
+      "score": 55.37
     },
     {
       "id": "2103383018882896249",
@@ -799,7 +799,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 54.7
+      "score": 54.6
     },
     {
       "id": "2103541577083719888",
@@ -826,7 +826,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 35.92
+      "score": 35.83
     },
     {
       "id": "2103551714536439951",
@@ -853,7 +853,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 34.93
+      "score": 34.83
     },
     {
       "id": "2103567198690349362",
@@ -880,7 +880,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 34.26
+      "score": 34.17
     },
     {
       "id": "2103288927805476900",
@@ -908,7 +908,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 33.14
+      "score": 33.05
     },
     {
       "id": "2103566736356458911",
@@ -935,7 +935,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 28.77
+      "score": 28.67
     },
     {
       "id": "2103379937038364973",
@@ -968,7 +968,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 25.65
+      "score": 25.56
     },
     {
       "id": "2103338592672362566",
@@ -995,35 +995,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 25.58
-    },
-    {
-      "id": "2103223477130129726",
-      "url": "https://x.com/swyx/status/2103223477130129726",
-      "author_handle": "swyx",
-      "author_name": "swyx",
-      "post_text": "more conferences could implement this. so much high value time wasted without thought",
-      "posted_at": "2026-09-24T20:42:07Z",
-      "engagement": {
-        "likes": 1246,
-        "reposts": 84,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Swyx highlights the waste of time at conferences and calls for change",
-      "tags": [
-        "builder",
-        "education"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 23.42
+      "score": 25.49
     },
     {
       "id": "2103624838716010948",
@@ -1050,34 +1022,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 20.72
-    },
-    {
-      "id": "2103273813928759398",
-      "url": "https://x.com/tszzl/status/2103273813928759398",
-      "author_handle": "tszzl",
-      "author_name": "roon",
-      "post_text": "Iran / oil prices is a short term driver but broadly this is due to demand pressure from extremely attractive ai capex opportunities that are borrowing at nation scale",
-      "posted_at": "2026-09-25T00:02:08Z",
-      "engagement": {
-        "likes": 891,
-        "reposts": 33,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "roon discusses the impact of AI capex on global oil prices in recent analysis",
-      "tags": [
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 20.27
+      "score": 20.63
     },
     {
       "id": "2103457423335862476",
@@ -1104,7 +1049,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 19.89
+      "score": 19.8
     },
     {
       "id": "2103357445229990009",
@@ -1132,7 +1077,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.61
+      "score": 18.53
     },
     {
       "id": "2103596391021113637",
@@ -1159,7 +1104,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.38
+      "score": 18.3
     },
     {
       "id": "2103581038828237268",
@@ -1186,7 +1131,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 17.79
+      "score": 17.7
     },
     {
       "id": "2103517792943456620",
@@ -1214,7 +1159,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 17.53
+      "score": 17.45
     },
     {
       "id": "2103561415793770558",
@@ -1242,7 +1187,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 17.04
+      "score": 16.96
     },
     {
       "id": "2103620752910217427",
@@ -1270,7 +1215,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 15.56
+      "score": 15.48
     },
     {
       "id": "2103526115021041947",
@@ -1297,7 +1242,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.57
+      "score": 14.49
     },
     {
       "id": "2103622734731530277",
@@ -1324,35 +1269,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.35
-    },
-    {
-      "id": "2103241801599750329",
-      "url": "https://x.com/AravSrinivas/status/2103241801599750329",
-      "author_handle": "AravSrinivas",
-      "author_name": "Aravind Srinivas",
-      "post_text": "Nous Portal subscribers now get Perplexity Fast Search as their default search on Hermes Agent. Enjoy!",
-      "posted_at": "2026-09-24T21:54:56Z",
-      "engagement": {
-        "likes": 390,
-        "reposts": 20,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Aravind Srinivas announces Perplexity Fast Search for Nous Portal subscribers",
-      "tags": [
-        "builder",
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 14.3
+      "score": 14.27
     },
     {
       "id": "2103474875054915783",
@@ -1379,7 +1296,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.12
+      "score": 14.05
     },
     {
       "id": "2103548700853198940",
@@ -1407,7 +1324,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.32
+      "score": 13.24
     },
     {
       "id": "2103641022865510582",
@@ -1434,34 +1351,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 12.84
-    },
-    {
-      "id": "2103242738099462337",
-      "url": "https://x.com/bindureddy/status/2103242738099462337",
-      "author_handle": "bindureddy",
-      "author_name": "Bindu Reddy",
-      "post_text": "Rumors of GPT 6.1 Astra are all over the place\n\nThat would be insanely remarkable if they could launch a new Astra variant so fast 🤯",
-      "posted_at": "2026-09-24T21:58:39Z",
-      "engagement": {
-        "likes": 326,
-        "reposts": 4,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Bindu Reddy discusses wild rumors about the launch of GPT 6.1 Astra!",
-      "tags": [
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 12.47
+      "score": 12.77
     },
     {
       "id": "2103485857147617393",
@@ -1488,7 +1378,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.93
+      "score": 10.87
     },
     {
       "id": "2103325773323018520",
@@ -1515,7 +1405,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.85
+      "score": 10.78
     },
     {
       "id": "2103593301240602645",
@@ -1542,7 +1432,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.18
+      "score": 10.12
     },
     {
       "id": "2103578627359268987",
@@ -1570,7 +1460,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 9.69
+      "score": 9.63
     },
     {
       "id": "2103569043836027339",
@@ -1598,7 +1488,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.62
+      "score": 8.56
     },
     {
       "id": "2103641180923978031",
@@ -1626,7 +1516,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.08
+      "score": 8.02
     },
     {
       "id": "2103361254433993165",
@@ -1654,7 +1544,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.06
+      "score": 8.0
     },
     {
       "id": "2103304044668162541",
@@ -1682,7 +1572,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 7.78
+      "score": 7.72
     },
     {
       "id": "2103608911442120979",
@@ -1709,7 +1599,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 7.02
+      "score": 6.97
     },
     {
       "id": "2103561974613446862",
@@ -1737,7 +1627,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 6.73
+      "score": 6.67
     },
     {
       "id": "2103281862529458340",
@@ -1764,7 +1654,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 5.88
+      "score": 5.84
     },
     {
       "id": "2103582338986955063",
@@ -1791,7 +1681,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 5.18
+      "score": 5.14
     },
     {
       "id": "2103551357823369653",
@@ -1823,7 +1713,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 5.12
+      "score": 5.07
     },
     {
       "id": "2103660061260411266",
@@ -1850,34 +1740,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 4.78
-    },
-    {
-      "id": "2103252520525054005",
-      "url": "https://x.com/paulg/status/2103252520525054005",
-      "author_handle": "paulg",
-      "author_name": "Paul Graham",
-      "post_text": "I wasn't around in the 16th century if that's what you mean.",
-      "posted_at": "2026-09-24T22:37:32Z",
-      "engagement": {
-        "likes": 64,
-        "reposts": 0,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Paul Graham humorously clarifies his historical knowledge of the 16th century",
-      "tags": [
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 4.14
+      "score": 4.74
     },
     {
       "id": "2103586769056784419",
@@ -1904,7 +1767,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 3.03
+      "score": 3.01
     }
   ]
 }
