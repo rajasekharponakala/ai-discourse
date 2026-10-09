@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T00:25:09Z",
+  "generated_at": "2026-10-09T09:10:00Z",
   "source": "firecrawl",
   "tracked_accounts": [
     {
@@ -721,33 +721,6 @@
   ],
   "posts": [
     {
-      "id": "2103382290994962788",
-      "url": "https://x.com/elonmusk/status/2103382290994962788",
-      "author_handle": "elonmusk",
-      "author_name": "Elon Musk",
-      "post_text": "It was moving",
-      "posted_at": "2026-09-25T07:13:11Z",
-      "engagement": {
-        "likes": 111034,
-        "reposts": 16155,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Elon Musk captures emotions with a simple yet profound statement",
-      "tags": [
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "viral",
-      "score": 63.29
-    },
-    {
       "id": "2103537377239015827",
       "url": "https://x.com/elonmusk/status/2103537377239015827",
       "author_handle": "elonmusk",
@@ -772,34 +745,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "viral",
-      "score": 55.37
-    },
-    {
-      "id": "2103383018882896249",
-      "url": "https://x.com/elonmusk/status/2103383018882896249",
-      "author_handle": "elonmusk",
-      "author_name": "Elon Musk",
-      "post_text": "Stainless Steel Starship",
-      "posted_at": "2026-09-25T07:16:05Z",
-      "engagement": {
-        "likes": 45957,
-        "reposts": 3871,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Elon Musk shares intriguing insights on the Stainless Steel Starship",
-      "tags": [
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "viral",
-      "score": 54.6
+      "score": 55.18
     },
     {
       "id": "2103541577083719888",
@@ -826,7 +772,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 35.83
+      "score": 35.64
     },
     {
       "id": "2103551714536439951",
@@ -853,7 +799,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 34.83
+      "score": 34.65
     },
     {
       "id": "2103567198690349362",
@@ -880,35 +826,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 34.17
-    },
-    {
-      "id": "2103288927805476900",
-      "url": "https://x.com/simonw/status/2103288927805476900",
-      "author_handle": "simonw",
-      "author_name": "Simon Willison",
-      "post_text": "The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder\n\nWe can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge",
-      "posted_at": "2026-09-25T01:02:12Z",
-      "engagement": {
-        "likes": 3835,
-        "reposts": 317,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Simon Willison reveals coding agents make software engineering harder than ever",
-      "tags": [
-        "builder",
-        "open-source"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "hot",
-      "score": 33.05
+      "score": 33.98
     },
     {
       "id": "2103566736356458911",
@@ -935,67 +853,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "hot",
-      "score": 28.67
-    },
-    {
-      "id": "2103379937038364973",
-      "url": "https://x.com/bindureddy/status/2103379937038364973",
-      "author_handle": "bindureddy",
-      "author_name": "Bindu Reddy",
-      "post_text": "Gemini 4.0 leaks are unreal\n\n- super intelligence confirmed\n- Bernie will have a massive fit\n- auto-learning \n- infinite persistent memory \n- predicts the future \n\nDario will 100% want to ban it 🤣",
-      "posted_at": "2026-09-25T07:03:50Z",
-      "engagement": {
-        "likes": 1126,
-        "reposts": 64,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": true,
-      "list_items": [
-        "super intelligence confirmed",
-        "Bernie will have a massive fit",
-        "auto-learning",
-        "infinite persistent memory",
-        "predicts the future"
-      ],
-      "media_urls": [],
-      "sensational_headline": "Bindu Reddy reveals shocking Gemini 4.0 leaks everyone should see!",
-      "tags": [
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 25.56
-    },
-    {
-      "id": "2103338592672362566",
-      "url": "https://x.com/fchollet/status/2103338592672362566",
-      "author_handle": "fchollet",
-      "author_name": "François Chollet",
-      "post_text": "I think the \"difficulty\" of software engineering is essentially constant no matter what abstraction level you move to, because human cognition adapts to new tools until it can fully utilize itself.\n\nTools are only affordances, not a magic wand that makes work disappear.\n\nGreat software engineering was immensely challenging before. It is still immensely challenging now, despite very different workflows.",
-      "posted_at": "2026-09-25T04:19:33Z",
-      "engagement": {
-        "likes": 1484,
-        "reposts": 151,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Chollet argues the challenge of software engineering remains constant despite tools",
-      "tags": [
-        "research"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 25.49
+      "score": 28.49
     },
     {
       "id": "2103624838716010948",
@@ -1022,7 +880,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 20.63
+      "score": 20.46
     },
     {
       "id": "2103457423335862476",
@@ -1049,35 +907,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 19.8
-    },
-    {
-      "id": "2103357445229990009",
-      "url": "https://x.com/JeffDean/status/2103357445229990009",
-      "author_handle": "JeffDean",
-      "author_name": "Jeff Dean",
-      "post_text": "This was recorded a few months ago when I was still at Google and it was a really fun conversation!",
-      "posted_at": "2026-09-25T05:34:28Z",
-      "engagement": {
-        "likes": 690,
-        "reposts": 34,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Jeff Dean shares insights from a fun conversation recorded at Google",
-      "tags": [
-        "research",
-        "lab-leader"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 18.53
+      "score": 19.64
     },
     {
       "id": "2103596391021113637",
@@ -1104,7 +934,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 18.3
+      "score": 18.13
     },
     {
       "id": "2103581038828237268",
@@ -1131,7 +961,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 17.7
+      "score": 17.54
     },
     {
       "id": "2103517792943456620",
@@ -1159,7 +989,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 17.45
+      "score": 17.29
     },
     {
       "id": "2103561415793770558",
@@ -1187,7 +1017,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 16.96
+      "score": 16.8
     },
     {
       "id": "2103620752910217427",
@@ -1215,7 +1045,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 15.48
+      "score": 15.32
     },
     {
       "id": "2103526115021041947",
@@ -1242,7 +1072,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.49
+      "score": 14.34
     },
     {
       "id": "2103622734731530277",
@@ -1269,7 +1099,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.27
+      "score": 14.12
     },
     {
       "id": "2103474875054915783",
@@ -1296,7 +1126,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 14.05
+      "score": 13.9
     },
     {
       "id": "2103548700853198940",
@@ -1324,7 +1154,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 13.24
+      "score": 13.1
     },
     {
       "id": "2103641022865510582",
@@ -1351,7 +1181,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 12.77
+      "score": 12.62
     },
     {
       "id": "2103485857147617393",
@@ -1378,34 +1208,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.87
-    },
-    {
-      "id": "2103325773323018520",
-      "url": "https://x.com/emollick/status/2103325773323018520",
-      "author_handle": "emollick",
-      "author_name": "Ethan Mollick",
-      "post_text": "\"Hey Opus, I want you to make a Zine by Claude, expressing something fundamental about Claudishness or your perspective. Think the original 2600,  Principia Discordia, punk zines, etc....\"\n\nNot bad. I appreciate it mocking my prompt &amp; itself. Full thing: https://stateless-zine.netlify.app/",
-      "posted_at": "2026-09-25T03:28:36Z",
-      "engagement": {
-        "likes": 220,
-        "reposts": 15,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Ethan Mollick's humorous approach to AI Zines sparks creativity",
-      "tags": [
-        "education"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 10.78
+      "score": 10.73
     },
     {
       "id": "2103593301240602645",
@@ -1432,7 +1235,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 10.12
+      "score": 9.99
     },
     {
       "id": "2103578627359268987",
@@ -1460,7 +1263,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 9.63
+      "score": 9.5
     },
     {
       "id": "2103569043836027339",
@@ -1488,7 +1291,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.56
+      "score": 8.44
     },
     {
       "id": "2103641180923978031",
@@ -1516,63 +1319,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 8.02
-    },
-    {
-      "id": "2103361254433993165",
-      "url": "https://x.com/swyx/status/2103361254433993165",
-      "author_handle": "swyx",
-      "author_name": "swyx",
-      "post_text": "In Jan this year I called my content strategy shot: \"Scaling without Slop\".\n\nIt's finally starting to work. It took us 3 years to reach our first 100k on youtube. It only took 1.2 months for the next 100k. Similar other metrics on AEO/SEO/subscriber traction and have a lot of New Media ideas that I'm excited to pursue.\n\nofficially giving notice of the next phase of Latent Space, AINews, and what the rest of swyx inc has been cooking below",
-      "posted_at": "2026-09-25T05:49:36Z",
-      "engagement": {
-        "likes": 145,
-        "reposts": 5,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Swyx shares insights on his successful content strategy evolution",
-      "tags": [
-        "builder",
-        "education"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 8.0
-    },
-    {
-      "id": "2103304044668162541",
-      "url": "https://x.com/ClementDelangue/status/2103304044668162541",
-      "author_handle": "ClementDelangue",
-      "author_name": "clem 🤗",
-      "post_text": "I like this article! \n\nThe problem is not for some people to care and work on catastrophic risks (we actually need much more research into it), it’s when company leaders and policymakers use fears of them to distract and hide the current challenges and solutions!",
-      "posted_at": "2026-09-25T02:02:16Z",
-      "engagement": {
-        "likes": 123,
-        "reposts": 11,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "clem critiques leaders misusing fears of catastrophic risks",
-      "tags": [
-        "open-source",
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 7.72
+      "score": 7.91
     },
     {
       "id": "2103608911442120979",
@@ -1599,7 +1346,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 6.97
+      "score": 6.86
     },
     {
       "id": "2103561974613446862",
@@ -1627,34 +1374,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 6.67
-    },
-    {
-      "id": "2103281862529458340",
-      "url": "https://x.com/paulg/status/2103281862529458340",
-      "author_handle": "paulg",
-      "author_name": "Paul Graham",
-      "post_text": "Very, very bad deal.",
-      "posted_at": "2026-09-25T00:34:07Z",
-      "engagement": {
-        "likes": 101,
-        "reposts": 0,
-        "replies": 0,
-        "views": 0,
-        "bookmarks": 0
-      },
-      "is_listicle": false,
-      "list_items": [],
-      "media_urls": [],
-      "sensational_headline": "Paul Graham calls out a very bad deal that's stirring up controversy",
-      "tags": [
-        "industry"
-      ],
-      "is_reply": false,
-      "first_seen_at": "2026-09-26T03:58:14Z",
-      "last_scraped_at": "2026-09-26T03:58:14Z",
-      "engagement_tier": "normal",
-      "score": 5.84
+      "score": 6.57
     },
     {
       "id": "2103582338986955063",
@@ -1681,7 +1401,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 5.14
+      "score": 5.05
     },
     {
       "id": "2103551357823369653",
@@ -1713,7 +1433,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 5.07
+      "score": 4.99
     },
     {
       "id": "2103660061260411266",
@@ -1740,7 +1460,7 @@
       "first_seen_at": "2026-09-26T03:58:14Z",
       "last_scraped_at": "2026-09-26T03:58:14Z",
       "engagement_tier": "normal",
-      "score": 4.74
+      "score": 4.66
     },
     {
       "id": "2103586769056784419",
@@ -1767,7 +1487,7 @@
       "first_seen_at": "2026-09-25T23:19:38Z",
       "last_scraped_at": "2026-09-25T23:19:38Z",
       "engagement_tier": "normal",
-      "score": 3.01
+      "score": 2.95
     }
   ]
 }
