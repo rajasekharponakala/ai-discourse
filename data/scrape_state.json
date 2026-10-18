@@ -66,6 +66,29 @@
   },
   "runs": [
     {
+      "at": "2026-10-18T04:39:38Z",
+      "accounts": [],
+      "ok_accounts": 0,
+      "fresh_posts": 0,
+      "published_posts": 0,
+      "out_of_credits": false,
+      "credits_spent": 0.0,
+      "budget": {
+        "mode": "budget",
+        "remaining_credits": -1000.0,
+        "plan_credits": 1000.0,
+        "billing_period_end": "2026-10-25T19:05:47Z",
+        "runs_left": 92,
+        "reserve": 100.0,
+        "allowance": 0.0,
+        "bank": 0.0,
+        "run_budget": 0.0,
+        "credits_per_scrape": 10.0
+      },
+      "error_count": 0,
+      "errors": []
+    },
+    {
       "at": "2026-10-17T22:22:57Z",
       "accounts": [],
       "ok_accounts": 0,
@@ -493,29 +516,6 @@
         "plan_credits": 1000.0,
         "billing_period_end": "2026-10-25T19:05:47Z",
         "runs_left": 138,
-        "reserve": 100.0,
-        "allowance": 0.0,
-        "bank": 0.0,
-        "run_budget": 0.0,
-        "credits_per_scrape": 10.0
-      },
-      "error_count": 0,
-      "errors": []
-    },
-    {
-      "at": "2026-10-14T01:15:27Z",
-      "accounts": [],
-      "ok_accounts": 0,
-      "fresh_posts": 0,
-      "published_posts": 0,
-      "out_of_credits": false,
-      "credits_spent": 0.0,
-      "budget": {
-        "mode": "budget",
-        "remaining_credits": -1000.0,
-        "plan_credits": 1000.0,
-        "billing_period_end": "2026-10-25T19:05:47Z",
-        "runs_left": 141,
         "reserve": 100.0,
         "allowance": 0.0,
         "bank": 0.0,
