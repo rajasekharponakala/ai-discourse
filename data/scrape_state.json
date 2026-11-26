@@ -66,6 +66,29 @@
   },
   "runs": [
     {
+      "at": "2026-11-26T10:58:02Z",
+      "accounts": [],
+      "ok_accounts": 0,
+      "fresh_posts": 0,
+      "published_posts": 0,
+      "out_of_credits": false,
+      "credits_spent": 0.0,
+      "budget": {
+        "mode": "budget",
+        "remaining_credits": 1000.0,
+        "plan_credits": 1000.0,
+        "billing_period_end": "2026-12-25T19:05:47Z",
+        "runs_left": 353,
+        "reserve": 100.0,
+        "allowance": 2.55,
+        "bank": 5.06,
+        "run_budget": 5.06,
+        "credits_per_scrape": 10.0
+      },
+      "error_count": 0,
+      "errors": []
+    },
+    {
       "at": "2026-11-26T00:25:39Z",
       "accounts": [],
       "ok_accounts": 0,
@@ -505,31 +528,8 @@
         "https://x.com/satyanadella: Firecrawl credits exhausted: Payment Required: Failed to scrape. Insufficient credits to perform this request: it can use up to 1 credits and your team has 0 left, with plan credits resetting at 2026-11-25T19:05:47.565Z. For more",
         "https://x.com/johnschulman2: Firecrawl credits exhausted: Payment Required: Failed to scrape. Insufficient credits to perform this request: it can use up to 1 credits and your team has 0 left, with plan credits resetting at 2026-11-25T19:05:47.565Z. For more"
       ]
-    },
-    {
-      "at": "2026-11-19T00:26:15Z",
-      "accounts": [],
-      "ok_accounts": 0,
-      "fresh_posts": 0,
-      "published_posts": 0,
-      "out_of_credits": false,
-      "credits_spent": 0.0,
-      "budget": {
-        "mode": "budget",
-        "remaining_credits": 0.0,
-        "plan_credits": 1000.0,
-        "billing_period_end": "2026-11-25T19:05:47Z",
-        "runs_left": 82,
-        "reserve": 100.0,
-        "allowance": 0.0,
-        "bank": 0.0,
-        "run_budget": 0.0,
-        "credits_per_scrape": 10.0
-      },
-      "error_count": 0,
-      "errors": []
     }
   ],
   "avg_credits_per_scrape": 10.0,
-  "credit_bank": 2.514
+  "credit_bank": 5.064
 }
