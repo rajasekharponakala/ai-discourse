@@ -62,9 +62,35 @@
     "oriolvinyalsml": "2026-09-26T03:58:14Z",
     "noamshazeer": "2026-09-26T03:58:14Z",
     "joshwoodward": "2026-09-26T03:58:14Z",
-    "miramurati": "2026-09-26T03:58:14Z"
+    "miramurati": "2026-09-26T03:58:14Z",
+    "mustafasuleyman": "2026-11-27T04:17:30Z"
   },
   "runs": [
+    {
+      "at": "2026-11-27T04:17:30Z",
+      "accounts": [
+        "mustafasuleyman"
+      ],
+      "ok_accounts": 1,
+      "fresh_posts": 1,
+      "published_posts": 0,
+      "out_of_credits": false,
+      "credits_spent": 9.0,
+      "budget": {
+        "mode": "budget",
+        "remaining_credits": 1000.0,
+        "plan_credits": 1000.0,
+        "billing_period_end": "2026-12-25T19:05:47Z",
+        "runs_left": 344,
+        "reserve": 100.0,
+        "allowance": 2.62,
+        "bank": 10.27,
+        "run_budget": 10.27,
+        "credits_per_scrape": 10.0
+      },
+      "error_count": 0,
+      "errors": []
+    },
     {
       "at": "2026-11-26T21:38:21Z",
       "accounts": [],
@@ -501,31 +527,8 @@
       },
       "error_count": 0,
       "errors": []
-    },
-    {
-      "at": "2026-11-19T20:41:55Z",
-      "accounts": [],
-      "ok_accounts": 0,
-      "fresh_posts": 0,
-      "published_posts": 0,
-      "out_of_credits": false,
-      "credits_spent": 0.0,
-      "budget": {
-        "mode": "budget",
-        "remaining_credits": 0.0,
-        "plan_credits": 1000.0,
-        "billing_period_end": "2026-11-25T19:05:47Z",
-        "runs_left": 72,
-        "reserve": 100.0,
-        "allowance": 0.0,
-        "bank": 0.0,
-        "run_budget": 0.0,
-        "credits_per_scrape": 10.0
-      },
-      "error_count": 0,
-      "errors": []
     }
   ],
-  "avg_credits_per_scrape": 10.0,
-  "credit_bank": 7.658
+  "avg_credits_per_scrape": 9.7,
+  "credit_bank": 1.274
 }
