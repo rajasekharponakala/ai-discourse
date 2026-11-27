@@ -67,6 +67,29 @@
   },
   "runs": [
     {
+      "at": "2026-11-27T16:43:59Z",
+      "accounts": [],
+      "ok_accounts": 0,
+      "fresh_posts": 0,
+      "published_posts": 0,
+      "out_of_credits": false,
+      "credits_spent": 0.0,
+      "budget": {
+        "mode": "budget",
+        "remaining_credits": 991.0,
+        "plan_credits": 1000.0,
+        "billing_period_end": "2026-12-25T19:05:47Z",
+        "runs_left": 338,
+        "reserve": 100.0,
+        "allowance": 2.64,
+        "bank": 3.91,
+        "run_budget": 3.91,
+        "credits_per_scrape": 9.7
+      },
+      "error_count": 0,
+      "errors": []
+    },
+    {
       "at": "2026-11-27T04:17:30Z",
       "accounts": [
         "mustafasuleyman"
@@ -504,31 +527,8 @@
       },
       "error_count": 0,
       "errors": []
-    },
-    {
-      "at": "2026-11-20T03:23:07Z",
-      "accounts": [],
-      "ok_accounts": 0,
-      "fresh_posts": 0,
-      "published_posts": 0,
-      "out_of_credits": false,
-      "credits_spent": 0.0,
-      "budget": {
-        "mode": "budget",
-        "remaining_credits": 0.0,
-        "plan_credits": 1000.0,
-        "billing_period_end": "2026-11-25T19:05:47Z",
-        "runs_left": 68,
-        "reserve": 100.0,
-        "allowance": 0.0,
-        "bank": 0.0,
-        "run_budget": 0.0,
-        "credits_per_scrape": 10.0
-      },
-      "error_count": 0,
-      "errors": []
     }
   ],
   "avg_credits_per_scrape": 9.7,
-  "credit_bank": 1.274
+  "credit_bank": 3.91
 }
